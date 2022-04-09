@@ -1,0 +1,405 @@
+:root {
+    --bg-main-color: #23349B;
+    --bg-main-dark-color: hsla(232, 63%, 18%, 1);
+    --bg-title-color: #000;
+    --bg-subtitle-color: #A0A7AC;
+    --bg-text-color: #697477;
+    --bg-body-color: #fff;
+}
+
+
+.bg-cover {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.bg-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.bg-black {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-black-rgb),var(--bs-bg-opacity)) !important;
+}
+.min-vh-75 {
+  min-height: 75vh;
+}
+.opacity-50 {
+  opacity: .5 !important;
+}
+.z-10 {
+  z-index: 10 !important;
+}
+@media (min-width: 992px){
+  .mt-lg-n19 {
+      margin-top: -18rem !important;
+  }
+}
+@media (min-width: 1200px){
+  .mt-xl-n22 {
+      margin-top: -22rem !important;
+  }
+}
+
+/*--------------------------------------------------------------
+Nav Section 
+--------------------------------------------------------------*/
+.b-light-top {
+    box-shadow: 0 20px 24px 0 rgb(72 78 99 / 20%);
+}
+
+.nav-link {
+    color: var(--bg-text-color) !important;
+}
+
+.fixed-top {
+    top: -10px !important;
+}
+
+.margin-nav {
+    margin-left: 120px !important;
+}
+
+    /*--------------------------------------------------------------
+Buttons 
+--------------------------------------------------------------*/
+    .btn-primary {
+    background-color: var(--bg-main-color) !important;
+    border-color: var(--bg-main-color) !important;
+}
+
+    .btn-primary:hover {
+        background-color: var(--bg-main-dark-color) !important;
+        border-color: var(--bg-main-dark-color) !important;
+    }
+    
+.btn-outline-primary {
+    color: var(--bg-main-color) !important; 
+    border-color: var(--bg-main-color) !important;
+}
+
+    .btn-outline-primary:hover {
+        color: var(--bg-body-color) !important;
+        background-color: var(--bg-main-dark-color) !important;
+        border-color: var(--bg-main-dark-color) !important;
+    }
+
+/*--------------------------------------------------------------
+Hero Section
+--------------------------------------------------------------*/
+#hero {
+    width: 100%;
+    background: url("../img/doctor.jpg") top center;
+    background-size: cover;
+    margin-bottom: -200px;
+}
+#hero .container {
+  position: relative;
+}
+#hero h1 {
+  margin: 0;
+  font-weight: 700;
+  line-height: 56px;
+  text-transform: uppercase;
+}
+
+#hero h3 {
+  margin: 10px 0 0 0;
+}
+
+
+
+@media (max-width: 768px) {
+    #hero {
+        height: 50vh;
+    }
+
+    #hero .container {
+        text-align: center;
+        background: rgba(255, 255, 255, 0.9);
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-bottom: -80px;
+        border-top: 4px solid var(--bg-main-color);
+    }
+}
+
+@media (max-width: 992px) {
+  #hero {
+    margin-bottom: 0;
+  }
+  #hero .container {
+    padding-bottom: 63px;
+  }
+  #hero h1 {
+    line-height: 36px;
+  }
+  #hero h2 {
+    line-height: 24px;
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+    #hero {
+        background-attachment: fixed;
+        height: 50vh;
+    }
+
+        #hero .container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding-top: 30px;
+            padding-bottom: 30px;
+            margin-bottom: -24px;
+            border-top: 4px solid var(--bg-main-color);
+        }
+
+        #hero h1, #hero h3 {
+            margin-left: 30px;
+        }
+}
+
+
+@media (min-width: 993px) and (max-width: 1060px) {
+    #hero {
+        background-attachment: fixed;
+        height: 90vh;
+    }
+
+        #hero .container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding-top: 30px;
+            padding-bottom: 30px;
+            margin-bottom: -24px;
+            border-top: 4px solid var(--bg-main-color);
+        }
+
+        #hero h1, #hero h3 {
+            margin-left: 30px;
+        }
+}
+
+@media (min-width: 1061px) and (max-width: 1199px) {
+    #hero {
+        background-attachment: fixed;
+        height: 50vh;
+    }
+
+        #hero .container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding-top: 30px;
+            padding-bottom: 30px;
+            margin-bottom: -24px;
+            border-top: 4px solid var(--bg-main-color);
+        }
+
+        #hero h1, #hero h3 {
+            margin-left: 30px;
+        }
+}
+
+@media (min-width: 1200px) {
+    #hero {
+        background-attachment: fixed;
+        height: 125vh;
+    }
+
+        #hero .container {
+            margin-left: 30px;
+        }
+
+        #hero h1, #hero h3 {
+            color: var(--bg-body-color);
+        }
+}
+
+
+
+/*--------------------------------------------------------------
+Nosotros Section
+--------------------------------------------------------------*/
+
+.section{
+  padding: 60px 0;
+  overflow: hidden;
+}
+
+.why-us .content {
+  padding: 30px;
+  background: var(--bg-main-color);
+  border-radius: 4px;
+  color: var(--bg-body-color);
+}
+
+.why-us .content h3 {
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.why-us .icon-boxes .icon-box {
+  text-align: center;
+  border-radius: 10px;
+  background:var(--bg-body-color);
+  box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+  padding: 40px 30px;
+  width: 100%;
+}
+
+.why-us .icon-boxes .icon-box svg {
+  margin-bottom: 30px;    
+  color: var(--bg-main-color);
+}
+
+.why-us .icon-boxes .icon-box h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 30px 0;
+}
+
+.why-us .icon-boxes .icon-box p {
+    font-size: 15px;
+    color: var(--bg-text-color);
+}
+/*--------------------------------------------------------------
+Servicios Section
+--------------------------------------------------------------*/
+.section-title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.services .icon-box {
+  text-align: center;
+  border: 1px solid #d5e1ed;
+  padding: 40px 20px;
+  transition: all ease-in-out 0.3s;
+}
+
+    .services .icon-box:hover {
+      background: var(--bg-main-color);
+      border-color: var(--bg-main-color);
+    }
+
+.services .icon-box .icon {
+  margin: 0 auto;
+  width: 64px;
+  height: 64px;
+  background: var(--bg-main-color);
+  border-radius: 5px;
+  transition: all 0.3s ease-out 0s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  transform-style: preserve-3d;
+}
+
+    .services .icon-box:hover .icon {
+      background: #fff;
+    }
+
+.services .icon-box .icon::before {
+  position: absolute;
+  content: "";
+  left: -8px;
+  top: -8px;
+  height: 100%;
+  width: 100%;
+  background: #badaf7;
+  border-radius: 5px;
+  transition: all 0.3s ease-out 0s;
+  transform: translateZ(-1px);
+}
+
+    .services .icon-box:hover .icon::before {
+      background: #3291e6;
+    }
+
+.services .icon-box h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+    .services .icon-box:hover h4 a, .services .icon-box:hover p {
+      color: #fff;
+    }
+
+.services .icon-box h4 a {
+  color: var(--bg-title-color);
+  text-decoration: none !important;
+}
+.services .icon-box p {
+  color: var(--bg-text-color);
+}
+
+.pic img {
+    width: 200px;
+    border-radius: 10% !important;
+    border: 8px solid rgba(35, 52, 155, 0.15);
+    /*border: 6px solid rgba(255, 255, 255, 0.15);*/
+    margin: 0 auto;
+}
+
+
+.services .icon-box:hover .pic img {
+    border: 6px solid rgba(255, 255, 255, 0.15);
+}
+
+/*--------------------------------------------------------------
+Footer Section
+--------------------------------------------------------------*/
+footer .social-links a {
+  display: inline-block;
+  background: var(--bg-main-color);
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+footer .social-links a:hover {
+  background: var(--bg-main-color);
+  color: var(--bg-body-color);
+  text-decoration: none;
+}
+
+footer .footer-top {
+  padding: 60px 0 30px 0;
+}
+
+.footer-top .footer-contact {
+  margin-bottom: 30px;
+}
+    footer .footer-top .footer-contact p {     
+      line-height: 24px;
+      margin-bottom: 0;
+      color: var(--bg-text-color);
+    }
+
+footer .footer-newsletter h4 {
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 12px;
+}
+
+footer .footer-newsletter p, .copyright {
+    color: var(--bg-text-color);
+}
+
+footer .footer-newsletter form {
+  margin-top: 30px;
+  padding: 6px 10px;
+  position: relative;
+  border-radius: 50px;
+  text-align: left;
+}
