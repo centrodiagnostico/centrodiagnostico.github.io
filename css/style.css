@@ -1,3 +1,11 @@
+.disabled {
+    color: silver !important;
+}
+
+body, section {
+    background-color: #f8f9fa !important;
+}
+
 :root {
     --bg-main-color: #23349B;
     --bg-main-dark-color: hsla(232, 63%, 18%, 1);

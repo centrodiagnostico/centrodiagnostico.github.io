@@ -8,25 +8,25 @@
     <link rel="shortcut icon" href="assets/Favicon.png">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-
+    <link href="resources/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script language="JavaScript" src="xover/xo.js"></script>
     <title>Estudios de laboratorio | Centro Diagnóstico</title>
 </head>
 
 <body>
     <!-- Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    <script src="resources/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
             crossorigin="anonymous"></script>
 
     <!-- header -->
     <header class="fixed-top">
-        <div class="navbar-top d-lg-block small bg-light">
+        <!--<div class="navbar-top d-lg-block small bg-light">
             <div class="container">
-                <div class="d-md-flex justify-content-between align-items-center my-2 margin-nav">
+                <div class="d-md-flex justify-content-between align-items-center my-2 margin-nav">-->
                     <!-- Top bar left -->
-                    <ul class="nav">
+                    <!--<ul class="nav">
                         <li class="nav-item">
                             <a class="nav-link ps-0" href="about-us.html">Pacientes</a>
                         </li>
@@ -36,9 +36,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="signin.html">Empresas</a>
                         </li>
-                    </ul>
+                    </ul>-->
                     <!-- Top bar right -->
-                    <div class="d-flex align-items-center d-lg-block d-none">
+                    <!--<div class="d-flex align-items-center d-lg-block d-none">
                         <ul class="nav">
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -54,7 +54,7 @@
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Estudios
+                                    Mi cuenta
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li>
@@ -67,14 +67,15 @@
                             </li>
                         </ul>
                     </div>
-                </div>
-                <div class="border-bottom border-2 border-light opacity-1"></div>
+                </div>-->
+                <!-- Divider -->
+                <!--<div class="border-bottom border-2 border-light opacity-1"></div>
             </div>
-        </div>
+        </div>-->
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light b-light-top">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="/">
                     <img src="assets/logo.PNG" class="img-fluid" alt="logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -97,36 +98,11 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Sucursales</a>
                             </li>
-                            <li class="nav-item dropdown">
+                            <li id="estudios_dropdown" class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Estudios
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li>
-                                        <a class="dropdown-item" href="#">Laboratorio</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="#">Check up</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="#">Estudios de gabinete</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="#">Frecuentes</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="#">Para él</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="#">Para ella</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="#">Servicio a domicilio</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="#">Otros estudios</a>
-                                    </li>
-                                    <li><hr class="dropdown-divider"></li>
+                                <ul id="estudios_dropdown" class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li>
                                         <a class="dropdown-item" href="estudios.html">Ver todos los estudios</a>
                                     </li>
@@ -137,8 +113,8 @@
                             </li>
                         </ul>
                         <div class="col-md-3 text-end ms-4">
-                            <form class="d-flex">
-                                <input class="form-control me-2" type="search" placeholder="Buscar..." aria-label="Buscar...">
+                            <form class="d-flex" id="estudios_buscador">
+                                <input class="form-control me-2" type="search" placeholder="Buscar estudio..." aria-label="Buscar estudio..." oninput="xo.stores['#estudios'].documentElement.set('state:search',this.value)">
                                 <button class="btn btn-primary d-flex" type="submit">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search mt-1" viewBox="0 0 16 16">
                                         <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
@@ -161,122 +137,20 @@
         <section id="features" class="laboratory">
             <div class="container aos-init aos-animate" data-aos="fade-up">
                 <div class="row">
-                    <div class="col-lg-6" data-aos="fade-right">
-                        <div class="mt-5">
+                    <div class="col" data-aos="fade-right">
+                        <div class="mt-1">
                             <h4>Estudios de laboratorio</h4>
                             <p>El diagnóstico temprano aumenta la posibilidad de que el paciente viva con el virus de forma saludable por muchos años.</p>
                         </div>
                     </div>
-                    <div class="image col-lg-6" style="background-image: url(img/laboratorio.jpg);" data-aos="zoom-in">
+                    <!--<div class="image col-lg-6" style="background-image: url(img/laboratorio.jpg);" data-aos="zoom-in">
 
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </section>
         <!-- section  product-item-details -->
         <section id="featured-services" class="product-item section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6 col-md-4 mb-5">
-                        <div class="card card-box">
-                            <div class="card-body">
-                                <p class="card-text">
-                                    Laboratorio
-                                </p>
-                                <h2 class="card-title">GLYCOMARK</h2>
-                                <div class="price">
-                                    <span class="value-price fw-bold">$ 999.00</span>
-                                </div>
-                                <div class="card-more">
-                                    <a href="estudios_product_item.html" class="btn btn-primary w-75">Ver estudio</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="card card-box">
-                            <div class="card-body">
-                                <p class="card-text">
-                                    Laboratorio
-                                </p>
-                                <h2 class="card-title">QUANTOSE IR</h2>
-                                <div class="price">
-                                    <span class="value-price fw-bold">$ 1,398.99</span>
-                                </div>
-                                <div class="card-more">
-                                    <a href="estudios_product_item.html" class="btn btn-primary w-75">Ver estudio</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="card card-box">
-                            <div class="card-body">
-                                <p class="card-text">
-                                    Laboratorio
-                                </p>
-                                <h2 class="card-title">MATERGEN </h2>
-                                <div class="price">
-                                    <span class="value-price fw-bold">$ 2,998.99</span>
-                                </div>
-                                <div class="card-more">
-                                    <a href="estudios_product_item.html" class="btn btn-primary w-75">Ver estudio</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-4 mb-5">
-                        <div class="card card-box">
-                            <div class="card-body">
-                                <p class="card-text">
-                                    Laboratorio
-                                </p>
-                                <h2 class="card-title">GLYCOMARK</h2>
-                                <div class="price">
-                                    <span class="value-price fw-bold">$ 999.00</span>
-                                </div>
-                                <div class="card-more">
-                                    <a href="estudios_product_item.html" class="btn btn-primary w-75">Ver estudio</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="card card-box">
-                            <div class="card-body">
-                                <p class="card-text">
-                                    Laboratorio
-                                </p>
-                                <h2 class="card-title">QUANTOSE IR</h2>
-                                <div class="price">
-                                    <span class="value-price fw-bold">$ 1,398.99</span>
-                                </div>
-                                <div class="card-more">
-                                    <a href="estudios_product_item.html" class="btn btn-primary w-75">Ver estudio</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <div class="card card-box">
-                            <div class="card-body">
-                                <p class="card-text">
-                                    Laboratorio
-                                </p>
-                                <h2 class="card-title">MATERGEN </h2>
-                                <div class="price">
-                                    <span class="value-price fw-bold">$ 2,998.99</span>
-                                </div>
-                                <div class="card-more">
-                                    <a href="estudios_product_item.html" class="btn btn-primary w-75">Ver estudio</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
         </section>
     </main>
 

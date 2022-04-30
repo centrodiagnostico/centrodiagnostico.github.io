@@ -1,0 +1,44 @@
+{
+  "server": {
+    "request": "server/request.asp"
+  },
+  "sources": {
+    "#": "#estudios",
+    "#estudios": "estudios.xml",
+    "#mostrar_estudio": "#estudios"
+  },
+  "settings": {
+    "#shell": {
+      "hash": ""
+    },
+    "#estudios": {
+      "hash": "",
+      "stylesheets": [
+        {
+          "href": "estudios.xslt",
+          "target": "#features",
+          "action": "replace"
+        },
+        {
+          "href": "estudios_buscador.xslt",
+          "target": "#estudios_buscador",
+          "action": "replace"
+        },
+        {
+          "href": "estudios_dropdown.xslt",
+          "target": "#estudios_dropdown",
+          "action": "replace"
+        }
+      ]
+    },
+    "#mostrar_estudio": {
+      "hash": "",
+      "stylesheets": [
+        {
+          "href": "mostrar_estudio.xslt",
+          "target": "main"
+        }
+      ]
+    }
+  }
+}

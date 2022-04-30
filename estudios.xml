@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<estudios>
+	<item id="6005" n="PENESCOPÍA" p="0.250020833333333" c="Para él" o="480"/>
+	<item id="8095" n="PRENUPCIALES RX DE TÓRAX POSTERO-ANTERIOR" p="0.250019646365422" c="Estudios de gabinete" o="509"/>
+	<item id="16992" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 2 HORAS (MUESTRAS CADA 30 MIN)" p="0.250019646365422" c="Laboratorio" o="509"/>
+	<item id="22017" n="CURVA DE INSULINA (6 DETERMINACIONES)" p="0.250016" c="Laboratorio" o="625"/>
+	<item id="19179" n="Ac ANTINUCLEARES EN SUERO" p="0.250008298755187" c="Laboratorio" o="1205"/>
+	<item id="15010" n="CULTIVO DE EXUDADO CERVICOVAGINAL" p="0.250004725987259" c="Laboratorio" o="528.99"/>
+	<item id="15044" n="UROCULTIVO" p="0.250004480367032" c="Laboratorio" o="557.99"/>
+	<item id="9111" n="ULTRASONIDO DOPPLER VASCULAR (ARTERIAS) 1 EXTREM" p="0.250004446420631" c="Estudios de gabinete" o="2249"/>
+	<item id="9011" n="ULTRASONIDO RENAL" p="0.250002948147973" c="Estudios de gabinete" o="847.99"/>
+	<item id="9028" n="ULTRASONIDO ABDOMEN SUPERIOR" p="0.250002948147973" c="Estudios de gabinete" o="847.99"/>
+	<item id="25054" n="DETECCIÓN DE C. TRACHOMATIS Y N. GONORRHOEAE" p="0.25000272479564" c="Laboratorio" o="3670"/>
+	<item id="13124" n="RESONANCIA MAGNÉTICA DE MAMA" p="0.250002275312856" c="Estudios de gabinete" o="4395"/>
+	<item id="8099" n="RX DE PELVIS AP EN POSICIÓN NEUTRA Y OBLICUA DER O IZQ" p="0.250001787003481" c="Estudios de gabinete" o="1398.99"/>
+	<item id="8039" n="RX DE COLUMNA LUMBOSACRA AP, LATERAL, OBLICUAS Y DINÁMICAS" p="0.250001650175909" c="Estudios de gabinete" o="1514.99"/>
+	<item id="9018" n="ULTRASONIDO TRANSRECTAL" p="0.250001385049225" c="Estudios de gabinete" o="1804.99"/>
+	<item id="8327" n="TRANSITO DE COLON C/MARCADORES" p="0.250001087907258" c="Estudios de gabinete" o="2297.99"/>
+	<item id="100719" n="PERFIL HORMONAL Q45 3" p="0.250000976947936" c="Frecuentes" o="2558.99"/>
+	<item id="4006" n="MONITOREO HOLTER" p="0.250000976947936" c="Cardiología" o="2558.99"/>
+	<item id="10022" n="TOMOGRAFÍA A.C. DE MEDIASTINO" p="0.250000768051515" c="Estudios de gabinete" o="3254.99"/>
+	<item id="4002" n="ECOCARDIOGRAMA" p="0.250000768051515" c="Promociones" o="3254.99"/>
+	<item id="100684" n="PERFIL HORMONAL Q45 3" p="0.25" c="Frecuentes" o="1739"/>
+	<item id="4050" n="ECO ESTRÉS FARMACOLOGICO CON DOBUTAMINA" p="0.25" c="Cardiología" o="5795"/>
+	<item id="13015" n="MEDIO DE CONTRASTE PARA RESONANCIA MAGNETICA" p="0.25" c="Laboratorio" o="2570"/>
+	<item id="101391" n="CHECK-UP FEMENINO Q45 MAYOR DE 40" p="0.25" c="Check up" o="2229"/>
+	<item id="100163" n="PERFIL PREVENCIÓN CÁNCER 1" p="0.25" c="Perfiles" o="709"/>
+	<item id="100718" n="CHECK UP FEMENINO Q45" p="0.25" c="Check up" o="1889"/>
+	<item id="101390" n="CHECK-UP FEMENINO Q45 MENOR DE 40" p="0.25" c="Check up" o="2659"/>
+	<item id="10000360" n="PAQUETE SEGUIMIENTO COVID-19 PLUS" p="0.25" c="Perfiles" o="3319"/>
+	<item id="10000361" n="PAQUETE SEGUIMIENTO COVID-19 BASICO" p="0.25" c="Perfiles" o="2679"/>
+	<item id="10000507" n="CHECK UP POST COVID BÁSICO" p="0.25" c="Check up" o="2359"/>
+	<item id="100389" n="PERFIL PREOPERATORIO PRENATAL" p="0.25" c="Perfiles" o="879"/>
+	<item id="100683" n="CHECK UP BASICO HORMONAL Q45" p="0.25" c="Check up" o="1949"/>
+	<item id="100711" n="PERFIL PRENATAL PRIMER TRIMESTRE Q4" p="0.25" c="Perfiles" o="1579"/>
+	<item id="12072" n="PERFIL GINECOLOGICO I" p="0.25" c="Perfiles" o="879"/>
+	<item id="12172" n="PERFIL HORMONAL 1" p="0.25" c="Perfiles" o="869"/>
+	<item id="12173" n="PERFIL HORMONAL 2" p="0.25" c="Frecuentes" o="1669"/>
+	<item id="98516" n="PAQUETE CULTIVO FEMENINO COMPLETO" p="0.25" c="Perfiles" o="1429"/>
+	<item id="3030" n="CITOLOGÍA LÍQUIDA ANAL/RECTAL" p="0.25" c="Laboratorio" o="479"/>
+	<item id="4055" n="ECOCARDIOGRAMA PEDIÁTRICO" p="0.25" c="Cardiología" o="4249"/>
+	<item id="8299" n="EDAD OSEA 3 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="1091"/>
+	<item id="19603" n="CURVA DE INSULINA 4 DETERMINACIONES" p="0.25" c="Laboratorio" o="560"/>
+	<item id="19686" n="CURVA DE INSULINA 5 DETERMINACIONES" p="0.25" c="Laboratorio" o="560"/>
+	<item id="8058" n="RX PARA EDAD ÓSEA" p="0.25" c="Estudios de gabinete" o="1244"/>
+	<item id="10010" n="TOMOGRAFÍA A.C. ABDOMEN INFERIOR" p="0.25" c="Estudios de gabinete" o="3338"/>
+	<item id="10014" n="TOMOGRAFÍA A.C. DE CRÁNEO S Y C" p="0.25" c="Estudios de gabinete" o="3659"/>
+	<item id="10017" n="TOMOGRAFÍA A.C. DE COLUMNA CERVICAL" p="0.25" c="Estudios de gabinete" o="3215"/>
+	<item id="10018" n="TOMOGRAFÍA A.C. DE COLUMNA DORSAL" p="0.25" c="Estudios de gabinete" o="4959"/>
+	<item id="10021" n="TOMOGRAFÍA A.C.DE EXTREMIDADES" p="0.25" c="Estudios de gabinete" o="2845"/>
+	<item id="10023" n="TOMOGRAFÍA A.C. DE CUELLO" p="0.25" c="Estudios de gabinete" o="2695"/>
+	<item id="10024" n="TOMOGRAFÍA A.C. DE ÓRBITAS" p="0.25" c="Estudios de gabinete" o="2788"/>
+	<item id="10029" n="TOMOGRAFÍA A.C. DE TÓRAX PULMÓN" p="0.25" c="Estudios de gabinete" o="4178"/>
+	<item id="10031" n="TOMOGRAFÍA A.C. DE COLUMNA LUMBAR" p="0.25" c="Estudios de gabinete" o="4988"/>
+	<item id="10036" n="TOMOGRAFIA ORBITA SIMPLE Y CONTRASTADA" p="0.25" c="Estudios de gabinete" o="3795"/>
+	<item id="10038" n="TOMOGRAFÍA MULTICORTE DE CALCIO EN CORONARIAS" p="0.25" c="Estudios de gabinete" o="2209"/>
+	<item id="10086" n="ANGIOTOMOGRAFÍA CEREBRAL Y POLÍGONO DE WILLIS" p="0.25" c="Estudios de gabinete" o="5515"/>
+	<item id="10122" n="TOMOGRAFÍA MACIZO MAXILOFACIAL" p="0.25" c="Estudios de gabinete" o="2180"/>
+	<item id="10124" n="UROGRAFIA POR TOMOGRAFIA COMPUTADA" p="0.25" c="Estudios de gabinete" o="5680"/>
+	<item id="10186" n="TOMOGRAFÍA A.C. ABDOMEN INFERIOR SIMPLE" p="0.25" c="Estudios de gabinete" o="2320"/>
+	<item id="10187" n="TOMOGRAFÍA A.C. ABDOMEN SUPERIOR SIMPLE" p="0.25" c="Estudios de gabinete" o="2305"/>
+	<item id="10213" n="COLO TC" p="0.25" c="Estudios de gabinete" o="3839"/>
+	<item id="11014" n="MASTOGRAFIA CON IMPLANTES" p="0.25" c="Mastografía" o="670"/>
+	<item id="19161" n="CA 27-29" p="0.25" c="Laboratorio" o="949"/>
+	<item id="19417" n="AC IgG PÉPTIDO CÍCLICO CITRULINADO (CCP)" p="0.25" c="Laboratorio" o="1019"/>
+	<item id="22004" n="AC ANTI-DNA NATIVO (IFI)" p="0.25" c="Laboratorio" o="435"/>
+	<item id="22067" n="PÉPTIDO C EN SUERO" p="0.25" c="Laboratorio" o="958"/>
+	<item id="22080" n="CA 15-3 EN SUERO" p="0.25" c="Laboratorio" o="989"/>
+	<item id="22098" n="CA 19-9 EN SUERO" p="0.25" c="Laboratorio" o="1899"/>
+	<item id="22099" n="CA 125 EN SUERO" p="0.25" c="Laboratorio" o="1459"/>
+	<item id="3004" n="CITOLOGÍA DE LÍQUIDOS VARIOS" p="0.25" c="Laboratorio" o="465"/>
+	<item id="3024" n="CITOLOGÍA CERVICAL EN BASE LÍQUIDA" p="0.25" c="Laboratorio" o="458"/>
+	<item id="3029" n="CITOLOGÍA LÍQUIDOS VARIOS SERIE DE 3" p="0.25" c="Laboratorio" o="1035"/>
+	<item id="4013" n="ECOCARDIOGRAMA CON ESTIMULACION FARMACOLO" p="0.25" c="Cardiología" o="5789"/>
+	<item id="6006" n="BIOPSIA DE CÉRVIX TOMADA EN UNIDAD" p="0.25" c="Para ella" o="649"/>
+	<item id="8003" n="RX DE ABDOMEN LATERAL" p="0.25" c="Estudios de gabinete" o="710"/>
+	<item id="8005" n="RX DE ARTICULACIÓN COXOFEMORAL BILATERAL" p="0.25" c="Estudios de gabinete" o="975"/>
+	<item id="8006" n="RX DE ARTICULACIÓN COXOFEMORAL UNILATERAL" p="0.25" c="Estudios de gabinete" o="815"/>
+	<item id="8009" n="RX DE CODO BILATERAL" p="0.25" c="Estudios de gabinete" o="1105"/>
+	<item id="8011" n="RX DE AGUJEROS ÓPTICOS" p="0.25" c="Estudios de gabinete" o="668"/>
+	<item id="8012" n="RX DE ARTICULACIÓN METACARPOFALÁNGICA" p="0.25" c="Estudios de gabinete" o="721"/>
+	<item id="8014" n="RX DE ARTICULACIÓN TEMPOROMAXILAR BILATERAL" p="0.25" c="Estudios de gabinete" o="1274"/>
+	<item id="8017" n="RX DE ARCO CIGOMÁTICO 2 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="547"/>
+	<item id="8020" n="RX DE ATLAS Y AXIS" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8021" n="RX DE CALCÁNEO UNILATERAL" p="0.25" c="Estudios de gabinete" o="638"/>
+	<item id="8022" n="RX DE CALCÁNEO BILATERAL" p="0.25" c="Estudios de gabinete" o="630"/>
+	<item id="8025" n="RX DE CAVIDADES ORBITARIAS (ÓRBITAS)" p="0.25" c="Estudios de gabinete" o="623"/>
+	<item id="8026" n="RX CEFALOPELVIMETRÍA" p="0.25" c="Estudios de gabinete" o="1282"/>
+	<item id="8028" n="RX DE CLAVÍCULA UNILATERAL" p="0.25" c="Estudios de gabinete" o="649"/>
+	<item id="8032" n="RX DE COLUMNA CERVICAL AP, LATERAL, OBLICUAS Y DINÁMICAS" p="0.25" c="Estudios de gabinete" o="2469"/>
+	<item id="8038" n="RX DE COLUMNA LUMBOSACRA AP, LATERAL Y OBLICUAS" p="0.25" c="Estudios de gabinete" o="958"/>
+	<item id="8044" n="COLANGIOGRAFÍA EN SONDA T" p="0.25" c="Estudios de gabinete" o="2305"/>
+	<item id="8049" n="COLON ORAL" p="0.25" c="Estudios de gabinete" o="623"/>
+	<item id="8050" n="RX DE CRÁNEO DE HIRTZ" p="0.25" c="Estudios de gabinete" o="403"/>
+	<item id="8052" n="RX DE CÚBITO Y RADIO" p="0.25" c="Estudios de gabinete" o="920"/>
+	<item id="8053" n="RX DE CÚBITO Y RADIO BILATERAL" p="0.25" c="Estudios de gabinete" o="988"/>
+	<item id="8054" n="RX DE CUELLO ANTEROPOSTERIOR Y LATERAL" p="0.25" c="Estudios de gabinete" o="900"/>
+	<item id="8055" n="RX DE CUELLO LATERAL" p="0.25" c="Estudios de gabinete" o="670"/>
+	<item id="8057" n="DEDOS" p="0.25" c="Estudios de gabinete" o="411"/>
+	<item id="8059" n="ESOFAGOGRAMA" p="0.25" c="Estudios de gabinete" o="1290"/>
+	<item id="8060" n="RX DE ESTERNÓN LATERAL Y OBLICUA" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8063" n="RX DE FÉMUR" p="0.25" c="Estudios de gabinete" o="905"/>
+	<item id="8065" n="FISTULOGRAFÍA" p="0.25" c="Estudios de gabinete" o="1291"/>
+	<item id="8067" n="RX DE HOMBRO BILATERAL UNA PROYECCIÓN" p="0.25" c="Estudios de gabinete" o="958"/>
+	<item id="8070" n="RX DE HOMBRO DOS PROYECCIONES" p="0.25" c="Estudios de gabinete" o="905"/>
+	<item id="8071" n="RX DE HOMBRO TRANSTORÁCICO (LATERAL)" p="0.25" c="Estudios de gabinete" o="693"/>
+	<item id="8072" n="RX DE HÚMERO" p="0.25" c="Estudios de gabinete" o="649"/>
+	<item id="8073" n="RX DE HÚMERO BILATERAL" p="0.25" c="Estudios de gabinete" o="885"/>
+	<item id="8077" n="RX DE MANO BILATERAL 1 PROYECCIÓN" p="0.25" c="Estudios de gabinete" o="649"/>
+	<item id="8079" n="RX DE MASTOIDES BILATERAL 4 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="1145"/>
+	<item id="8080" n="RX DE MASTOIDES BILATERAL 6 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="1352"/>
+	<item id="8081" n="RX DE MAXILAR INFERIOR" p="0.25" c="Estudios de gabinete" o="618"/>
+	<item id="8089" n="RX DE MUÑECA" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8090" n="RX DE MUÑECA BILATERAL" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8093" n="RX DE OMÓPLATO BILATERAL" p="0.25" c="Estudios de gabinete" o="1004"/>
+	<item id="8094" n="RX DE ÓRBITAS COMPARATIVAS" p="0.25" c="Estudios de gabinete" o="743"/>
+	<item id="8097" n="RX DE PELVIS AP" p="0.25" c="Estudios de gabinete" o="649"/>
+	<item id="8098" n="RX DE PELVIS AP Y LATERAL" p="0.25" c="Estudios de gabinete" o="949"/>
+	<item id="8100" n="RX DE PERFILOGRAFÍA" p="0.25" c="Estudios de gabinete" o="685"/>
+	<item id="8102" n="RX DE PIE BILATERAL AP Y OBLICUA" p="0.25" c="Estudios de gabinete" o="1128"/>
+	<item id="8103" n="RX DE PIE BILATERAL AP Y LATERAL CON APOYO" p="0.25" c="Estudios de gabinete" o="1128"/>
+	<item id="8110" n="RX DE RODILLA BILATERAL 2 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="1505"/>
+	<item id="8111" n="RX DE RODILLA BILATERAL 1 PROYECCIÓN" p="0.25" c="Estudios de gabinete" o="630"/>
+	<item id="8113" n="RX DE RODILLA UNILATERAL TANGENCIAL A 30Â°, 60Â° Y 90Â°" p="0.25" c="Estudios de gabinete" o="427"/>
+	<item id="8114" n="RX DE RODILLA BILATERAL TANGENCIAL A 30Â°, 60Â° Y 90Â°" p="0.25" c="Estudios de gabinete" o="1039"/>
+	<item id="8115" n="RX DE RÓTULA AP Y LATERAL" p="0.25" c="Estudios de gabinete" o="885"/>
+	<item id="8116" n="RX DE RÓTULA BILATERAL AP Y LATERAL" p="0.25" c="Estudios de gabinete" o="804"/>
+	<item id="8117" n="SERIE CARDIACA" p="0.25" c="Estudios de gabinete" o="975"/>
+	<item id="8119" n="SIALOGRAFÍA BILATERAL" p="0.25" c="Estudios de gabinete" o="1593"/>
+	<item id="8121" n="RX DE SILLA TURCA" p="0.25" c="Estudios de gabinete" o="671"/>
+	<item id="8122" n="RX PARA SERIE ÓSEA METABÓLICA" p="0.25" c="Estudios de gabinete" o="1934"/>
+	<item id="8123" n="RX PARA SERIE ÓSEA METASTÁSICA" p="0.25" c="Estudios de gabinete" o="1967"/>
+	<item id="8124" n="RX DE SENOS PARANASALES 1 PROYECCIÓN" p="0.25" c="Estudios de gabinete" o="638"/>
+	<item id="8127" n="RX DE TIBIA Y PERONÉ BILATERAL" p="0.25" c="Estudios de gabinete" o="1058"/>
+	<item id="8145" n="RX DE TOBILLO BILATERAL DINÁMICO" p="0.25" c="Estudios de gabinete" o="1274"/>
+	<item id="8146" n="RX DE TOBILLO BILATERAL" p="0.25" c="Estudios de gabinete" o="905"/>
+	<item id="8147" n="RX DE TÓRAX LATERAL" p="0.25" c="Estudios de gabinete" o="649"/>
+	<item id="8148" n="RX DE TÓRAX ÓSEO 2 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="928"/>
+	<item id="8151" n="TRÁNSITO INTESTINAL" p="0.25" c="Estudios de gabinete" o="2925"/>
+	<item id="8152" n="URETROGRAFÍA" p="0.25" c="Estudios de gabinete" o="2150"/>
+	<item id="8153" n="UROGRAFÍA EXCRETORA DE MAXWELL" p="0.25" c="Estudios de gabinete" o="2585"/>
+	<item id="8154" n="UROGRAFÍA EXCRETORA DE WINCHER" p="0.25" c="Estudios de gabinete" o="3311"/>
+	<item id="8155" n="UROGRAFÍA EXCRETORA" p="0.25" c="Estudios de gabinete" o="1905"/>
+	<item id="8158" n="RX OSTEOGRAMA DE MANO" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8260" n="RX DE RODILLA CON TÉCNICA DE MERCHANT PARA RÓTULAS" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8263" n="COLUMNA CERVICO-TORACICA 2 P" p="0.25" c="Estudios de gabinete" o="746"/>
+	<item id="8282" n="ARTICULACIONES TEMPOROMANDIBULARES 3P" p="0.25" c="Estudios de gabinete" o="1360"/>
+	<item id="8290" n="MANOS 3 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="1352"/>
+	<item id="8291" n="MANOS 4 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="1656"/>
+	<item id="8329" n="COLUMNA TORACOLUMBAR 4 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="1714"/>
+	<item id="8352" n="BRAZO HUMERO 2 PROYECCIONES (AP Y LAT)" p="0.25" c="Estudios de gabinete" o="905"/>
+	<item id="8379" n="LAXANTE X PREP PARA RX" p="0.25" c="Estudios de gabinete" o="479"/>
+	<item id="100675" n="CHECK-UP BASICO Q45" p="0.25" c="Check up" o="1499"/>
+	<item id="100676" n="CHECK-UP BASICO TIROIDEO Q45" p="0.25" c="Check up" o="2229"/>
+	<item id="100677" n="CHECK UP SALUD Q45" p="0.25" c="Check up" o="1759"/>
+	<item id="100678" n="PAQUETE CONTROL DIABETES Q45" p="0.25" c="Check up" o="2369"/>
+	<item id="100682" n="CHECK-UP BASICO FEMENINO Q45" p="0.25" c="Check up" o="1489"/>
+	<item id="100689" n="PAQUETE SALUDABLE Q45 II" p="0.25" c="Frecuentes" o="1369"/>
+	<item id="100690" n="PAQUETE SALUDABLE Q45 III" p="0.25" c="Perfiles" o="1379"/>
+	<item id="12641" n="PERFIL PREVENCION DE CANCER 1" p="0.25" c="Para ella" o="459"/>
+	<item id="98552" n="CHECK UP VÍAS URINARIAS" p="0.25" c="Check up" o="439"/>
+	<item id="98788" n="PERFIL DE INFECCIONES DE TRANSMISIÓ" p="0.25" c="Frecuentes" o="469"/>
+	<item id="10015" n="TOMOGRAFÍA COMPUTADA DE CRÁNEO SIMPLE" p="0.25" c="Estudios de gabinete" o="2305"/>
+	<item id="10028" n="TOMOGRAFÍA A.C. DE TÓRAX Y MEDIASTINO" p="0.25" c="Estudios de gabinete" o="4205"/>
+	<item id="10035" n="TOMOGRAFÍA COMPUTADA DE SENOS PARANASALES" p="0.25" c="Estudios de gabinete" o="2309"/>
+	<item id="11001" n="MASTOGRAFÍA" p="0.25" c="Para ella" o="598"/>
+	<item id="19282" n="DIAGNÓSTICO DE EMBARAZO EN SUERO" p="0.25" c="Laboratorio" o="229"/>
+	<item id="22033" n="INSULINA EN SUERO" p="0.25" c="Laboratorio" o="379"/>
+	<item id="22211" n="25 HIDROXI VITAMINA D TOTAL (CALCIFEROL)" p="0.25" c="Laboratorio" o="789"/>
+	<item id="3012" n="CITOLOGÍA CERVICOVAGINAL SISTEMA BETHESDA" p="0.25" c="Laboratorio" o="395"/>
+	<item id="4001" n="ELECTROCARDIOGRAMA DINÁMICO" p="0.25" c="Promociones" o="2099"/>
+	<item id="8001" n="RX DE ABDOMEN ANTEROPOSTERIOR" p="0.25" c="Estudios de gabinete" o="670"/>
+	<item id="8030" n="RX DE COLUMNA CERVICAL AP Y LATERAL" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8035" n="RX DE COLUMNA DORSAL AP Y LATERAL" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8066" n="HISTEROSALPINGOGRAFÍA" p="0.25" c="Estudios de gabinete" o="2955"/>
+	<item id="8069" n="RX DE HOMBRO UNA PROYECIÓN" p="0.25" c="Estudios de gabinete" o="670"/>
+	<item id="8078" n="RX DE MANO BILATERAL 2 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="905"/>
+	<item id="8084" n="RX DE MEDICIÓN DE MIEMBROS INFERIORES" p="0.25" c="Estudios de gabinete" o="988"/>
+	<item id="8112" n="RX DE RODILLA AP Y LATERAL" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="8118" n="SERIE ESOFAGOGASTRODUODENAL" p="0.25" c="Estudios de gabinete" o="2935"/>
+	<item id="8125" n="RX DE SENOS PARANASALES 3 PROYECCIONES" p="0.25" c="Estudios de gabinete" o="988"/>
+	<item id="8149" n="RX DE TÓRAX POSTERO-ANTERIOR" p="0.25" c="Estudios de gabinete" o="499"/>
+	<item id="8150" n="RX DE TÓRAX POSTERO-ANTERIOR Y LATERAL" p="0.25" c="Estudios de gabinete" o="905"/>
+	<item id="9002" n="ULTRASONIDO BAZO" p="0.25" c="Estudios de gabinete" o="739"/>
+	<item id="9004" n="ULTRASONIDO GLÁNDULA MAMARIA" p="0.25" c="Laboratorio" o="978"/>
+	<item id="9006" n="ULTRASONIDO HEPATOBILIAR" p="0.25" c="Estudios de gabinete" o="865"/>
+	<item id="9008" n="ULTRASONIDO DE PÁNCREAS" p="0.25" c="Estudios de gabinete" o="739"/>
+	<item id="9014" n="ULTRASONIDO RASTREO ABDOMINAL" p="0.25" c="Estudios de gabinete" o="1098"/>
+	<item id="9017" n="ULTRASONIDO TIROIDES ALTA RESOLUCIÓN" p="0.25" c="Estudios de gabinete" o="1365"/>
+	<item id="9019" n="ULTRASONIDO DE PARTES BLANDAS ALTA RESOLUCIÓN" p="0.25" c="Estudios de gabinete" o="928"/>
+	<item id="9020" n="ULTRASONIDO DOPPLER COLOR" p="0.25" c="Estudios de gabinete" o="3049"/>
+	<item id="9023" n="ULTRASONIDO DOPPLER DE CARÓTIDAS" p="0.25" c="Estudios de gabinete" o="3275"/>
+	<item id="9024" n="ULTRASONIDO DOPPLER VASCULAR" p="0.25" c="Estudios de gabinete" o="3108"/>
+	<item id="9035" n="ULTRASONIDO DOPPLER OBSTETRICO" p="0.25" c="Estudios de gabinete" o="1539"/>
+	<item id="9110" n="ULTRASONIDO DE CUARTA DIMENSIÓN GEMELAR" p="0.25" c="Estudios de gabinete" o="1975"/>
+	<item id="9112" n="ULTRASONIDO DOPPLER VASCULAR (VENAS) 1 EXTREMIDAD" p="0.25" c="Estudios de gabinete" o="2430"/>
+	<item id="9113" n="ULTRASONIDO DOPPLER VASCULAR (ARTERIAS) 2 EXTREMIDADES" p="0.25" c="Estudios de gabinete" o="3715"/>
+	<item id="9115" n="ULTRASONIDO DOPPLER VASCULAR (VENAS Y ARTERIAS) 2 EXTREMIDADES" p="0.25" c="Estudios de gabinete" o="6435"/>
+	<item id="17014" n="GRUPO SANGUÍNEO Y FACTOR Rh" p="0.25" c="Laboratorio" o="145"/>
+	<item id="16993" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 2 HORAS (MUESTRAS CADA HORA)" p="0.25" c="Laboratorio" o="459"/>
+	<item id="90006" n="ULTRASONIDO DE VIAS URINARIAS" p="0.25" c="Estudios de gabinete" o="1308"/>
+	<item id="16647" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 2 HORAS" p="0.25" c="Laboratorio" o="495"/>
+	<item id="16493" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 3 HRS" p="0.25" c="Laboratorio" o="669"/>
+	<item id="16101" n="GLUCOSA EN SUERO" p="0.25" c="Laboratorio" o="125"/>
+	<item id="25073" n="GENOTIPO DE PAPILOMA HUMANO POR PCR PAC. MASCULINO" p="0.25" c="Laboratorio" o="2265"/>
+	<item id="25063" n="ANÁLISIS DE DELECIÓN Y DUPLICACIÓN DEL ONCOGEN BRCA1 Y BRCA2" p="0.25" c="Laboratorio" o="5510"/>
+	<item id="25035" n="GENOTIPO DE PAPILOMA HUMANO POR PCR PAC. FEMENINO" p="0.25" c="Laboratorio" o="2335"/>
+	<item id="25001" n="DETECCIÓN DE VPH POR CAPTURA DE HIBRIDOS. PAC FEMENINO" p="0.25" c="Laboratorio" o="1715"/>
+	<item id="14011" n="DENSITOMETRIA PEDIATRICA" p="0.25" c="Densitometría" o="2230"/>
+	<item id="14003" n="DENSITOMETRIA DE CUERPO ENTERO" p="0.25" c="Para ella" o="995"/>
+	<item id="14002" n="DENSITOMETRIA COLUMNA Y CADERA" p="0.25" c="Para ella" o="749"/>
+	<item id="14001" n="DENSITOMETRIA DE CUBITO Y RADIO" p="0.25" c="Para ella" o="1299"/>
+	<item id="13296" n="URORESONANCIA CON CONTRASTE" p="0.25" c="Estudios de gabinete" o="8295"/>
+	<item id="13294" n="RESONANCIA MAGNÉTICA DE PRÓSTATA BIPARAMÉTRICA" p="0.25" c="Estudios de gabinete" o="5705"/>
+	<item id="13183" n="ANGIORESONANCIA DE CRANEO CON CONTRASTE" p="0.25" c="Estudios de gabinete" o="6385"/>
+	<item id="22296" n="ANTICUERPOS ANTI-CITOPLASMA DE NEUTRÓFILO" p="0.25" c="Laboratorio" o="1359"/>
+	<item id="13112" n="RM COLANGIO - RESONANCIA" p="0.25" c="Estudios de gabinete" o="6075"/>
+	<item id="13060" n="ANGIORESONANCIA UNA REGION (INCLUYE EL GADOLINIO)" p="0.25" c="Estudios de gabinete" o="6458"/>
+	<item id="8034" n="RX DE COLUMNA COMPLETA" p="0.25" c="Estudios de gabinete" o="2456"/>
+	<item id="6001" n="COLPOSCOPIA" p="0.25" c="Para ella" o="485"/>
+	<item id="9007" n="ULTRASONIDO OBSTÉTRICO" p="0.25" c="Estudios de gabinete" o="810"/>
+	<item id="9003" n="ULTRASONIDO GINECOLÓGICO" p="0.25" c="Estudios de gabinete" o="888"/>
+	<item id="9026" n="ULTRASONIDO SEGUIMIENTO FOLICULAR" p="0.25" c="Estudios de gabinete" o="2408"/>
+	<item id="9012" n="ULTRASONIDO TESTICULAR" p="0.25" c="Estudios de gabinete" o="925"/>
+	<item id="9010" n="ULTRASONIDO PROSTÁTICO" p="0.25" c="Estudios de gabinete" o="955"/>
+	<item id="9015" n="ULTRASONIDO TRANSVAGINAL" p="0.25" c="Estudios de gabinete" o="955"/>
+	<item id="9138" n="ULTRASONIDO DOPPLER VASCULAR (INCLUYE VENAS Y ARTERIAS) 1 EXTREMIDAD" p="0.25" c="Estudios de gabinete" o="3630"/>
+	<item id="9114" n="ULTRASONIDO DOPPLER VASCULAR (VENAS) 2 EXTREMIDADES" p="0.249999469778431" c="Estudios de gabinete" o="4715.01"/>
+	<item id="13059" n="RM ANGIORESONANCIA CRANEO Y CUELLO (POLIGONO Y CUELLO)" p="0.249999222092571" c="Estudios de gabinete" o="12855"/>
+	<item id="98480" n="PERFIL HORMONAL CON TIROIDEO" p="0.249998743093298" c="Frecuentes" o="1989.01"/>
+	<item id="13166" n="RESONANCIA MAGNETICA ESPECTROSCOPIA 1 A 2 REGIONES" p="0.249998738965952" c="Estudios de gabinete" o="7930"/>
+	<item id="4007" n="MONITOREO AMBULATORIO DE PRESION ARTERIAL" p="0.249998724496304" c="Cardiología" o="1960.01"/>
+	<item id="9029" n="ULTRASONIDO DE ARTICULACIONES" p="0.249998507471597" c="Estudios de gabinete" o="1675.01"/>
+	<item id="13010" n="RESONANCIA MAGNÉTICA DE HOMBRO" p="0.249998352282089" c="Frecuentes" o="6069"/>
+	<item id="13297" n="URORESONANCIA SIMPLE" p="0.24999829001368" c="Estudios de gabinete" o="5848"/>
+	<item id="13002" n="RESONANCIA MAGNÉTICA FOSA POSTERIOR" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13003" n="RESONANCIA MAGNÉTICA NEUROEJE" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13004" n="RESONANCIA MAGNÉTICA DE CARA" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13005" n="RESONANCIA MAGNÉTICA VASCULAR DE CUELLO" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13006" n="RESONANCIA MAGNÉTICA DE CUELLO" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13007" n="RESONANCIA MAGNÉTICA DE COLUMNA CERVICAL" p="0.249998278829604" c="Frecuentes" o="5810"/>
+	<item id="13008" n="RESONANCIA MAGNÉTICA DE COLUMNA DORSAL" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13011" n="RESONANCIA MAGNÉTICA DE PELVIS" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13013" n="RESONANCIA MAGNÉTICA DE TOBILLO" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13014" n="RESONANCIA MAGNÉTICA DE OTRAS REGIONES" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13017" n="RESONANCIA MAGNETICA DE ABDOMEN" p="0.249998278829604" c="Resonancia magnética" o="5810"/>
+	<item id="13001" n="RESONANCIA MAGNÉTICA DE CRÁNEO" p="0.249998278829604" c="Frecuentes" o="5810"/>
+	<item id="13009" n="RESONANCIA MAGNÉTICA DE COLUMNA LUMBAR" p="0.249998278829604" c="Frecuentes" o="5810"/>
+	<item id="13012" n="RESONANCIA MAGNÉTICA DE RODILLA" p="0.249998278829604" c="Frecuentes" o="5810"/>
+	<item id="13056" n="RM CODO" p="0.249998278829604" c="Estudios de gabinete" o="5810"/>
+	<item id="13055" n="RM MUÑECA" p="0.249998278829604" c="Estudios de gabinete" o="5810"/>
+	<item id="10009" n="TOMOGRAFÍA COMPUTADA DE ABDOMEN COMPLETO" p="0.249998222222222" c="Estudios de gabinete" o="5625"/>
+	<item id="8047" n="COLON POR ENEMA (CON O SIN TÉCNICA DE FISHER)" p="0.249997781721384" c="Estudios de gabinete" o="4508"/>
+	<item id="10185" n="TOMOGRAFÍA A.C. ABDOMEN COMPLETO SIMPLE" p="0.249997711146715" c="Estudios de gabinete" o="4369"/>
+	<item id="10025" n="TOMOGRAFÍA A.C. DE PEÑASCOS Y OIDO" p="0.249997699379446" c="Estudios de gabinete" o="3259.99"/>
+	<item id="25072" n="DETECCIÓN VIRUS DE PAPILOMA HUMANO POR PCR FEMENINO" p="0.249997592287616" c="Laboratorio" o="3114.99"/>
+	<item id="10121" n="CORONARIOGRAFÍA TC" p="0.249997536339" c="Estudios de gabinete" o="4059"/>
+	<item id="8033" n="RX DE COLUMNA CERVICAL SOLO DINÁMICAS" p="0.249997354525349" c="Estudios de gabinete" o="945.01"/>
+	<item id="8041" n="RX DE COLUMNA SACROCOXÍGEA AP Y LATERAL" p="0.249997354525349" c="Estudios de gabinete" o="945.01"/>
+	<item id="10027" n="TOMOGRAFÍA A.C. DE SILLA TURCA" p="0.249997248968363" c="Estudios de gabinete" o="3635"/>
+	<item id="8068" n="RX DE HOMBRO BILATERAL CON PESAS" p="0.249997181542485" c="Estudios de gabinete" o="887.01"/>
+	<item id="8013" n="RX DE ARTICULACIÓN SACROILIACA" p="0.249997002434024" c="Estudios de gabinete" o="834.01"/>
+	<item id="25034" n="DETECCIÓN VIRUS DE PAPILOMA HUMANO POR PCR MASCULINO" p="0.249996960486322" c="Laboratorio" o="3290"/>
+	<item id="10011" n="TOMOGRAFÍA A.C. ABDOMEN SUPERIOR" p="0.249996820349761" c="Estudios de gabinete" o="3145"/>
+	<item id="8024" n="RX DE CARA ANTEROPOSTERIOR, OBLICUA Y WATERS" p="0.249996757499903" c="Estudios de gabinete" o="771.01"/>
+	<item id="8027" n="CISTOURETROGRAFÍA" p="0.249996726677578" c="Estudios de gabinete" o="3055"/>
+	<item id="8007" n="RX DE ARTICULACIÓN ESTERNOCLAVICULAR" p="0.249996212178603" c="Estudios de gabinete" o="660.01"/>
+	<item id="8096" n="RX DE PELVIS AP EN ABDUCCIÓN Y ROTACIÓN" p="0.249996212178603" c="Estudios de gabinete" o="660.01"/>
+	<item id="8051" n="RX DE CRÁNEO" p="0.249996183264378" c="Estudios de gabinete" o="655.01"/>
+	<item id="9022" n="ULTRASONIDO TRANSFONTANELAR" p="0.249996180290298" c="Estudios de gabinete" o="2618"/>
+	<item id="8036" n="RX DE COLUMNA DORSAL AP, LATERAL Y OBLICUAS" p="0.249995495468441" c="Estudios de gabinete" o="1664.99"/>
+	<item id="8091" n="RX PARA DETECTAR CUERPO EXTRAÑO" p="0.249995361867127" c="Estudios de gabinete" o="539.01"/>
+	<item id="10020" n="TOMOGRAFÍA A.C. DE CARA" p="0.249995166747221" c="Estudios de gabinete" o="2069"/>
+	<item id="19315" n="CURVA DE INSULINA EN SUERO (3 DETERMINACIONES)" p="0.249995098135331" c="Laboratorio" o="510.01"/>
+	<item id="25037" n="DETECCIÓN DE VPH POR CAPTURA DE HIBRIDOS. PAC MASCULINO" p="0.249994962216625" c="Laboratorio" o="1985"/>
+	<item id="8062" n="RX DE FÉMUR BILATERAL" p="0.249993297587131" c="Estudios de gabinete" o="1492"/>
+	<item id="8031" n="RX DE COLUMNA CERVICAL AP, LAT Y OBLICUAS" p="0.249993055555556" c="Estudios de gabinete" o="1440"/>
+	<item id="10032" n="MEDIO DE CONTRASTE" p="0.249992957746479" c="Laboratorio" o="1420"/>
+	<item id="8104" n="PIELOGRAFÍA ASCENDENTE" p="0.249992101105845" c="Estudios de gabinete" o="1266"/>
+	<item id="9109" n="ULTRASONIDO DE CUARTA DIMENSIÓN INTEGRAL" p="0.249991518235793" c="Estudios de gabinete" o="1179"/>
+	<item id="8120" n="SIALOGRAFÍA" p="0.249990243902439" c="Estudios de gabinete" o="1025"/>
+	<item id="8040" n="RX DE COLUMNA LUMBOSACRA SOLO DINÁMICAS" p="0.24998933901919" c="Estudios de gabinete" o="938"/>
+	<item id="8004" n="RX DE ABDOMEN DE PIE Y DECÚBITO" p="0.24998933901919" c="Estudios de gabinete" o="938"/>
+	<item id="8002" n="RX DE ABDOMEN DECÚBITO Y LATERAL" p="0.24998899889989" c="Estudios de gabinete" o="909"/>
+	<item id="8037" n="RX DE COLUMNA LUMBOSACRA AP Y LATERAL" p="0.24998899889989" c="Estudios de gabinete" o="909"/>
+	<item id="8008" n="RX DE CODO" p="0.249988954181947" c="Estudios de gabinete" o="678.99"/>
+	<item id="8092" n="RX DE OMÓPLATO UNILATERAL" p="0.249988954181947" c="Estudios de gabinete" o="678.99"/>
+	<item id="8076" n="RX DE MANO" p="0.249988954181947" c="Estudios de gabinete" o="678.99"/>
+	<item id="8144" n="RX DE TOBILLO" p="0.249988954181947" c="Estudios de gabinete" o="678.99"/>
+	<item id="19328" n="CURVA DE INSULINA (7 DETERMINACIONES)" p="0.24998861047836" c="Laboratorio" o="878"/>
+	<item id="8029" n="RX DE CLAVÍCULA BILATERAL" p="0.249986910994764" c="Estudios de gabinete" o="764"/>
+	<item id="6002" n="VULVOSCOPÍA" p="0.249986449864499" c="Colposcopia" o="738"/>
+	<item id="8056" n="RX DE DEDO" p="0.249986449864499" c="Estudios de gabinete" o="738"/>
+	<item id="8101" n="RX DE PIE AP Y OBLICUA" p="0.249986013986014" c="Estudios de gabinete" o="715"/>
+	<item id="8126" n="RX DE TIBIA Y PERONÉ" p="0.249985895627645" c="Estudios de gabinete" o="709"/>
+	<item id="16168" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 6 HORAS" p="0.249985185185185" c="Laboratorio" o="675"/>
+	<item id="6007" n="TOMA C/DR BX DE ENDOMETRIO" p="0.249983844911147" c="Colposcopia" o="619"/>
+	<item id="3010" n="CITOLOGÍA DE URETRA Y/O SURCO PREPUCIAL" p="0.249983050847458" c="Laboratorio" o="590"/>
+	<item id="16849" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 4 HORAS" p="0.249983050847458" c="Laboratorio" o="590"/>
+	<item id="11002" n="MASTOGRAFIA UNILATERAL" p="0.249982993197279" c="Mastografía" o="588"/>
+	<item id="4005" n="ELECTROCARDIOGRAMA DIGITAL EN REPOSO" p="0.249982993197279" c="Laboratorio" o="588"/>
+	<item id="8023" n="RX DE CANAL CARPIANO BILATERAL" p="0.249981132075472" c="Estudios de gabinete" o="530"/>
+	<item id="8010" n="RX APICOGRAMA" p="0.249979035639413" c="Estudios de gabinete" o="477"/>
+	<item id="8016" n="RX DE ARCO CIGOMÁTICO 1 PROYECCIÓN DE HIRTZ" p="0.249979035639413" c="Estudios de gabinete" o="477"/>
+	<item id="19435" n="HOMA-IR" p="0.249977678571429" c="Laboratorio" o="448"/>
+	<item id="17224" n="HEMOGLOBINA GLICOSILADA A1c" p="0.249976470588235" c="Laboratorio" o="425"/>
+	<item id="10091" n="ANGIOTOMOGRAFÍA DE úRTA ABDOMINAL Y ARTERIAS ILIACAS" p="0.2" c="Estudios de gabinete" o="6419"/>
+	<item id="19969" n="ANTICUERPOS TOTALES ANTI-SARS-COV-2 POST VACUNA" p="0.2" c="Laboratorio" o="875"/>
+	<item id="10000439" n="DETECCIÓN COVID-19 POR PCR" p="0.2" c="Promociones" o="2499"/>
+	<item id="39294" n="PRUEBA DE ANTÍGENO DE SARS-COV-2 (COVID-19)" p="0.2" c="Laboratorio" o="749"/>
+	<item id="10087" n="ANGIOTOMOGRAFÍA DEL CUELLO (CARÓTIDAS)" p="0.150004306632214" c="Estudios de gabinete" o="2322"/>
+	<item id="100165" n="PERFIL PREVENCIÓN CÁNCER 2" p="0.15" c="Perfiles" o="1149"/>
+	<item id="16181" n="GLYCOMARK" p="0.15" c="Laboratorio" d="Descripción" pr="Proceso" o="999"/>
+	<item id="10092" n="Angiotomografía de las extremidades superiores" p="0.15" c="Estudios de gabinete" o="7065"/>
+	<item id="10097" n="TC del macizo facial con reconstrucciones en 3D" p="0.15" c="Estudios de gabinete" o="4234"/>
+	<item id="10084" n="TAC TEMPOROMANDIBULAR SIMPLE CON 3D" p="0.15" c="Estudios de gabinete" o="2194"/>
+	<item id="10093" n="ANGIOTOMOGRAFÍA DE LAS EXTREMIDADES INFERIORES" p="0.149998724327083" c="Estudios de gabinete" o="7839"/>
+	<item id="10089" n="Angiotomografía de troncos suprúrticos y úrta torácica" p="0.149998220640569" c="Estudios de gabinete" o="5620"/>
+	<item id="10214" n="TAC DOS REGIONES SIMPLE" p="0.149997478485549" c="Estudios de gabinete" o="3370.99"/>
+	<item id="39005" n="TENSIÓN ARTERIAL" p="0.100169491525424" c="Tomadores" o="59"/>
+	<item id="39002" n="FRAGILIDAD CAPILAR" p="0.100119984002133" c="Tomadores" o="75.01"/>
+	<item id="16170" n="TRIGLICÉRIDOS EN SUERO" p="0.100113636363636" c="Laboratorio" o="88"/>
+	<item id="16060" n="COLESTEROL EN SUERO" p="0.100102040816327" c="Laboratorio" o="98"/>
+	<item id="98982" n="PREVIO PET/CT" p="0.100082561232915" c="Perfiles" o="109.01"/>
+	<item id="19659" n="DEFICIENCIA DE BIOTINIDASA" p="0.100065212665749" c="Laboratorio" o="138.01"/>
+	<item id="21015" n="INVESTIGACIÓN DE OXIUROS" p="0.100065212665749" c="Laboratorio" o="138.01"/>
+	<item id="17253" n="TIEMPO DE PROTROMBINA (DILUCION)" p="0.100057142857143" c="Laboratorio" o="175"/>
+	<item id="17254" n="TIEMPO DE TROMBOPLASTINA PARCIAL ACTIVADO (DILUCION)" p="0.100057142857143" c="Laboratorio" o="175"/>
+	<item id="16056" n="CLORUROS EN SUERO" p="0.100057142857143" c="Laboratorio" o="175"/>
+	<item id="15035" n="MICROSCOPÍA DE EXUDAD NASAL" p="0.100057142857143" c="Laboratorio" o="175"/>
+	<item id="30013" n="PERFIL MEDICAMENTOS HIPOTENSIÓN" p="0.100055555555556" c="Hemodiálisis" o="180"/>
+	<item id="16418" n="GLUCOSA EN ORINA" p="0.100055555555556" c="Laboratorio" o="180"/>
+	<item id="15040" n="MICROSCOPÍA DE EXUDADOS VARIOS" p="0.100055555555556" c="Laboratorio" o="180"/>
+	<item id="16084" n="FOSFATASA ALCALINA EN SUERO" p="0.100054054054054" c="Laboratorio" o="185"/>
+	<item id="15117" n="LEPTOSPIRA EN ORINA POR CAMPO OSCURO" p="0.100054054054054" c="Laboratorio" o="185"/>
+	<item id="16161" n="SODIO EN ORINA DE 24 HORAS" p="0.100047846889952" c="Laboratorio" o="209"/>
+	<item id="16134" n="NITRÓGENO UREICO EN SUERO" p="0.100047846889952" c="Laboratorio" o="209"/>
+	<item id="15190" n="TINCION PARA BAAR EN ORINA (5 MUESTRAS)" p="0.100047846889952" c="Laboratorio" o="209"/>
+	<item id="17024" n="PLAQUETAS EN SANGRE" p="0.100042016806723" c="Laboratorio" o="238"/>
+	<item id="16091" n="FÓSFORO EN SUERO" p="0.100042016806723" c="Laboratorio" o="238"/>
+	<item id="15151" n="Análisis Microbiológico de Superficies inertes" p="0.100040907231489" c="Laboratorio" o="220.01"/>
+	<item id="15150" n="ANÁLISIS MICROBIOLÓGICO DE SUPERFICIES VIVAS" p="0.100040907231489" c="Laboratorio" o="220.01"/>
+	<item id="16815" n="GLUCOSA BASAL Y POSTPRANDIAL" p="0.100039998222301" c="Laboratorio" o="225.01"/>
+	<item id="39255" n="FONDO DE OJO (NO MIDRIÁTICO)" p="0.100036143126782" c="Tomadores" o="249.01"/>
+	<item id="23005" n="CUENTA MINUTADA" p="0.100036143126782" c="Laboratorio" o="249.01"/>
+	<item id="23004" n="CUENTA DE ADDIS" p="0.100036143126782" c="Laboratorio" o="249.01"/>
+	<item id="19658" n="DEFICIENCIA DE GLUCOSA 6 FOSFATODESHIDROGENASA" p="0.100030769230769" c="Laboratorio" o="325"/>
+	<item id="20068" n="NÍQUEL EN SUERO" p="0.100030769230769" c="Laboratorio" o="325"/>
+	<item id="16970" n="QUÍMICA DE 3 ELEMENTOS (LÍPIDOS)" p="0.100030769230769" c="Laboratorio" o="325"/>
+	<item id="16386" n="BILIRRUBINA TOTAL EN SUERO" p="0.100030769230769" c="Laboratorio" o="325"/>
+	<item id="16330" n="CREATININA EN ORINA DE DOS HORAS" p="0.100030769230769" c="Laboratorio" o="325"/>
+	<item id="15103" n="ESPERMATOBIOSCOPÍA PARA CONTROL DE VASECTOMÍA" p="0.100030769230769" c="Laboratorio" o="325"/>
+	<item id="19311" n="INMUNOGLOBULINA IgG EN L.C.R." p="0.100030303030303" c="Laboratorio" o="330"/>
+	<item id="16038" n="AMONIO EN SANGRE" p="0.100028653295129" c="Laboratorio" o="349"/>
+	<item id="39004" n="MANTOUX P.P.D" p="0.100027855153203" c="Tomadores" o="359"/>
+	<item id="22253" n="CAPTACIÓN T3-T4 (TU) EN SUERO" p="0.100026455026455" c="Laboratorio" o="378"/>
+	<item id="15132" n="CULTIVO DE HONGOS EN LCR" p="0.100025773195876" c="Laboratorio" o="388"/>
+	<item id="19310" n="17-HIDROXI-PROGESTERONA NEONATAL" p="0.100024656858716" c="Laboratorio" o="365.01"/>
+	<item id="19029" n="ESTUDIO PRENUPCIAL" p="0.100024656858716" c="Laboratorio" o="365.01"/>
+	<item id="16279" n="QUÍMICA DE 4 ELEMENTOS" p="0.100024656858716" c="Laboratorio" o="365.01"/>
+	<item id="17020" n="PRUEBAS CRUZADAS" p="0.100024323666928" c="Laboratorio" o="370.01"/>
+	<item id="16660" n="PERFIL DE LIPIDOS EN SUERO" p="0.100022555825668" c="Laboratorio" o="399.01"/>
+	<item id="19226" n="AC IGM ANTI TREPONEMA PALLIDUM EN SUERO (FTA-ABS)" p="0.100021505376344" c="Laboratorio" o="465"/>
+	<item id="19425" n="FIBROSIS QUISTICA" p="0.100021505376344" c="Laboratorio" o="465"/>
+	<item id="15046" n="DETECCIÓN DE ROTAVIRUS EN HECES" p="0.100021505376344" c="Laboratorio" o="465"/>
+	<item id="16129" n="NITRÓGENO UREICO EN ORINA DE 24 HORAS" p="0.100021276595745" c="Laboratorio" o="470"/>
+	<item id="19453" n="AC IgG CASEINA" p="0.100021052631579" c="Laboratorio" o="475"/>
+	<item id="20016" n="FENOBARBITAL EN SUERO" p="0.100021052631579" c="Laboratorio" o="475"/>
+	<item id="16028" n="HIERRO SERICO" p="0.100021052631579" c="Laboratorio" o="475"/>
+	<item id="15099" n="CULTIVO DE VIBRIO CHOLERAE (CÓLERA)" p="0.100021052631579" c="Laboratorio" o="475"/>
+	<item id="20245" n="BUSQUEDA DE 5 DROGAS II EN ORINA" p="0.100021027546085" c="Laboratorio" o="428.01"/>
+	<item id="19381" n="TRIIODOTIRONINA LIBRE EN SUERO" p="0.10002004008016" c="Laboratorio" o="499"/>
+	<item id="15076" n="ANTÍGENO DE CHLAMYDIA TRACHOMATIS (ENDOCERVICAL)" p="0.10002004008016" c="Laboratorio" o="499"/>
+	<item id="20054" n="TALIO EN ORINA" p="0.10001764671281" c="Laboratorio" o="510.01"/>
+	<item id="20069" n="ZINC PROTOPORFIRINAS EN SANGRE" p="0.10001764671281" c="Laboratorio" o="510.01"/>
+	<item id="16158" n="RESERVA ALCALINA DE CO2 EN SANGRE" p="0.10001764671281" c="Laboratorio" o="510.01"/>
+	<item id="15019" n="CULTIVO DE HONGOS EN UÑAS" p="0.100017475388827" c="Laboratorio" o="515.01"/>
+	<item id="19048" n="AC ANTI-CISTICERCO EN L.C.R." p="0.100016697278344" c="Laboratorio" o="539.01"/>
+	<item id="22036" n="FRACCIÓN PROSTÁTICA DE FOSFATASA ÁCIDA EN SUERO" p="0.100016697278344" c="Laboratorio" o="539.01"/>
+	<item id="19567" n="AC IgG CITOMEGALOVIRUS EN SUERO (Q)" p="0.100016260162602" c="Laboratorio" o="615"/>
+	<item id="20192" n="CRESOL EN ORINA" p="0.100016260162602" c="Laboratorio" o="615"/>
+	<item id="15128" n="CULTIVO DE LISTERIA EN EXUDADO VAGINAL" p="0.100016129032258" c="Laboratorio" o="620"/>
+	<item id="15014" n="CULTIVO DE EXPECTORACIÓN" p="0.100016129032258" c="Laboratorio" o="620"/>
+	<item id="15027" n="ESTUDIO COMPLETO DE LÍQUIDO SINOVIAL" p="0.100015844791465" c="Laboratorio" o="568.01"/>
+	<item id="18117" n="CD-15 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.100015649452269" c="Laboratorio" o="639"/>
+	<item id="18124" n="P53 MARCADOR POR INMUNOHISTOQUÍMICA" p="0.100015649452269" c="Laboratorio" o="639"/>
+	<item id="16690" n="COLINESTERASA ERITROCITARIA" p="0.100015649452269" c="Laboratorio" o="639"/>
+	<item id="18111" n="CK34BE12 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.100015408320493" c="Laboratorio" o="649"/>
+	<item id="19117" n="AC IgM VARICELA" p="0.10001374024824" c="Laboratorio" o="655.01"/>
+	<item id="15095" n="CULTIVO DE EXUDADO CONJUNTIVAL DERECHO" p="0.10001374024824" c="Laboratorio" o="655.01"/>
+	<item id="20031" n="MERCURIO EN SANGRE" p="0.100013636157028" c="Laboratorio" o="660.01"/>
+	<item id="16033" n="CK TOTAL Y FRACCION MB EN SUERO" p="0.100013636157028" c="Laboratorio" o="660.01"/>
+	<item id="20007" n="COCAÍNA EN ORINA" p="0.100013245033113" c="Laboratorio" o="755"/>
+	<item id="20148" n="DIGOXINA EN SUERO" p="0.100013245033113" c="Laboratorio" o="755"/>
+	<item id="16939" n="PERFIL HEPATICO II" p="0.100013245033113" c="Laboratorio" o="755"/>
+	<item id="19186" n="AC Mycobacterium tuberculosis" p="0.100013157894737" c="Laboratorio" o="760"/>
+	<item id="20001" n="ANFETAMINAS EN ORINA" p="0.100013157894737" c="Laboratorio" o="760"/>
+	<item id="16777" n="PERFIL HEPÁTICO II" p="0.100013157894737" c="Laboratorio" o="760"/>
+	<item id="16112" n="APOLIPOPROTEINA A1" p="0.100013157894737" c="Laboratorio" o="760"/>
+	<item id="17235" n="CD 20" p="0.100013062219706" c="Laboratorio" o="689.01"/>
+	<item id="22073" n="DEHIDROEPIANDROSTERONA SULFATO EN SUERO" p="0.100012534644364" c="Laboratorio" o="718.01"/>
+	<item id="19749" n="DETERMINACIÓN DE 6 ALERGENOS RESPIRATORIOS" p="0.100012224938875" c="Laboratorio" o="818"/>
+	<item id="15135" n="ANTÍGENO DE CHLAMYDIA TRACHOMATIS (URETRAL/SEMEN)" p="0.100011249859377" c="Laboratorio" o="800.01"/>
+	<item id="19274" n="FERRITINA EN SUERO" p="0.100011179985342" c="Laboratorio" o="805.01"/>
+	<item id="15025" n="ESTUDIO COMPLETO DE LÍQUIDO CEFALORRAQUÍDEO" p="0.100011179985342" c="Laboratorio" o="805.01"/>
+	<item id="18068" n="HISTOPATOLÓGICO DE BIOPSIA PENEANA" p="0.100011049723757" c="Laboratorio" o="905"/>
+	<item id="16951" n="SUPER QUIMICA DE 35 ELEMENTOS EN SUERO" p="0.100011049723757" c="Laboratorio" o="905"/>
+	<item id="16004" n="17 CETOESTEROIDES EN ORINA DE 24 HORAS" p="0.100011049723757" c="Laboratorio" o="905"/>
+	<item id="20040" n="ALUMINIO EN SUERO" p="0.100010989010989" c="Laboratorio" o="910"/>
+	<item id="19230" n="AC IgM ANTIGENO NUCLEAR DE EPSTEIN BARR" p="0.100010649627263" c="Laboratorio" o="939"/>
+	<item id="16002" n="ÁCIDO VANILIL MANDÉLICO EN ORINA DE 24 HORAS" p="0.100010649627263" c="Laboratorio" o="939"/>
+	<item id="16394" n="QUÍMICA DE 27 ELEMENTOS" p="0.100010489388236" c="Laboratorio" o="858.01"/>
+	<item id="15006" n="CULTIVO DE MYCOBACTERIUM EN EXPECTORACIÓN" p="0.100009523809524" c="Laboratorio" o="1050"/>
+	<item id="19133" n="VITAMINA B12 EN SUERO" p="0.100009523708744" c="Laboratorio" o="945.01"/>
+	<item id="19910" n="PERFIL INTEGRAL DE LA FUNCIÓN TIROIDEA" p="0.100009478672986" c="Laboratorio" o="1055"/>
+	<item id="18017" n="HISTOPATOLÓGICO DE BIOPSIA ÓSEA" p="0.100009473584489" c="Laboratorio" o="950.01"/>
+	<item id="20018" n="ÁCIDO HIPÚRICO EN ORINA" p="0.100009025270758" c="Laboratorio" o="1108"/>
+	<item id="22263" n="AC ANTI-Sm" p="0.100009025270758" c="Laboratorio" o="1108"/>
+	<item id="19139" n="AC Neisseria gonorrhoeae" p="0.100008403361345" c="Laboratorio" o="1190"/>
+	<item id="19102" n="AC IgE DERMATOPHAGOIDES PTERONYSSINUS" p="0.100008203445447" c="Laboratorio" o="1219"/>
+	<item id="22006" n="AC ANTI-DNA NATIVO (Q)" p="0.100008042823567" c="Laboratorio" o="1119.01"/>
+	<item id="16076" n="ISOENZIMAS DE LDH SUERO" p="0.100008012820513" c="Laboratorio" o="1248"/>
+	<item id="18012" n="HISTOPATOLÓGICO DE CÉRVIX Y ENDOCÉRVIX" p="0.100007462686567" c="Laboratorio" o="1340"/>
+	<item id="19081" n="AC IgM A VIRUS HEPATITIS A EN SUERO" p="0.100007304601899" c="Laboratorio" o="1369"/>
+	<item id="19299" n="AC IGM COCCIDIOIDES IMMITIS" p="0.100007287390386" c="Laboratorio" o="1235.01"/>
+	<item id="20185" n="LORAZEPAM EN SUERO" p="0.100007092142694" c="Laboratorio" o="1269.01"/>
+	<item id="17056" n="FACTOR V EN PLASMA" p="0.100006933690804" c="Laboratorio" o="1298.01"/>
+	<item id="19409" n="AUTO-AC CITOSOL HEPATICO (Lc-1)" p="0.100006756756757" c="Laboratorio" o="1480"/>
+	<item id="17285" n="SUBPOBLACIONES DE LINFOCITOS CD3+CD4+CD8+CD16+CD19+CD45+CD56 EN SANGRE" p="0.100006626905235" c="Laboratorio" o="1509"/>
+	<item id="19150" n="AC IgG LECHE DE VACA" p="0.100006521691872" c="Laboratorio" o="1380.01"/>
+	<item id="20062" n="ETOSUXIMIDA EN SUERO" p="0.100006498148028" c="Laboratorio" o="1385.01"/>
+	<item id="22278" n="AC ADENOVIRUS IgG" p="0.100006498148028" c="Laboratorio" o="1385.01"/>
+	<item id="22277" n="BRUCELLA (2 MERCAPTO-ETANOL)" p="0.100006498148028" c="Laboratorio" o="1385.01"/>
+	<item id="22232" n="AC. IgG A LEPTOSPIRA" p="0.100006498148028" c="Laboratorio" o="1385.01"/>
+	<item id="20088" n="TACROLIMUS EN SANGRE" p="0.100006153846154" c="Laboratorio" o="1625"/>
+	<item id="22144" n="AC IgG CHLAMYDIA TRACHOMATIS" p="0.100006134969325" c="Laboratorio" o="1630"/>
+	<item id="19156" n="AC IgM CHLAMYDIA PSITTACI" p="0.100006116207951" c="Laboratorio" o="1635"/>
+	<item id="30014" n="PERFIL MEDICAMENTOS HIPERTENSIÓN" p="0.100005952735282" c="Hemodiálisis" o="167.99"/>
+	<item id="18016" n="HISTOPATOLÓGICO DE GANGLIO LINFÁTICO" p="0.100005901600645" c="Laboratorio" o="1525.01"/>
+	<item id="19053" n="COMPLEMENTO HEMOLITICO AL 50 %" p="0.100005901600645" c="Laboratorio" o="1525.01"/>
+	<item id="19271" n="AC ANTIGENO DE SUPERFICIE DE HEPATITIS B CUANTIT." p="0.100005901600645" c="Laboratorio" o="1525.01"/>
+	<item id="19566" n="AC IgM TOXOPLASMA GONDII EN SUERO (Q)" p="0.100005882314495" c="Laboratorio" o="1530.01"/>
+	<item id="20100" n="VANCOMICINA" p="0.100005667470608" c="Laboratorio" o="1588.01"/>
+	<item id="22122" n="AC ANTI-INSULINA" p="0.100005667470608" c="Laboratorio" o="1588.01"/>
+	<item id="22260" n="AC IgG BORRELIA BURGDORFERI" p="0.100005633802817" c="Laboratorio" o="1775"/>
+	<item id="17280" n="KAPPA-LAMBDA" p="0.100005617977528" c="Laboratorio" o="1780"/>
+	<item id="19109" n="ENOLASA NEURONA ESPECÍFICA EN SUERO" p="0.100005617977528" c="Laboratorio" o="1780"/>
+	<item id="16327" n="REMODELAMIENTO ÓSEO EN ORINA" p="0.100005527915976" c="Laboratorio" o="1809"/>
+	<item id="20117" n="COBALTO EN SUERO O PLASMA" p="0.100005470459519" c="Laboratorio" o="1828"/>
+	<item id="22241" n="AC IgG A HELICOBACTER PYLORI" p="0.100005470459519" c="Laboratorio" o="1828"/>
+	<item id="19362" n="AUTOANTICUERPOS PL-12" p="0.100005440696409" c="Laboratorio" o="1838"/>
+	<item id="19608" n="AC IgG HAEMOPHILUS INFLUENZAE (TIPO B)" p="0.10000537310225" c="Laboratorio" o="1675.01"/>
+	<item id="19571" n="AC IgG Herpes 1/2 EN SUERO" p="0.100005297202489" c="Laboratorio" o="1699.01"/>
+	<item id="19285" n="FOLATO EN ERITROCITOS" p="0.100005208333333" c="Laboratorio" o="1920"/>
+	<item id="19605" n="AUTO AC NEURONAL NUCLEAR (HU) EN SUERO" p="0.100005130836326" c="Laboratorio" o="1949"/>
+	<item id="19145" n="AC TOTALES e IgM HEPATITIS DELTA" p="0.100005055611729" c="Laboratorio" o="1978"/>
+	<item id="16411" n="SEROTONINA EN ORINA AL AZAR" p="0.100004786979416" c="Laboratorio" o="2089"/>
+	<item id="19095" n="AC ANTI-JO-1" p="0.100004524864128" c="Laboratorio" o="1989.01"/>
+	<item id="22089" n="AC IgG A TOXOCARA CANIS" p="0.100004524864128" c="Laboratorio" o="1989.01"/>
+	<item id="16430" n="EPINEFRINA EN PLASMA" p="0.100004466279589" c="Laboratorio" o="2239"/>
+	<item id="19388" n="DIAGNOSTICO DE EMBARAZO (REQUISITO LEGAL)" p="0.100004444641984" c="Laboratorio" o="224.99"/>
+	<item id="17060" n="FACTOR VII EN PLASMA" p="0.100004246284501" c="Laboratorio" o="2355"/>
+	<item id="22262" n="AC IgG TOXOIDE TETÁNICO" p="0.100004207553962" c="Laboratorio" o="2139.01"/>
+	<item id="20072" n="IMIPRAMINA EN SUERO" p="0.10000415282392" c="Laboratorio" o="2408"/>
+	<item id="16576" n="ÁCIDOS BILIARES TOTALES EN SUERO" p="0.100003991113122" c="Laboratorio" o="2255.01"/>
+	<item id="19753" n="ESTRADIOL LIBRE" p="0.100003584229391" c="Laboratorio" o="2790"/>
+	<item id="22207" n="AC IgG A ASPERGILLUS FUMIGATUS" p="0.100003547357219" c="Laboratorio" o="2819"/>
+	<item id="25095" n="DETECCIÓN VPH DE ALTO RIESGO POR PCR MASCULINO EN ORINA" p="0.100003511235955" c="Laboratorio" o="2848"/>
+	<item id="19135" n="INHIBINA A" p="0.100003351942823" c="Laboratorio" o="2685.01"/>
+	<item id="5015" n="NEUROCONDUCCION PLEXOPATIA CERVICAL" p="0.100003351942823" c="Electroencefalografia" o="2685.01"/>
+	<item id="5017" n="NEUROCONDUCCION MIEMBROS INFERIORES" p="0.100003346720214" c="Electroencefalografia" o="2988"/>
+	<item id="19389" n="DIAGNOSTICO DE EMBARAZO (REQUISITO LEGAL)" p="0.100003154673649" c="Laboratorio" o="316.99"/>
+	<item id="19185" n="AC IgG, IgM, IgA Toxocara canis" p="0.100003050640635" c="Laboratorio" o="3278"/>
+	<item id="19305" n="AC IgG, IgM, IgE ECHINOCOCCUS sp." p="0.100003050640635" c="Laboratorio" o="3278"/>
+	<item id="19725" n="AC IGM ANTI MIELINA ASOCIADA A GLICOPROTEINA" p="0.100003025199915" c="Laboratorio" o="2975.01"/>
+	<item id="22058" n="AC A VIRUS DE POLIO TIPO 1,2,3" p="0.100002971768202" c="Laboratorio" o="3365"/>
+	<item id="16616" n="C TELOPEPTIDOS EN SUERO" p="0.100002817695125" c="Laboratorio" o="3549"/>
+	<item id="16284" n="ISOENZIMAS DE AMILASA EN SUERO" p="0.100002817695125" c="Laboratorio" o="3549"/>
+	<item id="19446" n="INTERLEUCINA-6" p="0.10000272851296" c="Laboratorio" o="3665"/>
+	<item id="16830" n="PERFIL FT FIBROTEST" p="0.10000272851296" c="Laboratorio" o="3665"/>
+	<item id="17187" n="CD16+CD56+ (CÉLULAS NK) EN SANGRE" p="0.100002704318797" c="Laboratorio" o="3328.01"/>
+	<item id="99962" n="PERFIL DEFECTOS DE LA COAGULACION 1" p="0.100002702775751" c="Perfiles" o="369.99"/>
+	<item id="25013" n="DETECCIÓN DE PARVOVIRUS B-19 POR PCR" p="0.10000249500998" c="Laboratorio" o="4008"/>
+	<item id="19291" n="HER-2/NEU EN SUERO" p="0.100002444987775" c="Laboratorio" o="4090"/>
+	<item id="25031" n="GENOTIPO DE APOLIPOPROTEINA E" p="0.100002326663564" c="Laboratorio" o="4298"/>
+	<item id="16401" n="HOMOCISTEÍNA EN ORINA" p="0.100002283105023" c="Laboratorio" o="4380"/>
+	<item id="22070" n="HISTAMINA EN ORINA DE 24 HORAS" p="0.100002252810381" c="Laboratorio" o="3995.01"/>
+	<item id="5002" n="ELECTROMIOGRAFÍA RADICULOPATÍA CERVICA" p="0.100002179598954" c="Electroencefalografia" o="4588"/>
+	<item id="25228" n="DETECCIÓN DE MUTACIONES EN FACTOR II - FACTOR V" p="0.100002176536453" c="Laboratorio" o="4135.01"/>
+	<item id="19472" n="ANTIGENO GALACTOMANANO DE ASPERGILLUS" p="0.100002139037433" c="Laboratorio" o="4675"/>
+	<item id="13929" n="PERFIL CUIDA TU CORAZÓN BÁSICO" p="0.100002100884472" c="Perfiles" o="475.99"/>
+	<item id="20021" n="CONFIRMACIÓN DE CANABINOIDES EN ORINA" p="0.100002100345157" c="Laboratorio" o="4285.01"/>
+	<item id="19203" n="AC IgG A VIRUS SINCICIAL RESPIRATORIO" p="0.100002088646812" c="Laboratorio" o="4309.01"/>
+	<item id="17050" n="GLUCOSA-6-FOSFATO DESHIDROGENASA EN SANGRE" p="0.100002074684014" c="Laboratorio" o="4338.01"/>
+	<item id="99957" n="PERFIL PREVENCION DE CANCER 1 PLUS" p="0.100001890394904" c="Perfiles" o="528.99"/>
+	<item id="19459" n="ANTICUERPOS HORMONA ESTIMULANTE DE TIROIDES" p="0.100001883629377" c="Laboratorio" o="4778.01"/>
+	<item id="19616" n="ANTICUERPOS ANTI-TOXOCARA CATI IgG, IgM, IgA" p="0.100001798198205" c="Laboratorio" o="5005.01"/>
+	<item id="19392" n="Ac IgG, IgM BORRELIA BURGDORFERI CON PRUEBA REFLEJO DE INMUNOBLOT" p="0.100001759014952" c="Laboratorio" o="5685"/>
+	<item id="16831" n="PERFIL FB FIBROMAX" p="0.100001755926251" c="Laboratorio" o="5695"/>
+	<item id="25243" n="NUTRITEST" p="0.100001656177542" c="Laboratorio" o="6038"/>
+	<item id="19066" n="PROINSULINA" p="0.100001632653061" c="Laboratorio" o="6125"/>
+	<item id="25060" n="DETECCIÓN DEL VIRUS EPSTEIN-BARR (EBV) POR qPCR, MUESTRA BIOLÓGICA" p="0.100001596169194" c="Laboratorio" o="6265"/>
+	<item id="19443" n="AUTOANTICUERPOS IgG INTERFERON BETA" p="0.10000156930851" c="Laboratorio" o="5735.01"/>
+	<item id="25023" n="DETECCIÓN DE VIRUS DE HEPATITIS C POR RT-PCR" p="0.100001558846454" c="Laboratorio" o="6415"/>
+	<item id="19174" n="AC DESCARBOXILASA DE ÁCIDO GLUTÁMICO (GAD-65)" p="0.100001525553013" c="Laboratorio" o="6555"/>
+	<item id="16001" n="UROPORFIRINAS EN ORINA DE 24 HORAS" p="0.10000149142431" c="Laboratorio" o="6705"/>
+	<item id="98511" n="PERFIL PRENATAL TERCER TRIMESTRE CA" p="0.10000148150343" c="Perfiles" o="674.99"/>
+	<item id="25129" n="GENOTIPO DEL GEN MTHFR (METIL TETRA-HIDROFOLATO REDUCTASA)" p="0.100001401541696" c="Laboratorio" o="7135"/>
+	<item id="25196" n="DETECCION DE HIV-1 POR PCR EN SEMEN" p="0.100001394265849" c="Laboratorio" o="6455.01"/>
+	<item id="25085" n="DETECCIÓN POLIOMAVIRUS JC POR PCR EN SANGRE TOTAL" p="0.100001279315879" c="Laboratorio" o="7035.01"/>
+	<item id="100556" n="PREVENCIÓN MUJER ADULTA" p="0.100001212135905" c="Perfiles" o="824.99"/>
+	<item id="16338" n="ÁCIDOS GRASOS DE CADENA MUY LARGA" p="0.100001181876321" c="Laboratorio" o="7615.01"/>
+	<item id="24012" n="CARIOTIPO DE ALTA RESOLUCION" p="0.100001160227405" c="Laboratorio" o="8619"/>
+	<item id="19440" n="ANDROSTERONA" p="0.100001145475372" c="Laboratorio" o="8730"/>
+	<item id="17078" n="VITAMINA K EN PLASMA" p="0.100001125492403" c="Laboratorio" o="8885"/>
+	<item id="12076" n="PERFIL REUMATOLOGICO II" p="0.100001032002394" c="Perfiles" o="968.99"/>
+	<item id="25009" n="GENOTIPO PARA HEPATITIS C" p="0.100001018328787" c="Laboratorio" o="8838.01"/>
+	<item id="12078" n="PERFIL PROSTATICO I" p="0.100000925934499" c="Perfiles" o="1079.99"/>
+	<item id="25052" n="CARGA VIRAL DE HERPES SIMPLE 1 Y 2 POR PCR" p="0.100000899442346" c="Laboratorio" o="11118"/>
+	<item id="12435" n="PERFIL FUNCIONAL HEPATICO II" p="0.100000812354284" c="Perfiles" o="1230.99"/>
+	<item id="25029" n="DETECCIÓN DE DISTROFIA MUSCULAR DE DUCHENNE POR MLPA" p="0.100000734393526" c="Laboratorio" o="12255.01"/>
+	<item id="100537" n="PERFIL BIOPSIA DE ENDOMETRIO" p="0.100000726749468" c="Perfiles" o="1375.99"/>
+	<item id="16316" n="HEXOSAMINIDASA A EN SUERO" p="0.100000717416726" c="Laboratorio" o="12545.01"/>
+	<item id="100679" n="PERFIL PREOPERATORIO Q45 II" p="0.100000714801392" c="Frecuentes" o="1398.99"/>
+	<item id="12113" n="PERFIL ANEMIAS I" p="0.100000714801392" c="Perfiles" o="1398.99"/>
+	<item id="25209" n="ESPECIFICIDAD DE ANTICUERPOS HLA CLASE I Y II POR LUMINOMETRIA (PRA)" p="0.100000700819959" c="Laboratorio" o="14269"/>
+	<item id="16539" n="ÁCIDOS ORGÁNICOS EN ORINA" p="0.100000680966973" c="Laboratorio" o="14685"/>
+	<item id="19577" n="ANTICUERPOS MUSK" p="0.100000677965591" c="Laboratorio" o="13275.01"/>
+	<item id="20131" n="MANGANESO RBC" p="0.100000618433014" c="Laboratorio" o="1616.99"/>
+	<item id="101052" n="PERFIL BASICO MUJER" p="0.100000592069817" c="Perfiles" o="1688.99"/>
+	<item id="101142" n="PERFIL DE ENFERMEDAD RENAL CRÓNICA" p="0.100000575046435" c="Perfiles" o="1738.99"/>
+	<item id="98339" n="VPH CAPTURA DE HÍBRIDOS DEC (QIAGEN" p="0.100000543776747" c="Perfiles" o="1838.99"/>
+	<item id="100950" n="PERFIL PAQUETE BASICO HEPATICO" p="0.10000052029407" c="Perfiles" o="1921.99"/>
+	<item id="101265" n="CHECK UP PREVENTIVO" p="0.100000505308263" c="Check up" o="1978.99"/>
+	<item id="12082" n="PERFIL INFERTILIDAD III" p="0.100000454754228" c="Perfiles" o="2198.99"/>
+	<item id="16954" n="FENILALANINA EN PLASMA" p="0.100000437447233" c="Laboratorio" o="2285.99"/>
+	<item id="100820" n="PERFIL DE EVALUACIÓN DE ENTRENAMIENTO" p="0.100000434784499" c="Perfiles" o="2299.99"/>
+	<item id="101133" n="DIAGNÓSTICO HIPERTENSIÓN" p="0.100000431222213" c="Perfiles" o="2318.99"/>
+	<item id="101003" n="PERFIL GASTROINTESTINAL" p="0.100000392158401" c="Perfiles" o="2549.99"/>
+	<item id="101141" n="PANEL VIRAL PARA INSUFICIENCIA HEPÁ" p="0.100000390779174" c="Perfiles" o="2558.99"/>
+	<item id="12068" n="PERFIL PRENATAL III" p="0.100000377217568" c="Perfiles" o="2650.99"/>
+	<item id="10000111" n="PERFIL CLIMATERIO" p="0.100000369141267" c="Perfiles" o="2708.99"/>
+	<item id="17207" n="HEMOGLOBINOPATIAS EVALUACIÓN POR HPLC" p="0.100000296401684" c="Laboratorio" o="33738"/>
+	<item id="16123" n="GALACTOSA FOSFATO URIDIL TRANSFERASA" p="0.100000144135834" c="Laboratorio" o="69379"/>
+	<item id="100713" n="PERFIL RIESGO CARDIOVASC. I Q45" p="0.1" c="Perfiles" o="1329"/>
+	<item id="12077" n="PERFIL REUMATOLOGICO III" p="0.1" c="Perfiles" o="1329"/>
+	<item id="100246" n="CONTROL DIABETES" p="0.1" c="Perfiles" o="1299"/>
+	<item id="12081" n="PERFIL INFERTILIDAD II" p="0.1" c="Perfiles" o="1239"/>
+	<item id="12232" n="TAMIZ METAB. NEONATAL II" p="0.1" c="Perfiles" o="1229"/>
+	<item id="12783" n="PERFIL DE MARCADORES TUMORALES I" p="0.1" c="Perfiles" o="1159"/>
+	<item id="18020" n="HISTOPATOLÓGICO DE BIOPSIA DE MAMA" p="0.1" c="Laboratorio" o="1239"/>
+	<item id="19046" n="ALERGENO IgE ASCARIS LUMBRICOIDES" p="0.1" c="Laboratorio" o="2278"/>
+	<item id="19243" n="AC IgE DERMATOPHAGOIDES FARINAE" p="0.1" c="Laboratorio" o="1279"/>
+	<item id="19660" n="DETECCIÓN DE BRUCELLA POR SAT" p="0.1" c="Laboratorio" o="2468"/>
+	<item id="19733" n="AC IgE A YEMA DE HUEVO" p="0.1" c="Laboratorio" o="148"/>
+	<item id="20076" n="METANOL EN ORINA" p="0.1" c="Laboratorio" o="1139"/>
+	<item id="20104" n="HIDROCARBUROS Y SUSTANCIAS OXIGENADAS EN ORINA" p="0.1" c="Laboratorio" o="2478"/>
+	<item id="22182" n="ANTIGENO p24" p="0.1" c="Laboratorio" o="2578"/>
+	<item id="100685" n="CHECK-UP BASICO MASCULINO Q45" p="0.1" c="Check up" o="1329"/>
+	<item id="16516" n="CATECOLAMINAS EN ORINA ALAZAR" p="0.1" c="Laboratorio" o="2618"/>
+	<item id="16273" n="ISOENZIMAS DE CK EN SANGRE" p="0.1" c="Laboratorio" o="1199"/>
+	<item id="16171" n="UREA EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="158"/>
+	<item id="16118" n="CATECOLAMINAS EN PLASMA" p="0.1" c="Laboratorio" o="1239"/>
+	<item id="22235" n="TIROXINA UNIDA A GLOBULINA" p="0.1" c="Laboratorio" o="2378"/>
+	<item id="100704" n="PERFIL HORMONAL Q45 3 CON IMPLANTES" p="0.1" c="Perfiles" o="1499"/>
+	<item id="100699" n="PERFIL ENFERMEDAD RENAL Q45 III" p="0.1" c="Perfiles" o="1349"/>
+	<item id="100694" n="PERFIL DEPORTISTAS Q45 1" p="0.1" c="Perfiles" o="1499"/>
+	<item id="100705" n="PERFIL II INSUFICIENCIA RENAL Q45" p="0.1" c="Perfiles" o="1449"/>
+	<item id="100750" n="PERFIL PARA PACIENTE NO DIABETICO" p="0.1" c="Perfiles" o="1429"/>
+	<item id="100975" n="PERFIL MEDICO HOMBRE" p="0.1" c="Perfiles" o="1429"/>
+	<item id="101013" n="PERFIL NIÑOS Y ADOLESCENTES" p="0.1" c="Perfiles" o="1509"/>
+	<item id="101130" n="PERFIL SEGUIMIENTO DIABETES 1" p="0.1" c="Perfiles" o="1479"/>
+	<item id="101430" n="PERFIL FEMENINO II" p="0.1" c="Perfiles" o="1469"/>
+	<item id="12098" n="PERFIL HEPATICO II" p="0.1" c="Perfiles" o="1339"/>
+	<item id="12807" n="PERFIL MARCADOR TUMORAL DE MAMA" p="0.1" c="Perfiles" o="1499"/>
+	<item id="13632" n="PERFIL PREVENCION FEMENINA" p="0.1" c="Perfiles" o="1499"/>
+	<item id="98349" n="PAQUETE VPH" p="0.1" c="Perfiles" o="1649"/>
+	<item id="98799" n="PERFIL SINDROME METABOLICO WEB" p="0.1" c="Perfiles" o="1429"/>
+	<item id="99914" n="PERFIL TAMIZ NEONATAL TANDEM" p="0.1" c="Perfiles" o="1509"/>
+	<item id="17324" n="INMUNOFENOTIPO 2 CD3/CD5/CD10/CD13/CD19/CD20/CD23/CD33/CD34/CD72/CD177" p="0.1" c="Laboratorio" o="2938"/>
+	<item id="18079" n="HISTOPATOLÓGICO DE BIOPSIA TRANSRECTAL DE PRÓSTATA" p="0.1" c="Laboratorio" o="1429"/>
+	<item id="19210" n="AC IgE POLVO CASERO" p="0.1" c="Laboratorio" o="1529"/>
+	<item id="19219" n="11-DEOXYCORTISOL" p="0.1" c="Laboratorio" o="2898"/>
+	<item id="19236" n="AC IgE LECHE DE VACA" p="0.1" c="Laboratorio" o="1469"/>
+	<item id="19298" n="AC IGM LEPTOSPIRA" p="0.1" c="Laboratorio" o="1349"/>
+	<item id="19441" n="AC IgM, IgG CHLAMYDIA TRACHOMATIS (IFI)" p="0.1" c="Laboratorio" o="2978"/>
+	<item id="19568" n="AC IgM CITOMEGALOVIRUS EN SUERO (Q)" p="0.1" c="Laboratorio" o="1679"/>
+	<item id="19627" n="ANTI-TIROSINA FOSFATASA" p="0.1" c="Laboratorio" o="3048"/>
+	<item id="22039" n="PERFIL DE HEPATITIS VIRAL EN SUERO" p="0.1" c="Laboratorio" o="3018"/>
+	<item id="5011" n="ELECTROENCEFALOGRAMA CON MAPEO CEREBRAL" p="0.1" c="Electroencefalografia" o="1629"/>
+	<item id="17025" n="PLASMODIUM EN SANGRE" p="0.1" c="Laboratorio" o="208"/>
+	<item id="16286" n="LIPOPROTEÍNA (a) EN SUERO" p="0.1" c="Laboratorio" o="1429"/>
+	<item id="16145" n="5-NUCLEOTIDASA EN SANGRE" p="0.1" c="Laboratorio" o="1609"/>
+	<item id="16096" n="GAMMA GLUTAMIL TRANSPEPTIDASA EN SUERO" p="0.1" c="Laboratorio" o="198"/>
+	<item id="16075" n="TRANSAMINASA GLUTÁMICO PIRÚVICA (ALT) SUERO" p="0.1" c="Laboratorio" o="198"/>
+	<item id="15134" n="CULTIVO DE VIRUS EN EXUDADOS" p="0.1" c="Laboratorio" o="2868"/>
+	<item id="24001" n="CARIOTIPO EN SANGRE PERIFÉRICA CON FOTOGRAFíA" p="0.1" c="Laboratorio" o="3088"/>
+	<item id="22286" n="AC VIRUS COXSACKIE A Y B EN SUERO" p="0.1" c="Laboratorio" o="21689"/>
+	<item id="22283" n="TESTOSTERONA LIBRE Y TOTAL" p="0.1" c="Laboratorio" o="1479"/>
+	<item id="10000336" n="PERFIL GENETICO" p="0.1" c="Perfiles" o="2109"/>
+	<item id="10000386" n="PERFIL BACTERIOLOGICO" p="0.1" c="Perfiles" o="2149"/>
+	<item id="100459" n="ANTICUERPOS ANTILEPTOSPIRA IGG E IG" p="0.1" c="Perfiles" o="2159"/>
+	<item id="100749" n="PERFIL PARA PACIENTE DIABETICO" p="0.1" c="Perfiles" o="1719"/>
+	<item id="100760" n="PERFIL PARA PACIENTE DIABETICO" p="0.1" c="Perfiles" o="1719"/>
+	<item id="101055" n="PERFIL MEDICO MUJER 1" p="0.1" c="Perfiles" o="1789"/>
+	<item id="101266" n="PERFIL TIROIDEO AUTOINMUNE" p="0.1" c="Perfiles" o="1819"/>
+	<item id="12175" n="PERFIL HORMONAL MASCULINO II" p="0.1" c="Perfiles" o="1739"/>
+	<item id="12285" n="PERFIL DE REMODELADO OSEO" p="0.1" c="Perfiles" o="1929"/>
+	<item id="12784" n="PERFIL DE MARCADORES TUMORALES II" p="0.1" c="Perfiles" o="1919"/>
+	<item id="13633" n="PERFIL PREVENCION MASCULINA" p="0.1" c="Perfiles" o="1719"/>
+	<item id="99814" n="PERFIL ANDROGENICO FEMENINO" p="0.1" c="Perfiles" o="1939"/>
+	<item id="19905" n="ANTICUERPOS ANTI-NEURONALES EN SUERO (SINDROME PARANEOPLASICO)" p="0.1" c="Laboratorio" o="3488"/>
+	<item id="17189" n="CD3 (CÉLULAS T) EN SANGRE" p="0.1" c="Laboratorio" o="1779"/>
+	<item id="17238" n="HEMOGLOBINOPATIA NEONATAL" p="0.1" c="Laboratorio" o="218"/>
+	<item id="18031" n="HISTOPATOLÓGICO DE AMIGDALECTOMÍA" p="0.1" c="Laboratorio" o="1789"/>
+	<item id="18059" n="HISTOPATOLÓGICO DE ÚTERO CON ANEXO(S)" p="0.1" c="Laboratorio" o="1759"/>
+	<item id="19020" n="WESTERN BLOT PARA HIV-1" p="0.1" c="Laboratorio" o="3588"/>
+	<item id="19097" n="TORCH IgG EN LCR" p="0.1" c="Laboratorio" o="2249"/>
+	<item id="19183" n="MIOGLOBINA EN SUERO" p="0.1" c="Laboratorio" o="2219"/>
+	<item id="19191" n="ANTÍGENO TUMORAL DE VEJIGA" p="0.1" c="Laboratorio" o="3638"/>
+	<item id="19351" n="FACTOR DE CRECIMIENTO (IGF) BP-1" p="0.1" c="Laboratorio" o="1829"/>
+	<item id="19475" n="CUADRUPLE MARCADOR" p="0.1" c="Laboratorio" o="1709"/>
+	<item id="19533" n="PERFIL DE HEPATITIS (A, B, C)" p="0.1" c="Laboratorio" o="3408"/>
+	<item id="19696" n="ANTIGENO AVIARIO EN SUERO" p="0.1" c="Laboratorio" o="3888"/>
+	<item id="19847" n="PROTEÍNA DE LA MATRIZ NUCLEAR EN ORINA" p="0.1" c="Laboratorio" o="4168"/>
+	<item id="19852" n="AC IgG e IgM RICKETTSIA" p="0.1" c="Laboratorio" o="2119"/>
+	<item id="20143" n="RISPERIDONA EN SUERO" p="0.1" c="Laboratorio" o="3848"/>
+	<item id="20175" n="PROPOXIFENO EN ORINA" p="0.1" c="Laboratorio" o="3998"/>
+	<item id="22005" n="AC ANTI-DNA DE UNA CADENA" p="0.1" c="Laboratorio" o="2249"/>
+	<item id="22187" n="ANDROSTENEDIOL" p="0.1" c="Laboratorio" o="3388"/>
+	<item id="22189" n="HORMONA ANTIDIURÉTICA (VASOPRESINA)" p="0.1" c="Laboratorio" o="3688"/>
+	<item id="22210" n="1, 25 DIHIDROXI VITAMINA D (CALCITRIOL)" p="0.1" c="Laboratorio" o="3448"/>
+	<item id="19036" n="V.D.R.L." p="0.1" c="Laboratorio" o="129"/>
+	<item id="17230" n="BIOMETRIA HEMATICA CON FROTIS SANGUINEO" p="0.1" c="Laboratorio" o="248"/>
+	<item id="17065" n="LINFOCITOS CD4 Y CD8 EN SANGRE" p="0.1" c="Laboratorio" o="3388"/>
+	<item id="17032" n="TIEMPO DE PROTROMBINA EN PLASMA" p="0.1" c="Laboratorio" o="119"/>
+	<item id="16945" n="GALACTOSA EN ORINA" p="0.1" c="Laboratorio" o="3408"/>
+	<item id="16819" n="TRIPSINA SERICA" p="0.1" c="Laboratorio" o="2189"/>
+	<item id="16612" n="TAMIZ METABOLICO DE ALTO RIESGO" p="0.1" c="Laboratorio" o="1829"/>
+	<item id="16313" n="GLUCOSA POSTPRANDIAL 2 MUESTRAS EN SUERO" p="0.1" c="Laboratorio" o="248"/>
+	<item id="16281" n="INMUNOFIJACIÓN DE PROTEÍNAS EN SUERO" p="0.1" c="Laboratorio" o="4398"/>
+	<item id="16248" n="PIRUVATO CINASA EN SANGRE" p="0.1" c="Laboratorio" o="3888"/>
+	<item id="16012" n="ALBÚMINA EN SUERO" p="0.1" c="Laboratorio" o="228"/>
+	<item id="16003" n="XILOSA EN ORINA DE 5 HORAS" p="0.1" c="Laboratorio" o="3738"/>
+	<item id="25075" n="DETECCIÓN DE MYCOBACTERIUM TUBERCULOSIS POR PCR" p="0.1" c="Laboratorio" o="3668"/>
+	<item id="15003" n="BACILOSCOPÍA DE EXUDADOS DIVERSOS" p="0.1" c="Laboratorio" o="218"/>
+	<item id="22223" n="AC IgG PARÓTIDA" p="0.1" c="Laboratorio" o="1899"/>
+	<item id="12046" n="PERFIL PREDIABETES" p="0.1" c="Perfiles" o="159"/>
+	<item id="10000125" n="PERFIL ENZIMAS CARDIACAS BAN" p="0.1" c="Perfiles" o="2329"/>
+	<item id="101143" n="PERFIL DE ENFERMEDAD RENAL CRÓNICA" p="0.1" c="Perfiles" o="2939"/>
+	<item id="101145" n="PERFIL CINEMÁTICA DE HIERRO" p="0.1" c="Perfiles" o="2659"/>
+	<item id="101299" n="PERFIL LUPUS" p="0.1" c="Perfiles" o="3209"/>
+	<item id="12067" n="PERFIL PRENATAL II" p="0.1" c="Perfiles" o="1537"/>
+	<item id="12084" n="PERFIL ENF.TRANS. SEXUAL I FEM" p="0.1" c="Perfiles" o="2379"/>
+	<item id="12118" n="PERFIL ENF.TRANS. SEXUAL I HOM" p="0.1" c="Perfiles" o="2459"/>
+	<item id="12331" n="PERFIL DE HEPATITIS A,B,C" p="0.1" c="Perfiles" o="2819"/>
+	<item id="12437" n="PERFIL DIAGNOSTICO HEPATITIS B" p="0.1" c="Perfiles" o="2409"/>
+	<item id="12785" n="PERFIL DE MARCADORES TUMORALES III" p="0.1" c="Perfiles" o="3409"/>
+	<item id="98556" n="PERFIL GLUCOSA PRE Y POST PRANDIAL" p="0.1" c="Perfiles" o="199"/>
+	<item id="19293" n="AUTOAC CANALES DE CALCIO ACTIVADOS POR VOLTAJE" p="0.1" c="Laboratorio" o="5558"/>
+	<item id="19768" n="AC ANTI HCV (INMUNOBLOT)" p="0.1" c="Laboratorio" o="3269"/>
+	<item id="17079" n="RESISTENCIA A LA PROTEÍNA C ACTIVADA EN PLASMA" p="0.1" c="Laboratorio" o="5468"/>
+	<item id="17080" n="HEPARINA CIRCULANTE (Inhibición de Factor Xa)" p="0.1" c="Laboratorio" o="5448"/>
+	<item id="17118" n="DEGRANULACIÓN DE BASÓFILOS EN SANGRE" p="0.1" c="Laboratorio" o="2509"/>
+	<item id="18071" n="HISTOPATOLÓGICO DE AMPUTACIÓN O DESARTICULACIÓN" p="0.1" c="Laboratorio" o="2369"/>
+	<item id="19016" n="PRUEBA INMUNOLÓGICA DE EMBARAZO" p="0.1" c="Laboratorio" o="288"/>
+	<item id="19142" n="AUTOAC IgG MICROSOMAS DE HIGADO Y RIÑON (LKM-1)" p="0.1" c="Laboratorio" o="338"/>
+	<item id="19188" n="AC ANTI-GANGLIOSIDO-ASIALO-GM-1 EN SUERO" p="0.1" c="Laboratorio" o="2769"/>
+	<item id="19244" n="ESTRIOL NO CONJUGADO EN SUERO" p="0.1" c="Laboratorio" o="358"/>
+	<item id="19413" n="ANTIGENO PROSTATICO ESPECIFICO COMPLEX (cPSA)" p="0.1" c="Laboratorio" o="6028"/>
+	<item id="19602" n="AC MODULARES DE ACETIL COLINA" p="0.1" c="Laboratorio" o="3239"/>
+	<item id="19729" n="PROTEINA EPIDIDIMAL HUMANA 4 (HE4)" p="0.1" c="Laboratorio" o="4558"/>
+	<item id="20013" n="LITIO EN SUERO" p="0.1" c="Laboratorio" o="398"/>
+	<item id="20064" n="COBRE EN SUERO" p="0.1" c="Laboratorio" o="398"/>
+	<item id="2012" n="VIDEOENDOSCOPÍA" p="0.1" c="Chequeos" o="2399"/>
+	<item id="21012" n="INVESTIGACIÓN DE PARÁSITO" p="0.1" c="Laboratorio" o="169"/>
+	<item id="21013" n="pH EN HECES" p="0.1" c="Laboratorio" o="179"/>
+	<item id="21019" n="CITOLOGíA EN MOCO FECAL" p="0.1" c="Laboratorio" o="338"/>
+	<item id="21027" n="COPROANTIGENO DE ENTAMOEBA HISTOLYTICA (ADHESINAS)" p="0.1" c="Laboratorio" o="2589"/>
+	<item id="22031" n="HORMONA DE CRECIMIENTO EN SUERO" p="0.1" c="Laboratorio" o="199"/>
+	<item id="22035" n="HORMONA LUTEINIZANTE" p="0.1" c="Laboratorio" o="358"/>
+	<item id="22056" n="PERFIL AUTOINMUNIDAD I" p="0.1" c="Laboratorio" o="3099"/>
+	<item id="22171" n="ESTRONA" p="0.1" c="Laboratorio" o="4538"/>
+	<item id="5005" n="ELECTROMIOGRAFÍA MIASTENIA GRAVIS" p="0.1" c="Electroencefalografia" o="3089"/>
+	<item id="22012" n="ANTÍGENO PROSTÁTICO ESPECÍFICO TOTAL EN SUERO" p="0.1" c="Laboratorio" o="288"/>
+	<item id="17022" n="COOMBS DIRECTO" p="0.1" c="Laboratorio" o="348"/>
+	<item id="17016" n="HEMATÓCRITO" p="0.1" c="Laboratorio" o="159"/>
+	<item id="17015" n="METAHEMOGLOBINA EN SANGRE" p="0.1" c="Laboratorio" o="398"/>
+	<item id="17007" n="EOSINÓFILOS EN SANGRE" p="0.1" c="Laboratorio" o="169"/>
+	<item id="16893" n="ELASTASA PANCREATICA EN HECES" p="0.1" c="Laboratorio" o="4558"/>
+	<item id="16851" n="TRIPTASA EN SUERO" p="0.1" c="Laboratorio" o="2519"/>
+	<item id="16769" n="ADENOSIN DESAMINASA EN LÍQUIDO PLEURAL" p="0.1" c="Laboratorio" o="3239"/>
+	<item id="16429" n="TIROSINA EN SANGRE" p="0.1" c="Laboratorio" o="398"/>
+	<item id="16403" n="RELACIÓN CALCIO CREATININA EN ORINA DE 2 HORAS" p="0.1" c="Laboratorio" o="189"/>
+	<item id="16294" n="ELECTROFORESIS DE PROTEÍNAS EN LCR" p="0.1" c="Laboratorio" o="2879"/>
+	<item id="16278" n="QUÍMICA DE 3 ELEMENTOS" p="0.1" c="Laboratorio" o="358"/>
+	<item id="16277" n="FRUCTOSA EN SEMEN CUANTITATIVA" p="0.1" c="Laboratorio" o="398"/>
+	<item id="25226" n="PANEL DE ENFERMEDADES DE TRANSMISIÓN SEXUAL POR PCR" p="0.1" c="Laboratorio" o="3089"/>
+	<item id="16200" n="MUCOPOLISACARIDOS EN ORINA" p="0.1" c="Laboratorio" o="5658"/>
+	<item id="16166" n="QUÍMICA DE 5 ELEMENTOS" p="0.1" c="Laboratorio" o="408"/>
+	<item id="16115" n="DESHIDROGENASA LÁCTICA EN SUERO" p="0.1" c="Laboratorio" o="159"/>
+	<item id="25180" n="DETECCION DE RICKETTSIA POR PCR" p="0.1" c="Laboratorio" o="6878"/>
+	<item id="16078" n="GALACTOSA EN PLASMA" p="0.1" c="Laboratorio" o="6458"/>
+	<item id="16059" n="ALDOLASA EN SUERO" p="0.1" c="Laboratorio" o="398"/>
+	<item id="16044" n="BILIRRUBINAS EN SANGRE" p="0.1" c="Laboratorio" o="169"/>
+	<item id="16041" n="BICARBONATO EN SANGRE" p="0.1" c="Laboratorio" o="159"/>
+	<item id="16029" n="COLINESTERASA EN SUERO" p="0.1" c="Laboratorio" o="298"/>
+	<item id="15203" n="DETECCIÓN DE ANTÍGENO DE CRYPTOCOCCUS NEOFORMANS" p="0.1" c="Laboratorio" o="2449"/>
+	<item id="15051" n="CULTIVO UNGUEAL" p="0.1" c="Laboratorio" o="408"/>
+	<item id="15034" n="MICROSCOPÍA DE EXUDADO FARÍNGEO" p="0.1" c="Laboratorio" o="179"/>
+	<item id="15020" n="CULTIVO DE LÍQUIDO SEMINAL" p="0.1" c="Laboratorio" o="408"/>
+	<item id="24022" n="PRADER-WILLI/ANGELMAN, FISH" p="0.1" c="Laboratorio" o="6148"/>
+	<item id="1010" n="EST.OTONEUROLOGICO COMPLETO" p="0.1" c="Audiología" o="3989"/>
+	<item id="10000124" n="PERFIL ANDROGENOS TOTALES BAN" p="0.1" c="Perfiles" o="3859"/>
+	<item id="100238" n="PERFIL HORMONAL" p="0.1" c="Perfiles" o="4349"/>
+	<item id="12085" n="PERFIL ENF.TRANS.SEXUAL II FEM" p="0.1" c="Perfiles" o="3829"/>
+	<item id="13754" n="PERFIL TRANSAMINASAS (TGO-TGP)" p="0.1" c="Perfiles" o="259"/>
+	<item id="13755" n="PERFIL SEGUIMIENTO HEPÁTICO (TRANSA" p="0.1" c="Perfiles" o="279"/>
+	<item id="98830" n="PERFIL GLUCOSA COLESTEROL Y TRIGLIC" p="0.1" c="Perfiles" o="259"/>
+	<item id="17114" n="REDUCCIÓN DE NBT (PRUEBA DE FAGOCITOSIS EN SANGRE)" p="0.1" c="Laboratorio" o="4179"/>
+	<item id="17242" n="ELECTROFORESIS DE HEMOGLOBINA ÁCIDA" p="0.1" c="Laboratorio" o="508"/>
+	<item id="19035" n="AC ANTI-Treponema pallidum" p="0.1" c="Laboratorio" o="488"/>
+	<item id="19193" n="AC IgM CÁPSIDE VIRUS DE EPSTEIN BARR" p="0.1" c="Laboratorio" o="498"/>
+	<item id="19228" n="AC IgG, IgM, IgA Salmonella" p="0.1" c="Laboratorio" o="4179"/>
+	<item id="19292" n="AC IGG ANTI TREPONEMA PALLIDUM EN LCR (FTA-ABS)" p="0.1" c="Laboratorio" o="438"/>
+	<item id="19316" n="AC IgG TOXOIDE TETÁNICO Y DIFTERIA" p="0.1" c="Laboratorio" o="3709"/>
+	<item id="19340" n="AC IgE GLUTEN" p="0.1" c="Laboratorio" o="488"/>
+	<item id="19523" n="Ac IgG, IgM, e IgA A COXIELLA BURNETII" p="0.1" c="Laboratorio" o="3959"/>
+	<item id="19688" n="DETERMINACION DE TRES ALERGENOS ALIMENTICIOS." p="0.1" c="Laboratorio" o="259"/>
+	<item id="20150" n="LEVETIRACETAM EN SUERO" p="0.1" c="Laboratorio" o="3569"/>
+	<item id="22076" n="COMPLEJOS INMUNES CIRCULANTES EN SUERO" p="0.1" c="Laboratorio" o="3519"/>
+	<item id="17054" n="PROTEINA S (ACTIVIDAD) EN PLASMA" p="0.1" c="Laboratorio" o="3529"/>
+	<item id="17011" n="FIBRINÓGENO EN PLASMA" p="0.1" c="Laboratorio" o="508"/>
+	<item id="17009" n="FOSFATASA ALCALINA LEUCOCITARIA" p="0.1" c="Laboratorio" o="518"/>
+	<item id="39117" n="TIEMPO DE SANGRADO" p="0.1" c="Tomadores" o="478"/>
+	<item id="16540" n="ÁCIDOS ORGÁNICOS EN SUERO" p="0.1" c="Laboratorio" o="7798"/>
+	<item id="16497" n="PROTEÍNAS TOTALES EN LCR" p="0.1" c="Laboratorio" o="229"/>
+	<item id="16389" n="OXALATO EN SUERO" p="0.1" c="Laboratorio" o="3849"/>
+	<item id="16345" n="BICARBONATO EN ORINA" p="0.1" c="Laboratorio" o="269"/>
+	<item id="16210" n="LISOZIMA EN SANGRE" p="0.1" c="Laboratorio" o="3679"/>
+	<item id="16194" n="VITAMINA B6 EN SANGRE" p="0.1" c="Laboratorio" o="3999"/>
+	<item id="16154" n="DEPURACIÓN DE UREA" p="0.1" c="Laboratorio" o="219"/>
+	<item id="25130" n="DETECCION DE BORRELIA BURGDORFERI POR PCR" p="0.1" c="Laboratorio" o="4509"/>
+	<item id="25128" n="CHLAMYDIA TRACHOMATIS POR PCR EN ORINA" p="0.1" c="Laboratorio" o="4509"/>
+	<item id="25125" n="HUELLA DE ADN (INDIVIDUAL)" p="0.1" c="Laboratorio" o="3559"/>
+	<item id="15133" n="CULTIVO DE HONGOS EN EXPECTORACIÓN" p="0.1" c="Laboratorio" o="448"/>
+	<item id="15009" n="CULTIVO DE EXUDADO NASOFARÍNGEO" p="0.1" c="Laboratorio" o="538"/>
+	<item id="24004" n="CARIOTIPO PARA ENFERMEDADES ONCOHEMATÓLOGICAS EN MÉDULA ÓSEA" p="0.1" c="Laboratorio" o="3519"/>
+	<item id="22292" n="INMUNOGLOBULINA A (IgA) EN SUERO" p="0.1" c="Laboratorio" o="438"/>
+	<item id="21045" n="CALPROTECTINA EN HECES" p="0.1" c="Laboratorio" o="5265"/>
+	<item id="1009" n="ELECTRONISTAGMOGRAFIA" p="0.1" c="Audiología" o="2415"/>
+	<item id="25263" n="PANEL DE VIRUS RESPIRATORIO POR PCR" p="0.1" c="Laboratorio" o="4665"/>
+	<item id="100536" n="PERFIL BIOPSIA DE CERVIX" p="0.1" c="Perfiles" o="1325"/>
+	<item id="18136" n="EMMA MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="1165"/>
+	<item id="19901" n="AC IGM A VIRUS DEL ZIKA (ZIKV)" p="0.1" c="Laboratorio" o="1155"/>
+	<item id="20232" n="CONFIRMACIÓN DE BENZODIACEPINAS EN ORINA" p="0.1" c="Laboratorio" o="3390"/>
+	<item id="20276" n="VERIFICACIÓN DE AMINOACIDOS Y ACILCARNITINAS" p="0.1" c="Laboratorio" o="575"/>
+	<item id="5022" n="POTENCIALES EVOCADOS VISUALES" p="0.1" c="Electroencefalografia" o="2175"/>
+	<item id="19597" n="RENINA ACTIVADA EN PLASMA" p="0.1" c="Laboratorio" o="3335"/>
+	<item id="19639" n="PRECIPITINAS DE ASPERGILLUS" p="0.1" c="Laboratorio" o="1025"/>
+	<item id="1002" n="CAPACIDAD AUDITIVA" p="0.1" c="Audiología" o="605"/>
+	<item id="1004" n="OÍDO MEDIO" p="0.1" c="Audiología" o="565"/>
+	<item id="16841" n="PERFIL DE AMINOACIDOS (CAPA FINA) EN SANGRE SECA" p="0.1" c="Laboratorio" o="525"/>
+	<item id="17081" n="PROTEÍNA S ANTÍGENO LIBRE EN PLASMA" p="0.1" c="Laboratorio" o="3570"/>
+	<item id="17082" n="PROTEÍNA S ANTÍGENO TOTAL EN PLASMA" p="0.1" c="Laboratorio" o="3245"/>
+	<item id="17083" n="PROTEÍNA C ANTÍGENO EN PLASMA" p="0.1" c="Laboratorio" o="4195"/>
+	<item id="17090" n="ANTÍGENO DEL ACTIVADOR TISULAR DEL PLASMINÓGENO" p="0.1" c="Laboratorio" o="4835"/>
+	<item id="17092" n="ANTIGENO INHIBIDOR DEL ACTIVADOR DEL PLASMINOGENO (ANTIGENO PAI-1)" p="0.1" c="Laboratorio" o="3425"/>
+	<item id="17093" n="MONÓMEROS DE FIBRINA EN PLASMA" p="0.1" c="Laboratorio" o="2025"/>
+	<item id="17098" n="FOSFATIDILSERINA ANTICUERPOS EN SUERO" p="0.1" c="Laboratorio" o="3790"/>
+	<item id="17104" n="DREPANOCITOS (INDUCCIÓN EN SANGRE)" p="0.1" c="Laboratorio" o="135"/>
+	<item id="17113" n="HLA B27 EN SANGRE" p="0.1" c="Laboratorio" o="3765"/>
+	<item id="17117" n="Ac. GLICOPROT. PLAQUETARIA IIb/IIIa, Ia/IIa, Ib/IX" p="0.1" c="Laboratorio" o="9335"/>
+	<item id="17137" n="HEMOSIDERINA EN ORINA" p="0.1" c="Laboratorio" o="440"/>
+	<item id="17138" n="HPN EN SANGRE" p="0.1" c="Laboratorio" o="2415"/>
+	<item id="17142" n="HEMOSIDERINA EN SANGRE" p="0.1" c="Laboratorio" o="460"/>
+	<item id="17153" n="ANTITROMBINA III ANTÍGENO EN PLASMA" p="0.1" c="Laboratorio" o="2960"/>
+	<item id="17157" n="LEUCEMIA/LINFOMA INMUNOFENOTIPO M. ÓSEA" p="0.1" c="Laboratorio" o="11330"/>
+	<item id="17159" n="C1 ESTERASA INHIBIDOR EN SUERO" p="0.1" c="Laboratorio" o="2260"/>
+	<item id="17215" n="ZAP-70" p="0.1" c="Laboratorio" o="13195"/>
+	<item id="17234" n="ANTICUERPOS ANTI PLAQUETARIOS, INDIRECTOS (IGG)" p="0.1" c="Laboratorio" o="4340"/>
+	<item id="17240" n="ACTIVACIÓN DE BASÓFILOS" p="0.1" c="Laboratorio" o="2615"/>
+	<item id="17247" n="ENFERMEDAD MINIMA RESIDUAL PANEL B" p="0.1" c="Laboratorio" o="3795"/>
+	<item id="17251" n="CD45LowCD34+ (BÚSQUEDA DE BLASTOS)" p="0.1" c="Laboratorio" o="880"/>
+	<item id="17257" n="CD45" p="0.1" c="Laboratorio" o="925"/>
+	<item id="17281" n="LINFOCITOS CD3, CD4, CD8 Y CD19" p="0.1" c="Laboratorio" o="770"/>
+	<item id="17323" n="INMUNOFENOTIPO 1 CD3/CD5/CD7/CD10/CD19/CD20/CD23/CD45" p="0.1" c="Laboratorio" o="2025"/>
+	<item id="18010" n="HISTOPATOLÓGICO DE BIOPSIA BRONQUIAL" p="0.1" c="Laboratorio" o="855"/>
+	<item id="18015" n="HISTOPATOLÓGICO DE BIOPSIA DE ENDOMETRIO" p="0.1" c="Laboratorio" o="1405"/>
+	<item id="18022" n="HISTOPATOLÓGICO DE BIOPSIA DE PIEL" p="0.1" c="Laboratorio" o="1255"/>
+	<item id="18027" n="HISTOPÁTOLÓGICO DE BIOPSIA TESTICULAR" p="0.1" c="Laboratorio" o="920"/>
+	<item id="18028" n="BIOPSIA DE VEJIGA" p="0.1" c="Laboratorio" o="1005"/>
+	<item id="18030" n="HISTOPATOLÓGICO DE BIOPSIA OVÁRICA (CUÑAS)" p="0.1" c="Laboratorio" o="870"/>
+	<item id="18033" n="HISTOPATOLÓGICO DE APÉNDICE CECAL" p="0.1" c="Laboratorio" o="1180"/>
+	<item id="18035" n="HISTOPATOLÓGICO DE BAZO (ESPLENECTOMÍA)" p="0.1" c="Laboratorio" o="1060"/>
+	<item id="18037" n="HISTOPATOLÓGICO DE CONO CERVICAL" p="0.1" c="Laboratorio" o="1455"/>
+	<item id="18040" n="HISTOPATOLÓGICO DE GASTRECTOMÍA" p="0.1" c="Laboratorio" o="1215"/>
+	<item id="18042" n="HISTOPATOLÓGICO DE BIOPSIA HEPÁTICA" p="0.1" c="Laboratorio" o="920"/>
+	<item id="18045" n="HISTOPATOLÓGICO DE HUESO" p="0.1" c="Laboratorio" o="1070"/>
+	<item id="18047" n="HISTOPATOLÓGICO DE OVARIO MENOR DE 6 CM" p="0.1" c="Laboratorio" o="1185"/>
+	<item id="18049" n="HISTOPATOLÓGICO DE PANCREAS" p="0.1" c="Laboratorio" o="860"/>
+	<item id="18050" n="HISTOPATOLÓGICO DE PLACENTA" p="0.1" c="Laboratorio" o="1255"/>
+	<item id="18051" n="HISTOPATOLÓGICO DE PULMÓN" p="0.1" c="Laboratorio" o="1255"/>
+	<item id="18052" n="HISTOPATOLÓGICO DE RTU-P / PROSTATECTOMÍA" p="0.1" c="Laboratorio" o="1115"/>
+	<item id="18053" n="HISTOPATOLÓGICO DE RINÓN (NEFRECTOMÍA)" p="0.1" c="Laboratorio" o="1305"/>
+	<item id="18056" n="HISTOPATOLÓGICO DE TIROIDES (RESECCIÓN)." p="0.1" c="Laboratorio" o="1015"/>
+	<item id="18057" n="HISTOPATOLÓGICO DE SALPINGE CON TUMOR" p="0.1" c="Laboratorio" o="815"/>
+	<item id="18060" n="HISTOPATOLÓGICO DE ÚTERO SIN ANEXOS" p="0.1" c="Laboratorio" o="1175"/>
+	<item id="18070" n="INMUNOHISTOQUÍMICA MAMA PANEL COMPLETO" p="0.1" c="Laboratorio" o="2025"/>
+	<item id="18091" n="INMUNOHISTOQUÍMICA PARA NEOPLASIAS MESENQUIMATOSAS" p="0.1" c="Laboratorio" o="2510"/>
+	<item id="18113" n="CD3 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="585"/>
+	<item id="18114" n="CD-45 LCA MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18116" n="CD-20 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="585"/>
+	<item id="18118" n="CD-68 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18119" n="CD-30 MARCADOR POR INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18120" n="CD-34 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18122" n="RPG MARCADOR DE INMUNOHISTOQUIMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18126" n="KI -67 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18127" n="CHROMOGRANINA MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18129" n="CITOKERATINA MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18130" n="BCL-2 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18131" n="ACTINA MÚSCULO LISO MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18132" n="VIMENTINA MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18133" n="CK-20 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18134" n="CK-7 MARCADOR DE INMUNOHISTOQUIMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="18135" n="HMB-45 MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="19008" n="ANTIESTREPTOLISINA EN SUERO" p="0.1" c="Laboratorio" o="230"/>
+	<item id="19027" n="PROTEÍNA C REACTIVA EN SUERO" p="0.1" c="Laboratorio" o="335"/>
+	<item id="19028" n="FACTOR REUMATOIDE EN SUERO" p="0.1" c="Laboratorio" o="285"/>
+	<item id="19030" n="V.D.R.L. EN LIQUIDO CEFALORRAQUIDEO" p="0.1" c="Laboratorio" o="235"/>
+	<item id="19043" n="AC IgG A HERPES SIMPLE 2" p="0.1" c="Laboratorio" o="705"/>
+	<item id="19073" n="AC IgG e IgM SARAMPION" p="0.1" c="Laboratorio" o="1535"/>
+	<item id="19075" n="HORMONA DE CRECIMIENTO 3 DETERMINACIONES" p="0.1" c="Laboratorio" o="290"/>
+	<item id="19077" n="CORTISOL 2 DETERMINACIONES" p="0.1" c="Laboratorio" o="915"/>
+	<item id="19082" n="AC TOTALES ANTI VIRUS HEPATITIS A EN SUERO" p="0.1" c="Laboratorio" o="1325"/>
+	<item id="19089" n="ANTICUERPOS ANTI-HTLV-I/II" p="0.1" c="Laboratorio" o="2475"/>
+	<item id="19098" n="AC IgG e IgM MYCOPLASMA PNEUMONIAE" p="0.1" c="Laboratorio" o="1680"/>
+	<item id="19099" n="IgA SUBCLASES" p="0.1" c="Laboratorio" o="3340"/>
+	<item id="19101" n="AC ANTI-POLIMIOSITIS-ESCLERODERMA" p="0.1" c="Laboratorio" o="1650"/>
+	<item id="19108" n="CA 72-4 EN SUERO" p="0.1" c="Laboratorio" o="5525"/>
+	<item id="19110" n="AC IgG ANTIGENO TEMPRANO DE VIRUS EPSTEIN BARR (Q)" p="0.1" c="Laboratorio" o="440"/>
+	<item id="19116" n="ANTICUERPOS A MUSCULO ESTRIADO" p="0.1" c="Laboratorio" o="1510"/>
+	<item id="19119" n="AC IgM BRUCELLA ABORTUS" p="0.1" c="Laboratorio" o="665"/>
+	<item id="19126" n="AC IgE Penicillium notatum" p="0.1" c="Laboratorio" o="1250"/>
+	<item id="19134" n="ACIDO FÓLICO Y VITAMINA B12 EN SUERO" p="0.1" c="Laboratorio" o="895"/>
+	<item id="19138" n="AC RNA POLIMERASA I/II/III EN SUERO" p="0.1" c="Laboratorio" o="8555"/>
+	<item id="19140" n="AC ANTI-PEROXIDASA DE TIROIDES EN SUERO" p="0.1" c="Laboratorio" o="1590"/>
+	<item id="19143" n="AC IgM MYCOPLASMA PNEUMONIAE" p="0.1" c="Laboratorio" o="995"/>
+	<item id="19146" n="AC IgM HEPATITIS DELTA" p="0.1" c="Laboratorio" o="1440"/>
+	<item id="19147" n="AC IgG HEPATITIS E" p="0.1" c="Laboratorio" o="3900"/>
+	<item id="19148" n="AC IgM HEPATITIS E" p="0.1" c="Laboratorio" o="4795"/>
+	<item id="19149" n="AC IgM A HELICOBACTER PYLORI" p="0.1" c="Laboratorio" o="2030"/>
+	<item id="19162" n="INMUNOGLOBULINA M EN L.C.R." p="0.1" c="Laboratorio" o="485"/>
+	<item id="19165" n="AC IgG E IgM PARVOVIRUS B19" p="0.1" c="Laboratorio" o="3790"/>
+	<item id="19169" n="AC IgM CITOMEGALOVIRUS EN LCR" p="0.1" c="Laboratorio" o="1510"/>
+	<item id="19170" n="AC IgM HERPES II EN LCR" p="0.1" c="Laboratorio" o="705"/>
+	<item id="19173" n="TORCH IgM EN LIQUIDO CEFALORRAQUIDEO" p="0.1" c="Laboratorio" o="3645"/>
+	<item id="19176" n="AC IgG TOXOIDE DE DIFTERIA" p="0.1" c="Laboratorio" o="2595"/>
+	<item id="19180" n="AC ANTI-MI-2" p="0.1" c="Laboratorio" o="4495"/>
+	<item id="19184" n="HORMONA SEXUAL UNIDA A GLOBULINA EN SUERO" p="0.1" c="Laboratorio" o="1325"/>
+	<item id="19190" n="AC IgG ECHINOCOCCUS" p="0.1" c="Laboratorio" o="1975"/>
+	<item id="19194" n="AC IgG ANTIGENO NUCLEAR DE VIRUS EPSTEIN BARR" p="0.1" c="Laboratorio" o="485"/>
+	<item id="19205" n="AC IgE CANDIDA ALBICANS" p="0.1" c="Laboratorio" o="1260"/>
+	<item id="19207" n="EVALUACIÓN DE LA RESPUESTA DE LA VACUNA CONTRA LA RABIA" p="0.1" c="Laboratorio" o="3895"/>
+	<item id="19221" n="AC IgG E IgM BARTONELLA HENSELAE" p="0.1" c="Laboratorio" o="2405"/>
+	<item id="19224" n="AUTOANTICUERPOS IgG OVARIO" p="0.1" c="Laboratorio" o="2845"/>
+	<item id="19245" n="INMUNOGLOBULINAS ESTIMULANTE DE TIROIDES" p="0.1" c="Laboratorio" o="7015"/>
+	<item id="19246" n="AUTOANTICUERPOS A MIELOPEROXIDASA" p="0.1" c="Laboratorio" o="2755"/>
+	<item id="19251" n="AC TOTALES A CHLAMYDIA PSITTACI" p="0.1" c="Laboratorio" o="1170"/>
+	<item id="19256" n="AC IgG A CARDIOLIPINA" p="0.1" c="Laboratorio" o="565"/>
+	<item id="19263" n="AC IgG Penicillium notatum" p="0.1" c="Laboratorio" o="3105"/>
+	<item id="19264" n="ANTÍGENO CARCINOMA DE CELULAS ESCAMOSAS" p="0.1" c="Laboratorio" o="3135"/>
+	<item id="19265" n="TROPONINA I" p="0.1" c="Laboratorio" o="720"/>
+	<item id="19267" n="HORMONA ESTIMULANTE DE MELANOCITOS BETA" p="0.1" c="Laboratorio" o="9695"/>
+	<item id="19269" n="AC IgG STRONGYLOIDES sp" p="0.1" c="Laboratorio" o="2410"/>
+	<item id="19272" n="TIROXINA NEONATAL (T4NEO)" p="0.1" c="Laboratorio" o="315"/>
+	<item id="19278" n="AUTOANTICUERPOS PROTEINASA 3" p="0.1" c="Laboratorio" o="2755"/>
+	<item id="19279" n="AC IgG, IgM, IgA BRUCELLA ABORTUS" p="0.1" c="Laboratorio" o="3465"/>
+	<item id="19283" n="AC IgG4 FILARIA" p="0.1" c="Laboratorio" o="4405"/>
+	<item id="19290" n="ALFA-1 GLICOPROTEINA ÁCIDA" p="0.1" c="Laboratorio" o="1360"/>
+	<item id="19294" n="AC IgA CARDIOLIPINA" p="0.1" c="Laboratorio" o="585"/>
+	<item id="19295" n="AC IgA CHLAMYDIA TRACHOMATIS" p="0.1" c="Laboratorio" o="2455"/>
+	<item id="19297" n="HORMONA DE CRECIMIENTO 4 DETERMINACIONES" p="0.1" c="Laboratorio" o="450"/>
+	<item id="19304" n="AC IGG, IGM COCCIDIOIDES IMMITIS" p="0.1" c="Laboratorio" o="3025"/>
+	<item id="19308" n="AC IgA, IgG, IgM FACTOR REUMATOIDE" p="0.1" c="Laboratorio" o="7150"/>
+	<item id="19337" n="AC. HIV-2 INMUNOBLOT" p="0.1" c="Laboratorio" o="1765"/>
+	<item id="19339" n="ARILSULFATASA A EN SUERO" p="0.1" c="Laboratorio" o="3505"/>
+	<item id="19342" n="AUTOANTICUERPOS GANGLIÓSIDO GD1a EN SUERO" p="0.1" c="Laboratorio" o="3855"/>
+	<item id="19343" n="ANTICUERPOS IgM HERPES 6 HUMANO" p="0.1" c="Laboratorio" o="1510"/>
+	<item id="19346" n="DEXAMETASONA SÉRICA" p="0.1" c="Laboratorio" o="2030"/>
+	<item id="19348" n="FACTOR DE CRECIMIENTO UNIDO A PROTEINA IGFBP3" p="0.1" c="Laboratorio" o="1945"/>
+	<item id="19355" n="ANTICUERPOS IgG, IgM, IgA Histoplasma sp" p="0.1" c="Laboratorio" o="21115"/>
+	<item id="19356" n="HORMONA ADRENOCORTICOTRÓFICA 3 DETERMINACIONES" p="0.1" c="Laboratorio" o="930"/>
+	<item id="19363" n="AUTOANTICUERPOS t-RNA" p="0.1" c="Laboratorio" o="3570"/>
+	<item id="19368" n="AC IgE CASEINA" p="0.1" c="Laboratorio" o="865"/>
+	<item id="19370" n="INHIBINA B" p="0.1" c="Laboratorio" o="2615"/>
+	<item id="19385" n="HORMONA GONADOTROFINA BETA CORIONICA LIBRE" p="0.1" c="Laboratorio" o="455"/>
+	<item id="19386" n="PROTEINA C REACTIVA DE ALTA SENSIBILIDAD" p="0.1" c="Laboratorio" o="665"/>
+	<item id="19394" n="17-HIDROXIPREGNENOLONA" p="0.1" c="Laboratorio" o="2025"/>
+	<item id="19397" n="AC IgE LATEX (ARBOL CAUCHO BRAZILIAN)" p="0.1" c="Laboratorio" o="415"/>
+	<item id="19398" n="AUTOANTICUERPOS IgA, E IgG TRANSGLUTAMINASA" p="0.1" c="Laboratorio" o="925"/>
+	<item id="19408" n="HORMONA ADRENOCORTICOTROFICA 2 DETERMINACIONES" p="0.1" c="Laboratorio" o="485"/>
+	<item id="19414" n="SUBUNIDAD ALFA" p="0.1" c="Laboratorio" o="1910"/>
+	<item id="19416" n="PRO-BNP" p="0.1" c="Laboratorio" o="7165"/>
+	<item id="19423" n="GALACTOSA 1-FOSFATO URIDIL TRANSFERASA" p="0.1" c="Laboratorio" o="415"/>
+	<item id="19424" n="FENILALANINA NEONATAL" p="0.1" c="Laboratorio" o="420"/>
+	<item id="19426" n="LEPTINA" p="0.1" c="Laboratorio" o="735"/>
+	<item id="19427" n="HOMOCISTEINA CUANTITATIVA EN SUERO" p="0.1" c="Laboratorio" o="775"/>
+	<item id="19433" n="AC IgE SOYA" p="0.1" c="Laboratorio" o="435"/>
+	<item id="19448" n="EVALUACION DE AUTOANTICUERPOS ENFERMEDAD CELIACA" p="0.1" c="Laboratorio" o="3865"/>
+	<item id="19462" n="AC IgM HERPES VIRUS 7" p="0.1" c="Laboratorio" o="2565"/>
+	<item id="19463" n="TROPONINA T" p="0.1" c="Laboratorio" o="2415"/>
+	<item id="19464" n="CORTISONA" p="0.1" c="Laboratorio" o="5600"/>
+	<item id="19466" n="CROMOGRANINA - A EN SUERO" p="0.1" c="Laboratorio" o="2765"/>
+	<item id="19469" n="MELATONINA EN SUERO" p="0.1" c="Laboratorio" o="6335"/>
+	<item id="19477" n="AC IgA HELICOBACTER PYLORI" p="0.1" c="Laboratorio" o="285"/>
+	<item id="19492" n="AC. IgG e IgA ANTI-SACCHAROMYCES CEREVISIAE" p="0.1" c="Laboratorio" o="4340"/>
+	<item id="19510" n="HIDROXIPROLINA TOTAL EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="875"/>
+	<item id="19514" n="PROCALCITONINA EN SUERO" p="0.1" c="Laboratorio" o="1465"/>
+	<item id="19519" n="AC. IgG HERPES II EN LCR" p="0.1" c="Laboratorio" o="705"/>
+	<item id="19524" n="AC IgG e IgM A HERPES 1 EN LCR" p="0.1" c="Laboratorio" o="2045"/>
+	<item id="19537" n="AC IgG A ENDOMISIO" p="0.1" c="Laboratorio" o="1980"/>
+	<item id="19548" n="AC ANTI-DESMOGLEINA EN SUERO" p="0.1" c="Laboratorio" o="2595"/>
+	<item id="19560" n="AUTOANTICUERPOS A CÉLULAS DE ISLOTE (PANCREATICAS) EN SUERO" p="0.1" c="Laboratorio" o="1740"/>
+	<item id="19569" n="AC IgG RUBEOLA EN SUERO (Q)" p="0.1" c="Laboratorio" o="595"/>
+	<item id="19572" n="AC IgM HERPES 1/2 EN SUERO (Q)" p="0.1" c="Laboratorio" o="315"/>
+	<item id="19575" n="PERFIL TORCH IgM (Q)" p="0.1" c="Laboratorio" o="1020"/>
+	<item id="19587" n="ANTIGENO SOLUBLE PANCREATICO" p="0.1" c="Laboratorio" o="5655"/>
+	<item id="19593" n="ACILCARNITINA" p="0.1" c="Laboratorio" o="2445"/>
+	<item id="19596" n="HAPTOGLOBINA" p="0.1" c="Laboratorio" o="1040"/>
+	<item id="19600" n="AC TOTALES ANTI TREPONEMA PALLIDUM EN LCR (FTA-ABS)" p="0.1" c="Laboratorio" o="785"/>
+	<item id="19610" n="PANEL DE ALERGENOS ALIMENTICIOS" p="0.1" c="Laboratorio" o="1985"/>
+	<item id="19632" n="CORTISOL BASAL" p="0.1" c="Laboratorio" o="705"/>
+	<item id="19638" n="ANTÍGENO POLIPEPTÍDICO TISULAR (TPA)" p="0.1" c="Laboratorio" o="3485"/>
+	<item id="19645" n="IgE A EXCREMENTO DE PALOMA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="19647" n="MACROPROLACTINA" p="0.1" c="Laboratorio" o="2840"/>
+	<item id="19671" n="DUO MARCADOR" p="0.1" c="Laboratorio" o="725"/>
+	<item id="19683" n="AC IGM ANTI-FOSFOLIPIDOS EN SUERO" p="0.1" c="Laboratorio" o="310"/>
+	<item id="19684" n="AC IgG ANTI-FOSFOLIPIDOS EN SUERO" p="0.1" c="Laboratorio" o="310"/>
+	<item id="19702" n="AC IgG ANTI TREPONEMA PALLIDUM EN SUERO (FTA-ABS)" p="0.1" c="Laboratorio" o="460"/>
+	<item id="19732" n="AC IgE A CLARA DE HUEVO" p="0.1" c="Laboratorio" o="150"/>
+	<item id="19754" n="AC TOTALES ANTI TREPONEMA PALLIDUM EN SUERO (INMUNOBLOT)" p="0.1" c="Laboratorio" o="2620"/>
+	<item id="19755" n="AUTOANTICUERPOS HSP-70" p="0.1" c="Laboratorio" o="2855"/>
+	<item id="19774" n="AC IGG E IGM PARA VIRUS DE CHIKUNGUNYA" p="0.1" c="Laboratorio" o="3215"/>
+	<item id="19831" n="AC IgE A HUEVO" p="0.1" c="Laboratorio" o="155"/>
+	<item id="19864" n="AC IgG e IgM A VIRUS DEL ZIKA (ZIKV)" p="0.1" c="Laboratorio" o="8855"/>
+	<item id="19898" n="REACCIONES FEBRILES (TÍFICOS)" p="0.1" c="Laboratorio" o="100"/>
+	<item id="19938" n="EVALUACIÓN DE RIESGO DE MALIGNIDAD OVÁRICA (ROMA)" p="0.1" c="Laboratorio" o="1255"/>
+	<item id="20006" n="BUSQUEDA DE 6 DROGAS EN ORINA" p="0.1" c="Laboratorio" o="440"/>
+	<item id="20008" n="BARBITÚRICOS EN ORINA" p="0.1" c="Laboratorio" o="495"/>
+	<item id="20015" n="ACIDO VALPROICO EN SUERO" p="0.1" c="Laboratorio" o="635"/>
+	<item id="20020" n="CONFIRMACIÓN DE ANFETAMINAS Y METANFETAMINAS EN ORINA" p="0.1" c="Laboratorio" o="4365"/>
+	<item id="20022" n="CONFIRMACIÓN DE COCAÍNA EN ORINA" p="0.1" c="Laboratorio" o="4375"/>
+	<item id="20023" n="ALUMINIO EN SANGRE" p="0.1" c="Laboratorio" o="665"/>
+	<item id="20027" n="PLOMO EN SANGRE PARA PERSONAS NO EXPUESTAS OCUPACIONALMENTE" p="0.1" c="Laboratorio" o="625"/>
+	<item id="20029" n="MERCURIO EN ORINA" p="0.1" c="Laboratorio" o="625"/>
+	<item id="20030" n="CADMIO EN ORINA" p="0.1" c="Laboratorio" o="875"/>
+	<item id="20035" n="PLOMO EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="915"/>
+	<item id="20042" n="MANGANESO EN SANGRE" p="0.1" c="Laboratorio" o="315"/>
+	<item id="20044" n="FENCICLIDINA EN ORINA" p="0.1" c="Laboratorio" o="300"/>
+	<item id="20053" n="SELENIO EN SANGRE" p="0.1" c="Laboratorio" o="1940"/>
+	<item id="20057" n="DIAZEPAM EN SUERO" p="0.1" c="Laboratorio" o="1725"/>
+	<item id="20058" n="AMIODARONE" p="0.1" c="Laboratorio" o="1575"/>
+	<item id="20063" n="CICLOSPORINA EN SANGRE" p="0.1" c="Laboratorio" o="2165"/>
+	<item id="20073" n="PROTOPORFIRINAS ERITROCITARIAS" p="0.1" c="Laboratorio" o="2020"/>
+	<item id="20074" n="CROMO EN ORINA" p="0.1" c="Laboratorio" o="875"/>
+	<item id="20075" n="CROMO EN SANGRE" p="0.1" c="Laboratorio" o="625"/>
+	<item id="20089" n="GABAPENTINA EN SUERO" p="0.1" c="Laboratorio" o="2705"/>
+	<item id="20126" n="ARSÉNICO EN ORINA DE 24 HRS" p="0.1" c="Laboratorio" o="915"/>
+	<item id="20139" n="SIROLIMUS EN SANGRE" p="0.1" c="Laboratorio" o="1735"/>
+	<item id="2015" n="TOMA C/DR BIOPSIAS VARIAS" p="0.1" c="Chequeos" o="390"/>
+	<item id="20155" n="TOLUENO EN SANGRE" p="0.1" c="Laboratorio" o="585"/>
+	<item id="20161" n="METADONA EN ORINA" p="0.1" c="Laboratorio" o="735"/>
+	<item id="20162" n="FLUOXETINA Y NORFLUOXETINA" p="0.1" c="Laboratorio" o="1575"/>
+	<item id="20174" n="METANOL EN SANGRE" p="0.1" c="Laboratorio" o="1605"/>
+	<item id="20182" n="ESTUDIO QUIMICO DE CALCULOS (LITO)" p="0.1" c="Laboratorio" o="590"/>
+	<item id="20223" n="DETECCIÓN DE 6 DROGAS DE ABUSO EN SUERO" p="0.1" c="Laboratorio" o="1100"/>
+	<item id="20230" n="MANGANESO EN SUERO" p="0.1" c="Laboratorio" o="305"/>
+	<item id="20235" n="CONFIRMACION DE MARIHUANA EN SUERO" p="0.1" c="Laboratorio" o="1910"/>
+	<item id="2043" n="RECTOSIGMOIDOSCOPÍA CON EQUIPO FLEXIBLE" p="0.1" c="Chequeos" o="7005"/>
+	<item id="21002" n="EXAMEN COPROPARASITOSCÓPICO (UNA MUESTRA)" p="0.1" c="Laboratorio" o="150"/>
+	<item id="21004" n="EXAMEN COPROPARASITOSCÓPICO (3 MUESTRAS)" p="0.1" c="Laboratorio" o="145"/>
+	<item id="21014" n="AMIBA EN FRESCO" p="0.1" c="Laboratorio" o="145"/>
+	<item id="21018" n="BILIRRUBINA EN HECES" p="0.1" c="Laboratorio" o="155"/>
+	<item id="21028" n="COPROANTIGENO DE GIARDIA LAMBLIA" p="0.1" c="Laboratorio" o="1100"/>
+	<item id="21031" n="PRUEBA DE AZUCARES REDUCTORES EN HECES" p="0.1" c="Laboratorio" o="195"/>
+	<item id="22007" n="ANTICUERPOS ANTINUCLEARES (Q)" p="0.1" c="Laboratorio" o="565"/>
+	<item id="22010" n="Ag. DE SUPERFICIE DE VIRUS DE HEPATITIS B" p="0.1" c="Laboratorio" o="865"/>
+	<item id="22013" n="ALDOSTERONA EN SUERO" p="0.1" c="Laboratorio" o="480"/>
+	<item id="22015" n="CALCITONINA (TIROCALCITONINA)" p="0.1" c="Laboratorio" o="2320"/>
+	<item id="22027" n="GASTRINA" p="0.1" c="Laboratorio" o="1140"/>
+	<item id="22032" n="INSULINA PRE Y POSTPRANDIAL" p="0.1" c="Laboratorio" o="1010"/>
+	<item id="22034" n="LACTÓGENO PLACENTARIO" p="0.1" c="Laboratorio" o="3435"/>
+	<item id="22037" n="PARATOHORMONA INTACTA" p="0.1" c="Laboratorio" o="1640"/>
+	<item id="22044" n="TRIIODOTIRONINA (T3) EN SUERO" p="0.1" c="Laboratorio" o="560"/>
+	<item id="22046" n="TIROXINA TOTAL (T4) EN SUERO" p="0.1" c="Laboratorio" o="575"/>
+	<item id="22047" n="ÍNDICE DE TIROXINA LIBRE (T7) EN SUERO" p="0.1" c="Laboratorio" o="570"/>
+	<item id="22054" n="AUTOAC IgG ANTI-MEMBRANA BASAL GLOMERULAR" p="0.1" c="Laboratorio" o="2445"/>
+	<item id="22059" n="MIOGLOBINA EN ORINA" p="0.1" c="Laboratorio" o="1465"/>
+	<item id="22069" n="HISTAMINA EN PLASMA" p="0.1" c="Laboratorio" o="3215"/>
+	<item id="22071" n="ANDROSTENEDIONA EN SUERO" p="0.1" c="Laboratorio" o="435"/>
+	<item id="22074" n="DEHIDROEPIANDROSTERONA" p="0.1" c="Laboratorio" o="710"/>
+	<item id="22086" n="AC IgM HERPES SIMPLE I" p="0.1" c="Laboratorio" o="1020"/>
+	<item id="22088" n="AC IgE ECHINOCOCCUS GRANULOSUS" p="0.1" c="Laboratorio" o="1975"/>
+	<item id="22097" n="GLUCAGON EN PLASMA" p="0.1" c="Laboratorio" o="1755"/>
+	<item id="22102" n="PERFIL VIRUS DE EPSTEIN BARR" p="0.1" c="Laboratorio" o="3330"/>
+	<item id="22114" n="ANTÍGENO E DE HEPATITIS B EN SUERO" p="0.1" c="Laboratorio" o="335"/>
+	<item id="22115" n="AC ANTI-ANTÍGENO E DE HEPATITIS B EN SUERO" p="0.1" c="Laboratorio" o="1615"/>
+	<item id="22118" n="AC ANTÍGENO DE SUPERFICIE DE HEPATITIS B EN SUERO" p="0.1" c="Laboratorio" o="1295"/>
+	<item id="22127" n="INMUNOGLOBULINA D(IgD)" p="0.1" c="Laboratorio" o="2605"/>
+	<item id="22130" n="AC IgG A VIRUS DE VARICELA" p="0.1" c="Laboratorio" o="960"/>
+	<item id="22133" n="AC AC CRYPTOCOCCUS NEOFORMANS EN L.C.R." p="0.1" c="Laboratorio" o="1295"/>
+	<item id="22134" n="AC CRYPTOCOCCUS NEOFORMANS EN SUERO" p="0.1" c="Laboratorio" o="1145"/>
+	<item id="22135" n="AC IgG MYCOPLASMA PNEUMONIAE" p="0.1" c="Laboratorio" o="850"/>
+	<item id="22136" n="TIROGLOBULINA EN SUERO" p="0.1" c="Laboratorio" o="435"/>
+	<item id="22141" n="17 ALFA-HIDROXIPROGESTERONA" p="0.1" c="Laboratorio" o="750"/>
+	<item id="22142" n="CORTISOL LIBRE EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="1035"/>
+	<item id="22143" n="AC IGG COCCIDIOIDES IMMITIS" p="0.1" c="Laboratorio" o="1615"/>
+	<item id="22153" n="ALFA -1- ANTITRIPSINA" p="0.1" c="Laboratorio" o="1175"/>
+	<item id="22160" n="AC TOTALES HEPATITIS A EN SUERO" p="0.1" c="Laboratorio" o="1185"/>
+	<item id="22174" n="ANTICUERPOS ANTI-HISTONA" p="0.1" c="Laboratorio" o="925"/>
+	<item id="22178" n="BETA 2 MICROGLOBULINA" p="0.1" c="Laboratorio" o="485"/>
+	<item id="22185" n="AC ANTICENTRÓMERO" p="0.1" c="Laboratorio" o="955"/>
+	<item id="22190" n="AC ANTI-HISTOPLASMA CAPSULATUM" p="0.1" c="Laboratorio" o="1100"/>
+	<item id="22197" n="HORMONA ESTIMULANTE DE TIROIDES NEONATAL" p="0.1" c="Laboratorio" o="875"/>
+	<item id="22201" n="CONCENTRACIÓN DE COMPLEMENTO 5 (C5)" p="0.1" c="Laboratorio" o="1735"/>
+	<item id="22204" n="ALDOSTERONA EN ORINA" p="0.1" c="Laboratorio" o="710"/>
+	<item id="22209" n="DIHIDROTESTOSTERONA" p="0.1" c="Laboratorio" o="4475"/>
+	<item id="22213" n="AC PROTEINA P RIBOSOMAL" p="0.1" c="Laboratorio" o="3050"/>
+	<item id="22214" n="VITAMINA E" p="0.1" c="Laboratorio" o="3485"/>
+	<item id="22215" n="AC IgG Candida albicans" p="0.1" c="Laboratorio" o="3490"/>
+	<item id="22216" n="AC IgG BORDETELLA PERTUSIS" p="0.1" c="Laboratorio" o="3315"/>
+	<item id="22222" n="INHIBIDOR DE C1 ESTERASA ACTIVIDAD FUNCIONAL" p="0.1" c="Laboratorio" o="1885"/>
+	<item id="5003" n="ELECTROMIOGRAFÍA RADICULOPATÍA LUMBAR" p="0.1" c="Electroencefalografia" o="3900"/>
+	<item id="5004" n="ELECTROMIOGRAFÍA DE MÚSCULOS FACIALES" p="0.1" c="Electroencefalografia" o="2745"/>
+	<item id="5007" n="ELECTROMIOGRAFÍA LESIÓN PLEXO LUMBAR" p="0.1" c="Electroencefalografia" o="5495"/>
+	<item id="5012" n="EMG TUNEL DEL CARPO" p="0.1" c="Electroencefalografia" o="4365"/>
+	<item id="5013" n="NEUROCONDUCCION RADICULOPATIA CERVICAL" p="0.1" c="Electroencefalografia" o="2470"/>
+	<item id="5014" n="NEUROCONDUCCION RADICULOPATIA LUMBAR" p="0.1" c="Electroencefalografia" o="2745"/>
+	<item id="5016" n="NEUROCONDUCCION MIEMBROS TORAXICOS" p="0.1" c="Electroencefalografia" o="2765"/>
+	<item id="5020" n="NEUROCONDUCCION DEL NERVIO FACIAL" p="0.1" c="Electroencefalografia" o="1645"/>
+	<item id="5023" n="POTENCIALES EVOCADOS AUDITIVOS" p="0.1" c="Electroencefalografia" o="1945"/>
+	<item id="5026" n="EMG Y NEUROCONDUCCION DE LAS 4 EXTREMIDADES" p="0.1" c="Electroencefalografia" o="6550"/>
+	<item id="19021" n="AC A VIRUS DE INMUNODEFICIENCIA EN SUERO" p="0.1" c="Laboratorio" o="345"/>
+	<item id="19158" n="ANTÍGENO PROSTÁTICO ESPECIFICO TOTAL Y LIBRE EN SUERO" p="0.1" c="Laboratorio" o="925"/>
+	<item id="20010" n="BÚSQUEDA DE TRES DROGAS EN ORINA" p="0.1" c="Laboratorio" o="415"/>
+	<item id="22011" n="ANTIGENO CARCINOEMBRIONARIO EN SUERO" p="0.1" c="Laboratorio" o="1040"/>
+	<item id="22020" n="ESTRADIOL" p="0.1" c="Laboratorio" o="300"/>
+	<item id="22045" n="HORMONA ESTIMULANTE DE TIROIDES EN SUERO" p="0.1" c="Laboratorio" o="310"/>
+	<item id="17070" n="COFACTOR DE RISTOCETINA EN PLASMA" p="0.1" c="Laboratorio" o="3245"/>
+	<item id="17067" n="PLASMINÓGENO ACTIVIDAD EN PLASMA" p="0.1" c="Laboratorio" o="4115"/>
+	<item id="17066" n="VON WILLEBRAND ANTÍGENO EN PLASMA" p="0.1" c="Laboratorio" o="3615"/>
+	<item id="17061" n="EOSINÓFILOS EN SECRECIONES" p="0.1" c="Laboratorio" o="155"/>
+	<item id="17059" n="FACTOR XII EN PLASMA" p="0.1" c="Laboratorio" o="3540"/>
+	<item id="17055" n="FACTOR II EN PLASMA" p="0.1" c="Laboratorio" o="3035"/>
+	<item id="17053" n="PROTEÍNA C (ACTIVIDAD) EN PLASMA" p="0.1" c="Laboratorio" o="3895"/>
+	<item id="17048" n="ANTICOAGULANTE LÚPICO EN PLASMA" p="0.1" c="Laboratorio" o="1785"/>
+	<item id="17046" n="FACTOR IX EN PLASMA" p="0.1" c="Laboratorio" o="1245"/>
+	<item id="17039" n="CÉLULAS LE EN SANGRE" p="0.1" c="Laboratorio" o="425"/>
+	<item id="17038" n="VOLUMEN LÍQUIDO DE RETRACCIÓN DE COÁGULO" p="0.1" c="Laboratorio" o="160"/>
+	<item id="17028" n="TIEMPO DE PLASMA RECALCIFICADO" p="0.1" c="Laboratorio" o="145"/>
+	<item id="17027" n="RETICULOCITOS EN SANGRE" p="0.1" c="Laboratorio" o="335"/>
+	<item id="17019" n="MÉDULA ÓSEA EXAMEN DE ASPIRADO" p="0.1" c="Laboratorio" o="1300"/>
+	<item id="17017" n="HEMOGLOBINA EN SANGRE" p="0.1" c="Laboratorio" o="245"/>
+	<item id="17008" n="EOSINÓFILOS EN MOCO NASAL" p="0.1" c="Laboratorio" o="270"/>
+	<item id="17005" n="CRIOGLOBULINAS EN SUERO" p="0.1" c="Laboratorio" o="285"/>
+	<item id="17002" n="BIOMETRÍA HEMÁTICA" p="0.1" c="Laboratorio" o="200"/>
+	<item id="16972" n="INMUNOFIJACION DE PROTEINAS EN ORINA" p="0.1" c="Laboratorio" o="1575"/>
+	<item id="39289" n="GLUCOMAP MONITOREO DINÁMICO DE GLUCOSA DE 6 DÍAS" p="0.1" c="Tomadores" o="2990"/>
+	<item id="16883" n="TASA DE FILTRACIÓN GLOMERULAR" p="0.1" c="Laboratorio" o="95"/>
+	<item id="16856" n="GASES EN SANGRE VENOSA" p="0.1" c="Laboratorio" o="960"/>
+	<item id="16844" n="CREATINA EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="1260"/>
+	<item id="16804" n="XILOSA BASAL EN SANGRE" p="0.1" c="Laboratorio" o="2565"/>
+	<item id="16793" n="LIPASA EN ORINA" p="0.1" c="Laboratorio" o="1590"/>
+	<item id="16724" n="CLORO EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="165"/>
+	<item id="16717" n="XILOSA EN SANGRE 2 HORAS" p="0.1" c="Laboratorio" o="3430"/>
+	<item id="16711" n="PRUEBA CONFIRMATORIA DE DIABETES GESTACIONAL" p="0.1" c="Laboratorio" o="445"/>
+	<item id="16659" n="TRIPSINA EN HECES" p="0.1" c="Laboratorio" o="5745"/>
+	<item id="16605" n="METANEFRINAS EN PLASMA" p="0.1" c="Laboratorio" o="3355"/>
+	<item id="16589" n="RELACIÓN ALBÚMINA CREATININA EN ORINA" p="0.1" c="Laboratorio" o="600"/>
+	<item id="16581" n="PRE-ALBÚMINA EN SUERO" p="0.1" c="Laboratorio" o="1745"/>
+	<item id="16566" n="QUÍMICA DE 8 ELEMENTOS" p="0.1" c="Laboratorio" o="625"/>
+	<item id="16534" n="ALBÚMINA EN ORINA DE 24 HORAS (MICROALBUMINURIA)" p="0.1" c="Laboratorio" o="280"/>
+	<item id="16494" n="TAMIZ DE DIABETES GESTACIONAL" p="0.1" c="Laboratorio" o="385"/>
+	<item id="16487" n="RELACIÓN CALCIO CREATININA (PRIMERA ORINA MAÑANA)" p="0.1" c="Laboratorio" o="245"/>
+	<item id="16435" n="BICARBONATO EN SUERO" p="0.1" c="Laboratorio" o="235"/>
+	<item id="16422" n="VITAMINA B2 EN PLASMA" p="0.1" c="Laboratorio" o="2775"/>
+	<item id="16414" n="ALFA Y BETA CAROTENOS EN SUERO" p="0.1" c="Laboratorio" o="1620"/>
+	<item id="16413" n="HDL COLESTEROL EN SUERO" p="0.1" c="Laboratorio" o="165"/>
+	<item id="16412" n="VLDL COLESTEROL EN SUERO" p="0.1" c="Laboratorio" o="235"/>
+	<item id="16388" n="SEROTONINA EN SUERO" p="0.1" c="Laboratorio" o="2340"/>
+	<item id="25257" n="MICRODELECIÓN Yq, ANÁLISIS DE ADN" p="0.1" c="Laboratorio" o="13775"/>
+	<item id="16340" n="AMILASA EN LIQUIDOS CORPORALES" p="0.1" c="Laboratorio" o="1320"/>
+	<item id="16334" n="N TELOPEPTIDOS EN ORINA" p="0.1" c="Laboratorio" o="4190"/>
+	<item id="16329" n="CALCIO EN ORINA DE DOS HORAS" p="0.1" c="Laboratorio" o="375"/>
+	<item id="16312" n="ADENOSÍN DESAMINASA EN SUERO" p="0.1" c="Laboratorio" o="2015"/>
+	<item id="16311" n="PROTEÍNAS EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="305"/>
+	<item id="16293" n="ELECTROFORESIS DE PROTEÍNAS EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="3140"/>
+	<item id="25240" n="CARGA VIRAL DE VIRUS BK POR PCR" p="0.1" c="Laboratorio" o="2635"/>
+	<item id="25236" n="EXTRACCIÓN DE ÁCIDOS NUCLEICOS" p="0.1" c="Laboratorio" o="895"/>
+	<item id="16268" n="PORFOBILINÓGENO EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="2455"/>
+	<item id="16250" n="BANDAS OLIGOCLONALES EN LCR" p="0.1" c="Laboratorio" o="1835"/>
+	<item id="16238" n="CALCIO IONIZADO EN SUERO" p="0.1" c="Laboratorio" o="1980"/>
+	<item id="16236" n="OSTEOCALCINA EN SANGRE" p="0.1" c="Laboratorio" o="825"/>
+	<item id="16206" n="CARNITINA EN SUERO" p="0.1" c="Laboratorio" o="4765"/>
+	<item id="25221" n="DETECCION DE PARAINFLUENZA (TIPOS 1-4) POR RT-PCR" p="0.1" c="Laboratorio" o="6585"/>
+	<item id="16167" n="QUÍMICA INTEGRAL DE 45 ELEMENTOS" p="0.1" c="Laboratorio" o="1040"/>
+	<item id="25210" n="HLA DQ2/DQ8" p="0.1" c="Laboratorio" o="6005"/>
+	<item id="25206" n="TIPIFICACIÓN MOLECULAR HLA CLASE I Y II PARA TRASPLANTE DE RIÑÓN" p="0.1" c="Laboratorio" o="10055"/>
+	<item id="16147" n="POTASIO EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="200"/>
+	<item id="25204" n="EXCLUSION DE PATERNIDAD PARA 2 HIJOS" p="0.1" c="Laboratorio" o="11945"/>
+	<item id="16140" n="QUÍMICA DE 12 ELEMENTOS" p="0.1" c="Laboratorio" o="625"/>
+	<item id="16139" n="QUÍMICA DE 24 ELEMENTOS" p="0.1" c="Laboratorio" o="1005"/>
+	<item id="16122" n="GASES EN SANGRE ARTERIAL" p="0.1" c="Laboratorio" o="1310"/>
+	<item id="25194" n="PCR VIRUS DEL DENGUE Y TIPIFICACION" p="0.1" c="Laboratorio" o="8425"/>
+	<item id="16121" n="FRUCTOSAMINA EN SUERO" p="0.1" c="Laboratorio" o="825"/>
+	<item id="16111" n="APOLIPOPROTEINA B EN SUERO" p="0.1" c="Laboratorio" o="1750"/>
+	<item id="16106" n="ISOENZIMAS DE FOSFATASA ALCALINA EN SUERO" p="0.1" c="Laboratorio" o="815"/>
+	<item id="25174" n="EXCLUSIÓN DE PATERNIDAD PARA 2 PERSONAS" p="0.1" c="Laboratorio" o="8545"/>
+	<item id="16099" n="PH EN SALIVA" p="0.1" c="Laboratorio" o="95"/>
+	<item id="16098" n="GLUCOSA POSTPRANDIAL" p="0.1" c="Laboratorio" o="165"/>
+	<item id="16093" n="OXALATO EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="1495"/>
+	<item id="16087" n="TRANSFERRINA EN SANGRE" p="0.1" c="Laboratorio" o="965"/>
+	<item id="16081" n="ESTUDIO CITOQUÍMICO DE LIQUIDOS VARIOS" p="0.1" c="Laboratorio" o="750"/>
+	<item id="16079" n="ELECTROLITOS EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="585"/>
+	<item id="16077" n="FENILALANINA EN ORINA" p="0.1" c="Laboratorio" o="1175"/>
+	<item id="16072" n="VITAMINA C EN SUERO" p="0.1" c="Laboratorio" o="1295"/>
+	<item id="16070" n="CREATININA EN SUERO" p="0.1" c="Laboratorio" o="135"/>
+	<item id="16066" n="DEPURACIÓN DE CREATININA" p="0.1" c="Laboratorio" o="335"/>
+	<item id="16053" n="ACIDOS GRASOS LIBRES EN SUERO" p="0.1" c="Laboratorio" o="445"/>
+	<item id="16043" n="CATECOLAMINAS EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="1075"/>
+	<item id="16037" n="TRANSAMINASA GLUTÁMICO OXALACÉTICA (TGO) EN SUERO" p="0.1" c="Laboratorio" o="195"/>
+	<item id="16032" n="CREATIN FOSFOCINASA (CK) EN SUERO" p="0.1" c="Laboratorio" o="375"/>
+	<item id="25115" n="CARGA VIRAL PARA EL VIRUS DEL DENGUE POR PCR" p="0.1" c="Laboratorio" o="8180"/>
+	<item id="25114" n="DETECCIÓN DE V617F DEL GEN JAK2 POR qPCR" p="0.1" c="Laboratorio" o="3815"/>
+	<item id="16024" n="AMILASA EN SUERO" p="0.1" c="Laboratorio" o="345"/>
+	<item id="16023" n="GRASAS EN HECES (CUANTITATIVO)" p="0.1" c="Laboratorio" o="3040"/>
+	<item id="16022" n="AMILASA EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="240"/>
+	<item id="16019" n="MAGNESIO EN SUERO" p="0.1" c="Laboratorio" o="305"/>
+	<item id="16017" n="LÍPIDOS TOTALES EN SANGRE" p="0.1" c="Laboratorio" o="295"/>
+	<item id="16007" n="PERFIL LIPOIDEO" p="0.1" c="Laboratorio" o="745"/>
+	<item id="15208" n="GLUTAMATO DESHIDROGENASA EN HECES" p="0.1" c="Laboratorio" o="9000"/>
+	<item id="25071" n="GENOTIPO DE HBV" p="0.1" c="Laboratorio" o="18025"/>
+	<item id="25051" n="DETECCION DE MYCOBACTERIUM LEPRAE" p="0.1" c="Laboratorio" o="6585"/>
+	<item id="15142" n="CULTIVO DE CITOMEGALOVIRUS EN ORINA" p="0.1" c="Laboratorio" o="2235"/>
+	<item id="15140" n="CULTIVO DE CITOMEGALOVIRUS EN EXUDADO FARÍNGEO" p="0.1" c="Laboratorio" o="2195"/>
+	<item id="25039" n="DET. POR PCR DE ANTIGENO TEMPRANO Y TARDIO DE VEB" p="0.1" c="Laboratorio" o="13575"/>
+	<item id="15130" n="MICROSCOPÍA DE HONGOS EN LCR" p="0.1" c="Laboratorio" o="95"/>
+	<item id="15125" n="EXÁMEN BACTERIOLÓGICO DE AGUA" p="0.1" c="Laboratorio" o="270"/>
+	<item id="25033" n="DETECCIÓN DE HEPATITIS B POR PCR" p="0.1" c="Laboratorio" o="4885"/>
+	<item id="15119" n="ANTIFUNGIGRAMA PARA LEVADURAS" p="0.1" c="Laboratorio" o="890"/>
+	<item id="15114" n="CULTIVO DE MANOS Y LECHO UNGUEAL" p="0.1" c="Laboratorio" o="425"/>
+	<item id="25030" n="DETECCIÓN DE POLIOMAVIRUS BK POR PCR" p="0.1" c="Laboratorio" o="5965"/>
+	<item id="15105" n="CRISTALOGRAFIA DE LÍQUIDO SINOVIAL" p="0.1" c="Laboratorio" o="240"/>
+	<item id="15104" n="BIO-FIRE PANEL RESPIRATORIO 2.1 (INCLUYE SARS-COV-2)" p="0.1" c="Laboratorio" o="12995"/>
+	<item id="15101" n="ESPERMATOBIOSCOPÍA (SEMINOGRAMA)" p="0.1" c="Laboratorio" o="590"/>
+	<item id="15097" n="CULTIVO DE ANAEROBIOS" p="0.1" c="Laboratorio" o="600"/>
+	<item id="15096" n="CULTIVO DE EXUDADO CONJUNTIVAL IZQUIERDO" p="0.1" c="Laboratorio" o="670"/>
+	<item id="25016" n="DETECCIÓN DE TOXOPLASMA POR PCR" p="0.1" c="Laboratorio" o="6255"/>
+	<item id="25012" n="CARGA VIRAL DE CITOMEGALOVIRUS POR PCR" p="0.1" c="Laboratorio" o="4230"/>
+	<item id="15060" n="CULTIVO DE HERPES VIRUS" p="0.1" c="Laboratorio" o="1285"/>
+	<item id="25005" n="CARGA VIRAL DE HEPATITIS C POR RT-PCR" p="0.1" c="Laboratorio" o="12530"/>
+	<item id="25003" n="CARGA VIRAL DE VIH-1 POR PCR" p="0.1" c="Laboratorio" o="1885"/>
+	<item id="24060" n="ABL1/BCR Cariotipo + FISH" p="0.1" c="Laboratorio" o="5025"/>
+	<item id="15042" n="PH VAGINAL" p="0.1" c="Laboratorio" o="95"/>
+	<item id="15036" n="MICROSCOPÍA DE EXUDADO NASOFARÍNGEO" p="0.1" c="Laboratorio" o="100"/>
+	<item id="15033" n="MICROSCOPÍA DE EXUDADO CERVICO VAGINAL" p="0.1" c="Laboratorio" o="200"/>
+	<item id="15023" n="ESTUDIO COMPLETO DE EXUDADOS GENITALES MASCULINO" p="0.1" c="Laboratorio" o="2030"/>
+	<item id="15018" n="CULTIVO DE EXUDADOS DIVERSOS" p="0.1" c="Laboratorio" o="810"/>
+	<item id="15015" n="CULTIVO DE LÍQUIDO CEFALORRAQUÍDEO" p="0.1" c="Laboratorio" o="425"/>
+	<item id="24020" n="DELECIÓN SRY, FISH" p="0.1" c="Laboratorio" o="4150"/>
+	<item id="24019" n="DI GEORGE SÍNDROME, VELOCARDIOFACIAL SÍNDROME, FISH" p="0.1" c="Laboratorio" o="4520"/>
+	<item id="24002" n="CARIOTIPO EN SANGRE PERIFÉRICA SIN FOTOGRAFÍA" p="0.1" c="Laboratorio" o="2695"/>
+	<item id="22293" n="INMUNOGLOBULINA G" p="0.1" c="Laboratorio" o="420"/>
+	<item id="22275" n="AUTOANTICUERPOS A CÉLULAS PARIETALES" p="0.1" c="Laboratorio" o="995"/>
+	<item id="22273" n="COMPLEMENTO C2" p="0.1" c="Laboratorio" o="1735"/>
+	<item id="22272" n="AC IgG CÁPSIDE DE VIRUS DE EPSTEIN BARR" p="0.1" c="Laboratorio" o="1035"/>
+	<item id="22271" n="ESTRÓGENOS TOTALES EN SUERO" p="0.1" c="Laboratorio" o="815"/>
+	<item id="22268" n="INMUNOGLOBULINA G SUBCLASES 1-4" p="0.1" c="Laboratorio" o="3905"/>
+	<item id="22267" n="CERULOPLASMINA" p="0.1" c="Laboratorio" o="1005"/>
+	<item id="22266" n="CONCENTRACIÓN COMPLEMENTO C1Q" p="0.1" c="Laboratorio" o="1725"/>
+	<item id="22265" n="TRIIODOTIRONINA INVERSA (T3R)" p="0.1" c="Laboratorio" o="2345"/>
+	<item id="22261" n="AC IgM BORRELIA BURGDORFERI" p="0.1" c="Laboratorio" o="1285"/>
+	<item id="22248" n="AC IgG LISTERIA MONOCITOGENES" p="0.1" c="Laboratorio" o="2635"/>
+	<item id="22246" n="CAPTACIÓN DE TRIIODOTIRONINA (T3C)" p="0.1" c="Laboratorio" o="1025"/>
+	<item id="22242" n="ANTICUERPOS ANTI RECEPTORES DE ACETIL COLINA (AChR)" p="0.1" c="Laboratorio" o="4085"/>
+	<item id="22233" n="PROTEINA BÁSICA DE MIELINA EN LCR" p="0.1" c="Laboratorio" o="1735"/>
+	<item id="22224" n="AC IgM PARÓTIDA" p="0.1" c="Laboratorio" o="1875"/>
+	<item id="100156" n="PERFIL HEPATICO" p="0.1" c="Perfiles" o="899"/>
+	<item id="100228" n="CHEQUEO BÁSICO" p="0.1" c="Perfiles" o="949"/>
+	<item id="100460" n="COMPLEMENTO C3 Y C4" p="0.1" c="Perfiles" o="929"/>
+	<item id="101344" n="PERFIL PERFIL DE TESTOSTERONA TOTAL" p="0.1" c="Perfiles" o="16899"/>
+	<item id="12094" n="PERFIL PROBLEMAS FEBRILES I" p="0.1" c="Perfiles" o="909"/>
+	<item id="12174" n="PERFIL HORMONAL MASCULINO I" p="0.1" c="Perfiles" o="1059"/>
+	<item id="12429" n="PERFIL CONTROL DE DIABETES I" p="0.1" c="Perfiles" o="909"/>
+	<item id="12434" n="PERFIL FUNCIONAL HEPATICO I" p="0.1" c="Perfiles" o="789"/>
+	<item id="12442" n="PERFIL INFECCION DE VIAS URINARIAS" p="0.1" c="Perfiles" o="1019"/>
+	<item id="12447" n="PERFIL DIAGNOSTICO LUPUS ERITEMATOS" p="0.1" c="Perfiles" o="1039"/>
+	<item id="12524" n="PERFIL DE DIAGNOSTICO DE HEPATITIS" p="0.1" c="Perfiles" o="869"/>
+	<item id="13777" n="PERFIL ÁCIDO PÉPTICA" p="0.1" c="Perfiles" o="1029"/>
+	<item id="98774" n="PERFIL REUMATICO" p="0.1" c="Perfiles" o="789"/>
+	<item id="99963" n="PERFIL DEFECTOS DE LA COAGULACION 2" p="0.1" c="Perfiles" o="1039"/>
+	<item id="1003" n="OÍDO INTERNO" p="0.1" c="Audiología" o="989"/>
+	<item id="18003" n="HISTOPATOLÓGICO DE BIOPSIAS HORARIAS DE CERVIX" p="0.1" c="Laboratorio" o="1608"/>
+	<item id="18025" n="HISTOPATOLÓGICO DE TEJIDO ANORRECTAL" p="0.1" c="Laboratorio" o="1029"/>
+	<item id="18032" n="HISTOPATOLÓGICO DE BIOPSIAS AMIGDALINAS" p="0.1" c="Laboratorio" o="1568"/>
+	<item id="18041" n="HISTOPATOLÓGICO DE GLÁNDULA DE BARTHOLIN" p="0.1" c="Laboratorio" o="919"/>
+	<item id="18061" n="HISTOPATOLÓGICO DE VENAS" p="0.1" c="Laboratorio" o="839"/>
+	<item id="18121" n="RE MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="889"/>
+	<item id="18123" n="HER2/Neu MARCADOR DE INMUNOHISTOQUÍMICA" p="0.1" c="Laboratorio" o="959"/>
+	<item id="19069" n="ANTIGENOS EXTRAIBLES DEL NUCLEO" p="0.1" c="Laboratorio" o="949"/>
+	<item id="19080" n="AC ANTI-DNASA B" p="0.1" c="Laboratorio" o="1928"/>
+	<item id="19090" n="INMUNOGLOBULINAS EN L.C.R." p="0.1" c="Laboratorio" o="1069"/>
+	<item id="19093" n="PROLACTINA 2 DETERMINACIONES" p="0.1" c="Laboratorio" o="839"/>
+	<item id="19132" n="ACIDO FÓLICO (FOLATOS) EN SUERO" p="0.1" c="Laboratorio" o="879"/>
+	<item id="19212" n="TRIPLE MARCADOR" p="0.1" c="Laboratorio" o="839"/>
+	<item id="19261" n="NICOTINA Y COTININA EN SUERO" p="0.1" c="Laboratorio" o="1958"/>
+	<item id="19335" n="AC IgA Toxoplasma gondii" p="0.1" c="Laboratorio" o="1888"/>
+	<item id="19445" n="PROTEINA PLASMATICA ASOCIADA AL EMBARAZO (PAPP-A)" p="0.1" c="Laboratorio" o="919"/>
+	<item id="19494" n="ESTRIOL TOTAL EN SUERO" p="0.1" c="Laboratorio" o="2088"/>
+	<item id="19551" n="AC TOTALES ANTI TREPONEMA PALLIDUM EN SUERO (FTA-ABS)" p="0.1" c="Laboratorio" o="919"/>
+	<item id="19624" n="REAGINAS RAPIDAS PLASMATICAS" p="0.1" c="Laboratorio" o="1049"/>
+	<item id="19631" n="ANTICUERPOS ANTI VIRUS DEL HERPES HUMANO 8 (HHV8)" p="0.1" c="Laboratorio" o="2188"/>
+	<item id="20002" n="CANABINOIDES EN ORINA" p="0.1" c="Laboratorio" o="799"/>
+	<item id="20009" n="OPIÁCEOS EN ORINA" p="0.1" c="Laboratorio" o="809"/>
+	<item id="20045" n="CLONAZEPAM EN SUERO" p="0.1" c="Laboratorio" o="1598"/>
+	<item id="20077" n="FENOL EN ORINA" p="0.1" c="Laboratorio" o="1089"/>
+	<item id="20084" n="ARSÉNICO EN ORINA PARA PERSONAL OCUPACIONALMENTE EXPUESTO" p="0.1" c="Laboratorio" o="889"/>
+	<item id="20087" n="LAMOTRIGINA EN SUERO" p="0.1" c="Laboratorio" o="1788"/>
+	<item id="20118" n="TOPIRAMATO EN SUERO" p="0.1" c="Laboratorio" o="1568"/>
+	<item id="2025" n="ESPIROMETRÍA SIN Y CON BRONCODILATADOR" p="0.1" c="Chequeos" o="889"/>
+	<item id="22084" n="AC IgM A HERPES SIMPLE 2" p="0.1" c="Laboratorio" o="1029"/>
+	<item id="22101" n="ANGIOTENSINA 1 ENZIMA CONVERTIDORA" p="0.1" c="Laboratorio" o="1598"/>
+	<item id="22145" n="AC IgM CHLAMYDIA TRACHOMATIS" p="0.1" c="Laboratorio" o="1748"/>
+	<item id="5010" n="ELECTROENCEFALOGRAMA DIGITAL" p="0.1" c="Frecuentes" o="1698"/>
+	<item id="100693" n="PAQUETE CONTROL DIABETES BASICO Q45" p="0.1" c="Perfiles" o="989"/>
+	<item id="12324" n="PERFIL EMBARAZO" p="0.1" c="Perfiles" o="999"/>
+	<item id="17204" n="VELOCIDAD DE SEDIMENTACIÓN GLOBULAR WESTERGREEN" p="0.1" c="Laboratorio" o="108"/>
+	<item id="17214" n="GRUPO SANGUÍNEO Y FACTOR Rh (CHOPO)" p="0.1" c="Laboratorio" o="108"/>
+	<item id="19359" n="ANTI-TIROGLOBULINA Y ANTI-PEROXIDASA TIROIDES EN SUERO" p="0.1" c="Laboratorio" o="989"/>
+	<item id="12069" n="PERFIL FUNCIONAMIENTO RENAL I" p="0.1" c="Perfiles" o="789"/>
+	<item id="17049" n="CARBOXIHEMOGLOBINA EN SANGRE" p="0.1" c="Laboratorio" o="1638"/>
+	<item id="39251" n="GLUCOMAP MONITOREO DINÁMICO DE GLUCOSA DE 72 HRS." p="0.1" c="Tomadores" o="1818"/>
+	<item id="16770" n="ADENOSIN DESAMINASA EN LÍQUIDO PERITONEAL" p="0.1" c="Laboratorio" o="1968"/>
+	<item id="16710" n="PANEL DE ÁCIDOS GRASOS EN PLASMA" p="0.1" c="Laboratorio" o="16719"/>
+	<item id="16287" n="FOSFATASA ALCALINA ÓSEA EN SUERO" p="0.1" c="Laboratorio" o="1029"/>
+	<item id="16276" n="HIERRO EN ORINA" p="0.1" c="Laboratorio" o="1069"/>
+	<item id="25198" n="DETECCIÓN DEL GEN PCA 3" p="0.1" c="Laboratorio" o="12509"/>
+	<item id="15129" n="MICROSCOPÍA DE HONGOS EN PIEL" p="0.1" c="Laboratorio" o="118"/>
+	<item id="15032" n="MICROSCOPÍA DE HONGOS" p="0.1" c="Laboratorio" o="108"/>
+	<item id="99997" n="PERFIL BÁSICO" p="0.1" c="Perfiles" o="569"/>
+	<item id="12048" n="PERFIL CONTROL DIABETES 1" p="0.1" c="Perfiles" o="599"/>
+	<item id="12052" n="PERFIL HIPERTENSIÓN 1" p="0.1" c="Perfiles" o="609"/>
+	<item id="12075" n="PERFIL REUMATOLOGICO I" p="0.1" c="Perfiles" o="779"/>
+	<item id="12097" n="PERFIL HEPATICO I" p="0.1" c="Perfiles" o="569"/>
+	<item id="12112" n="PERFIL ENF.INFECCIOSAS INTEST." p="0.1" c="Perfiles" o="599"/>
+	<item id="12330" n="PERFIL PRUEBAS DE FUNCION HEPATICA" p="0.1" c="Frecuentes" o="619"/>
+	<item id="12430" n="PERFIL CONTROL DE DIABETES II" p="0.1" c="Perfiles" o="1378"/>
+	<item id="13631" n="PERFIL PREVENCION (HOMBRE-MUJER)" p="0.1" c="Perfiles" o="749"/>
+	<item id="98508" n="PERFIL PRENATAL PRIMER TRIMESTRE 1" p="0.1" c="Perfiles" o="729"/>
+	<item id="17074" n="PRODUCTOS DE DEGRADACIÓN DE FIBRINA/FIBRINÓGENO" p="0.1" c="Laboratorio" o="629"/>
+	<item id="17218" n="ANTICOAGULANTE LUPICO (VENENO DE VIBORA RUSELL DILUIDO)" p="0.1" c="Laboratorio" o="709"/>
+	<item id="17268" n="CD19" p="0.1" c="Laboratorio" o="1128"/>
+	<item id="17273" n="CD56" p="0.1" c="Laboratorio" o="1078"/>
+	<item id="17319" n="CD55" p="0.1" c="Laboratorio" o="1128"/>
+	<item id="18011" n="HISTOPATOLÓGICO DE BIOPSIA DE CERVIX UTERINO" p="0.1" c="Laboratorio" o="1078"/>
+	<item id="18013" n="HISTOPATOLÓGICO DE CONDUCTOS DEFERENTES" p="0.1" c="Laboratorio" o="759"/>
+	<item id="18019" n="HISTOPATOLÓGICO DE BIOPSIA ORAL" p="0.1" c="Laboratorio" o="1238"/>
+	<item id="18021" n="HISTOPATOLÓGICO DE BIOPSIA DE DIGESTIVO" p="0.1" c="Laboratorio" o="1238"/>
+	<item id="18024" n="HISTOPATOLÓGICO DE SENO MAXILAR" p="0.1" c="Laboratorio" o="759"/>
+	<item id="18044" n="HISTOPATOLÓGICO DE TUMORECTOMÍA DE MAMA" p="0.1" c="Laboratorio" o="1088"/>
+	<item id="18058" n="HISTOPATOLÓGICO DE GRASA / MÚSCULO / PERITONEO" p="0.1" c="Laboratorio" o="1278"/>
+	<item id="18069" n="HISTOPATOLÓGICO DE GLÁNDULAS SALIVALES" p="0.1" c="Laboratorio" o="1158"/>
+	<item id="19196" n="ALFA-2-MACROGLOBULINA" p="0.1" c="Laboratorio" o="1228"/>
+	<item id="19202" n="AC IgE PENICILOIL G" p="0.1" c="Laboratorio" o="1278"/>
+	<item id="19211" n="EVALUACION DE SÍNDROME PARANEOPLÁSICO" p="0.1" c="Laboratorio" o="10179"/>
+	<item id="19216" n="AC IgG GIARDIA LAMBLIA" p="0.1" c="Laboratorio" o="1218"/>
+	<item id="19235" n="AC IgE Aspergillus fumigatus" p="0.1" c="Laboratorio" o="1278"/>
+	<item id="19349" n="PÉPTIDO C POST-PRANDIAL" p="0.1" c="Laboratorio" o="559"/>
+	<item id="19403" n="PROLACTINA 3 DETERMINACIONES" p="0.1" c="Laboratorio" o="1078"/>
+	<item id="19442" n="AUTOANTICUERPOS IgG MITOCONDRIAL (M2)" p="0.1" c="Laboratorio" o="1388"/>
+	<item id="19535" n="AC IgG NEUROMIELITIS ÓPTICA (AQUAPORINA-4)" p="0.1" c="Laboratorio" o="10059"/>
+	<item id="19565" n="AC IgG TOXOPLASMA GONDII EN SUERO (Q)" p="0.1" c="Laboratorio" o="589"/>
+	<item id="19657" n="ANTICUERPOS IgE ASPERGILLUS NIGER" p="0.1" c="Laboratorio" o="1058"/>
+	<item id="20012" n="TEOFILINA EN SUERO (AMINOFILINA)" p="0.1" c="Laboratorio" o="599"/>
+	<item id="20019" n="ÁCIDO METIL HIPÚRICO EN ORINA" p="0.1" c="Laboratorio" o="1078"/>
+	<item id="20024" n="ALUMINIO EN ORINA" p="0.1" c="Laboratorio" o="559"/>
+	<item id="20032" n="ZINC EN ORINA" p="0.1" c="Laboratorio" o="599"/>
+	<item id="20036" n="MERCURIO EN ORINA DE 24 HORAS" p="0.1" c="Laboratorio" o="599"/>
+	<item id="20121" n="OXCARBAZEPINA EN SUERO" p="0.1" c="Laboratorio" o="629"/>
+	<item id="20122" n="CROMO EN SUERO" p="0.1" c="Laboratorio" o="599"/>
+	<item id="22001" n="AC ANTIMITOCONDRIA" p="0.1" c="Laboratorio" o="1448"/>
+	<item id="22029" n="GONADOTROFINAS HIPOFISIARIAS" p="0.1" c="Laboratorio" o="769"/>
+	<item id="22030" n="HORMONA ADRENOCORTICOTRÓFICA" p="0.1" c="Laboratorio" o="1218"/>
+	<item id="22173" n="ALFA-FETOPROTEINA MATERNA EN SUERO" p="0.1" c="Laboratorio" o="1208"/>
+	<item id="12066" n="PERFIL PRENATAL I" p="0.1" c="Frecuentes" o="769"/>
+	<item id="17030" n="LISIS DE EUGLOBULINAS DEL PLASMA" p="0.1" c="Laboratorio" o="549"/>
+	<item id="16225" n="FOSFATASA ÁCIDA TOTAL EN SUERO" p="0.1" c="Laboratorio" o="599"/>
+	<item id="16144" n="pH EN SANGRE" p="0.1" c="Laboratorio" o="599"/>
+	<item id="16083" n="OSMOLARIDAD EN SUERO" p="0.1" c="Laboratorio" o="1368"/>
+	<item id="16036" n="ELECTROFORESIS DE LIPOPROTEÍNAS EN SUERO" p="0.1" c="Laboratorio" o="549"/>
+	<item id="16006" n="17 HIDROXICORTICOESTEROIDES EN ORINA" p="0.1" c="Laboratorio" o="669"/>
+	<item id="25047" n="DETECCIÓN DE LA TRANSLOCACIÓN PML-RAR ALFA POR PCR" p="0.1" c="Laboratorio" o="9109"/>
+	<item id="15137" n="CULTIVO DE MYCOBACTERIUM EN ORINA" p="0.1" c="Laboratorio" o="1058"/>
+	<item id="15063" n="DIAGNÓSTICO DE HELICOBACTER PYLORI EN HECES" p="0.1" c="Laboratorio" o="1448"/>
+	<item id="15011" n="CULTIVO DE EXUDADO URETRAL" p="0.1" c="Laboratorio" o="609"/>
+	<item id="23002" n="CONTROL DIABÉTICO CON MICROALBUMINURIA" p="0.1" c="Laboratorio" o="709"/>
+	<item id="22252" n="TIROXINA LIBRE (T4LIBRE) EN SUERO" p="0.1" c="Laboratorio" o="769"/>
+	<item id="22251" n="POLIPÉPTIDO INSTESTINAL VASOACTIVO" p="0.1" c="Laboratorio" o="1418"/>
+	<item id="22239" n="ANTI-SSB(La)" p="0.1" c="Laboratorio" o="1098"/>
+	<item id="99960" n="PAQUETE SALUDABLE BASICO" p="0.1" c="Perfiles" o="499"/>
+	<item id="100458" n="ANTICUERPOS ANTI FOSFOLIPIDO (IGG," p="0.1" c="Perfiles" o="489"/>
+	<item id="100850" n="PERFIL METALES PESADOS" p="0.1" c="Perfiles" o="6539"/>
+	<item id="101431" n="CHECK UP BASICO TIROIDEO" p="0.1" c="Check up" o="8429"/>
+	<item id="12105" n="PERFIL PREOPERATORIO I" p="0.1" c="Perfiles" o="409"/>
+	<item id="12470" n="PERFIL INMUNOLOGICO DE DIABETES" p="0.1" c="Perfiles" o="6429"/>
+	<item id="98509" n="PERFIL PRENATAL PRIMER TRIMESTRE 2" p="0.1" c="Perfiles" o="459"/>
+	<item id="98557" n="PERFIL FACTOR REUMATOIDE,ANTIESTRE" p="0.1" c="Perfiles" o="449"/>
+	<item id="98725" n="PAQUETE REGRESO A CLASES 2" p="0.1" c="Perfiles" o="499"/>
+	<item id="99991" n="PERFIL ENFERMEDAD RENAL I" p="0.1" c="Perfiles" o="509"/>
+	<item id="18029" n="HISTOPATOLÓGICO DE SALPINGE" p="0.1" c="Laboratorio" o="978"/>
+	<item id="18034" n="HISTOPATOLÓGICO DE APÉNDICE Y OVARIO" p="0.1" c="Laboratorio" o="928"/>
+	<item id="18039" n="HISTOPATOLÓGICO DE EPÍPLON" p="0.1" c="Laboratorio" o="838"/>
+	<item id="18054" n="HISTOPATOLÓGICO DE SACO HERNIARIO" p="0.1" c="Laboratorio" o="808"/>
+	<item id="19057" n="INMUNOGLOBULINA E (IgE) EN SUERO" p="0.1" c="Laboratorio" o="868"/>
+	<item id="19083" n="AC IgG HERPES I" p="0.1" c="Laboratorio" o="928"/>
+	<item id="19238" n="CORTISOL 3 DETERMINACIONES" p="0.1" c="Laboratorio" o="1028"/>
+	<item id="19248" n="EVALUACION DE HEPATITIS AUTOINMUNE" p="0.1" c="Laboratorio" o="7919"/>
+	<item id="19357" n="AC IgE ACIDO SALICILICO/ASPIRINA" p="0.1" c="Laboratorio" o="14578"/>
+	<item id="19455" n="AC IgG BETA LACTOGLOBULINA" p="0.1" c="Laboratorio" o="459"/>
+	<item id="19685" n="AC ANTI-FOSFOLIPIDOS EN SUERO" p="0.1" c="Laboratorio" o="409"/>
+	<item id="20005" n="BENZODIACEPINAS EN ORINA" p="0.1" c="Laboratorio" o="868"/>
+	<item id="20028" n="PLOMO EN ORINA" p="0.1" c="Laboratorio" o="938"/>
+	<item id="2003" n="ESPIROMETRÍA" p="0.1" c="Chequeos" o="928"/>
+	<item id="20123" n="ARSÉNICO EN SANGRE" p="0.1" c="Laboratorio" o="948"/>
+	<item id="20152" n="BUSQUEDA DE DROGAS 5 EN ORINA" p="0.1" c="Laboratorio" o="479"/>
+	<item id="20153" n="ZINC EN SUERO" p="0.1" c="Laboratorio" o="419"/>
+	<item id="20231" n="BÚSQUEDA DE 8 DROGAS EN ORINA" p="0.1" c="Laboratorio" o="878"/>
+	<item id="22014" n="ALFA-FETOPROTEINA EN SUERO" p="0.1" c="Laboratorio" o="948"/>
+	<item id="22053" n="TESTOSTERONA TOTAL EN SUERO" p="0.1" c="Laboratorio" o="868"/>
+	<item id="22124" n="AC ANTI-CARDIOLIPINA" p="0.1" c="Laboratorio" o="948"/>
+	<item id="22208" n="SOMATOMEDINA C (IGF-I)" p="0.1" c="Laboratorio" o="808"/>
+	<item id="22212" n="AC ScL-70" p="0.1" c="Laboratorio" o="1028"/>
+	<item id="98209" n="PAQUETE SALUDABLE 1" p="0.1" c="Perfiles" o="469"/>
+	<item id="98507" n="PERFIL DETECCIÓN DE EMBARAZO EN SAN" p="0.1" c="Perfiles" o="439"/>
+	<item id="17073" n="DIMERO D EN PLASMA (CUANTITATIVO)" p="0.1" c="Laboratorio" o="908"/>
+	<item id="17168" n="LINFOCITOS CD4 EN SANGRE" p="0.1" c="Laboratorio" o="1018"/>
+	<item id="16944" n="CURVA TOLERANCIA A LA GLUCOSA 5 HRS" p="0.1" c="Laboratorio" o="469"/>
+	<item id="16142" n="PERFIL BIOQUÍMICO" p="0.1" c="Laboratorio" o="868"/>
+	<item id="16042" n="CAPTACIÓN DE HIERRO SERICO" p="0.1" c="Laboratorio" o="469"/>
+	<item id="16035" n="ESTUDIO CITOQUÍMICO DE LCR" p="0.1" c="Laboratorio" o="489"/>
+	<item id="16008" n="ELECTROFORESIS DE PROTEÍNAS EN SUERO" p="0.1" c="Laboratorio" o="469"/>
+	<item id="15166" n="DETECCIÓN DE ANTÍGENO DE VIRUS DE INFLUENZA A Y/O B" p="0.1" c="Laboratorio" o="519"/>
+	<item id="15141" n="ANTÍGENO DE CHLAMYDIA TRACHOMATIS EN ORINA" p="0.1" c="Laboratorio" o="828"/>
+	<item id="15056" n="MYCOPLASMA EN ORINA" p="0.1" c="Laboratorio" o="908"/>
+	<item id="15016" n="CULTIVO DE LÍQUIDO PLEURAL" p="0.1" c="Laboratorio" o="419"/>
+	<item id="24008" n="CARIOTIPO PARA DIAGNÓSTICO DE INESTABILIDAD CROMOSOMICA" p="0.1" c="Laboratorio" o="6639"/>
+	<item id="100710" n="PERFIL MUJER MENOR 40 AÑOS Q45" p="0.0999999999999999" c="Perfiles" o="5779"/>
+	<item id="100721" n="PERFIL MONITOREO MATERNO FETAL Q45" p="0.0999999999999999" c="Perfiles" o="6179"/>
+	<item id="101435" n="CHECK UP BASICO TIROIDEO" p="0.0999999999999999" c="Check up" o="5249"/>
+	<item id="12119" n="PERFIL ENF.TRANS.SEXUAL II HOM" p="0.0999999999999999" c="Perfiles" o="5359"/>
+	<item id="13643" n="PERFIL GCT" p="0.0999999999999999" c="Perfiles" o="379"/>
+	<item id="13933" n="PAQUETE DIAGNÓSTICO DIABETES" p="0.0999999999999999" c="Perfiles" o="349"/>
+	<item id="98724" n="PAQUETE REGRESO A CLASES 1" p="0.0999999999999999" c="Perfiles" o="369"/>
+	<item id="98909" n="CALCIO Y FOSFORO EN SUERO" p="0.0999999999999999" c="Perfiles" o="369"/>
+	<item id="22003" n="AC IgM SARAMPIÓN" p="0.0999999999999999" c="Laboratorio" o="738"/>
+	<item id="17088" n="LEUCEMIA/LINFOMA INMUNOFENOTIPO EN SANGRE" p="0.0999999999999999" c="Laboratorio" o="11378"/>
+	<item id="18046" n="HISTOPATOLÓGICO DE MENISCOS" p="0.0999999999999999" c="Laboratorio" o="768"/>
+	<item id="19004" n="AC ANTI-ENTAMOEBA HISTOLYTICA" p="0.0999999999999999" c="Laboratorio" o="369"/>
+	<item id="19047" n="AC ANTI-CISTICERCO EN SUERO" p="0.0999999999999999" c="Laboratorio" o="738"/>
+	<item id="19125" n="AC ANTIESPERMATOZOIDES EN SUERO (HOMBRE)" p="0.0999999999999999" c="Laboratorio" o="648"/>
+	<item id="19229" n="+AC IgG A PROTEINA BÁSICA DE MIELINA" p="0.0999999999999999" c="Laboratorio" o="5529"/>
+	<item id="19233" n="HORMONA LIBERADORA DE GONADOTROPINAS" p="0.0999999999999999" c="Laboratorio" o="10658"/>
+	<item id="20011" n="PRIMIDONA EN SUERO" p="0.0999999999999999" c="Laboratorio" o="738"/>
+	<item id="20025" n="CADMIO EN SANGRE" p="0.0999999999999999" c="Laboratorio" o="648"/>
+	<item id="20144" n="OLANZAPINA" p="0.0999999999999999" c="Laboratorio" o="5149"/>
+	<item id="20262" n="AMINOACIDOS Y CARNITINAS EN SANGRE SECA" p="0.0999999999999999" c="Laboratorio" o="698"/>
+	<item id="22026" n="HORMONA FOLÍCULO ESTIMULANTE" p="0.0999999999999999" c="Laboratorio" o="329"/>
+	<item id="98853" n="PERFIL FUNCIONAMIENTO RENAL I" p="0.0999999999999999" c="Perfiles" o="1431"/>
+	<item id="17018" n="ISOAGLUTININAS EN SUERO" p="0.0999999999999999" c="Laboratorio" o="339"/>
+	<item id="25103" n="DETECCIÓN DE TRYPANOSOMA CRUZI POR PCR" p="0.0999999999999999" c="Laboratorio" o="5959"/>
+	<item id="25036" n="DETECCIÓN DE CITOMEGALOVIRUS POR PCR" p="0.0999999999999999" c="Laboratorio" o="5999"/>
+	<item id="15102" n="ESTUDIO COMPLETO DE LÍQUIDO SEMINAL" p="0.0999999999999999" c="Laboratorio" o="768"/>
+	<item id="25007" n="CARGA VIRAL DE HEPATITIS B POR PCR" p="0.0999999999999999" c="Laboratorio" o="5809"/>
+	<item id="100703" n="PERFIL HOMBRE MENOR 40 AÑOS Q45" p="0.0999999999999999" c="Perfiles" o="4729"/>
+	<item id="13918" n="PERFIL GUARDERIA 1" p="0.0999999999999999" c="Perfiles" o="299"/>
+	<item id="12051" n="PERFIL PREHIPERTENSIÓN" p="0.0999999999999999" c="Perfiles" o="289"/>
+	<item id="100157" n="PERFIL BASICO PROSTATICO" p="0.0999999999999999" c="Perfiles" o="289"/>
+	<item id="98545" n="PERFIL CALCIO FOSFORO ACIDO URICO E" p="0.0999999999999999" c="Perfiles" o="299"/>
+	<item id="98856" n="PERFIL HEPATITIS VIRAL III" p="0.0999999999999999" c="Perfiles" o="4609"/>
+	<item id="19106" n="AC MIELINA" p="0.0999999999999999" c="Laboratorio" o="4729"/>
+	<item id="19678" n="TAMIZ NEONATAL 1" p="0.0999999999999999" c="Laboratorio" o="628"/>
+	<item id="20154" n="BENCENO EN SANGRE" p="0.0999999999999999" c="Laboratorio" o="588"/>
+	<item id="21035" n="LACTOFERRINA EN HECES" p="0.0999999999999999" c="Laboratorio" o="4799"/>
+	<item id="22040" n="PROGESTERONA" p="0.0999999999999999" c="Laboratorio" o="299"/>
+	<item id="17021" n="CONSUMO DE PROTROMBINA EN SUERO" p="0.0999999999999999" c="Laboratorio" o="299"/>
+	<item id="17013" n="FÓRMULA ROJA EN SANGRE" p="0.0999999999999999" c="Laboratorio" o="299"/>
+	<item id="16426" n="BILIRRUBINA NEONATAL EN SUERO" p="0.0999999999999999" c="Laboratorio" o="319"/>
+	<item id="25186" n="EXCLUSION DE MATERNIDAD" p="0.0999999999999999" c="Laboratorio" o="9798"/>
+	<item id="16080" n="ELECTROLITOS EN SUERO" p="0.0999999999999999" c="Laboratorio" o="299"/>
+	<item id="25069" n="CUANTIFICACIÓN DE EPSTEIN-BARR (EBV) POR PCR, MUESTRA BIOLÓGICA" p="0.0999999999999999" c="Laboratorio" o="10088"/>
+	<item id="15028" n="HEMOCULTIVO" p="0.0999999999999999" c="Laboratorio" o="578"/>
+	<item id="15008" n="CULTIVO DE EXUDADO NASAL" p="0.0999999999999999" c="Laboratorio" o="299"/>
+	<item id="24016" n="DOWN, SÍNDROME-TRISOMÍA 21 FISH" p="0.0999999999999999" c="Laboratorio" o="4679"/>
+	<item id="24015" n="ANEUPLOIDÍAS DE CROMOSOMAS SEXUALES, FISH" p="0.0999999999999999" c="Laboratorio" o="4679"/>
+	<item id="20093" n="METACUALONA EN ORINA" p="0.0999994869189999" c="Laboratorio" o="1949.01"/>
+	<item id="100977" n="PERFIL MEDICO MUJER" p="0.0999994591700424" c="Perfiles" o="1849.01"/>
+	<item id="12231" n="TAMIZ METABOLICO NEONATAL I" p="0.099999358567296" c="Perfiles" o="1559.01"/>
+	<item id="100686" n="CHECK UP MASCULINO COMPLETO Q45" p="0.0999992902818291" c="Check up" o="1409.01"/>
+	<item id="25205" n="TIPIFICACIÓN MOLECULAR HLA CLASE I Y II PARA TRASPLANTE DE M.O" p="0.0999992147624656" c="Laboratorio" o="12735"/>
+	<item id="25118" n="MUTACIÓN DE LA ENFERMEDAD HUNTINGTON" p="0.0999992091381451" c="Laboratorio" o="11379.99"/>
+	<item id="25123" n="EXCLUSIÓN DE PATERNIDAD, PERSONA ADICIONAL" p="0.0999990389235944" c="Laboratorio" o="10405"/>
+	<item id="25122" n="EXCLUSIÓN DE PATERNIDAD EN SANGRE TRES PERSONAS" p="0.0999990374321256" c="Laboratorio" o="9349.99"/>
+	<item id="25178" n="EXCLUSIÓN DE PATERNIDAD DOS PERSONAS EXPRESS" p="0.0999989964306383" c="Laboratorio" o="8967.99"/>
+	<item id="25021" n="DETECCIÓN DE HIV-1 POR PCR" p="0.099998923314898" c="Laboratorio" o="8358.99"/>
+	<item id="100698" n="PERFIL ENFERMEDAD RENAL Q45 II" p="0.0999987937419331" c="Perfiles" o="829.01"/>
+	<item id="19220" n="AC IgG FASCIOLA" p="0.0999987727049583" c="Laboratorio" o="8148"/>
+	<item id="25200" n="PRUEBA GENOMICA DE SENSIBILIDAD A TAMOXIFEN" p="0.0999987498246281" c="Laboratorio" o="7198.99"/>
+	<item id="25144" n="DETECCIÓN DE BORDETELLA PERTUSSIS POR PCR" p="0.0999987302465156" c="Laboratorio" o="7087.99"/>
+	<item id="25119" n="CUANTIFICACIÓN DE pp65 DEL CITOMEGALOVIRUS POR PCR" p="0.099998704327546" c="Laboratorio" o="7718"/>
+	<item id="17072" n="VON WILLEBRAND PERFIL EN PLASMA" p="0.0999986718023642" c="Laboratorio" o="7529"/>
+	<item id="25025" n="DETECCIÓN DE HERPES SIMPLE I Y II (HSV) POR qPCR, MUESTRA BIOLÓGICA" p="0.0999986684420772" c="Laboratorio" o="7510"/>
+	<item id="25020" n="DETECCIÓN DE HEMOCROMATOSIS HEREDITARIA POR PCR" p="0.0999986422267481" c="Laboratorio" o="7365"/>
+	<item id="25024" n="DETECCIÓN DE POLIOMAVIRUS JC POR PCR" p="0.0999986259961528" c="Laboratorio" o="7278"/>
+	<item id="25124" n="IDENTIDAD BIOLÓGICA EN SANGRE, HUELLA DE ADN" p="0.0999985096845664" c="Laboratorio" o="6038.99"/>
+	<item id="16637" n="ÉSTER DE COLESTEROL EN SUERO" p="0.0999984751448612" c="Laboratorio" o="6558"/>
+	<item id="19208" n="AC CITOTOXINA Clostridium difficile" p="0.0999983511953833" c="Laboratorio" o="6065"/>
+	<item id="19956" n="ANTICUERPOS ANTI-SINTETASA EN SUERO" p="0.0999983440631905" c="Laboratorio" o="5434.99"/>
+	<item id="25019" n="GENOTIPO VIH-1" p="0.0999983065198984" c="Laboratorio" o="5905"/>
+	<item id="5006" n="ELECTROMIOGRAFÍA LESIÓN PLEXO BRAQUIAL" p="0.099998297063949" c="Electroencefalografia" o="5284.99"/>
+	<item id="25067" n="DETECCIÓN DE BRUCELLA POR PCR" p="0.0999981462371704" c="Laboratorio" o="4854.99"/>
+	<item id="19338" n="AC ADRENALES 21 HIDROXILASA" p="0.0999981443260707" c="Laboratorio" o="4849.99"/>
+	<item id="19361" n="C5 ACTIVIDAD FUNCIONAL" p="0.0999981443260707" c="Laboratorio" o="4849.99"/>
+	<item id="19641" n="ANTICUERPOS IgM HISTOPLASMA" p="0.0999980945121951" c="Laboratorio" o="5248"/>
+	<item id="19642" n="ANTICUERPOS IgG HISTOPLASMA" p="0.0999980945121951" c="Laboratorio" o="5248"/>
+	<item id="19323" n="CADENAS LIGERAS KAPPA Y LAMBDA EN ORINA 24 HORAS" p="0.099998051100154" c="Laboratorio" o="4617.99"/>
+	<item id="5008" n="ELECTROMIOGRAFÍA 4 EXTREMIDADES" p="0.099998031108486" c="Electroencefalografia" o="5079"/>
+	<item id="17062" n="FACTOR XI EN PLASMA" p="0.0999980284732277" c="Laboratorio" o="4564.99"/>
+	<item id="19262" n="FACTOR DE NECROSIS TUMORAL ALFA (TNF)" p="0.0999979614902865" c="Laboratorio" o="4414.99"/>
+	<item id="24026" n="BCR/ABL, T(9;22), CROMOSOMA FILADELFIA" p="0.0999979201331115" c="Laboratorio" o="4808"/>
+	<item id="19650" n="ANTICUERPOS RI" p="0.0999979075120319" c="Laboratorio" o="4779"/>
+	<item id="16124" n="HEPATOS (HÍGADO GRASO)" p="0.0999978947368421" c="Laboratorio" o="4750"/>
+	<item id="15111" n="TOXINA A Y B DE CLOSTRIDIUM DIFFICILE EN HECES" p="0.0999977711683288" c="Laboratorio" o="4037.99"/>
+	<item id="19578" n="PROTEINA TRANSPORTADORA DE HORMONA DE CRECIMIENTO" p="0.0999977603583426" c="Laboratorio" o="4465"/>
+	<item id="19237" n="AC IgG, IgM TRYPANOSOMA CRUZI" p="0.0999977369819888" c="Laboratorio" o="3976.99"/>
+	<item id="19549" n="TESTOSTERONA BIODISPONIBLE (SUERO)" p="0.0999976878612716" c="Laboratorio" o="4325"/>
+	<item id="19521" n="RENINA Y ALDOSTERONA" p="0.0999976241387503" c="Laboratorio" o="4209"/>
+	<item id="16900" n="PANEL DE CETONAS EN SUERO" p="0.0999974606399187" c="Laboratorio" o="3938"/>
+	<item id="19543" n="ANTICUERPOS IgG STREPTOCOCCUS PNEUMONIAE 14 SEROTIPOS" p="0.0999974259974259" c="Laboratorio" o="3885"/>
+	<item id="19195" n="ANTIGENO TEMPRANO DE CITOMEGALOVIRUS" p="0.0999974193548386" c="Laboratorio" o="3875"/>
+	<item id="19374" n="AUTOANTICUERPOS IgG F-ACTINA" p="0.0999973973319761" c="Laboratorio" o="3457.99"/>
+	<item id="20147" n="CONFIRMACION DE BENZODIACEPINAS EN SUERO" p="0.0999973297730306" c="Laboratorio" o="3745"/>
+	<item id="17044" n="LINFOCITOS CD4, CD8 Y CD3 EN SANGRE" p="0.0999972368057474" c="Laboratorio" o="3619"/>
+	<item id="19240" n="AC IgG, IgA, IgM BETA-2-GLICOPROTEINA I" p="0.0999972350145468" c="Laboratorio" o="3254.99"/>
+	<item id="17043" n="LINFOCITOS T/B/NK (CD19/CD2/CD3/CD4/CD8/CD16/CD56) EN SANGRE" p="0.099997149372862" c="Laboratorio" o="3508"/>
+	<item id="25140" n="DETECCIÓN DE INFLUENZA: A (H1N1) Y B POR PCR" p="0.0999971256108077" c="Laboratorio" o="3479"/>
+	<item id="19465" n="AC CAMPYLOBACTER JEJUNI" p="0.0999971014492753" c="Laboratorio" o="3450"/>
+	<item id="24003" n="CARIOTIPO PARA ENFERMEDADES ONCOHEMATÓLOGICAS EN SANGRE" p="0.0999971014492753" c="Laboratorio" o="3450"/>
+	<item id="18066" n="HISTOPATOLÓGICO DE MASTECTOMÍA RADICAL" p="0.0999970930232558" c="Laboratorio" o="3440"/>
+	<item id="19088" n="PREGNENOLONA EN SUERO" p="0.0999968543567159" c="Laboratorio" o="3179"/>
+	<item id="19390" n="AUTOAC BLOQUEADORES RECEPTORES ACETIL COLINA" p="0.0999968304278922" c="Laboratorio" o="3155"/>
+	<item id="19085" n="AC IgG e IgM A VARICELA" p="0.0999968141480146" c="Laboratorio" o="2824.99"/>
+	<item id="16622" n="ÁCIDO METIL MALONICO EN SUERO" p="0.0999966832504145" c="Laboratorio" o="3015"/>
+	<item id="19545" n="HORMONA ANTI-MULLERIANA PLUS EN SUERO" p="0.0999966355014411" c="Laboratorio" o="2674.99"/>
+	<item id="19481" n="ANTICUERPOS ANTI-SRP" p="0.0999965156794424" c="Laboratorio" o="2870"/>
+	<item id="25229" n="CUANTIFICACIÓN DEL TRANSCRITO P210 DE BCR-ABL1 POR RT-qPCR" p="0.0999965034965034" c="Laboratorio" o="2860"/>
+	<item id="19377" n="AUTOANTICUERPOS IgA TRANSGLUTAMINASA" p="0.0999964426736864" c="Laboratorio" o="2529.99"/>
+	<item id="19695" n="AC IgM TRYPANOSOMA CRUZI EN SUERO" p="0.0999964002879769" c="Laboratorio" o="2778"/>
+	<item id="17071" n="VON WILLEBRAND MULTIMEROS EN PLASMA" p="0.0999963235143934" c="Laboratorio" o="2447.99"/>
+	<item id="19512" n="SOMATOMEDINA EN SUERO (5 DETERMINACIONES)" p="0.0999963167587476" c="Laboratorio" o="2715"/>
+	<item id="22295" n="ANTICUERPOS IgG ANTI-HTLV I/II" p="0.099996226399272" c="Laboratorio" o="2384.99"/>
+	<item id="22146" n="AC ANTI-TIROGLOBULINA EN SUERO" p="0.0999961948249619" c="Laboratorio" o="2628"/>
+	<item id="16105" n="ACIDO 5 HIDROXIINDOLÁCETICO EN ORINA 24H" p="0.0999961315280463" c="Laboratorio" o="2585"/>
+	<item id="19131" n="AC BLOQUEADORES FACTOR INTRINSECO" p="0.0999961165048543" c="Laboratorio" o="2575"/>
+	<item id="19266" n="AUTOANTICUERPOS ANTÍGENO SOLUBLE HEPÁTICO" p="0.0999961165048543" c="Laboratorio" o="2575"/>
+	<item id="17068" n="ERITROPOYETINA EN SUERO" p="0.0999959910734568" c="Laboratorio" o="2244.99"/>
+	<item id="17094" n="WARFARINA EN SUERO" p="0.0999958932238192" c="Laboratorio" o="2435"/>
+	<item id="22228" n="NICOTINA EN ORINA" p="0.0999958932238192" c="Laboratorio" o="2435"/>
+	<item id="22243" n="AC ANTI-RIBONUCLEOPROTEINA (RNP)" p="0.0999957228400342" c="Laboratorio" o="2338"/>
+	<item id="16137" n="METANEFRINAS EN ORINA DE 24 HORAS" p="0.0999956331877728" c="Laboratorio" o="2290"/>
+	<item id="22282" n="AC IgG TRYPANOSOMA CRUZI" p="0.0999956140350876" c="Laboratorio" o="2280"/>
+	<item id="16486" n="CISTINA EN ORINA DE 24 HORAS" p="0.0999955860499561" c="Laboratorio" o="2038.99"/>
+	<item id="16026" n="LACTATO EN PLASMA" p="0.0999953845917159" c="Laboratorio" o="1949.99"/>
+	<item id="15024" n="ESTUDIO COMPLETO DE EXUDADOS GENITALES FEMENINO" p="0.0999953845917159" c="Laboratorio" o="1949.99"/>
+	<item id="19690" n="QUANTIFERON TB GOLD EN SANGRE" p="0.099995337995338" c="Laboratorio" o="2145"/>
+	<item id="19067" n="AC ANTI-SUPRARRENAL" p="0.0999953161592506" c="Laboratorio" o="2135"/>
+	<item id="5024" n="POTENCIALES SOMATOSENSORIALES DE MIEMBROS SUPERIR" p="0.0999953161592506" c="Electroencefalografia" o="2135"/>
+	<item id="5025" n="POTENCIALES SOMATOSENSORIALES DE MIEMBROS INFERIO" p="0.0999953161592506" c="Electroencefalografia" o="2135"/>
+	<item id="19609" n="PANEL DE ALERGENOS RESPIRATORIOS" p="0.0999951819870556" c="Laboratorio" o="1867.99"/>
+	<item id="20043" n="BARBITURICOS EN SUERO" p="0.0999951409135082" c="Laboratorio" o="2058"/>
+	<item id="18043" n="HISTOPATOLÓGICO DE INTESTINO" p="0.0999951060092769" c="Laboratorio" o="1838.99"/>
+	<item id="1005" n="VÍA AUDITIVA" p="0.0999950714637753" c="Audiología" o="2029"/>
+	<item id="19534" n="PERFIL TORCH IgG E IgM" p="0.0999950714637753" c="Laboratorio" o="2029"/>
+	<item id="19648" n="AC U3RNP (ANTI-FIBRILARINA) EN SUERO" p="0.0999950714637753" c="Laboratorio" o="2029"/>
+	<item id="19209" n="AC IgE SULFAMETOXASOL" p="0.0999950138227913" c="Laboratorio" o="1804.99"/>
+	<item id="16237" n="DESOXIPIRIDINOLINA EN ORINA" p="0.0999950138227913" c="Laboratorio" o="1804.99"/>
+	<item id="16211" n="VITAMINA B1 (TIAMINA) EN SUERO" p="0.099994623655914" c="Laboratorio" o="1860"/>
+	<item id="16092" n="ÁCIDO HOMOVANÍLICO EN ORINA DE 24 HORAS" p="0.0999945945621295" c="Laboratorio" o="1664.99"/>
+	<item id="18100" n="INMUNOHISTOQUÍMICA UN MARCADOR" p="0.0999945799457995" c="Laboratorio" o="1845"/>
+	<item id="19270" n="ANTÍGENO DE LEGIONELLA PNEUMOPHILA EN ORINA" p="0.0999943438914027" c="Laboratorio" o="1768"/>
+	<item id="19111" n="AC TOTALES (IgG e IgM) A VIRUS DE DENGUE + Ag. NS1" p="0.0999943117178612" c="Laboratorio" o="1758"/>
+	<item id="20128" n="NÍQUEL EN SANGRE" p="0.0999943117178612" c="Laboratorio" o="1758"/>
+	<item id="16912" n="IODO URINARIO" p="0.0999941520467836" c="Laboratorio" o="1710"/>
+	<item id="19542" n="BIOTINIDASA EN SUERO" p="0.0999941348973607" c="Laboratorio" o="1705"/>
+	<item id="20188" n="CLOZAPINA EN SUERO" p="0.0999941176470588" c="Laboratorio" o="1700"/>
+	<item id="19153" n="AC IgG e IgM CHLAMYDIA PNEUMONIAE" p="0.0999941176470588" c="Laboratorio" o="1700"/>
+	<item id="19344" n="ANTICUERPOS IgG HERPES 6 HUMANO" p="0.0999940593667285" c="Laboratorio" o="1514.99"/>
+	<item id="16071" n="VITAMINA A EN SUERO" p="0.0999938195302843" c="Laboratorio" o="1618"/>
+	<item id="16040" n="PROTEÍNA DE BENCE JONES EN ORINA" p="0.0999935897435898" c="Laboratorio" o="1560"/>
+	<item id="20186" n="ÁCIDO MICOFENÓLICO EN SUERO" p="0.0999935691318328" c="Laboratorio" o="1555"/>
+	<item id="22238" n="ANTI-SSA(Ro)" p="0.0999934544978509" c="Laboratorio" o="1374.99"/>
+	<item id="19376" n="AUTOANTICUERPOS IgA E IgG A RETICULINA" p="0.0999930123681084" c="Laboratorio" o="1287.99"/>
+	<item id="18055" n="HISTOPATOLÓGICO DE TESTÍCULO (RESECCIÓN)" p="0.0999929824561404" c="Laboratorio" o="1425"/>
+	<item id="19371" n="Ac IgG, IgM, IgA Candida albicans" p="0.0999929824561404" c="Laboratorio" o="1425"/>
+	<item id="19415" n="PÉPTIDO NATRIURÉTICO TIPO B (BNP)" p="0.0999929328621908" c="Laboratorio" o="1415"/>
+	<item id="18062" n="HISTOPATOLÓGICO DE CISTECTOMÍA" p="0.0999926828673404" c="Laboratorio" o="1229.99"/>
+	<item id="22270" n="BETA-2 MICROGLOBULINA EN ORINA" p="0.099992653001249" c="Laboratorio" o="1224.99"/>
+	<item id="22165" n="AC IgG TRICHINELLA" p="0.0999925261584454" c="Laboratorio" o="1338"/>
+	<item id="18023" n="HISTOPATOLÓGICO DE RESTOS OVULARES" p="0.0999923605805959" c="Laboratorio" o="1309"/>
+	<item id="20138" n="SALICILATOS EN SUERO" p="0.0999923605805959" c="Laboratorio" o="1309"/>
+	<item id="20111" n="ACETAMINOFEN" p="0.0999921875" c="Laboratorio" o="1280"/>
+	<item id="19889" n="ANTIGENO NS1 DE DENGUE" p="0.099992125984252" c="Laboratorio" o="1270"/>
+	<item id="19056" n="INMUNOGLOBULINAS EN SUERO" p="0.099992125984252" c="Laboratorio" o="1270"/>
+	<item id="18110" n="ANTÍGENO CARCINO EMBRIONARIO MARCADOR DE INMUNOHISTOQUÍMICA" p="0.0999920948616601" c="Laboratorio" o="1265"/>
+	<item id="22002" n="AC ANTI-MÚSCULO LISO" p="0.0999920948616601" c="Laboratorio" o="1265"/>
+	<item id="22113" n="AC TOTALES CORE DE HEPATITIS B EN SUERO" p="0.0999920913189044" c="Laboratorio" o="1137.99"/>
+	<item id="17193" n="CD19 EN SANGRE" p="0.0999918845075249" c="Laboratorio" o="1108.99"/>
+	<item id="18026" n="HISTOPATOLÓGICO DE TEJIDOS BLANDOS" p="0.0999918845075249" c="Laboratorio" o="1108.99"/>
+	<item id="19105" n="AC RECEPTOR DE H. ESTIMULANTE DE TIROIDES" p="0.0999917049926728" c="Laboratorio" o="1084.99"/>
+	<item id="20078" n="METIL ETIL CETONA EN ORINA" p="0.0999916665895055" c="Laboratorio" o="1079.99"/>
+	<item id="20105" n="METOTREXATO EN SUERO" p="0.0999916665895055" c="Laboratorio" o="1079.99"/>
+	<item id="22117" n="AC IgM CORE DE HEPATITIS B EN SUERO" p="0.0999916665895055" c="Laboratorio" o="1079.99"/>
+	<item id="18063" n="HISTOPATOLÓGICO DE VESÍCULA BILIAR" p="0.0999913718723038" c="Laboratorio" o="1159"/>
+	<item id="19137" n="AC IgE ASCARIS LUMBRICOIDES" p="0.0999913718723038" c="Laboratorio" o="1159"/>
+	<item id="18064" n="REVISIÓN DE LAMINILLAS" p="0.0999911894273128" c="Laboratorio" o="1135"/>
+	<item id="17052" n="ANTITROMBINA III (ACTIVIDAD) EN PLASMA" p="0.0999911894273128" c="Laboratorio" o="1135"/>
+	<item id="17045" n="FACTOR VIII EN PLASMA" p="0.0999911504424779" c="Laboratorio" o="1130"/>
+	<item id="18048" n="HISTOPATOLÓGICO DE OVARIO MAYOR DE 6 CM" p="0.0999911111111111" c="Laboratorio" o="1125"/>
+	<item id="19152" n="AC IgA ANTI-ENDOMISIO" p="0.0999909818735658" c="Laboratorio" o="997.99"/>
+	<item id="18036" n="HISTOPATOLÓGICO DE BIOPSIA CEREBRAL" p="0.0999909818735658" c="Laboratorio" o="997.99"/>
+	<item id="18067" n="HISTOPATOLÓGICO DE BIOPSIA BILATERAL DE MAMA" p="0.0999904580152671" c="Laboratorio" o="1048"/>
+	<item id="19478" n="ANTICUERPOS IgG RNP U1 EN SUERO" p="0.0999903742286014" c="Laboratorio" o="934.99"/>
+	<item id="22042" n="PERFIL TIROIDEO EN SUERO" p="0.0999903742286014" c="Laboratorio" o="934.99"/>
+	<item id="19393" n="CONFIRMATORIA ANTIGENO DE SUPERFICIE HEPATITIS B" p="0.0999901864573111" c="Laboratorio" o="1019"/>
+	<item id="19574" n="PERFIL TORCH IgG (Q)" p="0.0999901864573111" c="Laboratorio" o="1019"/>
+	<item id="15138" n="CULTIVO DE MYCOBACTERIUM EN LÍQUIDOS CORPORALES" p="0.0999901864573111" c="Laboratorio" o="1019"/>
+	<item id="22043" n="RENINA" p="0.099989847715736" c="Laboratorio" o="985"/>
+	<item id="16233" n="AMINOÁCIDOS EN ORINA" p="0.0999897959183674" c="Laboratorio" o="980"/>
+	<item id="18038" n="HISTOPATOLÓGICO DE DISCO INTERVERTEBRAL" p="0.0999893866672956" c="Laboratorio" o="847.99"/>
+	<item id="19884" n="FACTOR DE CRECIMIENTO PLACENTARIO HUMANO" p="0.0999890108548334" c="Laboratorio" o="818.99"/>
+	<item id="19886" n="FMS SOLUBLE SIMILAR A LA TIROSINA QUINASA TIPO1(SFLT-1)" p="0.0999890108548334" c="Laboratorio" o="818.99"/>
+	<item id="16175" n="TASA DE FILTRACION GLOMERULAR (PEDIÁTRICOS)" p="0.0999887653072689" c="Laboratorio" o="89.01"/>
+	<item id="19748" n="TAMIZ NEONATAL" p="0.099988358556461" c="Laboratorio" o="859"/>
+	<item id="19072" n="AC IgG SARAMPION" p="0.0999881656804734" c="Laboratorio" o="845"/>
+	<item id="19750" n="DETERMINACIÓN DE 6 ALERGENOS ALIMENTICIOS" p="0.0999880239520958" c="Laboratorio" o="835"/>
+	<item id="19366" n="AC IgE BETA-LACTOGLOBULINA" p="0.0999879518072289" c="Laboratorio" o="830"/>
+	<item id="19367" n="AC IgE ALFA-LACTOALBUMINA" p="0.0999879518072289" c="Laboratorio" o="830"/>
+	<item id="19457" n="HORMONA DE CRECIMIENTO 9 DETERMINACIONES" p="0.0999879518072289" c="Laboratorio" o="830"/>
+	<item id="15089" n="ANTÍGENO DE CHLAMYDIA EN EXUDADO CONJUNTIVAL (EIA)" p="0.0999872879560445" c="Laboratorio" o="707.99"/>
+	<item id="22016" n="CORTISOL EN SUERO" p="0.0999868073878628" c="Laboratorio" o="758"/>
+	<item id="17320" n="CD40" p="0.099986745018336" c="Laboratorio" o="678.99"/>
+	<item id="1008" n="AUDIOMETRIA TONAL Y LOGOAUDIO" p="0.0999866310160427" c="Audiología" o="748"/>
+	<item id="18018" n="HISTOPATOLÓGICO DE BIOPSIA LARÍNGEA" p="0.0999862825788752" c="Laboratorio" o="729"/>
+	<item id="19199" n="TESTOSTERONA LIBRE" p="0.0999862825788752" c="Laboratorio" o="729"/>
+	<item id="19573" n="AC IgG HERPES 2 EN SUERO" p="0.0999862825788752" c="Laboratorio" o="729"/>
+	<item id="20033" n="PLOMO EN SANGRE PARA PERSONAS EXPUESTAS OCUPACIONALMENTE" p="0.0999860462952914" c="Laboratorio" o="644.99"/>
+	<item id="20080" n="COBRE EN ORINA" p="0.0999860462952914" c="Laboratorio" o="644.99"/>
+	<item id="16827" n="DETERMINACIÓN DE ALBÚMINA EN LÍQUIDO DE ASCITIS" p="0.0999860462952914" c="Laboratorio" o="644.99"/>
+	<item id="16946" n="INSULINA POST CARGA ORAL DE GLUCOSA" p="0.0999857142857143" c="Laboratorio" o="700"/>
+	<item id="19181" n="AC IGA, IGG GLIADINA" p="0.0999856115107914" c="Laboratorio" o="695"/>
+	<item id="15171" n="BACILOSCOPÍA EN SERIE (3 MUESTRAS)" p="0.0999856115107914" c="Laboratorio" o="695"/>
+	<item id="19421" n="CISTATINA C" p="0.099983870678686" c="Laboratorio" o="557.99"/>
+	<item id="19354" n="HORMONA GONADOTROFINA BETA CORIÓNICA (MARCADOR TUMORAL)" p="0.0999835526315789" c="Laboratorio" o="608"/>
+	<item id="19570" n="AC IgM RUBEOLA EN SUERO (Q)" p="0.0999835526315789" c="Laboratorio" o="608"/>
+	<item id="15013" n="CULTIVO DE EXUDADO VULVO VAGINAL" p="0.0999835526315789" c="Laboratorio" o="608"/>
+	<item id="19055" n="COMPLEMENTO C4 EN SUERO" p="0.0999829864458685" c="Laboratorio" o="528.99"/>
+	<item id="16094" n="CITRATO EN ORINA DE 24 HORAS" p="0.0999829864458685" c="Laboratorio" o="528.99"/>
+	<item id="1001" n="AUDIOMETRÍA" p="0.0999827288428324" c="Frecuentes" o="579"/>
+	<item id="17023" n="COOMBS INDIRECTO RASTREO DE ANTICUERPOS" p="0.0999821778649082" c="Laboratorio" o="504.99"/>
+	<item id="15054" n="CULTIVO ÓTICO IZQUIERDO" p="0.0999821778649082" c="Laboratorio" o="504.99"/>
+	<item id="15012" n="CULTIVO DE EXUDADO VULVAR" p="0.0999821778649082" c="Laboratorio" o="504.99"/>
+	<item id="20004" n="ALCOHOL ETÍLICO EN SUERO" p="0.0999819996399928" c="Laboratorio" o="499.99"/>
+	<item id="39281" n="NICOTINA EN ORINA PRUEBA RÁPIDA" p="0.099981981981982" c="Tomadores" o="555"/>
+	<item id="19515" n="CORTISOL EN ORINA DE 24 HORAS" p="0.099981981981982" c="Laboratorio" o="555"/>
+	<item id="20017" n="FENITOÍNA EN SUERO" p="0.099981981981982" c="Laboratorio" o="555"/>
+	<item id="15029" n="CULTIVO DE MYCOPLASMAS GENITALES" p="0.0999818181818182" c="Laboratorio" o="550"/>
+	<item id="20220" n="COBRE EN ORINA DE 24 HORAS" p="0.0999816513761468" c="Laboratorio" o="545"/>
+	<item id="19054" n="COMPLEMENTO C3 EN SUERO" p="0.0999814814814815" c="Laboratorio" o="540"/>
+	<item id="19257" n="AC IgM A CARDIOLIPINA" p="0.0999814814814815" c="Laboratorio" o="540"/>
+	<item id="20014" n="CARBAMAZEPINA EN SUERO" p="0.0999814814814815" c="Laboratorio" o="540"/>
+	<item id="15055" n="CULTIVO ÓTICO DERECHO" p="0.0999814814814815" c="Laboratorio" o="540"/>
+	<item id="19227" n="ANTIGENO PROSTÁTICO ESPECIFICO LIBRE EN SUERO" p="0.0999784683844112" c="Laboratorio" o="417.99"/>
+	<item id="20003" n="ALCOHOL ETÍLICO EN ORINA" p="0.0999784683844112" c="Laboratorio" o="417.99"/>
+	<item id="17241" n="ELECTROFORESIS DE HEMOGLOBINA" p="0.0999781659388647" c="Laboratorio" o="458"/>
+	<item id="22028" n="HORMONA GONADOTROFINA BETA CORIÓNICA" p="0.0999781659388647" c="Laboratorio" o="458"/>
+	<item id="15062" n="IDENTIFICACIÓN DE CEPA BACTERIANA" p="0.0999781659388647" c="Laboratorio" o="458"/>
+	<item id="16678" n="QUÍMICA 6" p="0.0999772209567198" c="Laboratorio" o="439"/>
+	<item id="17031" n="TIEMPO DE PROTROMBINA CON CARGA DE VITAMINA K" p="0.0999768631584359" c="Laboratorio" o="388.99"/>
+	<item id="22294" n="INMUNOGLOBULINA M (IgM) EN SUERO" p="0.0999768631584359" c="Laboratorio" o="388.99"/>
+	<item id="15112" n="CULTIVO DE EXUDADO ANAL" p="0.0999766899766899" c="Laboratorio" o="429"/>
+	<item id="15131" n="CULTIVO DE HONGOS EN PIEL" p="0.0999756097560976" c="Laboratorio" o="410"/>
+	<item id="15061" n="CULTIVO DE SENOS PARANASALES" p="0.0999756097560976" c="Laboratorio" o="410"/>
+	<item id="19400" n="AC ANTI-DNA NATIVO CUANTITATIVO (IFI)" p="0.0999753086419753" c="Laboratorio" o="405"/>
+	<item id="19454" n="AC IgG ALFA LACTOALBUMINA" p="0.0999753086419753" c="Laboratorio" o="405"/>
+	<item id="39288" n="PRUEBA RÁPIDA DE H.PYLORI EN BIOPSIA TOMADA EN SUCURSAL" p="0.0999753086419753" c="Tomadores" o="405"/>
+	<item id="22050" n="IODO PROTEICO EN SUERO" p="0.099975" c="Laboratorio" o="400"/>
+	<item id="16116" n="LIPASA EN SUERO" p="0.0999749993055363" c="Laboratorio" o="359.99"/>
+	<item id="16009" n="ÁCIDO ÚRICO EN ORINA DE 24 HORAS" p="0.0999746835443038" c="Laboratorio" o="395"/>
+	<item id="15145" n="CULTIVO DE HONGOS EN EXUDADOS VARIOS" p="0.0999746835443038" c="Laboratorio" o="395"/>
+	<item id="17004" n="CRIOAGLUTININAS EN SUERO" p="0.0999746471731598" c="Laboratorio" o="354.99"/>
+	<item id="16082" n="OSMOLARIDAD EN ORINA" p="0.0999746471731598" c="Laboratorio" o="354.99"/>
+	<item id="15005" n="COPROCULTIVO" p="0.0999746471731598" c="Laboratorio" o="354.99"/>
+	<item id="19121" n="ROSA DE BENGALA" p="0.0999685534591196" c="Laboratorio" o="318"/>
+	<item id="17069" n="PRUEBA DE HAM" p="0.0999685534591196" c="Laboratorio" o="318"/>
+	<item id="16011" n="PROTEÍNAS TOTALES EN SUERO" p="0.0999685534591196" c="Laboratorio" o="318"/>
+	<item id="17228" n="LINFOCITOS CD8 EN SANGRE" p="0.0999675324675325" c="Laboratorio" o="308"/>
+	<item id="22152" n="PSA (MARCADOR TUMORAL MUJER)" p="0.0999675324675325" c="Laboratorio" o="308"/>
+	<item id="21001" n="EXAMEN COPROLÓGICO" p="0.0999675324675325" c="Laboratorio" o="308"/>
+	<item id="22041" n="PROLACTINA EN SUERO" p="0.0999675324675325" c="Laboratorio" o="308"/>
+	<item id="16018" n="MAGNESIO EN ORINA DE 24 HORAS" p="0.0999675324675325" c="Laboratorio" o="308"/>
+	<item id="19215" n="AC IgM Aspergillus" p="0.099966416657338" c="Laboratorio" o="267.99"/>
+	<item id="17064" n="FRAGILIDAD OSMÓTICA ERITROCITARIA EN SANGRE" p="0.099966416657338" c="Laboratorio" o="267.99"/>
+	<item id="15075" n="BACILOSCOPÍA EN SERIE (2 MUESTRAS)" p="0.0999653979238754" c="Laboratorio" o="289"/>
+	<item id="16533" n="MICROALBUMINURIA (ALBÚMINA) EN ORINA AL AZAR" p="0.0999623415205658" c="Laboratorio" o="238.99"/>
+	<item id="16050" n="CALCIO EN SUERO" p="0.0999623415205658" c="Laboratorio" o="238.99"/>
+	<item id="21016" n="SANGRE OCULTA EN HECES" p="0.0999622641509434" c="Laboratorio" o="265"/>
+	<item id="16162" n="SODIO EN SUERO" p="0.0999622641509434" c="Laboratorio" o="265"/>
+	<item id="15041" n="BACILOSCOPÍA EN ORINA" p="0.0999622641509434" c="Laboratorio" o="265"/>
+	<item id="15007" n="CULTIVO DE EXUDADO FARÍNGEO" p="0.0999622641509434" c="Laboratorio" o="265"/>
+	<item id="16117" n="COLESTEROL DE ALTA/BAJA DENSIDAD EN SUERO" p="0.0999615384615385" c="Laboratorio" o="260"/>
+	<item id="16148" n="POTASIO EN SUERO" p="0.0999615384615385" c="Laboratorio" o="260"/>
+	<item id="15031" n="BACILOSCOPÍA EN EXPECTORACIÓN" p="0.0999615384615385" c="Laboratorio" o="260"/>
+	<item id="22055" n="AC A VIRUS DE HEPATITIS C EN SUERO" p="0.0999607843137255" c="Laboratorio" o="255"/>
+	<item id="16640" n="AMILASA EN ORINA AL AZAR" p="0.0999607843137255" c="Laboratorio" o="255"/>
+	<item id="16069" n="CREATININA EN ORINA DE 24 HORAS" p="0.0999607843137255" c="Laboratorio" o="255"/>
+	<item id="19074" n="HORMONA DE CRECIMIENTO 2 DETERMINACIONES" p="0.09996" c="Laboratorio" o="250"/>
+	<item id="17036" n="TIEMPO DE TROMBINA EN PLASMA" p="0.09996" c="Laboratorio" o="250"/>
+	<item id="39013" n="TIEMPO DE SANGRADO Y TIEMPO DE COAGULACIÓN" p="0.09996" c="Frecuentes" o="250"/>
+	<item id="15146" n="ANÁLISIS MICROBIOLÓGICO DE ALIMENTOS" p="0.09996" c="Laboratorio" o="250"/>
+	<item id="21003" n="EXAMEN COPROPARASITOSCÓPICO (2 MUESTRAS)" p="0.0999581375877948" c="Laboratorio" o="214.99"/>
+	<item id="21020" n="INVESTIGACIÓN DE COCCIDIAS EN HECES" p="0.0999581375877948" c="Laboratorio" o="214.99"/>
+	<item id="16274" n="ELECTROLITOS ESPECIALES EN SUERO" p="0.0999581375877948" c="Laboratorio" o="214.99"/>
+	<item id="16113" n="PROTEÍNAS EN SUERO Y RELACIÓN A/G" p="0.0999581375877948" c="Laboratorio" o="214.99"/>
+	<item id="16090" n="FÓSFORO EN ORINA DE 24 HORAS" p="0.0999581375877948" c="Laboratorio" o="214.99"/>
+	<item id="16049" n="CALCIO EN ORINA DE 24 HORAS" p="0.0999571408162294" c="Laboratorio" o="209.99"/>
+	<item id="23020" n="EXAMEN DE ORINA CON MORFOLOGÍA ERITROCITARIA" p="0.0999571408162294" c="Laboratorio" o="209.99"/>
+	<item id="21017" n="TAMIZADO DE HECES" p="0.0999438202247191" c="Laboratorio" o="178"/>
+	<item id="17012" n="FÓRMULA BLANCA EN SANGRE" p="0.0999438202247191" c="Laboratorio" o="178"/>
+	<item id="16802" n="CREATININA EN ORINA AL AZAR" p="0.0999328859060402" c="Laboratorio" o="149"/>
+	<item id="16010" n="ÁCIDO ÚRICO EN SANGRE" p="0.0999296820064067" c="Laboratorio" o="127.99"/>
+	<item id="16861" n="PROTEÍNAS EN ORINA AL AZAR" p="0.0999280575539568" c="Laboratorio" o="139"/>
+	<item id="19820" n="AC IGE A TRIGO" p="0.0999166666666666" c="Laboratorio" o="120"/>
+	<item id="19017" n="REACCIONES FEBRILES EN SUERO" p="0.0999166666666666" c="Laboratorio" o="120"/>
+	<item id="17035" n="TIEMPO DE TROMBOPLASTINA PARCIAL ACTIVADA EN PLASMA" p="0.0999130434782608" c="Laboratorio" o="115"/>
+	<item id="23006" n="EXAMEN GENERAL DE ORINA" p="0.0999130434782608" c="Laboratorio" o="115"/>
+	<item id="16172" n="UREA EN SUERO" p="0.0999090909090909" c="Laboratorio" o="110"/>
+	<item id="15037" n="MICROSCOPÍA DE EXUDADO URETRAL" p="0.0999047619047619" c="Laboratorio" o="105"/>
+	<item id="16454" n="GLUCOSA EN SUERO AL AZAR" p="0.0998714102014573" c="Laboratorio" o="69.99"/>
+	<item id="20315" n="QUANTOSE IR" p="0" c="Laboratorio" o="1398.99"/>
+	<item id="25277" n="MATERGEN" p="0" c="Laboratorio" o="2998.99"/>
+	<item id="25278" n="DIABETES PREDICTIVA" p="0" c="Laboratorio" o="1800"/>
+	<item id="10000335" n="COLANGIOGRAFIA ENDOVENOSA" p="0" c="Estudios de gabinete" o="4239"/>
+	<item id="10000334" n="COLUMNA DORSAL AP LAT Y OBLICUA" p="0" c="Estudios de gabinete" o="5119"/>
+	<item id="13598" n="PERFIL DIABETES CONTROL COMPLETO CR" p="0" c="Perfiles" o="830.99"/>
+	<item id="8588" n="RAYOS X CONTRASTADOS DE CEPRE CON MEDIO DE CONTRASTE" p="0" c="Estudios de gabinete" o="6830"/>
+	<item/>
+</estudios>
