@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <estudios>
-	<item id="6005" n="PENESCOPÍA" p="0.250020833333333" c="Para él" o="700"/>
+	<item id="6005" n="PENESCOPÍA" p="0.250020833333333" c="Para él" o="600"/>
 	<item id="8095" n="PRENUPCIALES RX DE TÓRAX POSTERO-ANTERIOR" p="0.250019646365422" c="Estudios de gabinete" o="509"/>
 	<item id="16992" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 2 HORAS (MUESTRAS CADA 30 MIN)" p="0.250019646365422" c="Laboratorio" o="509"/>
 	<item id="22017" n="CURVA DE INSULINA (6 DETERMINACIONES)" p="0.250016" c="Laboratorio" o="625"/>
