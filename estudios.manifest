@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "#": "#estudios"
+  },
+  "settings": {
+    "#mostrar_estudios": {
+      "hash": "",
+      "stylesheets": [
+        {
+          "href": "mostrar_estudio.xslt",
+          "target": "#features"
+        }
+      ]
+    }
+  }
+}
