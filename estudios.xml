@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <estudios>
-	<item id="6005" n="PENESCOPÍA" p="0.250020833333333" c="Para él" o="480"/>
+	<item id="6005" n="PENESCOPÍA" p="0.250020833333333" c="Para él" o="600"/>
 	<item id="8095" n="PRENUPCIALES RX DE TÓRAX POSTERO-ANTERIOR" p="0.250019646365422" c="Estudios de gabinete" o="509"/>
 	<item id="16992" n="CURVA DE TOLERANCIA A LA GLUCOSA DE 2 HORAS (MUESTRAS CADA 30 MIN)" p="0.250019646365422" c="Laboratorio" o="509"/>
 	<item id="22017" n="CURVA DE INSULINA (6 DETERMINACIONES)" p="0.250016" c="Laboratorio" o="625"/>
@@ -310,7 +310,7 @@
 	<item id="39294" n="PRUEBA DE ANTÍGENO DE SARS-COV-2 (COVID-19)" p="0.2" c="Laboratorio" o="749"/>
 	<item id="10087" n="ANGIOTOMOGRAFÍA DEL CUELLO (CARÓTIDAS)" p="0.150004306632214" c="Estudios de gabinete" o="2322"/>
 	<item id="100165" n="PERFIL PREVENCIÓN CÁNCER 2" p="0.15" c="Perfiles" o="1149"/>
-	<item id="16181" n="GLYCOMARK" p="0.15" c="Laboratorio" d="Descripción" pr="Proceso" o="999"/>
+	<item id="16181" n="GLYCOMARK" p="0.15" c="Laboratorio" o="999" d="Descripción" pr="Proceso" k="especial otros" i="Indicaciones"/>
 	<item id="10092" n="Angiotomografía de las extremidades superiores" p="0.15" c="Estudios de gabinete" o="7065"/>
 	<item id="10097" n="TC del macizo facial con reconstrucciones en 3D" p="0.15" c="Estudios de gabinete" o="4234"/>
 	<item id="10084" n="TAC TEMPOROMANDIBULAR SIMPLE CON 3D" p="0.15" c="Estudios de gabinete" o="2194"/>
@@ -1663,5 +1663,4 @@
 	<item id="10000334" n="COLUMNA DORSAL AP LAT Y OBLICUA" p="0" c="Estudios de gabinete" o="5119"/>
 	<item id="13598" n="PERFIL DIABETES CONTROL COMPLETO CR" p="0" c="Perfiles" o="830.99"/>
 	<item id="8588" n="RAYOS X CONTRASTADOS DE CEPRE CON MEDIO DE CONTRASTE" p="0" c="Estudios de gabinete" o="6830"/>
-	<item/>
 </estudios>
