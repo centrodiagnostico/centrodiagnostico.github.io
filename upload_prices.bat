@@ -1,4 +1,3 @@
-#!binsh
 git pull
 git add estudios.xml
 git commit -am "Actualizando precios"
