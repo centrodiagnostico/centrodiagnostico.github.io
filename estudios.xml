@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <estudios>
 	<item id="6" p="0" c="LAB" o="390"/>
-	<item id="119" n="." p="0" c="RX" o="690"/>
-	<item id="155" n="." p="0" c="RX" o="390"/>
-	<item id="138" n="." p="0" c="RX" o="1200"/>
-	<item id="142" n="." p="0" c="RX" o="590"/>
-	<item id="156" n="." p="0" c="RX" o="530"/>
-	<item id="149" n="." p="0" c="RX" o="890"/>
-	<item id="126" n="." p="0" c="RX" o="1"/>
 	<item id="449" n="17 ALFA HIDROXI PROGESTERONA" p="0" c="LAB" o="567" pr="Suero" i="Ayuno de 5hras minimo"/>
 	<item id="450" n="17 CETOESTEROIDES" p="0" c="LAB" o="795" pr="Suero" i="ayuno de 5hrs minimo"/>
 	<item id="452" n="17 CETOESTEROIDES  ORINA" p="0" c="LAB" o="730" pr="Orina" i="recolectar la Orina de 24hr"/>
