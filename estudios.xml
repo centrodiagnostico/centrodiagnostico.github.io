@@ -1,1120 +1,1120 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <estudios>
-	<item id="6" c="LAB" o="390"/>
-	<item id="119" n="." c="RX" o="690"/>
-	<item id="155" n="." c="RX" o="390"/>
-	<item id="138" n="." c="RX" o="1200"/>
-	<item id="142" n="." c="RX" o="590"/>
-	<item id="156" n="." c="RX" o="530"/>
-	<item id="149" n="." c="RX" o="890"/>
-	<item id="126" n="." c="RX" o="1"/>
-	<item id="449" n="17 ALFA HIDROXI PROGESTERONA" c="LAB" o="567" pr="Suero" i="Ayuno de 5hras minimo"/>
-	<item id="450" n="17 CETOESTEROIDES" c="LAB" o="795" pr="Suero" i="ayuno de 5hrs minimo"/>
-	<item id="452" n="17 CETOESTEROIDES  ORINA" c="LAB" o="730" pr="Orina" i="recolectar la Orina de 24hr"/>
-	<item id="999" n="17 HIDRO ESTEROIDES EN ORINA" c="LAB" o="795"/>
-	<item id="451" n="17 HIDROXICORTICOESTEROIDES" c="LAB" o="960" pr="Suero" i="Ayuno de 5hras minimo"/>
-	<item id="453" n="17 HIDROXICORTICOESTEROIDES EN ORINA" c="LAB" o="960" pr="Orina" i="recolectar la orina de  24hr"/>
-	<item id="141" n="ABDOMEN DOS PROYECCIONES" c="RX" o="750"/>
-	<item id="1" n="AC ANTI ADENOVIRUS" c="LAB" o="2163" pr="SUERO" i="Ayuno minimo de 2hrs"/>
-	<item id="2" n="AC ANTI AMEBA" c="LAB" o="390" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="571" n="AC ANTI ASPERGILLUS" c="LAB" o="3300"/>
-	<item id="890" n="AC ANTI BETA 2 GLUCOPROTEINA IGA,IGG,IGM" c="LAB" o="2442" pr="SUERO" i="AYUNO"/>
-	<item id="3" n="AC ANTI BLASTOMYCES" c="LAB" o="1365" pr="SUERO" i="Ayuno 2 hrs minimo"/>
-	<item id="4" n="AC ANTI BORDETELLA PERTUSIS IGA, IGG, IGM" c="LAB" o="1044" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="5" n="AC ANTI BORRELLIA BURGDORFERI (IGG E IGM)" c="LAB" o="1215" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="513" n="AC ANTI BRUCELLA (2-MERCAPTOETANOL)" c="LAB" o="1382" i="ayuno"/>
-	<item id="6" n="AC ANTI CARDIOLIPINA IGG" c="LAB" o="580" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="7" n="AC ANTI CARDIOLIPINA IGG E IGM" c="LAB" o="1300" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="8" n="AC ANTI CARDIOLIPINA IGM" c="LAB" o="580" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="9" n="AC ANTI CENTROMERO" c="LAB" o="950" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="905" n="AC ANTI CHIKUNGUNYA IGG E IGM" c="LAB" o="1180"/>
-	<item id="467" n="AC ANTI CHLAMYDIA IGG (CUANTITATIVA)" c="LAB" o="530"/>
-	<item id="10" n="AC ANTI CHLAMYDIA PNEUMONIAE" c="LAB" o="1990" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="11" n="AC ANTI CHLAMYDIA TRACHOMATIS IGA" c="LAB" o="640" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="12" n="AC ANTI CHLAMYDIA TRACHOMATIS IGG" c="LAB" o="520" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="525" n="AC ANTI CHLAMYDIA TRACHOMATIS IGM" c="LAB" o="550"/>
-	<item id="13" n="AC ANTI CISTICERCO" c="LAB" o="590" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="14" n="AC ANTI CITOMEGALOVIRUS IGG" c="LAB" o="625" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="15" n="AC ANTI CITOMEGALOVIRUS IGM" c="LAB" o="625" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="707" n="AC ANTI CITOPLASMA DE NEUTROFILOS  (P Y C ANCA)" c="LAB" o="1835" pr="suero" i="Ayuno totalmente"/>
-	<item id="16" n="AC ANTI CITOPLASMA NEUTROFILOS (ANCA)" c="LAB" o="1985" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="17" n="AC ANTI COCCIDIOIDES IMMITIS" c="LAB" o="1500" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="18" n="AC ANTI COXSACKIE VIRUS A" c="LAB" o="4150" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="19" n="AC ANTI CRYPTOCOCCUS NEOFORMANS" c="LAB" o="3220" pr="SUERO" i="AYUNO 2 hrs minimo"/>
-	<item id="20" n="AC ANTI DENGUE IGG E IGM" c="LAB" o="1650" pr="SUERO" i="AYUNO 2 hrs minimo"/>
-	<item id="21" n="AC ANTI DNA CADENA SENSILLA" c="LAB" o="680" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="22" n="AC ANTI DNA DOBLE CADENA" c="LAB" o="680" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="23" n="AC ANTI DNA UNA CADENA (DESNATURALIZADO)" c="LAB" o="1050" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="24" n="AC ANTI ECHINOCOCCUS" c="LAB" o="5030" pr="SUERO" i="AYUNO MINIMO 2HRS"/>
-	<item id="25" n="AC ANTI ECHO VIRUS" c="LAB" o="2980" pr="SUERO" i="AYUNO minimo 2 hrs"/>
-	<item id="26" n="AC ANTI ENA" c="LAB" o="2320" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="27" n="AC ANTI EPSTEIN BAAR IGG" c="LAB" o="750" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="28" n="AC ANTI EPSTEIN BAAR IGM" c="LAB" o="630" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="29" n="AC ANTI ESPERMATOZOIDES" c="LAB" o="510" pr="suero Sra; Semen Sr" i="Ayuno min 2hrs Sra; recolectar la muestra por masturbacion en frasco esteril"/>
-	<item id="980" n="AC ANTI FOSFATIDIL" c="LAB" o="7120" pr="SUERO"/>
-	<item id="30" n="AC ANTI FOSFOLIPIDOS IGG" c="LAB" o="620" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="31" n="AC ANTI FOSFOLIPIDOS IGG E IGM" c="LAB" o="1326" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="32" n="AC ANTI FOSFOLIPIDOS IGM" c="LAB" o="620" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="581" n="AC ANTI GLIADINAS IGA IGG" c="LAB" o="1115"/>
-	<item id="33" n="AC ANTI HELICOBACTER PYLORI IGA" c="LAB" o="875" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="34" n="AC ANTI HELICOBACTER PYLORI IGG" c="LAB" o="875" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="35" n="AC ANTI HELICOBACTER PYLORI IGM" c="LAB" o="875" pr="SUERO" i="AYUNO MINIMO  2 HRS"/>
-	<item id="36" n="AC ANTI HEPATITIS D" c="LAB" o="812" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="37" n="AC ANTI HERPES I IGG" c="LAB" o="510" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="38" n="AC ANTI HERPES I IGM" c="LAB" o="620" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="39" n="AC ANTI HERPES II IGG" c="LAB" o="470" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="40" n="AC ANTI HERPES II IGM" c="LAB" o="580" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="41" n="AC ANTI HETEROFILOS PAUL BUNELL" c="LAB" o="395" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="42" n="AC ANTI HISTONA" c="LAB" o="905" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="43" n="AC ANTI HISTOPLASMA CAPSULATUM IGM" c="LAB" o="1070" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="44" n="AC ANTI HIV I /  HIV II" c="LAB" o="475" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="555" n="AC ANTI HIV I/ II PRESUNTIVA" c="LAB" o="400"/>
-	<item id="45" n="AC ANTI INSULINA" c="LAB" o="975" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="46" n="AC ANTI JO" c="LAB" o="1280" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="715" n="AC ANTI JO 1" c="LAB" o="650" pr="suero"/>
-	<item id="47" n="AC ANTI LA" c="LAB" o="540" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
-	<item id="48" n="AC ANTI LEGIONELLA PNEUMOPHILA IGG" c="LAB" o="4385" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="910" n="AC ANTI LKM" c="LAB" o="680"/>
-	<item id="49" n="AC ANTI LYSTERIA MONOCITOGENES" c="LAB" o="3360" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="50" n="AC ANTI MICROSOMALES TOTALES (PEROXIDASA)" c="LAB" o="845" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="51" n="AC ANTI MITOCONDRIA" c="LAB" o="745" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="52" n="AC ANTI MUSCULO ESTRIADO" c="LAB" o="1360" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="53" n="AC ANTI MUSCULO LISO" c="LAB" o="605" pr="SUERO" i="AYUNO minimo 2hrs"/>
-	<item id="54" n="AC ANTI MYCOBACTERIUM TUBERCULOSIS" c="LAB" o="812" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="55" n="AC ANTI MYCOPLASMA PNEUMONIAE IGG" c="LAB" o="665" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="56" n="AC ANTI MYCOPLASMA PNEUMONIAE IGG E IGM" c="LAB" o="1508" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="57" n="AC ANTI MYCOPLASMA PNEUMONIAE IGM" c="LAB" o="696" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="58" n="AC ANTI NUCLEARES" c="LAB" o="868" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="59" n="AC ANTI PAROTIDITIS IGG" c="LAB" o="1110" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="60" n="AC ANTI PAROTIDITIS IGM" c="LAB" o="1110" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="61" n="AC ANTI PARVOVIRUS B19 IGG E IGM" c="LAB" o="1290" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="650" n="AC ANTI PEPTIDO CÌCLICO CITRULINADO (CCP)" c="LAB" o="1853" pr="SUERO 2ML"/>
-	<item id="710" n="AC ANTI PEROXIDASA" c="LAB" o="695" i="EN AYUNOO"/>
-	<item id="62" n="AC ANTI PLAQUETAS" c="LAB" o="2652" pr="SUERO; Sangre total  EDTA" i="AYUNO 5hrs minimo"/>
-	<item id="63" n="AC ANTI POLIO VIRUS I, II Y III" c="LAB" o="5600" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="64" n="AC ANTI PROTEINA BASICA MIELINA" c="LAB" o="2000" pr="LCR" i="Muestra por puncion lumbar"/>
-	<item id="820" n="AC ANTI RECEPTOR TSH" c="LAB" o="2340"/>
-	<item id="602" n="AC ANTI RECEPTORES DE ACETIL COLINA" c="LAB" o="1445"/>
-	<item id="601" n="AC ANTI RECEPTORES DE ACETIL COLINA BLOQUEADORES" c="LAB" o="3360" pr="Suero" i="Ayuno minimo de 8 hrs"/>
-	<item id="465" n="AC ANTI RECEPTORES DE ACETIL COLINA FIJADORES" c="LAB" o="4057" pr="suero" i="ayuno 8 horas"/>
-	<item id="65" n="AC ANTI RNA" c="LAB" o="1403" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="66" n="AC ANTI RNP" c="LAB" o="880" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="67" n="AC ANTI RO" c="LAB" o="905" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="68" n="AC ANTI ROTAVIRUS" c="LAB" o="400" pr="HECES" i="HECES"/>
-	<item id="69" n="AC ANTI RUBEOLA IGG" c="LAB" o="580" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="70" n="AC ANTI RUBEOLA IGM" c="LAB" o="552" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="71" n="AC ANTI SARAMPION IGG" c="LAB" o="660" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="72" n="AC ANTI SARAMPION IGG E IGM" c="LAB" o="1350" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="73" n="AC ANTI SARAMPION IGM" c="LAB" o="660" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="74" n="AC ANTI SCL-70" c="LAB" o="570" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="75" n="AC ANTI SMITH (SM)" c="LAB" o="2765" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="76" n="AC ANTI SS" c="LAB" o="370" pr="SUERO" i="NO SE REALIZA"/>
-	<item id="77" n="AC ANTI SSA (RO)" c="LAB" o="1048" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="78" n="AC ANTI SSB (LA)" c="LAB" o="730" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="79" n="AC ANTI TIROGLOBULINAS TOTALES" c="LAB" o="605" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="80" n="AC ANTI TIROIDES TPO,TG" c="LAB" o="1405" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="81" n="AC ANTI TOXOCARA CANIS IGG" c="LAB" o="695" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="82" n="AC ANTI TOXOPLASMA GONDII IGG" c="LAB" o="510" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="83" n="AC ANTI TOXOPLASMA GONDII IGM" c="LAB" o="510" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
-	<item id="802" n="AC ANTI TRANSGLUTAMINASA TISULAR IGA - IGG" c="LAB" o="1412" i="ayuno"/>
-	<item id="84" n="AC ANTI TREPONEMA PALLIDUM" c="LAB" o="590" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="506" n="AC ANTI TREPONEMA PALLIDUM (FTA)" c="LAB" o="934"/>
-	<item id="85" n="AC ANTI TRYPANOSOMA CRUZI IGG" c="LAB" o="920" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="88" n="AC ANTI VARICELA IGG" c="LAB" o="870" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="87" n="AC ANTI VARICELA IGG E IGM" c="LAB" o="2340" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="86" n="AC ANTI VARICELA IGM" c="LAB" o="835" pr="SUERO" i="AYUNO 2hrs MINIMO"/>
-	<item id="89" n="AC ANTI VIRUS SINCITAL RESPIRATORIO IGG E IGM" c="LAB" o="5170" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
-	<item id="694" n="AC VS EQUINOCOCCUS GRANULOSIS" c="LAB" o="4570" pr="Suero" i="Ayuno de 8 HRS"/>
-	<item id="758" n="AC. ANTI CITOPLASMA DE NEUTRÓFILOS (P Y C ANCA)" c="LAB" o="1746"/>
-	<item id="580" n="AC. ANTI ENDOMESIALES" c="LAB" o="1067"/>
-	<item id="576" n="AC. ANTI GIARDIA LAMBLIA TOTALES" c="LAB" o="3925"/>
-	<item id="989" n="AC. ANTI TREPONEMA PALLIDUM IFI (FTA)" c="LAB" o="710"/>
-	<item id="449" n="AC. ANTITIROGLOBULINAS TOTALES" c="LAB" o="705" i="muestra tomada con hisopo estéril"/>
-	<item id="90" n="ACETAMINOFEN" c="LAB" o="680" pr="SUERO" i="Ayuno minimo de 5hrs"/>
-	<item id="91" n="ACIDO 5 HIDROXI INDOL ACETICO" c="LAB" o="800" pr="ORINA" i="Recolectar la ORINA de 24hr;  2O ml ACIDIFICADA"/>
-	<item id="92" n="ACIDO FOLICO" c="LAB" o="406" pr="SUERO" i="AYUNO minimo 5hrs"/>
-	<item id="93" n="ACIDO FOLICO INTRAERITROCITARIO" c="LAB" o="500" pr="SANGRE EDTA" i="Ayuno minimo 5hrs"/>
-	<item id="94" n="ACIDO HIPURICO" c="LAB" o="975" pr="ORINA" i="recolectar la ORINA de 24hr"/>
-	<item id="95" n="ACIDO LACTICO" c="LAB" o="470" pr="Sangre Heparinizada" i="Ayuno minimo 6hrs"/>
-	<item id="96" n="ACIDO PIRUVICO" c="LAB" o="310" pr="SUERO" i="Ayuno minimo 6hrs"/>
-	<item id="98" n="ACIDO URICO EN ORINA DE 24 HRS" c="LAB" o="82" pr="ORINA" i="recolectar la orina de 24 hrs"/>
-	<item id="97" n="ACIDO URICO SERICO" c="LAB" o="97" pr="SUERO" i="AYUNO MINIMO 5 HRS"/>
-	<item id="99" n="ACIDO VALPROICO" c="LAB" o="665" pr="SUERO" i="Ayuno minimo 6hrs"/>
-	<item id="100" n="ACIDO VANIL MANDELICO" c="LAB" o="850" pr="ORINA" i="recolectar la ORINA de 24hr"/>
-	<item id="101" n="ACIDOS GRASOS TOTALES" c="LAB" o="480" pr="SUERO" i="Ayuno de 12 hrs, cena libre de grasas una noche anterior"/>
-	<item id="102" n="ACTIVIDAD TRIPTICA EN HECES" c="LAB" o="150" pr="HECES" i="1 pequeña muestra de HECES en seco"/>
-	<item id="575" n="ADENOVIRUS EN HECES" c="LAB" o="440" pr="Heces"/>
-	<item id="466" n="ADN ADICIONAL" c="LAB" o="1500"/>
-	<item id="103" n="ADRENALINA" c="LAB" o="650" pr="PLASMA" i="Ayuno minimo 5hrs"/>
-	<item id="696" n="ADRENALINA EN PLASMA" c="LAB" o="650" pr="plasma" i="en ayuno totalemente"/>
-	<item id="994" n="AG. COVID-19 (PRUEBA RAPIDA)" c="LAB" o="715"/>
-	<item id="522" n="AG. HELYCOBACTER PYLORI (HECES)" c="LAB" o="2510" pr="HECES" i="MUESTRA HECES RECIENTE SIN CONSERVADOR"/>
-	<item id="138" n="AG. PROSTATICO ESPECIFICO (PSA)" c="LAB" o="525" pr="SUERO" i="AYUNO 2hrs minimo"/>
-	<item id="514" n="AG.HELICOBACTER PYLORI EN HECES" c="LAB" o="2391"/>
-	<item id="104" n="ALBUMINA SERICA" c="LAB" o="80" pr="SUERO" i="AYUNO minimo 5hrs"/>
-	<item id="105" n="ALCOHOL EN SUERO" c="LAB" o="525" pr="SUERO" i="NO SE REALIZA"/>
-	<item id="106" n="ALDOLASA" c="LAB" o="370" pr="SUERO 2 ML congelado" i="Ayuno minimo 5hrs"/>
-	<item id="107" n="ALDOSTERONA (ORINA)" c="LAB" o="515" pr="ORINA" i="RECOLECTAR LA ORINA DE ORINA 24hr"/>
-	<item id="108" n="ALDOSTERONA (SUERO)" c="LAB" o="1285" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="109" n="ALERGENO INDIVIDUAL (RAST)" c="LAB" o="1070" pr="SUERO" i="Ayuno minimo 5hrs"/>
-	<item id="110" n="ALFA 1 ANTITRIPSINA" c="LAB" o="990" pr="SUERO" i="Ayuno minimo 5hrs"/>
-	<item id="111" n="ALFAFETOPROTEINA" c="LAB" o="300" pr="SUERO" i="Ayuno minimo 6hrs"/>
-	<item id="112" n="ALUMINIO EN ORINA" c="LAB" o="815" pr="ORINA" i="ORINA casual"/>
-	<item id="113" n="ALUMINIO EN SUERO" c="LAB" o="815" pr="SUERO" i="Ayuno  minimo 5hrs"/>
-	<item id="466" n="AMBULANCIA TRASLADO" c="RX" o="200"/>
-	<item id="114" n="AMIBA EN FRESCO" c="LAB" o="100" pr="HECES" i="HECES EN SECO"/>
-	<item id="115" n="AMIKACINA" c="LAB" o="2290" pr="SUERO" i="Ayuno minimo 5hrs"/>
-	<item id="517" n="AMILASA EN ORINA DE 24 HRS" c="LAB" o="265" pr="ORINA DE 24 HRS"/>
-	<item id="116" n="AMILASA EN SUERO" c="LAB" o="160" pr="SUERO" i="Ayuno minimo 5hrs"/>
-	<item id="117" n="AMINOACIDOS EN ORINA" c="LAB" o="2330" pr="ORINA" i="ORINA casual"/>
-	<item id="118" n="AMINOACIDOS EN SUERO" c="LAB" o="1750" pr="PLASMA EDTA" i="Ayuno de 8hrs"/>
-	<item id="119" n="AMIODARONA (AMIODARONE)" c="LAB" o="2330" pr="SUERO" i="Ayuno de 8 hrs"/>
-	<item id="120" n="AMONIO" c="LAB" o="406" pr="SANGRE EDTA" i="Ayuno minimo 5hrs"/>
-	<item id="121" n="AMP CICLICO URINARIO" c="LAB" o="4000" pr="ORINA" i="ORINA casual"/>
-	<item id="122" n="ANDROGENOS TOTALES" c="LAB" o="440" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="6" n="ANDROSCOPIA" c="ZSERV" o="1500"/>
-	<item id="123" n="ANDROSTENEDIONA" c="LAB" o="628" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="454" n="ANESTESIA COMPLEMENTO HC" c="OTRO" o="1500"/>
-	<item id="453" n="ANESTESIA COMPLEMENTO PRIVADA" c="OTRO" o="2500"/>
-	<item id="457" n="ANESTESIA HISTERO" c="OTRO" o="400"/>
-	<item id="501" n="ANESTESIA ISSSTE" c="OTRO" o="1600"/>
-	<item id="458" n="ANESTESIO HISTERO" c="RX" o="400"/>
-	<item id="459" n="ANESTESIO HISTERO" c="RX" o="400"/>
-	<item id="124" n="ANFETAMINAS" c="LAB" o="350" pr="ORINA" i="ORINA casual"/>
-	<item id="396" n="ANGIO RESONANCIA  DE CUELLO" c="RM" o="7080"/>
-	<item id="348" n="ANGIO RESONANCIA DE AORTA" c="RM" o="8160"/>
-	<item id="368" n="ANGIO RESONANCIA DE BRAZO" c="RM" o="7650"/>
-	<item id="386" n="ANGIO RESONANCIA DE CEREBRO" c="RM" o="6940"/>
-	<item id="397" n="ANGIO RESONANCIA DE CRANEO URGENCIA" c="RM" o="7650"/>
-	<item id="377" n="ANGIO RESONANCIA DE MIEMBROS INFERIORES" c="RM" o="8160"/>
-	<item id="425" n="ANGIO TAC DE CRANEO" c="TAC" o="3570"/>
-	<item id="467" n="ANGIO TAC DE TORAX S-C" c="OTRO" o="5725"/>
-	<item id="206" n="ANGIO TAC. RENAL" c="TAC" o="5610"/>
-	<item id="413" n="ANGIORESONANCIA DE ARTERIAS RENALES" c="RM" o="8160"/>
-	<item id="419" n="ANGIORESONANCIA DE MANO" c="RM" o="7650"/>
-	<item id="191" n="ANGIOTAC ABDOMEN" c="TAC" o="5610"/>
-	<item id="326" n="ANGIOTAC DE CRANEO 3D" c="TAC" o="3570"/>
-	<item id="449" n="ANGIOTAC DE CUELLO CONTRASTADA" c="TAC" o="5610"/>
-	<item id="299" n="ANGIOTAC DE MIEMBRO INF. O SUP." c="TAC" o="7140"/>
-	<item id="472" n="ANGIOTAC DE MIEMBROS INFERIORES FASE VENOSA" c="TAC" o="7140"/>
-	<item id="125" n="ANGIOTENSINA" c="LAB" o="950" pr="PLASMA EDTA" i="Ayuno minimo 2hrs"/>
-	<item id="2" n="ANTEBRAZO 2 POSICIONES" c="RX" o="460"/>
-	<item id="184" n="ANTEBRAZO AP Y LAT" c="RX" o="460"/>
-	<item id="126" n="ANTICOAGULANTE CIRCULATORIO LUPICO" c="LAB" o="895" pr="PLASMA citratado" i="AYUNO"/>
-	<item id="17" n="ANTIDOPING" c="LAB" o="600"/>
-	<item id="511" n="ANTIDOPING (3)" c="LAB" o="410"/>
-	<item id="127" n="ANTIDOPING (5)" c="LAB" o="615" pr="ORINA" i="ORINA casual"/>
-	<item id="128" n="ANTIESTREPTOLISINAS (AELO)" c="LAB" o="260" pr="SUERO" i="Ayuno minimo de 5 hrs"/>
-	<item id="129" n="ANTIGENO CA 125" c="LAB" o="560" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="996" n="ANTIGENO CA 125 (U)" c="LAB" o="687"/>
-	<item id="130" n="ANTIGENO CA 15 - 3" c="LAB" o="560" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="131" n="ANTIGENO CA 19 - 9" c="LAB" o="550" pr="SUERO" i="Ayuno  minimo 2hrs"/>
-	<item id="132" n="ANTIGENO CA 27 - 29" c="LAB" o="1530" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="133" n="ANTIGENO CA 72 - 4" c="LAB" o="690" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="134" n="ANTIGENO CARCINOEMBRIONARIO (CEA)" c="LAB" o="410" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="775" n="ANTIGENO COVID-19" c="LAB" o="715"/>
-	<item id="991" n="ANTIGENO CYFRA -21" c="LAB" o="1280"/>
-	<item id="135" n="ANTIGENO DE SUPERFICIE (HBSAG)" c="LAB" o="510" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="716" n="ANTIGENO HE4" c="LAB" o="882" pr="Suero" i="Ayuno 8hrs"/>
-	<item id="136" n="ANTIGENO HLA B-27" c="LAB" o="1215" pr="SANGRE EDTA" i="Ayuno minimo 2hrs"/>
-	<item id="137" n="ANTIGENO P-24 (HIV I)" c="LAB" o="1400" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="140" n="ANTIGENO PROSTATICO ESPECIFICO LIBRE" c="LAB" o="535" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="139" n="ANTIGENO PROSTATICO ESPECIFICO TOTAL Y LIBRE" c="LAB" o="920" pr="SUERO" i="Ayuno minimo 2hrs"/>
-	<item id="141" n="ANTIGENO VESICAL URINARIO" c="LAB" o="4090" pr="ORINA" i="ORINA casual"/>
-	<item id="142" n="ANTITROMBINA III" c="LAB" o="805" pr="PLASMA citratado" i="Ayuno minimo 5hrs"/>
-	<item id="276" n="AP AMBOS PIES" c="RX" o="460"/>
-	<item id="246" n="AP DE PELVIS CON ROTACION INTERNA DE MIEMBRO PELVICO" c="TAC" o="460"/>
-	<item id="317" n="AP Y LAT DE NARIZ" c="RX" o="615"/>
-	<item id="219" n="AP Y LATERAL AMBOS MUSLOS(FEMUR)" c="US" o="1230"/>
-	<item id="227" n="AP Y LATERAL COMP.AMBOS ANTEBRAZOS" c="RX" o="1080"/>
-	<item id="69" n="APICOGRAMA" c="RX" o="460"/>
-	<item id="143" n="APOLIPOPROTREINAS A1 Y B" c="LAB" o="1735" pr="SUERO" i="AYUNO minimo 5hrs"/>
-	<item id="144" n="ARSENICO EN ORINA" c="LAB" o="815" pr="Orina" i="Orina casual"/>
-	<item id="3" n="ART, COXOFEMORAL AP  Y  OBLICUAS" c="RX" o="780"/>
-	<item id="4" n="ART.COXOFEMORAL BILATERAL AP. OBLICUAS" c="RX" o="1100"/>
-	<item id="145" n="AZUCARES REDUCTORES" c="LAB" o="105" pr="HECES" i="HECES"/>
-	<item id="706" n="BAAR  EN LIQUIDO PLEURAL 5 MUESTRAS" c="LAB" o="780" pr="LIQUIDO BIOLOGICO ESTERIL" i="ESTERIL"/>
-	<item id="146" n="BAAR EN ESPUTO 1 MUETSRA" c="LAB" o="105" pr="EXPECTORACION" i="SIN ASEO BUCAL"/>
-	<item id="475" n="BAAR EN ESPUTO 2 MUESTRA" c="LAB" o="105" pr="EXPECTORACION" i="Sin aseo bucal"/>
-	<item id="476" n="BAAR EN ESPUTO 3 MUESTRA" c="LAB" o="105" pr="EXPECTORACION" i="Sin aseo bucal"/>
-	<item id="701" n="BAAR EN MUESTRA BIOLOGICA" c="LAB" o="105" pr="LIQUIDO CEFALORRAQUIDEO" i="AYUNO. toma de muestra por el Medico"/>
-	<item id="457" n="BAAR EN ORINA 1 MUESTRA" c="LAB" o="100" pr="orina" i="1er orina de la mañana"/>
-	<item id="471" n="BAAR EN ORINA 2 MUESTRA" c="LAB" o="105"/>
-	<item id="472" n="BAAR EN ORINA 3 MUESTRA" c="LAB" o="310"/>
-	<item id="147" n="BARBITURICOS" c="LAB" o="490" pr="ORINA" i="ORINA casual"/>
-	<item id="149" n="BENZODIACEPINAS" c="LAB" o="490" pr="ORINA" i="Orina casual"/>
-	<item id="148" n="BENZODIACEPINAS (SUERO)" c="LAB" o="490" pr="SUERO" i="ayuno 2hr"/>
-	<item id="151" n="BETA 2 MICROGLOBULINA (ORINA)" c="LAB" o="430" pr="ORINA CASUAL" i="primera orina de la mañana"/>
-	<item id="150" n="BETA 2 MICROGLOBULINA (SUERO)" c="LAB" o="818" pr="SUERO" i="ayuno de 8 hrs"/>
-	<item id="152" n="BETA ESTRADIOL" c="LAB" o="350" pr="SUERO" i="Ayuno minimo de 5hrs"/>
-	<item id="153" n="BETA LIPOPROTEINAS" c="LAB" o="280" pr="SUERO" i="Ayuono 12 hrs cena libre de grasas"/>
-	<item id="600" n="BETAGONADOTROFINA CORIONICA HUMANA" c="LAB" o="290" pr="Suero 2 ml." i="Ayuno min. 5 hrs."/>
-	<item id="519" n="BICARBONATO (HCO3)" c="LAB" o="930" pr="Plasma Heparinizado"/>
-	<item id="154" n="BILIRRUBINAS TOTALES" c="LAB" o="112" pr="SUERO" i="Ayuno minimo 5hrs"/>
-	<item id="165" n="BIOMETRIA HEMATICA" c="LAB" o="185" pr="SANGRE EDTA" i="No necesario ayuno"/>
-	<item id="196" n="BIOPSIA DE HIGADO" c="RX" o="5500"/>
-	<item id="452" n="BIOPSIA DE PROSTATA TRANSRECTAL" c="RX" o="6500"/>
-	<item id="331" n="BIOPSIA DE PULMON" c="RX" o="5500"/>
-	<item id="390" n="BIOPSIA DE PULMON CON PATOLOGO" c="RX" o="11000"/>
-	<item id="311" n="BIOPSIA DE PULMON POR TAC" c="TAC" o="5500"/>
-	<item id="156" n="BIOXIDO DE CARBONO" c="LAB" o="90" pr="SUERO" i="Ayuno de 8hrs"/>
-	<item id="5" n="BRAZO AP Y LAT" c="RX" o="460"/>
-	<item id="241" n="BRAZO AP Y LATERAL" c="RX" o="765"/>
-	<item id="397" n="BUN" c="LAB" o="1" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="157" n="BUSQUEDA DE LEPTOSPIRA" c="LAB" o="2500" pr="TUBO ROJOsin centrifugar y  ORINA" i="Ayunode 5 hrs y la 1er ORINA de la mañana"/>
-	<item id="158" n="BUSQUEDA DE PSEUDOMONA SP" c="LAB" o="420" pr="EXUDADO" i="MUESTRA"/>
-	<item id="134" n="CADWELL Y WATERS" c="RX" o="765"/>
-	<item id="7" n="CALCANEO  LAT. PARA ESPOLON" c="RX" o="460"/>
-	<item id="10" n="CALCANEO LATERAL Y AXIAL" c="RX" o="460"/>
-	<item id="271" n="CALCANEO RX." c="RX" o="460"/>
-	<item id="9" n="CALCANEOS  LATERAL POR ESPOLONES" c="RX" o="460"/>
-	<item id="8" n="CALCANEOS  LATERAL Y AXIAL" c="RX" o="460"/>
-	<item id="159" n="CALCIO EN ORINA DE 24 HRS" c="LAB" o="105" pr="ORINA" i="recolectar la ORINA de 24hr"/>
-	<item id="578" n="CALCIO EN ORINA OCASIONAL" c="LAB" o="105" pr="Orina ocasional"/>
-	<item id="160" n="CALCIO EN SUERO" c="LAB" o="117" pr="SUERO" i="Ayuno minimo de 5hrs"/>
-	<item id="161" n="CALCIO IONIZADO" c="LAB" o="590" pr="SUERO" i="AYUNO minimo 5hrs"/>
-	<item id="162" n="CALCITONINA" c="LAB" o="925" pr="SUERO" i="AYUNO minimo 5hrs"/>
-	<item id="704" n="CALCULO RENAL ESTUDIO FISICOQUIMICO" c="LAB" o="1278" pr="calculo renal" i="Traer el calculo eliminado en frasco esteril"/>
-	<item id="6" n="CALDWELL" c="RX" o="460"/>
-	<item id="903" n="CALPROTECTINA" c="LAB" o="1278" pr="HECES" i="MATERIA FECAL RECIENTE NO LIQUIDA."/>
-	<item id="163" n="CANNABINOIDES (MARIHUANA)" c="LAB" o="320" pr="ORINA" i="ORINA casual"/>
-	<item id="469" n="CAPACIDAD DE FIJACION DE HIERRO" c="LAB" o="300"/>
-	<item id="164" n="CAPACIDAD TOTAL DE FIJACIÒN DE HIERRO" c="LAB" o="300" pr="SUERO" i="AYUNO minimo 5hrs"/>
-	<item id="166" n="CARBAMAZEPINA" c="LAB" o="638" pr="SUERO" i="AYUNO minimo 5hr"/>
-	<item id="167" n="CARBOXIHEMOGLOBINA" c="LAB" o="940" pr="SANGRE heparina" i="AYUNO"/>
-	<item id="500" n="CARGA VIRAL HEPATITIS B" c="LAB" o="3280" pr="Plasma congelado" i="5 HORAS DE AYUNO"/>
-	<item id="168" n="CARGA VIRAL HEPATITIS C (RNA VHC)" c="LAB" o="3480" pr="PLASMA EDTA" i="AYUNO minimo 5hrs"/>
-	<item id="169" n="CARIOTIPO EN SANGRE PERIFERICA (CON FOTOGRAFIA)" c="LAB" o="6970" pr="SANGRE heparina" i="AYUNO minimo 6hrs"/>
-	<item id="170" n="CAROTENOS" c="LAB" o="430" pr="SUERO" i="AYUNO 5hrs"/>
-	<item id="171" n="CATECOLAMINA EN ORINA" c="LAB" o="2630" pr="ORINA" i="recolectar la ORINA de 24hr"/>
-	<item id="172" n="CATECOLAMINA EN SUERO" c="LAB" o="2430" pr="SUERO" i="AYUNO 5HRS"/>
-	<item id="695" n="CATECOLAMINAS TOTALES" c="LAB" o="1" pr="plasma" i="en ayuno totatalmente"/>
-	<item id="361" n="CEFALOPELVIMETRIA" c="RX" o="600"/>
-	<item id="173" n="CELULAS L.E." c="LAB" o="157" pr="TUBO ROJO S/CENTRIFUGAR" i="AYUNO DE 8 HRS"/>
-	<item id="174" n="CERULOPLASMINA EN SUERO" c="LAB" o="670" pr="SUERO" i="AYUNO 5HRS"/>
-	<item id="175" n="CICLOSPORINA" c="LAB" o="1400" pr="SANGRE EDTA" i="AYUNO 5hrs"/>
-	<item id="501" n="CINETICA DE HIERRO" c="LAB" o="735"/>
-	<item id="688" n="CISTATINA C" c="LAB" o="1088"/>
-	<item id="74" n="CISTOGRAFIA" c="OTRO" o="2550"/>
-	<item id="64" n="CISTOGRAFIA  ADULTO" c="RX" o="2550"/>
-	<item id="699" n="CITOLOGIA EN MOCO NASAL" c="LAB" o="105" pr="Isopado nasal" i="Sin aseo nasal (Sin tomar antibioticos 5 dias antes)"/>
-	<item id="176" n="CITOLOGIA MOCO FECAL" c="LAB" o="105" pr="HECES" i="HECES EN SECO"/>
-	<item id="1" n="CITOLOGIA TOMADA AQUI" c="ZSERV" o="450"/>
-	<item id="902" n="CITOLOGICO DE LIQUIDO CEFALORRAQUIDEO" c="LAB" o="208"/>
-	<item id="456" n="CITOQUIMICO DE LIQUIDO CEFALORRAQUIDEO" c="LAB" o="928" pr="Liquido cefalorraquideo"/>
-	<item id="790" n="CITOQUÍMICO DE LÍQUIDO DE ASCITIS O PERITONEAL" c="LAB" o="680"/>
-	<item id="518" n="CITOQUIMICO DE LIQUIDO SINOVIAL" c="LAB" o="730"/>
-	<item id="750" n="CITRATOS EN ORINA DE 24 HRS." c="LAB" o="870" pr="Orina de 24 Hrs."/>
-	<item id="177" n="CLONAZEPAN EN SUERO" c="LAB" o="1170" pr="Suero" i="AYUNO 5HRS"/>
-	<item id="178" n="CLORO EN ORINA" c="LAB" o="150" d="Descripción" pr="Orina" k="especial otros" i="recolectar la ORINA de 24hr"/>
-	<item id="179" n="CLORO SÉRICO" c="LAB" o="150" pr="Suero" i="Ayuno minimo 5hrs"/>
-	<item id="593" n="CLOSTRIDIUM DIFFICILE TOXINA A Y B" c="LAB" o="2125"/>
-	<item id="180" n="CO2 TOTAL" c="LAB" o="125" pr="Suero" i="AYUNO minimo 5hrs"/>
-	<item id="181" n="COBRE EN ORINA" c="LAB" o="915" pr="ORINA" i="recolectar la ORINA de 24hr"/>
-	<item id="182" n="COBRE SERICO" c="LAB" o="1020" pr="Suero" i="Ayuno minimo 5hrs"/>
-	<item id="183" n="COCAINA" c="LAB" o="475" pr="Orina" i="ORINA casual"/>
-	<item id="303" n="COCCIX LATERAL" c="RX" o="460"/>
-	<item id="11" n="CODO AP Y LATERAL" c="RX" o="460"/>
-	<item id="502" n="CODOS AP Y LATERAL" c="OTRO" o="615"/>
-	<item id="352" n="COLANGIO RESONANCIA" c="RM" o="7140"/>
-	<item id="70" n="COLANGIOGRAFIA POR SONDA EN T" c="RX" o="2550"/>
-	<item id="500" n="COLANGIORESONANCIA S Y C ISSSTE" c="OTRO" o="2850"/>
-	<item id="499" n="COLANGIORESONANCIA SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="430" n="COLANGIORESONANCIA SIMPLE Y CONTRASTADA" c="RM" o="8160"/>
-	<item id="184" n="COLESTEROL HDL" c="LAB" o="80" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
-	<item id="458" n="COLESTEROL LDL" c="LAB" o="80" pr="suero" i="ayuno 12hr cena libre de grasas cobrar todos los colesteroles"/>
-	<item id="185" n="COLESTEROL TOTAL" c="LAB" o="98" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
-	<item id="459" n="COLESTEROL VLDL" c="LAB" o="60" pr="suero" i="Ayuno 12hr Cena libre grasas requiere trigliceridos"/>
-	<item id="186" n="COLINESTERASA" c="LAB" o="300" pr="Suero" i="Ayuno"/>
-	<item id="63" n="COLON POR ENEMA" c="RX" o="3460"/>
-	<item id="306" n="COLON POR ENEMA 2 SONDAS" c="RX" o="3870"/>
-	<item id="5" n="COLPOSCOPIA" c="ZSERV" o="2100"/>
-	<item id="440" n="COLUMNA CERVICAL AP" c="RX" o="460"/>
-	<item id="13" n="COLUMNA CERVICAL AP Y LATERAL" c="RX" o="615"/>
-	<item id="14" n="COLUMNA CERVICAL AP, LATERAL Y OBLICUAS" c="RX" o="1225"/>
-	<item id="159" n="COLUMNA CERVICAL FLEXION Y EXTENSION" c="RX" o="615"/>
-	<item id="113" n="COLUMNA CERVICAL OBLICUAS" c="RX" o="615"/>
-	<item id="258" n="COLUMNA CERVICAL.AP.LAT, OBLICUOS, DINAMICAS" c="RX" o="1620"/>
-	<item id="160" n="COLUMNA DORAL Y LUMBAR AP Y LAT" c="RX" o="1080"/>
-	<item id="254" n="COLUMNA DORSAL  (O TORACICA) AP" c="RX" o="460"/>
-	<item id="15" n="COLUMNA DORSAL AP Y LATERAL" c="RX" o="615"/>
-	<item id="427" n="COLUMNA DORSAL OBLICUAS" c="RX" o="615"/>
-	<item id="145" n="COLUMNA LUMBAR AP" c="RX" o="460"/>
-	<item id="471" n="COLUMNA LUMBAR AP Y LATERAL FUERA DE HORARIO" c="RX" o="1000"/>
-	<item id="16" n="COLUMNA LUMBAR AP. Y LATERAL" c="RX" o="615"/>
-	<item id="98" n="COLUMNA LUMBAR FLEXION Y EXTENSION" c="RX" o="615"/>
-	<item id="140" n="COLUMNA LUMBAR LATERAL" c="RX" o="460"/>
-	<item id="181" n="COLUMNA LUMBAR OBLICUAS" c="RX" o="615"/>
-	<item id="218" n="COLUMNA LUMBAR PROYECCION LATERAL" c="RX" o="460"/>
-	<item id="93" n="COLUMNA TORACICA, (DORSAL) AP Y LAT" c="RX" o="615"/>
-	<item id="187" n="COMPLEJO INMUNE CIRCULANTE" c="LAB" o="625" pr="Suero" i="Ayuno 5hrs"/>
-	<item id="188" n="COMPLEMENTO C-3" c="LAB" o="475" pr="Suero" i="Ayuno 5hrs"/>
-	<item id="189" n="COMPLEMENTO C-4" c="LAB" o="450" pr="Suero" i="Ayuno 5 hrs"/>
-	<item id="190" n="COMPLEMENTO C-5" c="LAB" o="5400" pr="Suero" i="Ayuno 5hrs"/>
-	<item id="191" n="COMPLEMENTO C-7" c="LAB" o="3260" pr="Suero" i="Ayuno 5hrs"/>
-	<item id="759" n="COMPLEMENTO HEMOLITICO" c="LAB" o="881"/>
-	<item id="192" n="COMPLEMENTO HEMOLÌTICO 50%" c="LAB" o="766" pr="Suero" i="Ayuno de 5hrs"/>
-	<item id="3" n="CONSULTA MEDICA DR.BLANCO" c="ZSERV" o="800"/>
-	<item id="193" n="COOMBS DIRECTO ( AC ANTI RH ERITROCITARIOS )" c="LAB" o="245" pr="Sangre EDTA" i="Ayuno de 5hrs"/>
-	<item id="194" n="COOMBS INDIRECTO" c="LAB" o="325" pr="Tubo rojo sin centrifugar" i="Ayuno de 5hrs"/>
-	<item id="279" n="COPIA DE PLACAS TAC (1) PLACA" c="TAC" o="100"/>
-	<item id="278" n="COPIA DE PLACAS TAC 2 PLACAS" c="TAC" o="200"/>
-	<item id="711" n="COPROLOGICO" c="LAB" o="360"/>
-	<item id="195" n="COPROPARASITOSCÓPICO" c="LAB" o="115" pr="Heces" i="Entregar tubo especial con conservador"/>
-	<item id="196" n="COPROPORFIRINAS" c="LAB" o="620" pr="Orina" i="ORINA casual"/>
-	<item id="197" n="CORTISOL (MATUTINO)" c="LAB" o="415" pr="Suero" i="Ayuno 2 hrs minimo"/>
-	<item id="573" n="CORTISOL (VESPERTINO)" c="LAB" o="415" i="Ayuno"/>
-	<item id="198" n="CORTISOL URINARIO" c="LAB" o="420" pr="Orina" i="recolectar toda la ORINA de 24hrs"/>
-	<item id="806" n="COVID-19" c="LAB" o="1700"/>
-	<item id="20" n="COXIS AP Y LATERAL" c="RX" o="615"/>
-	<item id="418" n="COXIS LATERAL" c="RX" o="460"/>
-	<item id="496" n="COXIS OBLICUAS 2 PROYECCIONES" c="OTRO" o="615"/>
-	<item id="1" n="COXOFEMORAL  AP" c="RX" o="460"/>
-	<item id="129" n="CRANEO  LATERAL" c="RX" o="460"/>
-	<item id="19" n="CRANEO AP Y LATERAL" c="RX" o="765"/>
-	<item id="248" n="CRANEO PROYECION AP" c="RX" o="460"/>
-	<item id="199" n="CREATINFOSFOQUINASA (CPK)" c="LAB" o="360" pr="Suero" i="Ayuno minimo de 8 hrs"/>
-	<item id="200" n="CREATINFOSFOQUINASA CK-MB" c="LAB" o="480" pr="Suero" i="Ayuno minimo de 8hrs"/>
-	<item id="201" n="CREATINFOSFOQUINASA ISOENZIMAS" c="LAB" o="2494" pr="Suero" i="Ayuno minimo de 8 hrs"/>
-	<item id="590" n="CREATINFOSFOQUINAZA ISOENZIMAS" c="LAB" o="2494"/>
-	<item id="202" n="CREATININA SERICA" c="LAB" o="98" pr="Suero" i="Ayuno 5 Hrs minimo"/>
-	<item id="203" n="CREATININA URINARIA" c="LAB" o="98" pr="Orina" i="Recolectar la ORINA de 24hrs y tomar peso y estatura"/>
-	<item id="204" n="CRIOAGLUTININAS" c="LAB" o="250" pr="SANGRE TOTAL EDTA" i="Ayuno de 8 hrs"/>
-	<item id="205" n="CRIOGLOBULINAS" c="LAB" o="180" pr="Suero" i="Ayuno minimo 8hrs"/>
-	<item id="206" n="CROMO TOTAL" c="LAB" o="850" pr="Sangre EDTA" i="Ayuno minimo 5hrs"/>
-	<item id="395" n="CUANTIFICACIÓN DE FRACCIÓN BETA  HGC EN SUERO" c="LAB" o="300" pr="Suero" i="ayuno minimo de 2hrs"/>
-	<item id="207" n="CUENTA MINUTADA" c="LAB" o="410" pr="Orina" i="Recolectar la Orina de 24hrs"/>
-	<item id="208" n="CUERPOS REDUCTORES HECES" c="LAB" o="140" pr="Heces" i="HECES"/>
-	<item id="700" n="CULTIVO DE ABSCESO RENAL" c="LAB" o="360" pr="Tomada con hisopo esteril" i="Enviar muestra tomada con hisopo estéril"/>
-	<item id="210" n="CULTIVO DE ESPUTO" c="LAB" o="360" pr="Espectoracion" i="realizar aseo bucal y recolectar una muestra de esputo"/>
-	<item id="712" n="CULTIVO DE ESPUTO (3 MUESTRAS)" c="LAB" o="1050"/>
-	<item id="211" n="CULTIVO DE EXUDADO CERVICO-VAGINAL" c="LAB" o="360" pr="Exudado" i="presentarse por la mañana sin aseo"/>
-	<item id="212" n="CULTIVO DE EXUDADO FARINGEO" c="LAB" o="360" pr="Exudado" i="en ayunas sin aseo bucal"/>
-	<item id="213" n="CULTIVO DE EXUDADO NASAL" c="LAB" o="360" pr="Exudado nasal" i="por la mañana sin aseo nasal"/>
-	<item id="215" n="CULTIVO DE HECES (COPROCULTIVO)" c="LAB" o="360" pr="Heces" i="1 mta de heces tamaño de una canica"/>
-	<item id="CUH" n="CULTIVO DE HERIDA" c="LAB" o="360"/>
-	<item id="702" n="CULTIVO DE LIQUIDO CEFALORRAQUIDEO" c="LAB" o="1148" pr="LIQUIDO CEFALORRAQUIDEO" i="AYUNO.TOMA DE MUESTRA POR EL MEDICO"/>
-	<item id="703" n="CULTIVO DE LIQUIDO SINOVIAL" c="LAB" o="360"/>
-	<item id="216" n="CULTIVO DE MYCOBACTERIUM TUBERCULOSIS" c="LAB" o="645" pr="Espectoracion" i="sin aseo"/>
-	<item id="224" n="CULTIVO DE MYCOPLASMA SP" c="LAB" o="820" pr="medio p/mycoplasma" i="sin aseo"/>
-	<item id="217" n="CULTIVO DE NEISSERIA GONORRHOEAE" c="LAB" o="430" pr="Exudado" i="sin aseo"/>
-	<item id="709" n="CULTIVO DE OIDO" c="LAB" o="360"/>
-	<item id="218" n="CULTIVO DE ORINA" c="LAB" o="360" i="1er orina mañana chorro medio previo aseo"/>
-	<item id="705" n="CULTIVO DE PREPUCIO" c="LAB" o="360"/>
-	<item id="704" n="CULTIVO DE PREPUCIO" c="LAB" o="360" i="Presentarse sin aseo"/>
-	<item id="565" n="CULTIVO DE SANGRE" c="LAB" o="928"/>
-	<item id="801" n="CULTIVO DE SECRECION DE OIDO" c="LAB" o="360"/>
-	<item id="209" n="CULTIVO DE SECRECION DE TRAQUETOMIA" c="LAB" o="360" pr="Secrecion" i="sin aseo"/>
-	<item id="220" n="CULTIVO DE SECRECION OTICA" c="LAB" o="360" pr="Exudado" i="sin aseo"/>
-	<item id="221" n="CULTIVO DE SEMEN (ESPERMOCULTIVO)" c="LAB" o="360" pr="Semen" i="semen"/>
-	<item id="222" n="CULTIVO DE VIBRIO CHOLERAE" c="LAB" o="730" pr="Heces" i="HECES"/>
-	<item id="214" n="CULTIVO EXUDADO URETRAL" c="LAB" o="360" i="hacer cita por la mañana y sin aseo"/>
-	<item id="219" n="CULTIVO GENERAL" c="LAB" o="360" pr="Exudado, Punción, pieza anatomica  etc." i="sin aseo"/>
-	<item id="223" n="CULTIVO MICOLOGICO" c="LAB" o="360" pr="Escamas" i="sin aseo"/>
-	<item id="226" n="CULTIVO MICROBIOLOGIA DE AGUA C/VIBRIO CHOLERAE" c="LAB" o="810" pr="Agua 1lt" i="Agua"/>
-	<item id="225" n="CULTIVO MICROBIOLOGICO DE AGUA S/VIBRIO CHOLERAE" c="LAB" o="810" pr="Agua 1lt" i="Agua"/>
-	<item id="227" n="CULTIVO MICROBIOLOGICO DE MANOS" c="LAB" o="770" pr="Exudado" i="sin aseo"/>
-	<item id="228" n="CULTIVO MICROBIOLOGICO DE UÑAS" c="LAB" o="770" pr="Exudado" i="sin aseo"/>
-	<item id="229" n="CULTIVO OCULAR" c="LAB" o="405" pr="Exudado" i="sin aseo"/>
-	<item id="713" n="CULTIVO PARA LEGIONELLA" c="LAB" o="1200"/>
-	<item id="230" n="CURVA DE TOLERANCIA" c="LAB" o="430" pr="Suero" i="presentarse a las 8:00 con ayuno minimo 5hrs"/>
-	<item id="232" n="DEHIDROEPIANDROSTERONA (DHEA)" c="LAB" o="464" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="231" n="DEHIDROEPIANDROSTERONA SULFATO(DHEA- S)" c="LAB" o="512" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="233" n="DEHIDROTESTOSTERONA" c="LAB" o="730" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="752" n="DENGUE" c="LAB" o="1330"/>
-	<item id="433" n="DENSITOMETRIA ( CUERPO ENTERO IMC)" c="RX" o="665"/>
-	<item id="431" n="DENSITOMETRIA 1 SEGMENTO" c="RX" o="305"/>
-	<item id="432" n="DENSITOMETRIA 2 SEGMENTOS" c="RX" o="560"/>
-	<item id="490" n="DENSITOMETRIA ISSSTE" c="OTRO" o="370"/>
-	<item id="234" n="DEPURACION DE CREATININA" c="LAB" o="350" pr="Orina 24hr,  suero" i="Recolectar ORINA de 24hrs. tomar peso y estatura ayuno 5 hrs"/>
-	<item id="235" n="DEPURACION DE UREA" c="LAB" o="350" pr="Orina 24hr" i="Recolectar ORINA de 24hrs, tomar peso y estatura ayuno 5 hrs"/>
-	<item id="236" n="DESHIDROGENASA LACTICA (DHL)" c="LAB" o="230" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="473" n="DESHIDROGENASA LACTICA (DHL)" c="LAB" o="235"/>
-	<item id="885" n="DETECCION DE ANTIGENO HLA-B27" c="LAB" o="1410" i="AYUNO"/>
-	<item id="911" n="DETECCION DE DUPLICACIONES DEL ONCOGEN BRCA 1" c="LAB" o="12550"/>
-	<item id="912" n="DETECCION DE DUPLICACIONES DEL ONCOGEN BRCA 2" c="LAB" o="12550"/>
-	<item id="237" n="DIFENILHIDANTOINA" c="LAB" o="510" pr="Suero" i="ayuno de 8 hrs"/>
-	<item id="238" n="DIGOXINA" c="LAB" o="535" pr="Suero" i="ayuno 5 hrs"/>
-	<item id="239" n="DIMERO &quot;D&quot;" c="LAB" o="1250" pr="Plasma" i="ayuno de 8 hrs"/>
-	<item id="21" n="DINAMICAS DE COLUMNA CERVICAL" c="RX" o="615"/>
-	<item id="414" n="DINAMICAS DE COLUMNA DORSAL" c="RX" o="615"/>
-	<item id="484" n="DISCO EXTRA" c="OTRO" o="200"/>
-	<item id="240" n="DOPAMINA" c="LAB" o="620" pr="Suero" i="ayuno de 8 hrs"/>
-	<item id="698" n="DOPAMINA EN PLASMA" c="LAB" o="620" pr="plasma" i="en ayuno totalmente"/>
-	<item id="305" n="DUPLICADO DE PLACAS (1)" c="RX" o="100"/>
-	<item id="462" n="ECOCARDIOGAMA % CD" c="RX" o="950"/>
-	<item id="24" n="EDAD OSEA RX" c="RX" o="460"/>
-	<item id="25" n="EDAD OSEA RX AP  (MANO)" c="RX" o="460"/>
-	<item id="2" n="ELECTROCARDIOGRAMA." c="ZSERV" o="800"/>
-	<item id="461" n="ELECTROENCEFALOGRAMA % CD" c="ECC" o="1060"/>
-	<item id="241" n="ELECTROFORESIS DE HEMOGLOBINA" c="LAB" o="860" pr="Sangre EDTA" i="ayuno 8 hrs"/>
-	<item id="242" n="ELECTROFORESIS DE LIPOPROTEINAS" c="LAB" o="450" pr="Suero" i="ayuno 12 hrs"/>
-	<item id="243" n="ELECTROFORESIS DE PROTEINAS" c="LAB" o="600" pr="Suero" i="ayuno de 8 hrs"/>
-	<item id="244" n="ELECTROFORESIS DE PROTEINAS EN ORINA" c="LAB" o="860" pr="Orina" i="orina casual"/>
-	<item id="1" n="ELECTROLITOS SERICOS" c="LAB" o="245"/>
-	<item id="960" n="ELECTROLITOS SERICOS (6)" c="LAB" o="670"/>
-	<item id="997" n="ELECTROLITOS SERICOS (U)" c="LAB" o="300"/>
-	<item id="460" n="ELECTROMIOGRAFIA % PARA CD" c="ECC" o="1040"/>
-	<item id="245" n="EOSINOFILOS EN MOCO NASAL 1M." c="LAB" o="80" pr="Exudado" i="sin aseo nasal"/>
-	<item id="246" n="ERITROPOYETINA" c="LAB" o="1290" pr="Suero" i="ayuno 8hrs"/>
-	<item id="205" n="ESCAFOIDES AP Y OBLIC." c="RX" o="450"/>
-	<item id="383" n="ESCANOMETRIA" c="RX" o="2000"/>
-	<item id="255" n="ESCANOMETRIA OSEA DE MIEMBROS INFERIORES.(TAC)." c="TAC" o="2040"/>
-	<item id="26" n="ESOFAGOGRAMA" c="RX" o="1225"/>
-	<item id="91" n="ESOFAGOGRAMA NIÑO" c="RX" o="1225"/>
-	<item id="247" n="ESPERMATOBIOSCOPIA DIRECTA" c="LAB" o="450" pr="Semen" i="3 o 5 dias de Abstinencia obtenerla por masturbacion, traerla ante de que pase 1hr, edad, dias absti"/>
-	<item id="428" n="ESPIROMETRIA" c="RX" o="215"/>
-	<item id="248" n="ESTERES DE COLESTEROL" c="LAB" o="520" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
-	<item id="249" n="ESTRADIOL (E\2)" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hr"/>
-	<item id="250" n="ESTRADIOL EN ORINA" c="LAB" o="280" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="251" n="ESTRIOL LIBRE URINARIO 24 HRS" c="LAB" o="490" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="252" n="ESTRIOL SERICO" c="LAB" o="490" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="253" n="ESTROGENOS TOTALES" c="LAB" o="345" pr="Suero" i="ayuno 2hrs minimo"/>
-	<item id="254" n="ESTROGENOS TOTALES EN ORINA" c="LAB" o="520" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="255" n="ESTRONA SUERO" c="LAB" o="340" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="692" n="ESTUDIO FISICOQUIMICO DE LIQUIDO CEFALORRAQUIDEO" c="LAB" o="400" pr="JERINGA O TUBO ESTERIL CON MUESTRA"/>
-	<item id="690" n="ESTUDIO FISICOQUIMICO DE LIQUIDO SINOVIAL" c="LAB" o="400" pr="liquido sinovial en jeringa esteril" i="JERINGA CON LIQ. ESTERIL"/>
-	<item id="14" n="ESTUDIOS DE EMBARAZO" c="LAB" o="1419"/>
-	<item id="12" n="ESTUDIOS GENERALES C/AC URICO" c="LAB" o="540"/>
-	<item id="13" n="ESTUDIOS GENERALES S/AC URICO" c="LAB" o="490"/>
-	<item id="256" n="ETHOSUXIMIDA (ZAROTIN)" c="LAB" o="1610" pr="Suero" i="ayuno de 8 hrs"/>
-	<item id="301" n="EXAMEN GENERAL DE ORINA" c="LAB" o="130" pr="Orina" i="1er orina mañana chorro medio"/>
-	<item id="693" n="EXUDADO URETRAL" c="LAB" o="150"/>
-	<item id="454" n="EXUDADO VAGINAL" c="LAB" o="150" pr="Exudado vaginal" i="sin aseo"/>
-	<item id="258" n="FACTOR REUMATOIDE" c="LAB" o="185" pr="Suero" i="ayuno minimo 6hrs"/>
-	<item id="463" n="FACTOR REUMATOIDE CUANTITATIVO" c="LAB" o="265" pr="Suero" i="Ayuno 6 hrs"/>
-	<item id="556" n="FACTOR WILLEBRAND" c="LAB" o="1700"/>
-	<item id="805" n="FECATEST" c="LAB" o="1635"/>
-	<item id="147" n="FEMUR A.P." c="RX" o="460"/>
-	<item id="27" n="FEMUR AP Y LATERAL" c="RX" o="615"/>
-	<item id="259" n="FENOBARBITAL" c="LAB" o="870" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="260" n="FENOL URINARIO" c="LAB" o="2290" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="762" n="FENTANILO ( NORFENTANILO)" c="LAB" o="550"/>
-	<item id="261" n="FERRITINA" c="LAB" o="600" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="262" n="FIBRINOGENO" c="LAB" o="344" pr="Plasma" i="ayuno de 8hrs"/>
-	<item id="263" n="FILTRADO GLOMERULAR" c="LAB" o="320" pr="Orina y Suero" i="ORINA 24hr peso y estatura ayuno 8 hrs"/>
-	<item id="434" n="FISTULOGRAFIA" c="RX" o="2500"/>
-	<item id="360" n="FISTULOGRAFIA PIE" c="RX" o="1940"/>
-	<item id="315" n="FISTULOGRAFIA PIERNA" c="RX" o="1940"/>
-	<item id="264" n="FORMULA BLANCA" c="LAB" o="80" pr="Sangre EDTA" i="ayuno  2hr"/>
-	<item id="265" n="FORMULA ROJA" c="LAB" o="80" pr="Sangre EDTA" i="ayuno 2hrs"/>
-	<item id="572" n="FOSFATASA ACIDA FRACCIÓN PROSTÁTICA" c="LAB" o="170"/>
-	<item id="267" n="FOSFATASA ACIDA TOTAL" c="LAB" o="105" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="266" n="FOSFATASA ACIDA TOTAL" c="LAB" o="105" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="268" n="FOSFATASA ALCALINA (ALP)" c="LAB" o="112" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="269" n="FOSFATASA ALCALINA FRACCION OSEA" c="LAB" o="685" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="270" n="FOSFOLIPIDOS" c="LAB" o="245" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
-	<item id="271" n="FOSFORO SERICO" c="LAB" o="91" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="272" n="FOSFORO URINARIO DE 24 HRS" c="LAB" o="170" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="273" n="FRACCION PROSTATICA" c="LAB" o="170" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="474" n="FRACCIÓN PROSTÁTICA" c="LAB" o="170"/>
-	<item id="956" n="FROTIS EN TINTA CHINA" c="LAB" o="348"/>
-	<item id="274" n="FRUCTOSA EN SEMEN" c="LAB" o="510" pr="Semen" i="semen obtenr por masturbacion"/>
-	<item id="275" n="FRUCTOSAMINA" c="LAB" o="1050" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="558" n="GALACTOMANANO" c="LAB" o="2823" pr="SUERO"/>
-	<item id="470" n="GAMMAGLUTAMIL TRANSPEPTIDASA (GGT)" c="LAB" o="150"/>
-	<item id="579" n="GASOMETRIA" c="LAB" o="400"/>
-	<item id="276" n="GASTRINA" c="LAB" o="380" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="505" n="GIARDIA LAMBLIA EN HECES" c="LAB" o="1259"/>
-	<item id="460" n="GLOBULINA" c="LAB" o="0.1" pr="suero" i="Ayuno 6 horas cobrar proteinas y albumina"/>
-	<item id="782" n="GLOBULINA FIJADORA DE HORMONA SEXUAL (SHBG)" c="LAB" o="1139" pr="SUERO"/>
-	<item id="277" n="GLUCAGON" c="LAB" o="700" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
-	<item id="278" n="GLUCOSA 6 FOSFATO DESHIDROGENASA" c="LAB" o="305" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
-	<item id="520" n="GLUCOSA POST CARGA 50 G 1 HR" c="LAB" o="160"/>
-	<item id="901" n="GLUCOSA POST CARGA 75 G" c="LAB" o="300"/>
-	<item id="901" n="GLUCOSA POST CARGA 75 G 2 HRS" c="LAB" o="160"/>
-	<item id="279" n="GLUCOSA POSTPRANDIAL" c="LAB" o="96" pr="Suero" i="ayuno minimo 5hrs precentarse a las 8:00 am"/>
-	<item id="280" n="GLUCOSA SERICA" c="LAB" o="98" pr="Suero" i="ayuno 5 hrs minimo"/>
-	<item id="281" n="GLUCOSA URINARIA" c="LAB" o="98" pr="Orina" i="ORINA 2hr congelar"/>
-	<item id="282" n="GOTA GRUESA (PLASMODIUM SP)" c="LAB" o="125" pr="Sangre EDTA" i="ayuno"/>
-	<item id="284" n="GRUPO SANGUINEO Y FACTOR RH" c="LAB" o="130" pr="Sangre EDTA" i="ayuno no necesario"/>
-	<item id="285" n="HAPTOGLOBINAS" c="LAB" o="535" pr="Suero" i="ayuno 8hrs"/>
-	<item id="863" n="HELICOBACTER PYLORI EN HECES" c="LAB" o="2714" i="MUESTRA RECIENTE"/>
-	<item id="286" n="HEMOGLOBINA GLUCOSILADA" c="LAB" o="460" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
-	<item id="998" n="HEMOGLOBINA GLUCOSILADA (U)" c="LAB" o="500"/>
-	<item id="287" n="HEMOGLOBINA LIBRE EN PLASMA" c="LAB" o="380" pr="Sangre heparina" i="ayuno de 8hrs"/>
-	<item id="288" n="HEMOLISIS ACIDA (PRUEBA DE HAM)" c="LAB" o="890" pr="Tubo rojo s/centrifugar" i="ayuno de 8hrs"/>
-	<item id="289" n="HEMOSIDERINA EN ORINA" c="LAB" o="500" pr="Orina" i="ORINA casual"/>
-	<item id="290" n="HEPATITIS A IGG" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="291" n="HEPATITIS A IGM" c="LAB" o="710" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="292" n="HEPATITIS A Y B MARCADORES IGM IGG" c="LAB" o="3480" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="25" n="HEPATITIS A,B,C, IGM IGG" c="LAB" o="2750"/>
-	<item id="293" n="HEPATITIS A,B,C, MARCADORES IGM  IGG" c="LAB" o="4610" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="294" n="HEPATITIS A,B,C,D, MARCADORES COMPLETOS" c="LAB" o="4150" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="297" n="HEPATITIS B (HBE AC)" c="LAB" o="680" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="298" n="HEPATITIS B (HBE AG)" c="LAB" o="550" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="299" n="HEPATITIS B (HBS AG) AUSTRALIA" c="LAB" o="665" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="300" n="HEPATITIS B AC (HBS AC)" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="295" n="HEPATITIS B CORE  (HBC AC IGG)" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="296" n="HEPATITIS B CORE (HBC AC IGM)" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="302" n="HEPATITIS B IGG E IGM" c="LAB" o="4347" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="303" n="HEPATITIS B IGM (HBS AC_M)" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="304" n="HEPATITIS C (HCVAC)" c="LAB" o="633" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="305" n="HEPATITIS D ( AC.)" c="LAB" o="640" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="306" n="HIDROSTESTOSTERONA" c="LAB" o="360" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="307" n="HIDROXIPROLINA" c="LAB" o="1525" pr="Orina 24hr 20ml" i="ORINA 24hr peso y estatura"/>
-	<item id="308" n="HIDROXITRIPTAMINA" c="LAB" o="370" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="468" n="HIERRO" c="LAB" o="140"/>
-	<item id="309" n="HIERRO SERICO" c="LAB" o="140" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="310" n="HISTAMINA" c="LAB" o="3080" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="62" n="HISTEROSALPINGOGRAFIA" c="RX" o="5000"/>
-	<item id="162" n="HISTEROSONOGRAFIA" c="RX" o="4000"/>
-	<item id="249" n="HISTEROSONOGRAFIA" c="RX" o="4000"/>
-	<item id="250" n="HOMBRO 2 PROYECCIONES(UNILATERAL)" c="RX" o="615"/>
-	<item id="28" n="HOMBRO A.P" c="RX" o="460"/>
-	<item id="97" n="HOMBRO C/ABDUCCION" c="RX" o="460"/>
-	<item id="223" n="HOMBRO ROTACION INT. Y EXT." c="TAC" o="615"/>
-	<item id="102" n="HOMBROS A.P" c="RX" o="615"/>
-	<item id="237" n="HOMBROS AP COMPARATIVOS" c="RX" o="615"/>
-	<item id="29" n="HOMBROS AP Y OBLICUA" c="RX" o="1225"/>
-	<item id="311" n="HOMOCISTEINA" c="LAB" o="1080" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="312" n="HONGOS EN FRESCO" c="LAB" o="150" pr="Escamas" i="sin aseo"/>
-	<item id="313" n="HORMONA ADRENOCORTICOTROFICA (ACTH)" c="LAB" o="920" pr="Sangre EDTA" i="ayuno 2 hrs minimo"/>
-	<item id="530" n="HORMONA ANTI MULERIANA (MRH/AMH)" c="LAB" o="3250"/>
-	<item id="315" n="HORMONA DE CRECIMIENTO" c="LAB" o="630" pr="Suero" i="ayuno 2 hrs minimo"/>
-	<item id="316" n="HORMONA DE CRECIMIENTO BASAL Y POST ESTIMULO" c="LAB" o="835" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="314" n="HORMONA DE CRECIMIENTO POST ESTIMULO" c="LAB" o="430" pr="Suero" i="ayuno 2 hrs minimo"/>
-	<item id="317" n="HORMONA ESTIM TIROIDES (TSH)" c="LAB" o="336" pr="Suero" i="ayuno 2hr minimo"/>
-	<item id="318" n="HORMONA FOLICULO ESTIMULANTE (FSH)" c="LAB" o="336" pr="Suero" i="ayuno 2 hrs minimo"/>
-	<item id="319" n="HORMONA LUTEINIZANTE (HL)" c="LAB" o="336" pr="Suero" i="ayuno 2 hrs minimo"/>
-	<item id="31" n="HUECO PELVICO" c="RX" o="460"/>
-	<item id="30" n="HUESOS PROPIOS DE LA NARIZ" c="RX" o="460"/>
-	<item id="213" n="HUMERO AP" c="RX" o="450"/>
-	<item id="320" n="INDICE ATEROGENICO" c="LAB" o="242" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="321" n="INDICE DE TIROXINA LIBRE (ITL)" c="LAB" o="200" pr="Suero" i="ayuno 2 hrs minimo"/>
-	<item id="570" n="INDICE HOMA" c="LAB" o="340"/>
-	<item id="714" n="INFLUENZA TIPO A Y B (PRUEBA RAPIDA)" c="LAB" o="1218" pr="Exudado faringeo o nasal"/>
-	<item id="865" n="INHIBINA A" c="LAB" o="1244"/>
-	<item id="322" n="INMUNOGLOBULINA &quot;A&quot;" c="LAB" o="378" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="323" n="INMUNOGLOBULINA &quot;D&quot;" c="LAB" o="895" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="324" n="INMUNOGLOBULINA &quot;E&quot;" c="LAB" o="425" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="325" n="INMUNOGLOBULINA &quot;G&quot;" c="LAB" o="378" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="326" n="INMUNOGLOBULINA &quot;M&quot;" c="LAB" o="378" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="327" n="INMUNOGLOBULINAS G SUBCLASES IGG 1,2,3,4" c="LAB" o="2552" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="797" n="INSULINA 120MIN" c="LAB" o="260"/>
-	<item id="795" n="INSULINA 60MIN" c="LAB" o="260"/>
-	<item id="796" n="INSULINA 90MIN" c="LAB" o="260"/>
-	<item id="329" n="INSULINA BASAL" c="LAB" o="260" pr="Suero" i="ayuno 8 hrs"/>
-	<item id="330" n="INSULINA BASAL Y POST PRANDIAL" c="LAB" o="460" pr="Suero" i="ayuno de suero"/>
-	<item id="328" n="INSULINA POSPRANDIAL" c="LAB" o="255" pr="Suero" i="ayuno 8 hrs"/>
-	<item id="480" n="INSUMO ANESTESIA RESO" c="OTRO" o="6600"/>
-	<item id="465" n="INSUMO COVID RX TORAX" c="OTRO" o="100"/>
-	<item id="464" n="INSUMOS COVID" c="OTRO" o="800"/>
-	<item id="331" n="ISOAGLUTININAS" c="LAB" o="215" pr="Suero" i="ayuno de 8 hrs"/>
-	<item id="332" n="ISOENZIMAS DE DESHIDROGENASA LACTICA" c="LAB" o="550" pr="Suero" i="ayuno de 8 hrs"/>
-	<item id="550" n="KOH" c="LAB" o="70"/>
-	<item id="333" n="LACTOSA TOLERANCIA" c="LAB" o="240" pr="Suero" i="ayuno de 8 hrs"/>
-	<item id="334" n="LAMOTRIGINA" c="LAB" o="1670" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="105" n="LATERAL AMBOS PIES" c="RX" o="460"/>
-	<item id="289" n="LATERAL DE COLUMNA CERVICAL" c="RX" o="460"/>
-	<item id="18" n="LATERAL DE CUELLO (PARTES BLANDAS )" c="RX" o="460"/>
-	<item id="157" n="LATERAL DE ESPOLON" c="RX" o="450"/>
-	<item id="132" n="LATERAL DE MANDIBULA" c="RX" o="450"/>
-	<item id="402" n="LATERAL DE PIE" c="RX" o="460"/>
-	<item id="95" n="LATERAL DE TORAX (IZQ.-DER.)" c="RX" o="460"/>
-	<item id="335" n="LIPASA SERICA" c="LAB" o="240" pr="Suero" i="ayuno minimo 6hrs"/>
-	<item id="336" n="LIPIDOS TOTALES" c="LAB" o="80" pr="Suero" i="ayuno de12hrs cena libre de grasas"/>
-	<item id="337" n="LISIS DE EUGLOBULINAS" c="LAB" o="615" pr="Plasma citratado" i="ayuno 6hrs"/>
-	<item id="338" n="LITIO SERICO" c="LAB" o="563" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="339" n="MAGNESIO EN ORINA DE 24 HRS" c="LAB" o="245" pr="orina de 24 hrs" i="Recolectar la orna de 24hrs"/>
-	<item id="340" n="MAGNESIO SERICO" c="LAB" o="230" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="473" n="MAMOGRAFIA" c="RX" o="700"/>
-	<item id="108" n="MAMOGRAFIA + ULTRASONIDO MAMARIO" c="US" o="950"/>
-	<item id="217" n="MAMOGRAFIA 1 PLACA DE AMPLIACION" c="RX" o="185"/>
-	<item id="222" n="MAMOGRAFIA UNILATERAL" c="RX" o="305"/>
-	<item id="34" n="MANDIBULA" c="RX" o="450"/>
-	<item id="103" n="MANDIBULA  AP. LAT" c="RX" o="765"/>
-	<item id="341" n="MANGANESO" c="LAB" o="815" pr="Sangre heparina" i="ayuno minimo 5hrs"/>
-	<item id="216" n="MANO AP" c="RX" o="460"/>
-	<item id="32" n="MANO AP Y OBLICUA" c="RX" o="460"/>
-	<item id="312" n="MANO TOMOGRAFIA SIMPLE" c="RX" o="2040"/>
-	<item id="101" n="MANOS A.P" c="RX" o="460"/>
-	<item id="33" n="MANOS AP Y OBLICUAS" c="RX" o="615"/>
-	<item id="464" n="MARIHUANA" c="LAB" o="320" pr="ORINA" i="Orina casual"/>
-	<item id="342" n="MERCURIO" c="LAB" o="815" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="343" n="METABOLITOS DE COCAINA (CONFIRMATORIO)" c="LAB" o="5700" pr="ORINA" i="ORINA casual"/>
-	<item id="344" n="METAHEMOGLOBINA (METHB)" c="LAB" o="380" pr="Tubo rojo s/centrifugar" i="ayuno de 8hrs"/>
-	<item id="345" n="METANEFRINAS" c="LAB" o="1790" pr="PLASMA" i="ayuno de 8hrs"/>
-	<item id="502" n="METANEFRINAS URINARIAS" c="LAB" o="880"/>
-	<item id="346" n="MICROALBUMINA" c="LAB" o="255" pr="Orina" i="ORINA"/>
-	<item id="77" n="MIELOGRAFIA  LUMBAR  ESTUDIO ESPECIAL" c="RX" o="3060"/>
-	<item id="75" n="MIELOGRAFIA CERVICAL     ESTUDIO ESPECIAL" c="RX" o="3060"/>
-	<item id="76" n="MIELOGRAFIA DORSAL   ESTUDIO ESPECIAL" c="RX" o="3060"/>
-	<item id="259" n="MIELOTAC." c="TAC" o="5000"/>
-	<item id="215" n="MIEMBROS INFERIORES COMPARATIVAS AP Y LATERAL NINO" c="RX" o="750"/>
-	<item id="577" n="MIOGLOBINA" c="LAB" o="550"/>
-	<item id="347" n="MORFINA" c="LAB" o="105" pr="Orina" i="ORINA"/>
-	<item id="35" n="MUÑECA  AP.   Y  LAT." c="RX" o="460"/>
-	<item id="112" n="MUÑECA A.P, OBLICUA,  LATERAL" c="RX" o="460"/>
-	<item id="470" n="MUÑECA AP Y LATERAL FUERA DE HORARIO" c="RX" o="1000"/>
-	<item id="36" n="MUÑECAS AP.  Y   LAT.   COMPARATIVAS" c="RX" o="615"/>
-	<item id="348" n="MYCOBACTERIUM TUBERCULOSIS (PCR)" c="LAB" o="4070" pr="Orina" i="ORINA"/>
-	<item id="356" n="N TELOPEPTIDOS" c="LAB" o="2180" pr="Orina 2hr" i="orina"/>
-	<item id="349" n="NICOTINA (COTININA) ORINA" c="LAB" o="430" pr="Orina" i="ORINA"/>
-	<item id="350" n="NICOTINA (COTININA) SUERO" c="LAB" o="430" pr="Suero" i="ayuno de 8hrs"/>
-	<item id="501" n="NINGUNO" c="LAB" o="0.01"/>
-	<item id="351" n="NITROGENO EN HECES" c="LAB" o="320" pr="Heces" i="HECES"/>
-	<item id="352" n="NITROGENO UREICO (BUN)" c="LAB" o="55" pr="Suero" i="ayuno"/>
-	<item id="353" n="NITROGENO UREICO URINARIO" c="LAB" o="55" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="861" n="NIVELES DE TACROLIMUS" c="LAB" o="1790"/>
-	<item id="354" n="NORADRENALINA" c="LAB" o="930" pr="PLASMA" i="ayuno minimo 8hrs"/>
-	<item id="355" n="NORADRENALINA EN ORINA" c="LAB" o="930" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="697" n="NORADRENALINA EN PLASMA" c="LAB" o="930" pr="plasma" i="en ayuno totalmente"/>
-	<item id="357" n="OPIACEOS" c="LAB" o="440" pr="Orina" i="ORINA"/>
-	<item id="358" n="OSMOLARIDAD SERICA" c="LAB" o="255" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="359" n="OSMOLÀRIDAD URINARIA" c="LAB" o="255" pr="Orina" i="ORINA"/>
-	<item id="360" n="OSTEOCALCINA" c="LAB" o="580" pr="Plasma heparina" i="ayuno minimo de 8hrs"/>
-	<item id="955" n="OXALATO EN ORINA DE 24 HRS." c="LAB" o="1865"/>
-	<item id="361" n="OXCARBACEPINA" c="LAB" o="2429" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="362" n="OXIUROS PRUEBA DE GRAHAM" c="LAB" o="100" pr="Frotis" i="FROTIS"/>
-	<item id="462" n="P.F.H. (PUEBAS DE FUNCIONAMIENTO HEPATICO)" c="LAB" o="550" pr="suero" i="ayuno 6 hrs"/>
-	<item id="37" n="P.S.A DECUBITO" c="RX" o="460"/>
-	<item id="128" n="P.S.A. TANGENCIAL" c="RX" o="450"/>
-	<item id="153" n="PAC ENTUBADO" c="RX" o="6000"/>
-	<item id="19" n="PAKETE INTERMEDIO" c="LAB" o="1141"/>
-	<item id="20" n="PAKETE PLUSS" c="LAB" o="1691"/>
-	<item id="904" n="PANEL VIRAL RESPIRATORIO" c="LAB" o="4605"/>
-	<item id="321" n="PARACENTESIS" c="RX" o="1800"/>
-	<item id="363" n="PARATOHORMONA (PTH, INTACTA)" c="LAB" o="1020" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="364" n="PATERNIDAD RESPONSABILIDAD" c="LAB" o="7500" pr="Sangre EDTA + Persona Adiccional $1500" i="ayuno, Previa cita, 2 fotografias de frente y perfil, original y copia de Ac. nacimiento e IFE,"/>
-	<item id="365" n="PAUL BUNELL (AC HETERÒFILOS)" c="LAB" o="330" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="892" n="PCR CARGA VIRAL DE CITOMEGALOVIRUS" c="LAB" o="3837" pr="PLASMA/EDTA"/>
-	<item id="906" n="PCR DETECCIÓN DE BRUCELLA" c="LAB" o="6265"/>
-	<item id="367" n="PCR PARA TUBERCULOSIS" c="LAB" o="0.01" pr="Orina" i="ORINA"/>
-	<item id="368" n="PCR PARA VIH (DNA) CUANTITATIVO" c="LAB" o="5950" pr="Sangre EDTA" i="ayuno minimo de 8hrs"/>
-	<item id="958" n="PCR TUBERCULOSIS" c="LAB" o="3110"/>
-	<item id="366" n="PCR VIH (RNA) CUANTIFICADA" c="LAB" o="4210" pr="Plasma EDTA" i="ayuno minimo de 8hrs"/>
-	<item id="41" n="PELVIS ADULTO" c="RX" o="460"/>
-	<item id="127" n="PELVIS AP" c="RX" o="460"/>
-	<item id="125" n="PELVIS AP Y LATERAL" c="RX" o="765"/>
-	<item id="211" n="PELVIS LOWENSTEIN" c="RX" o="460"/>
-	<item id="42" n="PELVIS NIÑO" c="RX" o="460"/>
-	<item id="231" n="PELVIS OBLICUAS(2 PLACAS)." c="RX" o="765"/>
-	<item id="203" n="PELVIS OBTURATRIZ" c="RX" o="460"/>
-	<item id="369" n="PEPTIDO &quot;C&quot;" c="LAB" o="560" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="516" n="PEPTIDO INTESTINAL VASO ACTIVO" c="LAB" o="2538"/>
-	<item id="512" n="PEPTIDO NATRIUREICO CEREBRAL (BNP)" c="LAB" o="1410"/>
-	<item id="370" n="PERFIL ALERGIA ALIMENTICIO MEXICANO" c="LAB" o="4300" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="371" n="PERFIL ALERGIA INHALATORIO MEXICANO" c="LAB" o="4300" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="23" n="PERFIL DE CATECOLAMINAS TOTALES (PLASMA)" c="LAB" o="500"/>
-	<item id="765" n="PERFIL DE HIERRO" c="LAB" o="625"/>
-	<item id="574" n="PERFIL DE INMUNOGLOBULINAS IGG, IGA, GM, IGE." c="LAB" o="975"/>
-	<item id="504" n="PERFIL DE LIPIDOS" c="LAB" o="390"/>
-	<item id="523" n="PERFIL DE METALES PESADOS" c="LAB" o="2500"/>
-	<item id="507" n="PERFIL FOSFOLIPIDOS" c="LAB" o="2565"/>
-	<item id="799" n="PERFIL HEPATITIS  III" c="LAB" o="2668"/>
-	<item id="760" n="PERFIL HEPATITIS B" c="LAB" o="1260"/>
-	<item id="18" n="PERFIL HEPATITIS IGG E IGM" c="LAB" o="4115"/>
-	<item id="9" n="PERFIL HORMONAL FEMENINO" c="LAB" o="1020"/>
-	<item id="21" n="PERFIL HORMONAL HIPOFISIARIO" c="LAB" o="1100"/>
-	<item id="862" n="PERFIL INFECCIOSO GENITAL MASCULINO II" c="LAB" o="4300"/>
-	<item id="7" n="PERFIL TIROIDEO PARCIAL" c="LAB" o="1010"/>
-	<item id="22" n="PERFIL TIROIDEO PARCIAL 2" c="LAB" o="990"/>
-	<item id="510" n="PERFIL TIROIDEO PARCIAL 3" c="LAB" o="1010"/>
-	<item id="24" n="PERFIL TIROIDEO PARCIAL 3" c="LAB" o="990"/>
-	<item id="26" n="PERFIL TIROIDEO PARCIAL 3" c="LAB" o="990"/>
-	<item id="8" n="PERFIL TIROIDEO TOTAL" c="LAB" o="1340"/>
-	<item id="800" n="PERFIL TIROIDEO TOTAL" c="LAB" o="1336"/>
-	<item id="10" n="PERFIL TORCH IGG" c="LAB" o="1680"/>
-	<item id="11" n="PERFIL TORCH IGM" c="LAB" o="1580"/>
-	<item id="23" n="PERFILOGRAMA" c="RX" o="450"/>
-	<item id="230" n="PERFILOGRAMA AP Y LATERAL" c="RX" o="750"/>
-	<item id="708" n="PFH (PRUEBAS DE FUNCION HEPATICO)" c="LAB" o="540" i="AYUNO TOTALMENTE"/>
-	<item id="55" n="PIE    AP  Y  LATERAL" c="RX" o="460"/>
-	<item id="121" n="PIE AP Y OBLICUA" c="RX" o="460"/>
-	<item id="43" n="PIE CON APOYO" c="RX" o="460"/>
-	<item id="482" n="PIERNA AP Y LATERAL" c="OTRO" o="460"/>
-	<item id="48" n="PIERNA AP Y LATERAL NIÑO" c="RX" o="460"/>
-	<item id="332" n="PIERNAS AP Y LAT" c="RX" o="765"/>
-	<item id="45" n="PIES    COMPARATIVOS  AP. Y  LAT." c="RX" o="765"/>
-	<item id="46" n="PIES CON APOYO" c="RX" o="460"/>
-	<item id="183" n="PIES LATERAL COMPARATIVOS" c="RX" o="460"/>
-	<item id="372" n="PIRILINKS-D" c="LAB" o="1220" pr="Orina 3hr" i="preguntar a laboratorio"/>
-	<item id="272" n="PLACA SIMPLE DE ABDOMEN AP Y LATERAL" c="RX" o="765"/>
-	<item id="104" n="PLACA SIMPLE DE ABDOMEN DE PIE" c="RX" o="460"/>
-	<item id="455" n="PLAQUETAS" c="LAB" o="60" pr="Sangre total EDTA" i="Ayuno minimo de 2 hrs"/>
-	<item id="373" n="PLASMA RECALCIFICADO" c="LAB" o="100" pr="Plasma citrato" i="ayuno minimo de 8hrs"/>
-	<item id="374" n="PLOMO EN ORINA" c="LAB" o="815" pr="Orina" i="preguntar a laboratorio"/>
-	<item id="375" n="PLOMO EN SANGRE" c="LAB" o="1030" pr="Sangre total edta" i="ayuno minimo 5hrs"/>
-	<item id="603" n="PORFILIBINOGENO EN ORINA DE 24 HRS" c="LAB" o="380" pr="orina de 24 hrs." i="Recolectar orina de 24 hrs"/>
-	<item id="376" n="PORFIRINAS" c="LAB" o="260" pr="Orina" i="ORINA casual"/>
-	<item id="377" n="POTASIO SERICO" c="LAB" o="125" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="378" n="POTASIO URINARIO" c="LAB" o="125" pr="Orina" i="Recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
-	<item id="515" n="PRE-ALBUMINA" c="LAB" o="1090" pr="Suero"/>
-	<item id="380" n="PREGNADIOL SERICO" c="LAB" o="1500" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="379" n="PREGNADIOL URINARIO EN 24 HRS" c="LAB" o="1500" pr="Orina" i="recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
-	<item id="381" n="PREGNANTRIOL EN ORINA" c="LAB" o="1500" pr="Orina" i="recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
-	<item id="15" n="PRENUPCIALES" c="LAB" o="335"/>
-	<item id="16" n="PREOPERATORIOS" c="LAB" o="595"/>
-	<item id="382" n="PRIMIDONA" c="LAB" o="910" pr="Suero" i="ayuno minimo de 8hrs"/>
-	<item id="755" n="PRO-CALCITONINA" c="LAB" o="1060"/>
-	<item id="383" n="PROGESTERONA" c="LAB" o="330" pr="Suero" i="ayuno 2hrs minimo"/>
-	<item id="384" n="PROLACTINA" c="LAB" o="340" pr="Suero" i="ayuno 2hrs minimo"/>
-	<item id="388" n="PROTEINA &quot;C&quot;  REACTIVA ULTRASENSIBLE" c="LAB" o="582" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="385" n="PROTEINA &quot;C&quot; DE LA COAGULACION" c="LAB" o="1211" pr="Plasma citrato" i="ayuno minimo de 8hrs"/>
-	<item id="387" n="PROTEINA &quot;S&quot; DE LA COAGULACION" c="LAB" o="1584" pr="Plasma citrato" i="ayuno minimo de 8hrs"/>
-	<item id="386" n="PROTEINA C REACTIVA" c="LAB" o="330" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="389" n="PROTEINA DE BENCE JONES" c="LAB" o="350" pr="Orina" i="Orina casual"/>
-	<item id="521" n="PROTEINA EN ORINA OCASIONAL" c="LAB" o="120"/>
-	<item id="524" n="PROTEÍNAS EN ORINA DE MICCIÓN ÚNICA" c="LAB" o="120" pr="Orina Ocasional"/>
-	<item id="391" n="PROTEINAS TOTALES SERICAS" c="LAB" o="100" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="390" n="PROTEINURIA EN ORINA DE 24HRS" c="LAB" o="120" pr="Orina" i="recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
-	<item id="392" n="PROTOMBINA CONSUMO" c="LAB" o="270" pr="Plasma citrato" i="ayuno minimo 8hrs"/>
-	<item id="915" n="PRUEBA  DE CHRISTENSEN (AREASA)" c="LAB" o="100"/>
-	<item id="599" n="PRUEBA DE ALIENTO HELICOBACTER PYLORI" c="LAB" o="2800"/>
-	<item id="393" n="PRUEBA DE CHAGAS" c="LAB" o="730" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="756" n="PRUEBA DE PATERNIDAD" c="LAB" o="6750"/>
-	<item id="394" n="PRUEBA INMUNOLOGIA DE EMBARAZO" c="LAB" o="180" pr="Suero" i="Ayuno minimo 2 hrs"/>
-	<item id="503" n="PRUEBA REAGINA PLASMATICA RAPIDA (R.P.R.)" c="LAB" o="60"/>
-	<item id="957" n="PRUEBA ZIEL NIELSSE" c="LAB" o="116"/>
-	<item id="39" n="PSA DECUBITO Y DE PIE ADULTO" c="RX" o="765"/>
-	<item id="44" n="PSA. NIÑO" c="RX" o="450"/>
-	<item id="950" n="QUIMICA SANGUINEA (45)" c="LAB" o="1470"/>
-	<item id="2" n="QUIMICA SANGUINEA 3" c="LAB" o="295"/>
-	<item id="3" n="QUIMICA SANGUINEA 4" c="LAB" o="395"/>
-	<item id="5" n="QUIMICA SANGUINEA 5" c="LAB" o="390"/>
-	<item id="4" n="QUIMICA SANGUINEA 6" c="LAB" o="490"/>
-	<item id="990" n="QUIMICA SANGUINEZ (36)" c="LAB" o="810"/>
-	<item id="439" n="RADIOGRAFIAS PIERNAS AP Y LAT" c="RX" o="765"/>
-	<item id="313" n="RADIOMETRIA MS PELVICOS" c="RX" o="1530"/>
-	<item id="396" n="REACCIONES FEBRILES" c="LAB" o="260" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="900" n="RELACION ALB/CREATININA (RAC)" c="LAB" o="810"/>
-	<item id="900" n="RELACION ALB/CREATININA (RAC)" c="LAB" o="205" pr="ORINA AL AZAR"/>
-	<item id="461" n="RELACION ALB/GLOB" c="LAB" o="0.1" pr="suero" i="ayuno 6 hrs cobrar proteinas y albumina"/>
-	<item id="398" n="RENINA" c="LAB" o="1085" pr="Sangre EDTA" i="ayuno minimo 8hrs"/>
-	<item id="446" n="RESONANCIA MAGNETICA DE OIDO C/CONTRASTE" c="RM" o="6940"/>
-	<item id="399" n="RETICULOCITOS" c="LAB" o="92" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
-	<item id="400" n="RICKETTSIAS ANTICUERPOS IGG IGM" c="LAB" o="2800" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="417" n="RM ABDOMEN SIMPLE Y CONTRASTADA FUERA DE HORARIO" c="RM" o="7500"/>
-	<item id="405" n="RM AMBAS RODILLAS URGENCIAS" c="RM" o="13000"/>
-	<item id="475" n="RM AMBOS TOBILLOS SIMPLE" c="RM" o="11020"/>
-	<item id="407" n="RM BRAZO SIMPLE" c="RM" o="5510"/>
-	<item id="406" n="RM BRAZO SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="444" n="RM CADERA CONTRASTADA" c="RM" o="6940"/>
-	<item id="497" n="RM CADERA SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="506" n="RM COLUMNA CERVICAL S/C + FUERA DE HORARIO" c="OTRO" o="7500"/>
-	<item id="493" n="RM COLUMNA CERVICAL S/C ISSSTE" c="OTRO" o="2850"/>
-	<item id="505" n="RM COLUMNA CERVICAL SIMPLE + SEDACION" c="OTRO" o="12000"/>
-	<item id="491" n="RM COLUMNA CERVICAL SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="356" n="RM COLUMNA CERVICAL SIMPLE URGENCIA" c="RM" o="8000"/>
-	<item id="494" n="RM COLUMNA DORSAL S/C ISSSTE" c="OTRO" o="2850"/>
-	<item id="435" n="RM COLUMNA DORSAL SIMPLE DE UREGENCIA" c="RM" o="8000"/>
-	<item id="492" n="RM COLUMNA DORSAL SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="495" n="RM COLUMNA LUMBAR S/C ISSSTE" c="OTRO" o="2850"/>
-	<item id="420" n="RM COLUMNA LUMBAR S+C FUERA DE HORARIO" c="RM" o="7500"/>
-	<item id="481" n="RM COLUMNA LUMBAR SIMPLE + ANESTESIA" c="OTRO" o="12240"/>
-	<item id="378" n="RM COLUMNA LUMBAR SIMPLE FUERA DE HORARIO" c="RM" o="6500"/>
-	<item id="488" n="RM COLUMNA LUMBAR SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="114" n="RM CRANEO CONTRASTADA + SEDACION" c="RM" o="14000"/>
-	<item id="486" n="RM CRANEO S/C ISSSTE" c="OTRO" o="2850"/>
-	<item id="99" n="RM CRANEO SIMPLE + SEDACION" c="RM" o="12000"/>
-	<item id="485" n="RM CRANEO SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="399" n="RM CRANEO SIMPLE URGENCIA" c="RM" o="6500"/>
-	<item id="357" n="RM CRANEO SIMPLE Y CONTRASTADA URGENCIA" c="RM" o="8500"/>
-	<item id="503" n="RM CUELLO S/C ISSSTE" c="OTRO" o="2850"/>
-	<item id="504" n="RM CUELLO SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="438" n="RM CUELLO SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="382" n="RM DE ABDOMEN S-C" c="RM" o="8160"/>
-	<item id="358" n="RM DE ABDOMEN SIMPLE" c="RM" o="7140"/>
-	<item id="422" n="RM DE AMBAS MUÑECAS SIMPLE" c="RM" o="11020"/>
-	<item id="474" n="RM DE AMBAS PIERNAS SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="341" n="RM DE AMBAS RODILLAS SIMPLE" c="RM" o="11020"/>
-	<item id="424" n="RM DE AMBOS HOMBROS SIMPLE" c="RM" o="11020"/>
-	<item id="366" n="RM DE CADERAS SIMPLE" c="RM" o="5510"/>
-	<item id="374" n="RM DE CODO SIMPLE" c="RM" o="5510"/>
-	<item id="335" n="RM DE COLUMNA CERVICAL" c="RM" o="5510"/>
-	<item id="349" n="RM DE COLUMNA CERVICAL SIMPLE Y CONTRASTADA" c="OTRO" o="6940"/>
-	<item id="334" n="RM DE COLUMNA DORSAL" c="RM" o="5510"/>
-	<item id="364" n="RM DE COLUMNA DORSAL CONTRASTADA" c="RM" o="6940"/>
-	<item id="455" n="RM DE COLUMNA DORSAL CONTRASTADA FUERA DE HORARIO" c="RM" o="8000"/>
-	<item id="333" n="RM DE COLUMNA LUMBAR" c="RM" o="5510"/>
-	<item id="355" n="RM DE COLUMNA LUMBAR S-C" c="RM" o="6940"/>
-	<item id="443" n="RM DE CORAZON SIMPLE MORFOLOGIA" c="RM" o="7000"/>
-	<item id="337" n="RM DE CRANEO S/C" c="RM" o="6940"/>
-	<item id="336" n="RM DE CRANEO SIMPLE" c="RM" o="5510"/>
-	<item id="359" n="RM DE CUELLO SIMPLE" c="RM" o="5510"/>
-	<item id="343" n="RM DE HOMBRO" c="RM" o="5510"/>
-	<item id="345" n="RM DE MAMA S-C" c="RM" o="8160"/>
-	<item id="344" n="RM DE MAMA SIMPLE" c="RM" o="6120"/>
-	<item id="423" n="RM DE MANO SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="363" n="RM DE MUÑECA" c="RM" o="5510"/>
-	<item id="391" n="RM DE MUSLO SIMPLE" c="RM" o="5510"/>
-	<item id="380" n="RM DE OIDOS SIMPLE" c="RM" o="5510"/>
-	<item id="389" n="RM DE PELVIS S-C" c="RM" o="6940"/>
-	<item id="410" n="RM DE PELVIS SIMPLE" c="RM" o="5510"/>
-	<item id="339" n="RM DE PIE" c="RM" o="5510"/>
-	<item id="346" n="RM DE PIE SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="388" n="RM DE PIERNA SIMPLE" c="RM" o="5510"/>
-	<item id="342" n="RM DE PROSTATA SIMPLE" c="RM" o="5510"/>
-	<item id="340" n="RM DE RODILLA" c="RM" o="5510"/>
-	<item id="393" n="RM DE RODILLA CONTRASTADA" c="RM" o="6940"/>
-	<item id="412" n="RM DE RODILLA FUERA DE HORARIO" c="OTRO" o="7438"/>
-	<item id="350" n="RM DE RODILLA SIMPLE" c="RM" o="5510"/>
-	<item id="404" n="RM DE RODILLA URGENCIA CON 50 % ADICIONAL" c="RM" o="7500"/>
-	<item id="372" n="RM DE SILLA TURCA SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="338" n="RM DE TOBILLO" c="RM" o="5510"/>
-	<item id="353" n="RM DE TORAX S-C" c="RM" o="6940"/>
-	<item id="354" n="RM DE TORAX SIMPLE" c="RM" o="5510"/>
-	<item id="437" n="RM FUERA DE HORARIO SIMPLE GNP. QUALITIAS," c="RM" o="5500"/>
-	<item id="426" n="RM HOMBRO CONTRASTADA" c="RM" o="6940"/>
-	<item id="362" n="RM HOMBRO DE URGENCIAS" c="RM" o="6500"/>
-	<item id="498" n="RM HOMBRO SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="403" n="RM MUSLO SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="394" n="RM PELVIS CONTRASTADA DE URGENCIA" c="RM" o="7500"/>
-	<item id="487" n="RM PELVIS S/C ISSSTE" c="OTRO" o="2850"/>
-	<item id="441" n="RM PROSTATA SIMPLE Y CONTRASTADA" c="RM" o="6940"/>
-	<item id="489" n="RM RODILLA SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="375" n="RM SIMPLE DE MANO" c="RM" o="5510"/>
-	<item id="401" n="RM TOBILLO SIMPLE FUERA DE HORARIO" c="RM" o="6500"/>
-	<item id="507" n="RM TOBILLO SIMPLE ISSSTE" c="OTRO" o="2100"/>
-	<item id="483" n="RM TOBILLO SIMPLE Y CONTRASTADO" c="OTRO" o="6940"/>
-	<item id="347" n="RM URO RESONANCIA SIMPLE Y CONTRASTADA" c="RM" o="6800"/>
-	<item id="49" n="RODILLA AP Y LATERAL" c="RX" o="460"/>
-	<item id="50" n="RODILLAS  60/90    AXIAL" c="RX" o="460"/>
-	<item id="117" n="RODILLAS (COMPARATIVA) 2 POSICIONES" c="RX" o="615"/>
-	<item id="96" n="RODILLAS COMPARATIVAS AP  Y LATERAL" c="RX" o="615"/>
-	<item id="260" n="RODILLAS COMPARATIVAS AP, LAT" c="RX" o="615"/>
-	<item id="367" n="RODILLAS COMPARATIVAS LATERAL" c="RX" o="460"/>
-	<item id="411" n="RODILLAS LATERALES COMPARATIVAS" c="RX" o="460"/>
-	<item id="232" n="RODILLAS(AMBAS) AP." c="RX" o="460"/>
-	<item id="401" n="ROSA DE BENGALA (BRUCELLA ABORTUS)" c="LAB" o="60" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="402" n="ROTAVIRUS EN HECES" c="LAB" o="490" pr="Heces" i="HECES"/>
-	<item id="526" n="RPR" c="LAB" o="70"/>
-	<item id="245" n="RX AP DE PELVIS  Y POSICION DE RANA ( 2 PROYECCIONES)" c="RX" o="765"/>
-	<item id="242" n="RX OBLICUA DE CRANEO" c="RX" o="460"/>
-	<item id="280" n="RX TANGENCIAL DE ROTULA" c="RX" o="450"/>
-	<item id="286" n="RX.LATERAL DE MENTON" c="RX" o="450"/>
-	<item id="51" n="SACROXIS" c="RX" o="450"/>
-	<item id="403" n="SALICILATOS ( ACIDO ACETILISALICILICO )" c="LAB" o="750" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="404" n="SANGRE OCULTA EN HECES" c="LAB" o="125" pr="Heces" i="Recolectar una pequeña muestra de escremento del tamaño de una canica NOTA.Sin conservador el frasco"/>
-	<item id="754" n="SARS-COV-2 AG." c="LAB" o="715"/>
-	<item id="757" n="SARS-COV-2 IGG CUANTIFICADO" c="LAB" o="1100"/>
-	<item id="764" n="SARS-COV-2 IGG E IGM CUANTIFICADO" c="LAB" o="1100"/>
-	<item id="864" n="SARS-COV-2 IGG II QUANT" c="LAB" o="464"/>
-	<item id="753" n="SARS-COV-2 IGG/IGM" c="LAB" o="1100"/>
-	<item id="477" n="SEDACION DE RM CONTRASTADA" c="RM" o="7200"/>
-	<item id="476" n="SEDACION DE RM SIMPLE" c="RM" o="6600"/>
-	<item id="53" n="SENOS PARANASALES" c="RX" o="715"/>
-	<item id="151" n="SERIE CARDIACA CON TRAGO DE BARIO ADULTO" c="RX" o="2600"/>
-	<item id="122" n="SERIE ESOFAGO GASTRODUODENAL" c="RX" o="2650"/>
-	<item id="65" n="SERIE ESOFAGO GASTRODUODENAL" c="RX" o="2650"/>
-	<item id="330" n="SERIE OSEA" c="RX" o="2345"/>
-	<item id="405" n="SEROTONINA" c="LAB" o="1050" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="310" n="SIALOGRAFIA BILATERAL" c="RX" o="3000"/>
-	<item id="309" n="SIALOGRAFIA UN SOLO LADO" c="RX" o="2000"/>
-	<item id="52" n="SILLA TURCA AP Y LATERAL" c="RX" o="615"/>
-	<item id="406" n="SODIO SERICO" c="LAB" o="105" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="407" n="SODIO URINARIO" c="LAB" o="105" pr="Orina" i="ORINA 24hr peso y estatura"/>
-	<item id="408" n="SOMATOMEDINA C" c="LAB" o="910" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="409" n="SOMATOMEDINA IGF BP 3" c="LAB" o="1000" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="410" n="SUBPOBLACION DE LINFOCITOS" c="LAB" o="2300" pr="Sangre EDTA" i="ayuno minimo de 5 hrs"/>
-	<item id="420" n="T.P.T." c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
-	<item id="411" n="T4 YODO" c="LAB" o="200" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="300" n="TAC  ARTICULACION DE LA CADERA" c="TAC" o="3060"/>
-	<item id="174" n="TAC ABDOMEN INFERIOR SIMPLE" c="TAC" o="3060"/>
-	<item id="178" n="TAC CODO" c="TAC" o="3060"/>
-	<item id="190" n="TAC COLUMNA CERVICAL" c="TAC" o="3060"/>
-	<item id="400" n="TAC COLUMNA CERVICAL CONTRASTADA" c="TAC" o="4590"/>
-	<item id="265" n="TAC COLUMNA DORSAL SIMPLE" c="TAC" o="3060"/>
-	<item id="379" n="TAC COLUMNA DORSAL SIMPLE Y CONTASTADA" c="TAC" o="4590"/>
-	<item id="180" n="TAC COLUMNA LUMBAR" c="TAC" o="3060"/>
-	<item id="266" n="TAC COMPLEMENTARIO.POLIGONO WILLYS" c="TAC" o="1500"/>
-	<item id="234" n="TAC CONTRASTADA TALLO CEREBRAL (CORTES FINOS)" c="TAC" o="3000"/>
-	<item id="301" n="TAC CONTRASTADO DE MAXILAR INFERIOR" c="TAC" o="4500"/>
-	<item id="365" n="TAC CRANEO CONTRASTADA" c="TAC" o="3060"/>
-	<item id="164" n="TAC CRANEO CONTRASTADO" c="TAC" o="3060"/>
-	<item id="163" n="TAC CRANEO SIMPLE" c="TAC" o="2040"/>
-	<item id="192" n="TAC CUELLO CONTRASTADA" c="TAC" o="4590"/>
-	<item id="171" n="TAC CUELLO SIMPLE" c="TAC" o="3060"/>
-	<item id="293" n="TAC DE  TOBILLO" c="TAC" o="3060"/>
-	<item id="448" n="TAC DE ABDOMEN + COLOTAC" c="OTRO" o="5390"/>
-	<item id="195" n="TAC DE ABDOMEN CONTRASTADO" c="TAC" o="4590"/>
-	<item id="351" n="TAC DE ABDOMEN S-C DE URGENCIA" c="TAC" o="6000"/>
-	<item id="253" n="TAC DE ABDOMEN SIMPLE" c="TAC" o="3060"/>
-	<item id="369" n="TAC DE ABDOMEN SIMPLE URGENCIAS" c="TAC" o="4000"/>
-	<item id="329" n="TAC DE AMBOS PIES" c="TAC" o="3060"/>
-	<item id="295" n="TAC DE ANTEBRAZO CONTRASTADA" c="TAC" o="4590"/>
-	<item id="296" n="TAC DE ANTEBRAZO SIMPLE" c="TAC" o="3060"/>
-	<item id="243" n="TAC DE BASE DE CRANEO CONTRASTATADA CON REC.3D" c="TAC" o="3060"/>
-	<item id="478" n="TAC DE CODO CONTRASTADA" c="TAC" o="4590"/>
-	<item id="307" n="TAC DE COLON (C OLOTAC)" c="TAC" o="4590"/>
-	<item id="463" n="TAC DE COLUMNA CERVICAL SIMPLE URGENCIAS" c="TAC" o="7000"/>
-	<item id="385" n="TAC DE COLUMNA LUMBAR URGENCIA" c="TAC" o="5000"/>
-	<item id="325" n="TAC DE CRANEO 3D CONTRSATADA" c="TAC" o="3060"/>
-	<item id="199" n="TAC DE CRANEO CONTRASTADO" c="TAC" o="3060"/>
-	<item id="198" n="TAC DE CRANEO SIMPLE" c="TAC" o="2040"/>
-	<item id="371" n="TAC DE CRANEO SIMPLE URGENCIAS" c="TAC" o="5000"/>
-	<item id="373" n="TAC DE CRANEO SIMPLE Y CONTRASTADA DE URGENCIA" c="TAC" o="5000"/>
-	<item id="173" n="TAC DE CUELLO S/CONTRASTADA" c="TAC" o="4590"/>
-	<item id="387" n="TAC DE CUELLO SIMPLE URGENCIA" c="TAC" o="3060"/>
-	<item id="409" n="TAC DE FEMURES SIMPLE" c="TAC" o="3060"/>
-	<item id="291" n="TAC DE HOMBRO CONTRASTADO" c="TAC" o="4590"/>
-	<item id="322" n="TAC DE HOMBRO SIMPLE" c="TAC" o="3060"/>
-	<item id="447" n="TAC DE MACIZO FACIAL CONTRASTADA" c="TAC" o="4500"/>
-	<item id="436" n="TAC DE MACIZO FACIAL SIMPLE" c="TAC" o="3000"/>
-	<item id="469" n="TAC DE MUÑECA SIMPLE FUERA DE HORARIO" c="TAC" o="3700"/>
-	<item id="323" n="TAC DE MUSLO CONTRASTADA" c="US" o="4590"/>
-	<item id="269" n="TAC DE OIDO SIMPLE" c="TAC" o="3060"/>
-	<item id="235" n="TAC DE OIDO SIMPLE Y CONTRASTADO" c="TAC" o="4590"/>
-	<item id="228" n="TAC DE OIDOS SIMPLE" c="TAC" o="3060"/>
-	<item id="194" n="TAC DE PIE" c="TAC" o="3060"/>
-	<item id="421" n="TAC DE RODILLA S-C" c="TAC" o="4590"/>
-	<item id="244" n="TAC DE RODILLAS SIMPLE" c="TAC" o="3060"/>
-	<item id="320" n="TAC DE SENOS PARANASALES CONTRASTADA" c="TAC" o="3060"/>
-	<item id="381" n="TAC DE SPN DE URGENCIA" c="TAC" o="2550"/>
-	<item id="468" n="TAC DE TIBIA SIMPLE" c="TAC" o="3060"/>
-	<item id="327" n="TAC DE TOBILLOS SIMPLE" c="TAC" o="3060"/>
-	<item id="456" n="TAC DE TORAX S/C URGENCIA" c="TAC" o="5100"/>
-	<item id="370" n="TAC DE TORAX SIMPLE URGENCIAS" c="TAC" o="3150"/>
-	<item id="442" n="TAC GLUTEO CONTRASTADA" c="TAC" o="4500"/>
-	<item id="185" n="TAC HOMBRO SIMPLE" c="TAC" o="3060"/>
-	<item id="221" n="TAC MAXILOFACIAL CONTRASTADA" c="TAC" o="4500"/>
-	<item id="179" n="TAC MUÑECA" c="TAC" o="3060"/>
-	<item id="285" n="TAC MUÑECA Y H DEL CARPO REC 3D." c="TAC" o="3060"/>
-	<item id="263" n="TAC ORBITAS CONTRASTADO." c="TAC" o="4590"/>
-	<item id="229" n="TAC ORBITAS SIMPLE" c="TAC" o="3060"/>
-	<item id="256" n="TAC PELVIS CONTRATADA" c="TAC" o="4590"/>
-	<item id="175" n="TAC RIÑONES SIMPLE" c="TAC" o="3000"/>
-	<item id="177" n="TAC RODILLA" c="TAC" o="3060"/>
-	<item id="304" n="TAC RODILLAS" c="TAC" o="3060"/>
-	<item id="169" n="TAC SENOS PARANASALES" c="TAC" o="2140"/>
-	<item id="168" n="TAC SENOS PARANASALES" c="TAC" o="2140"/>
-	<item id="224" n="TAC SENOS PÁRANASALES" c="TAC" o="1940"/>
-	<item id="225" n="TAC SENOS PARANASALES CONTRASTADA" c="TAC" o="3060"/>
-	<item id="186" n="TAC SILLA TURCA SIMPLE/CONTRASTADO" c="TAC" o="3570"/>
-	<item id="274" n="TAC SIMPLE Y CONTRASTADO DE BRAZO" c="TAC" o="4590"/>
-	<item id="210" n="TAC TARSO" c="TAC" o="3000"/>
-	<item id="166" n="TAC TORAX CONTRASTADO" c="TAC" o="4590"/>
-	<item id="165" n="TAC TORAX SIMPLE" c="TAC" o="3060"/>
-	<item id="268" n="TAC TORAX SIMPLE VENTANA PULMONAR ALTA RESOLUCION" c="RM" o="3060"/>
-	<item id="212" n="TAC. COLUMNA LUMBAR CONTRASTADA" c="TAC" o="4590"/>
-	<item id="209" n="TAC. CRANEO CONTRASTADO,CON ANETESIOLOGO." c="TAC" o="5500"/>
-	<item id="207" n="TAC. PELVIS" c="TAC" o="3060"/>
-	<item id="201" n="TALON AP. LAT" c="RX" o="450"/>
-	<item id="308" n="TALONES AP Y LATERAL DE AMBOS" c="RX" o="600"/>
-	<item id="412" n="TAMIZ METABOLICO NEONATAL" c="LAB" o="2950" pr="HACER CITA" i="ayuno"/>
-	<item id="413" n="TEOFILINA" c="LAB" o="560" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="415" n="TESTOSTERONA LIBRE" c="LAB" o="500" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="414" n="TESTOSTERONA TOTAL" c="LAB" o="285" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="563" n="TESTOSTERONA TOTAL Y LIBRE" c="LAB" o="625"/>
-	<item id="395" n="TIBIAS AP" c="RX" o="460"/>
-	<item id="416" n="TIEMPO DE COAGULACION (TC)" c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
-	<item id="418" n="TIEMPO DE PROTROMBINA (TP)" c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
-	<item id="417" n="TIEMPO DE SANGRADO (TS)" c="LAB" o="95" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
-	<item id="419" n="TIEMPO DE TROMBINA (TT)" c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
-	<item id="283" n="TINCION DE GRAM" c="LAB" o="100" pr="Frotis" i="sin aseo"/>
-	<item id="421" n="TIROGLOBULINA" c="LAB" o="555" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="422" n="TIROXINA LIBRE (T\4\L\I\B\R\E)" c="LAB" o="336" pr="Suero" i="ayuno 2 hr minimo"/>
-	<item id="423" n="TIROXINA NEONATAL (T4 NEONATAL)" c="LAB" o="336" pr="Papel tamiz gto" i="ayuno minimo de 2 hrs"/>
-	<item id="424" n="TIROXINA TOTAL (T\4\T\O\T\A\L)" c="LAB" o="336" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="110" n="TOBILLO AP LATERAL OBLICUA" c="RX" o="460"/>
-	<item id="100" n="TOBILLO AP. Y LAT" c="RX" o="460"/>
-	<item id="54" n="TOBILLOS AP" c="RX" o="460"/>
-	<item id="262" n="TOBILLOS COMPARATIVA.RX." c="RX" o="765"/>
-	<item id="761" n="TOMA A DOMICILIO" c="LAB" o="1000"/>
-	<item id="766" n="TOMA A DOMICILIO (COSTO ESPECIAL)" c="LAB" o="400"/>
-	<item id="763" n="TOMA DOMICILIO" c="LAB" o="300"/>
-	<item id="57" n="TORAX OSEO AP" c="RX" o="460"/>
-	<item id="56" n="TORAX P.A" c="RX" o="460"/>
-	<item id="68" n="TORAX PA . Y LATERAL" c="RX" o="765"/>
-	<item id="59" n="TORAX PA NIÑO" c="RX" o="460"/>
-	<item id="60" n="TORAX PA Y LATERAL NIÑO" c="RX" o="612"/>
-	<item id="58" n="TOWNE" c="RX" o="450"/>
-	<item id="426" n="TRANS GLUT OXALACETICA (TGO)" c="LAB" o="115" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="427" n="TRANS GLUT PIRUVICA (TGP)" c="LAB" o="115" pr="Suero" i="ayuno minimo 5 hrs"/>
-	<item id="425" n="TRANSFERRINA" c="LAB" o="260" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="71" n="TRANSITO INTESTINAL" c="RX" o="3060"/>
-	<item id="428" n="TRIGLICERIDOS" c="LAB" o="98" pr="Suero" i="ayuno de 12hrs cena libre de grasas"/>
-	<item id="509" n="TRIPTASA" c="LAB" o="4269"/>
-	<item id="429" n="TRIYODOTIRONINA LIBRE (T\3\L\I\B\R\E)" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="430" n="TRIYODOTIRONINA TOTAL  (T\3\T\O\T\A\L)" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hr"/>
-	<item id="691" n="TROPONINA I" c="LAB" o="2204" pr="SUERO" i="AYUNO DE 6 HRS"/>
-	<item id="431" n="T-UPTAKE (TU)" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="319" n="U. S MUSCULOESQUELETICO" c="US" o="805"/>
-	<item id="111" n="U.S    DOPPLER ARTERIAL (UNA EXTREMIDAD)." c="US" o="1840"/>
-	<item id="238" n="U.S ABDOMEN CON PRUEBA BOYDEN." c="US" o="805"/>
-	<item id="78" n="U.S ABDOMINAL" c="US" o="805"/>
-	<item id="445" n="U.S AMBOS TOBILLOS" c="US" o="1610"/>
-	<item id="188" n="U.S DOPPLER ARTERIAL" c="US" o="1840"/>
-	<item id="137" n="U.S DOPPLER CAROTIDEO BILATERAL" c="US" o="1840"/>
-	<item id="116" n="U.S DOPPLER CAROTIDEO." c="US" o="1840"/>
-	<item id="115" n="U.S DOPPLER RENAL" c="US" o="1840"/>
-	<item id="94" n="U.S ENDOVAGINAL" c="US" o="805"/>
-	<item id="226" n="U.S ESCROTAL DOPPLER" c="US" o="920"/>
-	<item id="297" n="U.S INGUINAL" c="US" o="805"/>
-	<item id="84" n="U.S MAMARIO" c="US" o="805"/>
-	<item id="106" n="U.S MAMARIO" c="US" o="805"/>
-	<item id="298" n="U.S MUSCULOESQUELÉTICO DE AMBOS HOMBROS" c="US" o="1610"/>
-	<item id="89" n="U.S MUSCULOESQUELETICO DE HOMBRO" c="US" o="805"/>
-	<item id="187" n="U.S MUSCULOESQUELETICO DE MUÑECA" c="US" o="805"/>
-	<item id="109" n="U.S MUSCULOESQUELETICO DE RODILLA" c="US" o="805"/>
-	<item id="135" n="U.S MUSCULOESQUELETICO DE TOBILLO" c="US" o="805"/>
-	<item id="81" n="U.S OBSTETRICO" c="US" o="805"/>
-	<item id="120" n="U.S OBSTETRICO" c="US" o="805"/>
-	<item id="318" n="U.S OCULAR" c="US" o="805"/>
-	<item id="86" n="U.S PARTES  PEQUEÑAS" c="US" o="805"/>
-	<item id="85" n="U.S PARTES BLANDAS" c="US" o="805"/>
-	<item id="136" n="U.S PELVICO ENDOVAGINAL" c="US" o="805"/>
-	<item id="133" n="U.S PELVICO GINECOLOGICO" c="US" o="805"/>
-	<item id="92" n="U.S PROSTATICO" c="US" o="805"/>
-	<item id="220" n="U.S PROSTATICO TRANSRECTAL" c="US" o="805"/>
-	<item id="314" n="U.S RENAL" c="US" o="805"/>
-	<item id="87" n="U.S TESTICULAR" c="US" o="805"/>
-	<item id="90" n="U.S TIROIDES" c="US" o="805"/>
-	<item id="324" n="U.S.  OJO ( 1 OJO )" c="US" o="805"/>
-	<item id="429" n="U.S. CODO" c="US" o="805"/>
-	<item id="131" n="U.S. VESICAL" c="US" o="805"/>
-	<item id="144" n="U.S.PELVICO" c="US" o="805"/>
-	<item id="398" n="ULTRASONIDO DE OJO" c="US" o="790"/>
-	<item id="284" n="ULTRASONIDO DOPPLER DE PENE" c="US" o="1680"/>
-	<item id="277" n="ULTRASONIDO-BIOPSIA TRUCUT." c="US" o="4080"/>
-	<item id="432" n="UREA EN ORINA DE 24 HRS" c="LAB" o="81" pr="Orina" i="Recolectar toda la Orina de  24hrs y tomar peso y estatura"/>
-	<item id="433" n="UREA SERICA" c="LAB" o="98" pr="Suero" i="ayuno 5 hrs minimo"/>
-	<item id="72" n="URETROGRAFIA RETOGRADA  ADULTO" c="RX" o="2400"/>
-	<item id="73" n="URETROGRAFIA RETOGRADA  NIÑO  ESTUDIO ESPECIAL" c="RX" o="2400"/>
-	<item id="143" n="UROGRAFIA EXCRETORA" c="RX" o="2345"/>
-	<item id="283" n="UROGRAFIA EXCRETORA NIÑO" c="RX" o="2345"/>
-	<item id="384" n="UROTAC CONTRASTADA URGENCIAS" c="TAC" o="5100"/>
-	<item id="176" n="UROTAC CONTRASTADO" c="TAC" o="4590"/>
-	<item id="251" n="UROTAC SIMPLE" c="TAC" o="3060"/>
-	<item id="376" n="UROTAC SIMPLE DE URGENCIAS" c="TAC" o="6000"/>
-	<item id="450" n="US AMBOS PIES" c="US" o="1610"/>
-	<item id="392" n="US CADERA BEBE" c="US" o="805"/>
-	<item id="451" n="US DE AMBOS CODOS" c="US" o="1610"/>
-	<item id="408" n="US DE CADERA" c="US" o="805"/>
-	<item id="415" n="US DOPPLER ARTERIAL 1 MIEMBRO" c="US" o="1840"/>
-	<item id="479" n="US DOPPLER ARTERIAL DE AMBOS MIEMBROS INF" c="OTRO" o="3680"/>
-	<item id="316" n="US DOPPLER HEPATICO" c="US" o="1840"/>
-	<item id="257" n="US DOPPLER VENOSO AMBOS MS.IS." c="US" o="3680"/>
-	<item id="264" n="US DOPPLER VENOSO DE 1 MIEMBRO." c="US" o="1840"/>
-	<item id="416" n="US DOPPLER VENOSO MIEMBRO SUPERIOR" c="US" o="1840"/>
-	<item id="328" n="US ENDOANAL" c="US" o="805"/>
-	<item id="247" n="US MAMARIO UNILATERAL" c="US" o="805"/>
-	<item id="290" n="US MUSCULOESQUELETICO AMBAS CADERAS." c="US" o="1610"/>
-	<item id="240" n="US MUSCULOESQUELETICO AMBAS MUÑECAS" c="US" o="1610"/>
-	<item id="252" n="US MUSCULOESQUELETICO AMBAS RODILLAS" c="US" o="1610"/>
-	<item id="118" n="US PROSTATICO" c="US" o="805"/>
-	<item id="233" n="US TESTICULAR DOPPLER" c="US" o="920"/>
-	<item id="273" n="US TRANSFONTANELAR" c="US" o="805"/>
-	<item id="435" n="VANCOMICINA" c="LAB" o="1820" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="436" n="VASOPRESINA (HORMONA ANTIDIURÈTICA)" c="LAB" o="3422" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="434" n="VDRL" c="LAB" o="205" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="437" n="VELOCIDAD DE SEDIMENTACION (VSG)" c="LAB" o="95" pr="Sangre EDTA" i="ayuno no requerido"/>
-	<item id="438" n="VIRUS DE LA INFLUENZA DETECCION DE" c="LAB" o="7000" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="439" n="VITAMINA A" c="LAB" o="3178" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="440" n="VITAMINA B1 TIAMINA" c="LAB" o="2160" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="441" n="VITAMINA B12" c="LAB" o="972" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="508" n="VITAMINA B-6" c="LAB" o="2384"/>
-	<item id="995" n="VITAMINA C" c="LAB" o="3254" pr="Suero" i="Suspender vitaminicos 24 hrs antes y alcohol"/>
-	<item id="780" n="VITAMINA D (25 OH CALCITROL)" c="LAB" o="6017"/>
-	<item id="442" n="VITAMINA D (25DIHIDROXI-COLECALCIFEROL)" c="LAB" o="1585" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="4" n="VPH" c="ZSERV" o="550"/>
-	<item id="443" n="WALLER ROSE" c="LAB" o="300" pr="Suero" i="ayuno minimo de 5 hrs"/>
-	<item id="61" n="WATERS" c="RX" o="460"/>
-	<item id="444" n="WESTERN BLOT HIV 1" c="LAB" o="4282" pr="Suero" i="ayuno minimo 8hrs"/>
-	<item id="445" n="YODO BUTANOLICO (IB)" c="LAB" o="140" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="446" n="YODO PROTEICO (IP)" c="LAB" o="200" pr="Suero" i="ayuno minimo 2hrs"/>
-	<item id="446" n="YODO PROTEICO (IP)" c="LAB" o="200" pr="suero" i="en ayuno de 8 hrs"/>
-	<item id="447" n="ZINC" c="LAB" o="1025" pr="Suero" i="ayuno minimo 5hrs"/>
-	<item id="448" n="ZINC EN ORINA" c="LAB" o="830" pr="Orina" i="Recolectar toda la Orina de 24hrs y tomar peso y estatura"/>
+	<item id="6" p="0" c="LAB" o="390"/>
+	<item id="119" n="." p="0" c="RX" o="690"/>
+	<item id="155" n="." p="0" c="RX" o="390"/>
+	<item id="138" n="." p="0" c="RX" o="1200"/>
+	<item id="142" n="." p="0" c="RX" o="590"/>
+	<item id="156" n="." p="0" c="RX" o="530"/>
+	<item id="149" n="." p="0" c="RX" o="890"/>
+	<item id="126" n="." p="0" c="RX" o="1"/>
+	<item id="449" n="17 ALFA HIDROXI PROGESTERONA" p="0" c="LAB" o="567" pr="Suero" i="Ayuno de 5hras minimo"/>
+	<item id="450" n="17 CETOESTEROIDES" p="0" c="LAB" o="795" pr="Suero" i="ayuno de 5hrs minimo"/>
+	<item id="452" n="17 CETOESTEROIDES  ORINA" p="0" c="LAB" o="730" pr="Orina" i="recolectar la Orina de 24hr"/>
+	<item id="999" n="17 HIDRO ESTEROIDES EN ORINA" p="0" c="LAB" o="795"/>
+	<item id="451" n="17 HIDROXICORTICOESTEROIDES" p="0" c="LAB" o="960" pr="Suero" i="Ayuno de 5hras minimo"/>
+	<item id="453" n="17 HIDROXICORTICOESTEROIDES EN ORINA" p="0" c="LAB" o="960" pr="Orina" i="recolectar la orina de  24hr"/>
+	<item id="141" n="ABDOMEN DOS PROYECCIONES" p="0" c="RX" o="750"/>
+	<item id="1" n="AC ANTI ADENOVIRUS" p="0" c="LAB" o="2163" pr="SUERO" i="Ayuno minimo de 2hrs"/>
+	<item id="2" n="AC ANTI AMEBA" p="0" c="LAB" o="390" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="571" n="AC ANTI ASPERGILLUS" p="0" c="LAB" o="3300"/>
+	<item id="890" n="AC ANTI BETA 2 GLUCOPROTEINA IGA,IGG,IGM" p="0" c="LAB" o="2442" pr="SUERO" i="AYUNO"/>
+	<item id="3" n="AC ANTI BLASTOMYCES" p="0" c="LAB" o="1365" pr="SUERO" i="Ayuno 2 hrs minimo"/>
+	<item id="4" n="AC ANTI BORDETELLA PERTUSIS IGA, IGG, IGM" p="0" c="LAB" o="1044" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="5" n="AC ANTI BORRELLIA BURGDORFERI (IGG E IGM)" p="0" c="LAB" o="1215" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="513" n="AC ANTI BRUCELLA (2-MERCAPTOETANOL)" p="0" c="LAB" o="1382" i="ayuno"/>
+	<item id="6" n="AC ANTI CARDIOLIPINA IGG" p="0" c="LAB" o="580" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="7" n="AC ANTI CARDIOLIPINA IGG E IGM" p="0" c="LAB" o="1300" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="8" n="AC ANTI CARDIOLIPINA IGM" p="0" c="LAB" o="580" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="9" n="AC ANTI CENTROMERO" p="0" c="LAB" o="950" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="905" n="AC ANTI CHIKUNGUNYA IGG E IGM" p="0" c="LAB" o="1180"/>
+	<item id="467" n="AC ANTI CHLAMYDIA IGG (CUANTITATIVA)" p="0" c="LAB" o="530"/>
+	<item id="10" n="AC ANTI CHLAMYDIA PNEUMONIAE" p="0" c="LAB" o="1990" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="11" n="AC ANTI CHLAMYDIA TRACHOMATIS IGA" p="0" c="LAB" o="640" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="12" n="AC ANTI CHLAMYDIA TRACHOMATIS IGG" p="0" c="LAB" o="520" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="525" n="AC ANTI CHLAMYDIA TRACHOMATIS IGM" p="0" c="LAB" o="550"/>
+	<item id="13" n="AC ANTI CISTICERCO" p="0" c="LAB" o="590" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="14" n="AC ANTI CITOMEGALOVIRUS IGG" p="0" c="LAB" o="625" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="15" n="AC ANTI CITOMEGALOVIRUS IGM" p="0" c="LAB" o="625" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="707" n="AC ANTI CITOPLASMA DE NEUTROFILOS  (P Y C ANCA)" p="0" c="LAB" o="1835" pr="suero" i="Ayuno totalmente"/>
+	<item id="16" n="AC ANTI CITOPLASMA NEUTROFILOS (ANCA)" p="0" c="LAB" o="1985" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="17" n="AC ANTI COCCIDIOIDES IMMITIS" p="0" c="LAB" o="1500" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="18" n="AC ANTI COXSACKIE VIRUS A" p="0" c="LAB" o="4150" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="19" n="AC ANTI CRYPTOCOCCUS NEOFORMANS" p="0" c="LAB" o="3220" pr="SUERO" i="AYUNO 2 hrs minimo"/>
+	<item id="20" n="AC ANTI DENGUE IGG E IGM" p="0" c="LAB" o="1650" pr="SUERO" i="AYUNO 2 hrs minimo"/>
+	<item id="21" n="AC ANTI DNA CADENA SENSILLA" p="0" c="LAB" o="680" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="22" n="AC ANTI DNA DOBLE CADENA" p="0" c="LAB" o="680" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="23" n="AC ANTI DNA UNA CADENA (DESNATURALIZADO)" p="0" c="LAB" o="1050" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="24" n="AC ANTI ECHINOCOCCUS" p="0" c="LAB" o="5030" pr="SUERO" i="AYUNO MINIMO 2HRS"/>
+	<item id="25" n="AC ANTI ECHO VIRUS" p="0" c="LAB" o="2980" pr="SUERO" i="AYUNO minimo 2 hrs"/>
+	<item id="26" n="AC ANTI ENA" p="0" c="LAB" o="2320" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="27" n="AC ANTI EPSTEIN BAAR IGG" p="0" c="LAB" o="750" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="28" n="AC ANTI EPSTEIN BAAR IGM" p="0" c="LAB" o="630" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="29" n="AC ANTI ESPERMATOZOIDES" p="0" c="LAB" o="510" pr="suero Sra; Semen Sr" i="Ayuno min 2hrs Sra; recolectar la muestra por masturbacion en frasco esteril"/>
+	<item id="980" n="AC ANTI FOSFATIDIL" p="0" c="LAB" o="7120" pr="SUERO"/>
+	<item id="30" n="AC ANTI FOSFOLIPIDOS IGG" p="0" c="LAB" o="620" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="31" n="AC ANTI FOSFOLIPIDOS IGG E IGM" p="0" c="LAB" o="1326" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="32" n="AC ANTI FOSFOLIPIDOS IGM" p="0" c="LAB" o="620" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="581" n="AC ANTI GLIADINAS IGA IGG" p="0" c="LAB" o="1115"/>
+	<item id="33" n="AC ANTI HELICOBACTER PYLORI IGA" p="0" c="LAB" o="875" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="34" n="AC ANTI HELICOBACTER PYLORI IGG" p="0" c="LAB" o="875" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="35" n="AC ANTI HELICOBACTER PYLORI IGM" p="0" c="LAB" o="875" pr="SUERO" i="AYUNO MINIMO  2 HRS"/>
+	<item id="36" n="AC ANTI HEPATITIS D" p="0" c="LAB" o="812" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="37" n="AC ANTI HERPES I IGG" p="0" c="LAB" o="510" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="38" n="AC ANTI HERPES I IGM" p="0" c="LAB" o="620" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="39" n="AC ANTI HERPES II IGG" p="0" c="LAB" o="470" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="40" n="AC ANTI HERPES II IGM" p="0" c="LAB" o="580" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="41" n="AC ANTI HETEROFILOS PAUL BUNELL" p="0" c="LAB" o="395" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="42" n="AC ANTI HISTONA" p="0" c="LAB" o="905" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="43" n="AC ANTI HISTOPLASMA CAPSULATUM IGM" p="0" c="LAB" o="1070" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="44" n="AC ANTI HIV I /  HIV II" p="0" c="LAB" o="475" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="555" n="AC ANTI HIV I/ II PRESUNTIVA" p="0" c="LAB" o="400"/>
+	<item id="45" n="AC ANTI INSULINA" p="0" c="LAB" o="975" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="46" n="AC ANTI JO" p="0" c="LAB" o="1280" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="715" n="AC ANTI JO 1" p="0" c="LAB" o="650" pr="suero"/>
+	<item id="47" n="AC ANTI LA" p="0" c="LAB" o="540" pr="SUERO" i="AYUNO 2 HRS MINIMO"/>
+	<item id="48" n="AC ANTI LEGIONELLA PNEUMOPHILA IGG" p="0" c="LAB" o="4385" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="910" n="AC ANTI LKM" p="0" c="LAB" o="680"/>
+	<item id="49" n="AC ANTI LYSTERIA MONOCITOGENES" p="0" c="LAB" o="3360" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="50" n="AC ANTI MICROSOMALES TOTALES (PEROXIDASA)" p="0" c="LAB" o="845" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="51" n="AC ANTI MITOCONDRIA" p="0" c="LAB" o="745" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="52" n="AC ANTI MUSCULO ESTRIADO" p="0" c="LAB" o="1360" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="53" n="AC ANTI MUSCULO LISO" p="0" c="LAB" o="605" pr="SUERO" i="AYUNO minimo 2hrs"/>
+	<item id="54" n="AC ANTI MYCOBACTERIUM TUBERCULOSIS" p="0" c="LAB" o="812" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="55" n="AC ANTI MYCOPLASMA PNEUMONIAE IGG" p="0" c="LAB" o="665" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="56" n="AC ANTI MYCOPLASMA PNEUMONIAE IGG E IGM" p="0" c="LAB" o="1508" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="57" n="AC ANTI MYCOPLASMA PNEUMONIAE IGM" p="0" c="LAB" o="696" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="58" n="AC ANTI NUCLEARES" p="0" c="LAB" o="868" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="59" n="AC ANTI PAROTIDITIS IGG" p="0" c="LAB" o="1110" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="60" n="AC ANTI PAROTIDITIS IGM" p="0" c="LAB" o="1110" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="61" n="AC ANTI PARVOVIRUS B19 IGG E IGM" p="0" c="LAB" o="1290" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="650" n="AC ANTI PEPTIDO CÌCLICO CITRULINADO (CCP)" p="0" c="LAB" o="1853" pr="SUERO 2ML"/>
+	<item id="710" n="AC ANTI PEROXIDASA" p="0" c="LAB" o="695" i="EN AYUNOO"/>
+	<item id="62" n="AC ANTI PLAQUETAS" p="0" c="LAB" o="2652" pr="SUERO; Sangre total  EDTA" i="AYUNO 5hrs minimo"/>
+	<item id="63" n="AC ANTI POLIO VIRUS I, II Y III" p="0" c="LAB" o="5600" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="64" n="AC ANTI PROTEINA BASICA MIELINA" p="0" c="LAB" o="2000" pr="LCR" i="Muestra por puncion lumbar"/>
+	<item id="820" n="AC ANTI RECEPTOR TSH" p="0" c="LAB" o="2340"/>
+	<item id="602" n="AC ANTI RECEPTORES DE ACETIL COLINA" p="0" c="LAB" o="1445"/>
+	<item id="601" n="AC ANTI RECEPTORES DE ACETIL COLINA BLOQUEADORES" p="0" c="LAB" o="3360" pr="Suero" i="Ayuno minimo de 8 hrs"/>
+	<item id="465" n="AC ANTI RECEPTORES DE ACETIL COLINA FIJADORES" p="0" c="LAB" o="4057" pr="suero" i="ayuno 8 horas"/>
+	<item id="65" n="AC ANTI RNA" p="0" c="LAB" o="1403" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="66" n="AC ANTI RNP" p="0" c="LAB" o="880" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="67" n="AC ANTI RO" p="0" c="LAB" o="905" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="68" n="AC ANTI ROTAVIRUS" p="0" c="LAB" o="400" pr="HECES" i="HECES"/>
+	<item id="69" n="AC ANTI RUBEOLA IGG" p="0" c="LAB" o="580" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="70" n="AC ANTI RUBEOLA IGM" p="0" c="LAB" o="552" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="71" n="AC ANTI SARAMPION IGG" p="0" c="LAB" o="660" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="72" n="AC ANTI SARAMPION IGG E IGM" p="0" c="LAB" o="1350" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="73" n="AC ANTI SARAMPION IGM" p="0" c="LAB" o="660" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="74" n="AC ANTI SCL-70" p="0" c="LAB" o="570" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="75" n="AC ANTI SMITH (SM)" p="0" c="LAB" o="2765" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="76" n="AC ANTI SS" p="0" c="LAB" o="370" pr="SUERO" i="NO SE REALIZA"/>
+	<item id="77" n="AC ANTI SSA (RO)" p="0" c="LAB" o="1048" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="78" n="AC ANTI SSB (LA)" p="0" c="LAB" o="730" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="79" n="AC ANTI TIROGLOBULINAS TOTALES" p="0" c="LAB" o="605" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="80" n="AC ANTI TIROIDES TPO,TG" p="0" c="LAB" o="1405" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="81" n="AC ANTI TOXOCARA CANIS IGG" p="0" c="LAB" o="695" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="82" n="AC ANTI TOXOPLASMA GONDII IGG" p="0" c="LAB" o="510" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="83" n="AC ANTI TOXOPLASMA GONDII IGM" p="0" c="LAB" o="510" pr="SUERO" i="AYUNO MINIMO 2 HRS"/>
+	<item id="802" n="AC ANTI TRANSGLUTAMINASA TISULAR IGA - IGG" p="0" c="LAB" o="1412" i="ayuno"/>
+	<item id="84" n="AC ANTI TREPONEMA PALLIDUM" p="0" c="LAB" o="590" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="506" n="AC ANTI TREPONEMA PALLIDUM (FTA)" p="0" c="LAB" o="934"/>
+	<item id="85" n="AC ANTI TRYPANOSOMA CRUZI IGG" p="0" c="LAB" o="920" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="88" n="AC ANTI VARICELA IGG" p="0" c="LAB" o="870" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="87" n="AC ANTI VARICELA IGG E IGM" p="0" c="LAB" o="2340" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="86" n="AC ANTI VARICELA IGM" p="0" c="LAB" o="835" pr="SUERO" i="AYUNO 2hrs MINIMO"/>
+	<item id="89" n="AC ANTI VIRUS SINCITAL RESPIRATORIO IGG E IGM" p="0" c="LAB" o="5170" pr="SUERO" i="AYUNO 2HRS MINIMO"/>
+	<item id="694" n="AC VS EQUINOCOCCUS GRANULOSIS" p="0" c="LAB" o="4570" pr="Suero" i="Ayuno de 8 HRS"/>
+	<item id="758" n="AC. ANTI CITOPLASMA DE NEUTRÓFILOS (P Y C ANCA)" p="0" c="LAB" o="1746"/>
+	<item id="580" n="AC. ANTI ENDOMESIALES" p="0" c="LAB" o="1067"/>
+	<item id="576" n="AC. ANTI GIARDIA LAMBLIA TOTALES" p="0" c="LAB" o="3925"/>
+	<item id="989" n="AC. ANTI TREPONEMA PALLIDUM IFI (FTA)" p="0" c="LAB" o="710"/>
+	<item id="449" n="AC. ANTITIROGLOBULINAS TOTALES" p="0" c="LAB" o="705" i="muestra tomada con hisopo estéril"/>
+	<item id="90" n="ACETAMINOFEN" p="0" c="LAB" o="680" pr="SUERO" i="Ayuno minimo de 5hrs"/>
+	<item id="91" n="ACIDO 5 HIDROXI INDOL ACETICO" p="0" c="LAB" o="800" pr="ORINA" i="Recolectar la ORINA de 24hr;  2O ml ACIDIFICADA"/>
+	<item id="92" n="ACIDO FOLICO" p="0" c="LAB" o="406" pr="SUERO" i="AYUNO minimo 5hrs"/>
+	<item id="93" n="ACIDO FOLICO INTRAERITROCITARIO" p="0" c="LAB" o="500" pr="SANGRE EDTA" i="Ayuno minimo 5hrs"/>
+	<item id="94" n="ACIDO HIPURICO" p="0" c="LAB" o="975" pr="ORINA" i="recolectar la ORINA de 24hr"/>
+	<item id="95" n="ACIDO LACTICO" p="0" c="LAB" o="470" pr="Sangre Heparinizada" i="Ayuno minimo 6hrs"/>
+	<item id="96" n="ACIDO PIRUVICO" p="0" c="LAB" o="310" pr="SUERO" i="Ayuno minimo 6hrs"/>
+	<item id="98" n="ACIDO URICO EN ORINA DE 24 HRS" p="0" c="LAB" o="82" pr="ORINA" i="recolectar la orina de 24 hrs"/>
+	<item id="97" n="ACIDO URICO SERICO" p="0" c="LAB" o="97" pr="SUERO" i="AYUNO MINIMO 5 HRS"/>
+	<item id="99" n="ACIDO VALPROICO" p="0" c="LAB" o="665" pr="SUERO" i="Ayuno minimo 6hrs"/>
+	<item id="100" n="ACIDO VANIL MANDELICO" p="0" c="LAB" o="850" pr="ORINA" i="recolectar la ORINA de 24hr"/>
+	<item id="101" n="ACIDOS GRASOS TOTALES" p="0" c="LAB" o="480" pr="SUERO" i="Ayuno de 12 hrs, cena libre de grasas una noche anterior"/>
+	<item id="102" n="ACTIVIDAD TRIPTICA EN HECES" p="0" c="LAB" o="150" pr="HECES" i="1 pequeña muestra de HECES en seco"/>
+	<item id="575" n="ADENOVIRUS EN HECES" p="0" c="LAB" o="440" pr="Heces"/>
+	<item id="466" n="ADN ADICIONAL" p="0" c="LAB" o="1500"/>
+	<item id="103" n="ADRENALINA" p="0" c="LAB" o="650" pr="PLASMA" i="Ayuno minimo 5hrs"/>
+	<item id="696" n="ADRENALINA EN PLASMA" p="0" c="LAB" o="650" pr="plasma" i="en ayuno totalemente"/>
+	<item id="994" n="AG. COVID-19 (PRUEBA RAPIDA)" p="0" c="LAB" o="715"/>
+	<item id="522" n="AG. HELYCOBACTER PYLORI (HECES)" p="0" c="LAB" o="2510" pr="HECES" i="MUESTRA HECES RECIENTE SIN CONSERVADOR"/>
+	<item id="138" n="AG. PROSTATICO ESPECIFICO (PSA)" p="0" c="LAB" o="525" pr="SUERO" i="AYUNO 2hrs minimo"/>
+	<item id="514" n="AG.HELICOBACTER PYLORI EN HECES" p="0" c="LAB" o="2391"/>
+	<item id="104" n="ALBUMINA SERICA" p="0" c="LAB" o="80" pr="SUERO" i="AYUNO minimo 5hrs"/>
+	<item id="105" n="ALCOHOL EN SUERO" p="0" c="LAB" o="525" pr="SUERO" i="NO SE REALIZA"/>
+	<item id="106" n="ALDOLASA" p="0" c="LAB" o="370" pr="SUERO 2 ML congelado" i="Ayuno minimo 5hrs"/>
+	<item id="107" n="ALDOSTERONA (ORINA)" p="0" c="LAB" o="515" pr="ORINA" i="RECOLECTAR LA ORINA DE ORINA 24hr"/>
+	<item id="108" n="ALDOSTERONA (SUERO)" p="0" c="LAB" o="1285" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="109" n="ALERGENO INDIVIDUAL (RAST)" p="0" c="LAB" o="1070" pr="SUERO" i="Ayuno minimo 5hrs"/>
+	<item id="110" n="ALFA 1 ANTITRIPSINA" p="0" c="LAB" o="990" pr="SUERO" i="Ayuno minimo 5hrs"/>
+	<item id="111" n="ALFAFETOPROTEINA" p="0" c="LAB" o="300" pr="SUERO" i="Ayuno minimo 6hrs"/>
+	<item id="112" n="ALUMINIO EN ORINA" p="0" c="LAB" o="815" pr="ORINA" i="ORINA casual"/>
+	<item id="113" n="ALUMINIO EN SUERO" p="0" c="LAB" o="815" pr="SUERO" i="Ayuno  minimo 5hrs"/>
+	<item id="466" n="AMBULANCIA TRASLADO" p="0" c="RX" o="200"/>
+	<item id="114" n="AMIBA EN FRESCO" p="0" c="LAB" o="100" pr="HECES" i="HECES EN SECO"/>
+	<item id="115" n="AMIKACINA" p="0" c="LAB" o="2290" pr="SUERO" i="Ayuno minimo 5hrs"/>
+	<item id="517" n="AMILASA EN ORINA DE 24 HRS" p="0" c="LAB" o="265" pr="ORINA DE 24 HRS"/>
+	<item id="116" n="AMILASA EN SUERO" p="0" c="LAB" o="160" pr="SUERO" i="Ayuno minimo 5hrs"/>
+	<item id="117" n="AMINOACIDOS EN ORINA" p="0" c="LAB" o="2330" pr="ORINA" i="ORINA casual"/>
+	<item id="118" n="AMINOACIDOS EN SUERO" p="0" c="LAB" o="1750" pr="PLASMA EDTA" i="Ayuno de 8hrs"/>
+	<item id="119" n="AMIODARONA (AMIODARONE)" p="0" c="LAB" o="2330" pr="SUERO" i="Ayuno de 8 hrs"/>
+	<item id="120" n="AMONIO" p="0" c="LAB" o="406" pr="SANGRE EDTA" i="Ayuno minimo 5hrs"/>
+	<item id="121" n="AMP CICLICO URINARIO" p="0" c="LAB" o="4000" pr="ORINA" i="ORINA casual"/>
+	<item id="122" n="ANDROGENOS TOTALES" p="0" c="LAB" o="440" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="6" n="ANDROSCOPIA" p="0" c="ZSERV" o="1500"/>
+	<item id="123" n="ANDROSTENEDIONA" p="0" c="LAB" o="628" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="454" n="ANESTESIA COMPLEMENTO HC" p="0" c="OTRO" o="1500"/>
+	<item id="453" n="ANESTESIA COMPLEMENTO PRIVADA" p="0" c="OTRO" o="2500"/>
+	<item id="457" n="ANESTESIA HISTERO" p="0" c="OTRO" o="400"/>
+	<item id="501" n="ANESTESIA ISSSTE" p="0" c="OTRO" o="1600"/>
+	<item id="458" n="ANESTESIO HISTERO" p="0" c="RX" o="400"/>
+	<item id="459" n="ANESTESIO HISTERO" p="0" c="RX" o="400"/>
+	<item id="124" n="ANFETAMINAS" p="0" c="LAB" o="350" pr="ORINA" i="ORINA casual"/>
+	<item id="396" n="ANGIO RESONANCIA  DE CUELLO" p="0" c="RM" o="7080"/>
+	<item id="348" n="ANGIO RESONANCIA DE AORTA" p="0" c="RM" o="8160"/>
+	<item id="368" n="ANGIO RESONANCIA DE BRAZO" p="0" c="RM" o="7650"/>
+	<item id="386" n="ANGIO RESONANCIA DE CEREBRO" p="0" c="RM" o="6940"/>
+	<item id="397" n="ANGIO RESONANCIA DE CRANEO URGENCIA" p="0" c="RM" o="7650"/>
+	<item id="377" n="ANGIO RESONANCIA DE MIEMBROS INFERIORES" p="0" c="RM" o="8160"/>
+	<item id="425" n="ANGIO TAC DE CRANEO" p="0" c="TAC" o="3570"/>
+	<item id="467" n="ANGIO TAC DE TORAX S-C" p="0" c="OTRO" o="5725"/>
+	<item id="206" n="ANGIO TAC. RENAL" p="0" c="TAC" o="5610"/>
+	<item id="413" n="ANGIORESONANCIA DE ARTERIAS RENALES" p="0" c="RM" o="8160"/>
+	<item id="419" n="ANGIORESONANCIA DE MANO" p="0" c="RM" o="7650"/>
+	<item id="191" n="ANGIOTAC ABDOMEN" p="0" c="TAC" o="5610"/>
+	<item id="326" n="ANGIOTAC DE CRANEO 3D" p="0" c="TAC" o="3570"/>
+	<item id="449" n="ANGIOTAC DE CUELLO CONTRASTADA" p="0" c="TAC" o="5610"/>
+	<item id="299" n="ANGIOTAC DE MIEMBRO INF. O SUP." p="0" c="TAC" o="7140"/>
+	<item id="472" n="ANGIOTAC DE MIEMBROS INFERIORES FASE VENOSA" p="0" c="TAC" o="7140"/>
+	<item id="125" n="ANGIOTENSINA" p="0" c="LAB" o="950" pr="PLASMA EDTA" i="Ayuno minimo 2hrs"/>
+	<item id="2" n="ANTEBRAZO 2 POSICIONES" p="0" c="RX" o="460"/>
+	<item id="184" n="ANTEBRAZO AP Y LAT" p="0" c="RX" o="460"/>
+	<item id="126" n="ANTICOAGULANTE CIRCULATORIO LUPICO" p="0" c="LAB" o="895" pr="PLASMA citratado" i="AYUNO"/>
+	<item id="17" n="ANTIDOPING" p="0" c="LAB" o="600"/>
+	<item id="511" n="ANTIDOPING (3)" p="0" c="LAB" o="410"/>
+	<item id="127" n="ANTIDOPING (5)" p="0" c="LAB" o="615" pr="ORINA" i="ORINA casual"/>
+	<item id="128" n="ANTIESTREPTOLISINAS (AELO)" p="0" c="LAB" o="260" pr="SUERO" i="Ayuno minimo de 5 hrs"/>
+	<item id="129" n="ANTIGENO CA 125" p="0" c="LAB" o="560" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="996" n="ANTIGENO CA 125 (U)" p="0" c="LAB" o="687"/>
+	<item id="130" n="ANTIGENO CA 15 - 3" p="0" c="LAB" o="560" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="131" n="ANTIGENO CA 19 - 9" p="0" c="LAB" o="550" pr="SUERO" i="Ayuno  minimo 2hrs"/>
+	<item id="132" n="ANTIGENO CA 27 - 29" p="0" c="LAB" o="1530" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="133" n="ANTIGENO CA 72 - 4" p="0" c="LAB" o="690" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="134" n="ANTIGENO CARCINOEMBRIONARIO (CEA)" p="0" c="LAB" o="410" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="775" n="ANTIGENO COVID-19" p="0" c="LAB" o="715"/>
+	<item id="991" n="ANTIGENO CYFRA -21" p="0" c="LAB" o="1280"/>
+	<item id="135" n="ANTIGENO DE SUPERFICIE (HBSAG)" p="0" c="LAB" o="510" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="716" n="ANTIGENO HE4" p="0" c="LAB" o="882" pr="Suero" i="Ayuno 8hrs"/>
+	<item id="136" n="ANTIGENO HLA B-27" p="0" c="LAB" o="1215" pr="SANGRE EDTA" i="Ayuno minimo 2hrs"/>
+	<item id="137" n="ANTIGENO P-24 (HIV I)" p="0" c="LAB" o="1400" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="140" n="ANTIGENO PROSTATICO ESPECIFICO LIBRE" p="0" c="LAB" o="535" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="139" n="ANTIGENO PROSTATICO ESPECIFICO TOTAL Y LIBRE" p="0" c="LAB" o="920" pr="SUERO" i="Ayuno minimo 2hrs"/>
+	<item id="141" n="ANTIGENO VESICAL URINARIO" p="0" c="LAB" o="4090" pr="ORINA" i="ORINA casual"/>
+	<item id="142" n="ANTITROMBINA III" p="0" c="LAB" o="805" pr="PLASMA citratado" i="Ayuno minimo 5hrs"/>
+	<item id="276" n="AP AMBOS PIES" p="0" c="RX" o="460"/>
+	<item id="246" n="AP DE PELVIS CON ROTACION INTERNA DE MIEMBRO PELVICO" p="0" c="TAC" o="460"/>
+	<item id="317" n="AP Y LAT DE NARIZ" p="0" c="RX" o="615"/>
+	<item id="219" n="AP Y LATERAL AMBOS MUSLOS(FEMUR)" p="0" c="US" o="1230"/>
+	<item id="227" n="AP Y LATERAL COMP.AMBOS ANTEBRAZOS" p="0" c="RX" o="1080"/>
+	<item id="69" n="APICOGRAMA" p="0" c="RX" o="460"/>
+	<item id="143" n="APOLIPOPROTREINAS A1 Y B" p="0" c="LAB" o="1735" pr="SUERO" i="AYUNO minimo 5hrs"/>
+	<item id="144" n="ARSENICO EN ORINA" p="0" c="LAB" o="815" pr="Orina" i="Orina casual"/>
+	<item id="3" n="ART, COXOFEMORAL AP  Y  OBLICUAS" p="0" c="RX" o="780"/>
+	<item id="4" n="ART.COXOFEMORAL BILATERAL AP. OBLICUAS" p="0" c="RX" o="1100"/>
+	<item id="145" n="AZUCARES REDUCTORES" p="0" c="LAB" o="105" pr="HECES" i="HECES"/>
+	<item id="706" n="BAAR  EN LIQUIDO PLEURAL 5 MUESTRAS" p="0" c="LAB" o="780" pr="LIQUIDO BIOLOGICO ESTERIL" i="ESTERIL"/>
+	<item id="146" n="BAAR EN ESPUTO 1 MUETSRA" p="0" c="LAB" o="105" pr="EXPECTORACION" i="SIN ASEO BUCAL"/>
+	<item id="475" n="BAAR EN ESPUTO 2 MUESTRA" p="0" c="LAB" o="105" pr="EXPECTORACION" i="Sin aseo bucal"/>
+	<item id="476" n="BAAR EN ESPUTO 3 MUESTRA" p="0" c="LAB" o="105" pr="EXPECTORACION" i="Sin aseo bucal"/>
+	<item id="701" n="BAAR EN MUESTRA BIOLOGICA" p="0" c="LAB" o="105" pr="LIQUIDO CEFALORRAQUIDEO" i="AYUNO. toma de muestra por el Medico"/>
+	<item id="457" n="BAAR EN ORINA 1 MUESTRA" p="0" c="LAB" o="100" pr="orina" i="1er orina de la mañana"/>
+	<item id="471" n="BAAR EN ORINA 2 MUESTRA" p="0" c="LAB" o="105"/>
+	<item id="472" n="BAAR EN ORINA 3 MUESTRA" p="0" c="LAB" o="310"/>
+	<item id="147" n="BARBITURICOS" p="0" c="LAB" o="490" pr="ORINA" i="ORINA casual"/>
+	<item id="149" n="BENZODIACEPINAS" p="0" c="LAB" o="490" pr="ORINA" i="Orina casual"/>
+	<item id="148" n="BENZODIACEPINAS (SUERO)" p="0" c="LAB" o="490" pr="SUERO" i="ayuno 2hr"/>
+	<item id="151" n="BETA 2 MICROGLOBULINA (ORINA)" p="0" c="LAB" o="430" pr="ORINA CASUAL" i="primera orina de la mañana"/>
+	<item id="150" n="BETA 2 MICROGLOBULINA (SUERO)" p="0" c="LAB" o="818" pr="SUERO" i="ayuno de 8 hrs"/>
+	<item id="152" n="BETA ESTRADIOL" p="0" c="LAB" o="350" pr="SUERO" i="Ayuno minimo de 5hrs"/>
+	<item id="153" n="BETA LIPOPROTEINAS" p="0" c="LAB" o="280" pr="SUERO" i="Ayuono 12 hrs cena libre de grasas"/>
+	<item id="600" n="BETAGONADOTROFINA CORIONICA HUMANA" p="0" c="LAB" o="290" pr="Suero 2 ml." i="Ayuno min. 5 hrs."/>
+	<item id="519" n="BICARBONATO (HCO3)" p="0" c="LAB" o="930" pr="Plasma Heparinizado"/>
+	<item id="154" n="BILIRRUBINAS TOTALES" p="0" c="LAB" o="112" pr="SUERO" i="Ayuno minimo 5hrs"/>
+	<item id="165" n="BIOMETRIA HEMATICA" p="0" c="LAB" o="185" pr="SANGRE EDTA" i="No necesario ayuno"/>
+	<item id="196" n="BIOPSIA DE HIGADO" p="0" c="RX" o="5500"/>
+	<item id="452" n="BIOPSIA DE PROSTATA TRANSRECTAL" p="0" c="RX" o="6500"/>
+	<item id="331" n="BIOPSIA DE PULMON" p="0" c="RX" o="5500"/>
+	<item id="390" n="BIOPSIA DE PULMON CON PATOLOGO" p="0" c="RX" o="11000"/>
+	<item id="311" n="BIOPSIA DE PULMON POR TAC" p="0" c="TAC" o="5500"/>
+	<item id="156" n="BIOXIDO DE CARBONO" p="0" c="LAB" o="90" pr="SUERO" i="Ayuno de 8hrs"/>
+	<item id="5" n="BRAZO AP Y LAT" p="0" c="RX" o="460"/>
+	<item id="241" n="BRAZO AP Y LATERAL" p="0" c="RX" o="765"/>
+	<item id="397" n="BUN" p="0" c="LAB" o="1" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="157" n="BUSQUEDA DE LEPTOSPIRA" p="0" c="LAB" o="2500" pr="TUBO ROJOsin centrifugar y  ORINA" i="Ayunode 5 hrs y la 1er ORINA de la mañana"/>
+	<item id="158" n="BUSQUEDA DE PSEUDOMONA SP" p="0" c="LAB" o="420" pr="EXUDADO" i="MUESTRA"/>
+	<item id="134" n="CADWELL Y WATERS" p="0" c="RX" o="765"/>
+	<item id="7" n="CALCANEO  LAT. PARA ESPOLON" p="0" c="RX" o="460"/>
+	<item id="10" n="CALCANEO LATERAL Y AXIAL" p="0" c="RX" o="460"/>
+	<item id="271" n="CALCANEO RX." p="0" c="RX" o="460"/>
+	<item id="9" n="CALCANEOS  LATERAL POR ESPOLONES" p="0" c="RX" o="460"/>
+	<item id="8" n="CALCANEOS  LATERAL Y AXIAL" p="0" c="RX" o="460"/>
+	<item id="159" n="CALCIO EN ORINA DE 24 HRS" p="0" c="LAB" o="105" pr="ORINA" i="recolectar la ORINA de 24hr"/>
+	<item id="578" n="CALCIO EN ORINA OCASIONAL" p="0" c="LAB" o="105" pr="Orina ocasional"/>
+	<item id="160" n="CALCIO EN SUERO" p="0" c="LAB" o="117" pr="SUERO" i="Ayuno minimo de 5hrs"/>
+	<item id="161" n="CALCIO IONIZADO" p="0" c="LAB" o="590" pr="SUERO" i="AYUNO minimo 5hrs"/>
+	<item id="162" n="CALCITONINA" p="0" c="LAB" o="925" pr="SUERO" i="AYUNO minimo 5hrs"/>
+	<item id="704" n="CALCULO RENAL ESTUDIO FISICOQUIMICO" p="0" c="LAB" o="1278" pr="calculo renal" i="Traer el calculo eliminado en frasco esteril"/>
+	<item id="6" n="CALDWELL" p="0" c="RX" o="460"/>
+	<item id="903" n="CALPROTECTINA" p="0" c="LAB" o="1278" pr="HECES" i="MATERIA FECAL RECIENTE NO LIQUIDA."/>
+	<item id="163" n="CANNABINOIDES (MARIHUANA)" p="0" c="LAB" o="320" pr="ORINA" i="ORINA casual"/>
+	<item id="469" n="CAPACIDAD DE FIJACION DE HIERRO" p="0" c="LAB" o="300"/>
+	<item id="164" n="CAPACIDAD TOTAL DE FIJACIÒN DE HIERRO" p="0" c="LAB" o="300" pr="SUERO" i="AYUNO minimo 5hrs"/>
+	<item id="166" n="CARBAMAZEPINA" p="0" c="LAB" o="638" pr="SUERO" i="AYUNO minimo 5hr"/>
+	<item id="167" n="CARBOXIHEMOGLOBINA" p="0" c="LAB" o="940" pr="SANGRE heparina" i="AYUNO"/>
+	<item id="500" n="CARGA VIRAL HEPATITIS B" p="0" c="LAB" o="3280" pr="Plasma congelado" i="5 HORAS DE AYUNO"/>
+	<item id="168" n="CARGA VIRAL HEPATITIS C (RNA VHC)" p="0" c="LAB" o="3480" pr="PLASMA EDTA" i="AYUNO minimo 5hrs"/>
+	<item id="169" n="CARIOTIPO EN SANGRE PERIFERICA (CON FOTOGRAFIA)" p="0" c="LAB" o="6970" pr="SANGRE heparina" i="AYUNO minimo 6hrs"/>
+	<item id="170" n="CAROTENOS" p="0" c="LAB" o="430" pr="SUERO" i="AYUNO 5hrs"/>
+	<item id="171" n="CATECOLAMINA EN ORINA" p="0" c="LAB" o="2630" pr="ORINA" i="recolectar la ORINA de 24hr"/>
+	<item id="172" n="CATECOLAMINA EN SUERO" p="0" c="LAB" o="2430" pr="SUERO" i="AYUNO 5HRS"/>
+	<item id="695" n="CATECOLAMINAS TOTALES" p="0" c="LAB" o="1" pr="plasma" i="en ayuno totatalmente"/>
+	<item id="361" n="CEFALOPELVIMETRIA" p="0" c="RX" o="600"/>
+	<item id="173" n="CELULAS L.E." p="0" c="LAB" o="157" pr="TUBO ROJO S/CENTRIFUGAR" i="AYUNO DE 8 HRS"/>
+	<item id="174" n="CERULOPLASMINA EN SUERO" p="0" c="LAB" o="670" pr="SUERO" i="AYUNO 5HRS"/>
+	<item id="175" n="CICLOSPORINA" p="0" c="LAB" o="1400" pr="SANGRE EDTA" i="AYUNO 5hrs"/>
+	<item id="501" n="CINETICA DE HIERRO" p="0" c="LAB" o="735"/>
+	<item id="688" n="CISTATINA C" p="0" c="LAB" o="1088"/>
+	<item id="74" n="CISTOGRAFIA" p="0" c="OTRO" o="2550"/>
+	<item id="64" n="CISTOGRAFIA  ADULTO" p="0" c="RX" o="2550"/>
+	<item id="699" n="CITOLOGIA EN MOCO NASAL" p="0" c="LAB" o="105" pr="Isopado nasal" i="Sin aseo nasal (Sin tomar antibioticos 5 dias antes)"/>
+	<item id="176" n="CITOLOGIA MOCO FECAL" p="0" c="LAB" o="105" pr="HECES" i="HECES EN SECO"/>
+	<item id="1" n="CITOLOGIA TOMADA AQUI" p="0" c="ZSERV" o="450"/>
+	<item id="902" n="CITOLOGICO DE LIQUIDO CEFALORRAQUIDEO" p="0" c="LAB" o="208"/>
+	<item id="456" n="CITOQUIMICO DE LIQUIDO CEFALORRAQUIDEO" p="0" c="LAB" o="928" pr="Liquido cefalorraquideo"/>
+	<item id="790" n="CITOQUÍMICO DE LÍQUIDO DE ASCITIS O PERITONEAL" p="0" c="LAB" o="680"/>
+	<item id="518" n="CITOQUIMICO DE LIQUIDO SINOVIAL" p="0" c="LAB" o="730"/>
+	<item id="750" n="CITRATOS EN ORINA DE 24 HRS." p="0" c="LAB" o="870" pr="Orina de 24 Hrs."/>
+	<item id="177" n="CLONAZEPAN EN SUERO" p="0" c="LAB" o="1170" pr="Suero" i="AYUNO 5HRS"/>
+	<item id="178" n="CLORO EN ORINA" p="0" c="LAB" o="150" d="Descripción" pr="Orina" k="especial otros" i="recolectar la ORINA de 24hr"/>
+	<item id="179" n="CLORO SÉRICO" p="0" c="LAB" o="150" pr="Suero" i="Ayuno minimo 5hrs"/>
+	<item id="593" n="CLOSTRIDIUM DIFFICILE TOXINA A Y B" p="0" c="LAB" o="2125"/>
+	<item id="180" n="CO2 TOTAL" p="0" c="LAB" o="125" pr="Suero" i="AYUNO minimo 5hrs"/>
+	<item id="181" n="COBRE EN ORINA" p="0" c="LAB" o="915" pr="ORINA" i="recolectar la ORINA de 24hr"/>
+	<item id="182" n="COBRE SERICO" p="0" c="LAB" o="1020" pr="Suero" i="Ayuno minimo 5hrs"/>
+	<item id="183" n="COCAINA" p="0" c="LAB" o="475" pr="Orina" i="ORINA casual"/>
+	<item id="303" n="COCCIX LATERAL" p="0" c="RX" o="460"/>
+	<item id="11" n="CODO AP Y LATERAL" p="0" c="RX" o="460"/>
+	<item id="502" n="CODOS AP Y LATERAL" p="0" c="OTRO" o="615"/>
+	<item id="352" n="COLANGIO RESONANCIA" p="0" c="RM" o="7140"/>
+	<item id="70" n="COLANGIOGRAFIA POR SONDA EN T" p="0" c="RX" o="2550"/>
+	<item id="500" n="COLANGIORESONANCIA S Y C ISSSTE" p="0" c="OTRO" o="2850"/>
+	<item id="499" n="COLANGIORESONANCIA SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="430" n="COLANGIORESONANCIA SIMPLE Y CONTRASTADA" p="0" c="RM" o="8160"/>
+	<item id="184" n="COLESTEROL HDL" p="0" c="LAB" o="80" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
+	<item id="458" n="COLESTEROL LDL" p="0" c="LAB" o="80" pr="suero" i="ayuno 12hr cena libre de grasas cobrar todos los colesteroles"/>
+	<item id="185" n="COLESTEROL TOTAL" p="0" c="LAB" o="98" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
+	<item id="459" n="COLESTEROL VLDL" p="0" c="LAB" o="60" pr="suero" i="Ayuno 12hr Cena libre grasas requiere trigliceridos"/>
+	<item id="186" n="COLINESTERASA" p="0" c="LAB" o="300" pr="Suero" i="Ayuno"/>
+	<item id="63" n="COLON POR ENEMA" p="0" c="RX" o="3460"/>
+	<item id="306" n="COLON POR ENEMA 2 SONDAS" p="0" c="RX" o="3870"/>
+	<item id="5" n="COLPOSCOPIA" p="0" c="ZSERV" o="2100"/>
+	<item id="440" n="COLUMNA CERVICAL AP" p="0" c="RX" o="460"/>
+	<item id="13" n="COLUMNA CERVICAL AP Y LATERAL" p="0" c="RX" o="615"/>
+	<item id="14" n="COLUMNA CERVICAL AP, LATERAL Y OBLICUAS" p="0" c="RX" o="1225"/>
+	<item id="159" n="COLUMNA CERVICAL FLEXION Y EXTENSION" p="0" c="RX" o="615"/>
+	<item id="113" n="COLUMNA CERVICAL OBLICUAS" p="0" c="RX" o="615"/>
+	<item id="258" n="COLUMNA CERVICAL.AP.LAT, OBLICUOS, DINAMICAS" p="0" c="RX" o="1620"/>
+	<item id="160" n="COLUMNA DORAL Y LUMBAR AP Y LAT" p="0" c="RX" o="1080"/>
+	<item id="254" n="COLUMNA DORSAL  (O TORACICA) AP" p="0" c="RX" o="460"/>
+	<item id="15" n="COLUMNA DORSAL AP Y LATERAL" p="0" c="RX" o="615"/>
+	<item id="427" n="COLUMNA DORSAL OBLICUAS" p="0" c="RX" o="615"/>
+	<item id="145" n="COLUMNA LUMBAR AP" p="0" c="RX" o="460"/>
+	<item id="471" n="COLUMNA LUMBAR AP Y LATERAL FUERA DE HORARIO" p="0" c="RX" o="1000"/>
+	<item id="16" n="COLUMNA LUMBAR AP. Y LATERAL" p="0" c="RX" o="615"/>
+	<item id="98" n="COLUMNA LUMBAR FLEXION Y EXTENSION" p="0" c="RX" o="615"/>
+	<item id="140" n="COLUMNA LUMBAR LATERAL" p="0" c="RX" o="460"/>
+	<item id="181" n="COLUMNA LUMBAR OBLICUAS" p="0" c="RX" o="615"/>
+	<item id="218" n="COLUMNA LUMBAR PROYECCION LATERAL" p="0" c="RX" o="460"/>
+	<item id="93" n="COLUMNA TORACICA, (DORSAL) AP Y LAT" p="0" c="RX" o="615"/>
+	<item id="187" n="COMPLEJO INMUNE CIRCULANTE" p="0" c="LAB" o="625" pr="Suero" i="Ayuno 5hrs"/>
+	<item id="188" n="COMPLEMENTO C-3" p="0" c="LAB" o="475" pr="Suero" i="Ayuno 5hrs"/>
+	<item id="189" n="COMPLEMENTO C-4" p="0" c="LAB" o="450" pr="Suero" i="Ayuno 5 hrs"/>
+	<item id="190" n="COMPLEMENTO C-5" p="0" c="LAB" o="5400" pr="Suero" i="Ayuno 5hrs"/>
+	<item id="191" n="COMPLEMENTO C-7" p="0" c="LAB" o="3260" pr="Suero" i="Ayuno 5hrs"/>
+	<item id="759" n="COMPLEMENTO HEMOLITICO" p="0" c="LAB" o="881"/>
+	<item id="192" n="COMPLEMENTO HEMOLÌTICO 50%" p="0" c="LAB" o="766" pr="Suero" i="Ayuno de 5hrs"/>
+	<item id="3" n="CONSULTA MEDICA DR.BLANCO" p="0" c="ZSERV" o="800"/>
+	<item id="193" n="COOMBS DIRECTO ( AC ANTI RH ERITROCITARIOS )" p="0" c="LAB" o="245" pr="Sangre EDTA" i="Ayuno de 5hrs"/>
+	<item id="194" n="COOMBS INDIRECTO" p="0" c="LAB" o="325" pr="Tubo rojo sin centrifugar" i="Ayuno de 5hrs"/>
+	<item id="279" n="COPIA DE PLACAS TAC (1) PLACA" p="0" c="TAC" o="100"/>
+	<item id="278" n="COPIA DE PLACAS TAC 2 PLACAS" p="0" c="TAC" o="200"/>
+	<item id="711" n="COPROLOGICO" p="0" c="LAB" o="360"/>
+	<item id="195" n="COPROPARASITOSCÓPICO" p="0" c="LAB" o="115" pr="Heces" i="Entregar tubo especial con conservador"/>
+	<item id="196" n="COPROPORFIRINAS" p="0" c="LAB" o="620" pr="Orina" i="ORINA casual"/>
+	<item id="197" n="CORTISOL (MATUTINO)" p="0" c="LAB" o="415" pr="Suero" i="Ayuno 2 hrs minimo"/>
+	<item id="573" n="CORTISOL (VESPERTINO)" p="0" c="LAB" o="415" i="Ayuno"/>
+	<item id="198" n="CORTISOL URINARIO" p="0" c="LAB" o="420" pr="Orina" i="recolectar toda la ORINA de 24hrs"/>
+	<item id="806" n="COVID-19" p="0" c="LAB" o="1700"/>
+	<item id="20" n="COXIS AP Y LATERAL" p="0" c="RX" o="615"/>
+	<item id="418" n="COXIS LATERAL" p="0" c="RX" o="460"/>
+	<item id="496" n="COXIS OBLICUAS 2 PROYECCIONES" p="0" c="OTRO" o="615"/>
+	<item id="1" n="COXOFEMORAL  AP" p="0" c="RX" o="460"/>
+	<item id="129" n="CRANEO  LATERAL" p="0" c="RX" o="460"/>
+	<item id="19" n="CRANEO AP Y LATERAL" p="0" c="RX" o="765"/>
+	<item id="248" n="CRANEO PROYECION AP" p="0" c="RX" o="460"/>
+	<item id="199" n="CREATINFOSFOQUINASA (CPK)" p="0" c="LAB" o="360" pr="Suero" i="Ayuno minimo de 8 hrs"/>
+	<item id="200" n="CREATINFOSFOQUINASA CK-MB" p="0" c="LAB" o="480" pr="Suero" i="Ayuno minimo de 8hrs"/>
+	<item id="201" n="CREATINFOSFOQUINASA ISOENZIMAS" p="0" c="LAB" o="2494" pr="Suero" i="Ayuno minimo de 8 hrs"/>
+	<item id="590" n="CREATINFOSFOQUINAZA ISOENZIMAS" p="0" c="LAB" o="2494"/>
+	<item id="202" n="CREATININA SERICA" p="0" c="LAB" o="98" pr="Suero" i="Ayuno 5 Hrs minimo"/>
+	<item id="203" n="CREATININA URINARIA" p="0" c="LAB" o="98" pr="Orina" i="Recolectar la ORINA de 24hrs y tomar peso y estatura"/>
+	<item id="204" n="CRIOAGLUTININAS" p="0" c="LAB" o="250" pr="SANGRE TOTAL EDTA" i="Ayuno de 8 hrs"/>
+	<item id="205" n="CRIOGLOBULINAS" p="0" c="LAB" o="180" pr="Suero" i="Ayuno minimo 8hrs"/>
+	<item id="206" n="CROMO TOTAL" p="0" c="LAB" o="850" pr="Sangre EDTA" i="Ayuno minimo 5hrs"/>
+	<item id="395" n="CUANTIFICACIÓN DE FRACCIÓN BETA  HGC EN SUERO" p="0" c="LAB" o="300" pr="Suero" i="ayuno minimo de 2hrs"/>
+	<item id="207" n="CUENTA MINUTADA" p="0" c="LAB" o="410" pr="Orina" i="Recolectar la Orina de 24hrs"/>
+	<item id="208" n="CUERPOS REDUCTORES HECES" p="0" c="LAB" o="140" pr="Heces" i="HECES"/>
+	<item id="700" n="CULTIVO DE ABSCESO RENAL" p="0" c="LAB" o="360" pr="Tomada con hisopo esteril" i="Enviar muestra tomada con hisopo estéril"/>
+	<item id="210" n="CULTIVO DE ESPUTO" p="0" c="LAB" o="360" pr="Espectoracion" i="realizar aseo bucal y recolectar una muestra de esputo"/>
+	<item id="712" n="CULTIVO DE ESPUTO (3 MUESTRAS)" p="0" c="LAB" o="1050"/>
+	<item id="211" n="CULTIVO DE EXUDADO CERVICO-VAGINAL" p="0" c="LAB" o="360" pr="Exudado" i="presentarse por la mañana sin aseo"/>
+	<item id="212" n="CULTIVO DE EXUDADO FARINGEO" p="0" c="LAB" o="360" pr="Exudado" i="en ayunas sin aseo bucal"/>
+	<item id="213" n="CULTIVO DE EXUDADO NASAL" p="0" c="LAB" o="360" pr="Exudado nasal" i="por la mañana sin aseo nasal"/>
+	<item id="215" n="CULTIVO DE HECES (COPROCULTIVO)" p="0" c="LAB" o="360" pr="Heces" i="1 mta de heces tamaño de una canica"/>
+	<item id="CUH" n="CULTIVO DE HERIDA" p="0" c="LAB" o="360"/>
+	<item id="702" n="CULTIVO DE LIQUIDO CEFALORRAQUIDEO" p="0" c="LAB" o="1148" pr="LIQUIDO CEFALORRAQUIDEO" i="AYUNO.TOMA DE MUESTRA POR EL MEDICO"/>
+	<item id="703" n="CULTIVO DE LIQUIDO SINOVIAL" p="0" c="LAB" o="360"/>
+	<item id="216" n="CULTIVO DE MYCOBACTERIUM TUBERCULOSIS" p="0" c="LAB" o="645" pr="Espectoracion" i="sin aseo"/>
+	<item id="224" n="CULTIVO DE MYCOPLASMA SP" p="0" c="LAB" o="820" pr="medio p/mycoplasma" i="sin aseo"/>
+	<item id="217" n="CULTIVO DE NEISSERIA GONORRHOEAE" p="0" c="LAB" o="430" pr="Exudado" i="sin aseo"/>
+	<item id="709" n="CULTIVO DE OIDO" p="0" c="LAB" o="360"/>
+	<item id="218" n="CULTIVO DE ORINA" p="0" c="LAB" o="360" i="1er orina mañana chorro medio previo aseo"/>
+	<item id="705" n="CULTIVO DE PREPUCIO" p="0" c="LAB" o="360"/>
+	<item id="704" n="CULTIVO DE PREPUCIO" p="0" c="LAB" o="360" i="Presentarse sin aseo"/>
+	<item id="565" n="CULTIVO DE SANGRE" p="0" c="LAB" o="928"/>
+	<item id="801" n="CULTIVO DE SECRECION DE OIDO" p="0" c="LAB" o="360"/>
+	<item id="209" n="CULTIVO DE SECRECION DE TRAQUETOMIA" p="0" c="LAB" o="360" pr="Secrecion" i="sin aseo"/>
+	<item id="220" n="CULTIVO DE SECRECION OTICA" p="0" c="LAB" o="360" pr="Exudado" i="sin aseo"/>
+	<item id="221" n="CULTIVO DE SEMEN (ESPERMOCULTIVO)" p="0" c="LAB" o="360" pr="Semen" i="semen"/>
+	<item id="222" n="CULTIVO DE VIBRIO CHOLERAE" p="0" c="LAB" o="730" pr="Heces" i="HECES"/>
+	<item id="214" n="CULTIVO EXUDADO URETRAL" p="0" c="LAB" o="360" i="hacer cita por la mañana y sin aseo"/>
+	<item id="219" n="CULTIVO GENERAL" p="0" c="LAB" o="360" pr="Exudado, Punción, pieza anatomica  etc." i="sin aseo"/>
+	<item id="223" n="CULTIVO MICOLOGICO" p="0" c="LAB" o="360" pr="Escamas" i="sin aseo"/>
+	<item id="226" n="CULTIVO MICROBIOLOGIA DE AGUA C/VIBRIO CHOLERAE" p="0" c="LAB" o="810" pr="Agua 1lt" i="Agua"/>
+	<item id="225" n="CULTIVO MICROBIOLOGICO DE AGUA S/VIBRIO CHOLERAE" p="0" c="LAB" o="810" pr="Agua 1lt" i="Agua"/>
+	<item id="227" n="CULTIVO MICROBIOLOGICO DE MANOS" p="0" c="LAB" o="770" pr="Exudado" i="sin aseo"/>
+	<item id="228" n="CULTIVO MICROBIOLOGICO DE UÑAS" p="0" c="LAB" o="770" pr="Exudado" i="sin aseo"/>
+	<item id="229" n="CULTIVO OCULAR" p="0" c="LAB" o="405" pr="Exudado" i="sin aseo"/>
+	<item id="713" n="CULTIVO PARA LEGIONELLA" p="0" c="LAB" o="1200"/>
+	<item id="230" n="CURVA DE TOLERANCIA" p="0" c="LAB" o="430" pr="Suero" i="presentarse a las 8:00 con ayuno minimo 5hrs"/>
+	<item id="232" n="DEHIDROEPIANDROSTERONA (DHEA)" p="0" c="LAB" o="464" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="231" n="DEHIDROEPIANDROSTERONA SULFATO(DHEA- S)" p="0" c="LAB" o="512" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="233" n="DEHIDROTESTOSTERONA" p="0" c="LAB" o="730" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="752" n="DENGUE" p="0" c="LAB" o="1330"/>
+	<item id="433" n="DENSITOMETRIA ( CUERPO ENTERO IMC)" p="0" c="RX" o="665"/>
+	<item id="431" n="DENSITOMETRIA 1 SEGMENTO" p="0" c="RX" o="305"/>
+	<item id="432" n="DENSITOMETRIA 2 SEGMENTOS" p="0" c="RX" o="560"/>
+	<item id="490" n="DENSITOMETRIA ISSSTE" p="0" c="OTRO" o="370"/>
+	<item id="234" n="DEPURACION DE CREATININA" p="0" c="LAB" o="350" pr="Orina 24hr,  suero" i="Recolectar ORINA de 24hrs. tomar peso y estatura ayuno 5 hrs"/>
+	<item id="235" n="DEPURACION DE UREA" p="0" c="LAB" o="350" pr="Orina 24hr" i="Recolectar ORINA de 24hrs, tomar peso y estatura ayuno 5 hrs"/>
+	<item id="236" n="DESHIDROGENASA LACTICA (DHL)" p="0" c="LAB" o="230" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="473" n="DESHIDROGENASA LACTICA (DHL)" p="0" c="LAB" o="235"/>
+	<item id="885" n="DETECCION DE ANTIGENO HLA-B27" p="0" c="LAB" o="1410" i="AYUNO"/>
+	<item id="911" n="DETECCION DE DUPLICACIONES DEL ONCOGEN BRCA 1" p="0" c="LAB" o="12550"/>
+	<item id="912" n="DETECCION DE DUPLICACIONES DEL ONCOGEN BRCA 2" p="0" c="LAB" o="12550"/>
+	<item id="237" n="DIFENILHIDANTOINA" p="0" c="LAB" o="510" pr="Suero" i="ayuno de 8 hrs"/>
+	<item id="238" n="DIGOXINA" p="0" c="LAB" o="535" pr="Suero" i="ayuno 5 hrs"/>
+	<item id="239" n="DIMERO &quot;D&quot;" p="0" c="LAB" o="1250" pr="Plasma" i="ayuno de 8 hrs"/>
+	<item id="21" n="DINAMICAS DE COLUMNA CERVICAL" p="0" c="RX" o="615"/>
+	<item id="414" n="DINAMICAS DE COLUMNA DORSAL" p="0" c="RX" o="615"/>
+	<item id="484" n="DISCO EXTRA" p="0" c="OTRO" o="200"/>
+	<item id="240" n="DOPAMINA" p="0" c="LAB" o="620" pr="Suero" i="ayuno de 8 hrs"/>
+	<item id="698" n="DOPAMINA EN PLASMA" p="0" c="LAB" o="620" pr="plasma" i="en ayuno totalmente"/>
+	<item id="305" n="DUPLICADO DE PLACAS (1)" p="0" c="RX" o="100"/>
+	<item id="462" n="ECOCARDIOGAMA % CD" p="0" c="RX" o="950"/>
+	<item id="24" n="EDAD OSEA RX" p="0" c="RX" o="460"/>
+	<item id="25" n="EDAD OSEA RX AP  (MANO)" p="0" c="RX" o="460"/>
+	<item id="2" n="ELECTROCARDIOGRAMA." p="0" c="ZSERV" o="800"/>
+	<item id="461" n="ELECTROENCEFALOGRAMA % CD" p="0" c="ECC" o="1060"/>
+	<item id="241" n="ELECTROFORESIS DE HEMOGLOBINA" p="0" c="LAB" o="860" pr="Sangre EDTA" i="ayuno 8 hrs"/>
+	<item id="242" n="ELECTROFORESIS DE LIPOPROTEINAS" p="0" c="LAB" o="450" pr="Suero" i="ayuno 12 hrs"/>
+	<item id="243" n="ELECTROFORESIS DE PROTEINAS" p="0" c="LAB" o="600" pr="Suero" i="ayuno de 8 hrs"/>
+	<item id="244" n="ELECTROFORESIS DE PROTEINAS EN ORINA" p="0" c="LAB" o="860" pr="Orina" i="orina casual"/>
+	<item id="1" n="ELECTROLITOS SERICOS" p="0" c="LAB" o="245"/>
+	<item id="960" n="ELECTROLITOS SERICOS (6)" p="0" c="LAB" o="670"/>
+	<item id="997" n="ELECTROLITOS SERICOS (U)" p="0" c="LAB" o="300"/>
+	<item id="460" n="ELECTROMIOGRAFIA % PARA CD" p="0" c="ECC" o="1040"/>
+	<item id="245" n="EOSINOFILOS EN MOCO NASAL 1M." p="0" c="LAB" o="80" pr="Exudado" i="sin aseo nasal"/>
+	<item id="246" n="ERITROPOYETINA" p="0" c="LAB" o="1290" pr="Suero" i="ayuno 8hrs"/>
+	<item id="205" n="ESCAFOIDES AP Y OBLIC." p="0" c="RX" o="450"/>
+	<item id="383" n="ESCANOMETRIA" p="0" c="RX" o="2000"/>
+	<item id="255" n="ESCANOMETRIA OSEA DE MIEMBROS INFERIORES.(TAC)." p="0" c="TAC" o="2040"/>
+	<item id="26" n="ESOFAGOGRAMA" p="0" c="RX" o="1225"/>
+	<item id="91" n="ESOFAGOGRAMA NIÑO" p="0" c="RX" o="1225"/>
+	<item id="247" n="ESPERMATOBIOSCOPIA DIRECTA" p="0" c="LAB" o="450" pr="Semen" i="3 o 5 dias de Abstinencia obtenerla por masturbacion, traerla ante de que pase 1hr, edad, dias absti"/>
+	<item id="428" n="ESPIROMETRIA" p="0" c="RX" o="215"/>
+	<item id="248" n="ESTERES DE COLESTEROL" p="0" c="LAB" o="520" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
+	<item id="249" n="ESTRADIOL (E\2)" p="0" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hr"/>
+	<item id="250" n="ESTRADIOL EN ORINA" p="0" c="LAB" o="280" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="251" n="ESTRIOL LIBRE URINARIO 24 HRS" p="0" c="LAB" o="490" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="252" n="ESTRIOL SERICO" p="0" c="LAB" o="490" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="253" n="ESTROGENOS TOTALES" p="0" c="LAB" o="345" pr="Suero" i="ayuno 2hrs minimo"/>
+	<item id="254" n="ESTROGENOS TOTALES EN ORINA" p="0" c="LAB" o="520" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="255" n="ESTRONA SUERO" p="0" c="LAB" o="340" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="692" n="ESTUDIO FISICOQUIMICO DE LIQUIDO CEFALORRAQUIDEO" p="0" c="LAB" o="400" pr="JERINGA O TUBO ESTERIL CON MUESTRA"/>
+	<item id="690" n="ESTUDIO FISICOQUIMICO DE LIQUIDO SINOVIAL" p="0" c="LAB" o="400" pr="liquido sinovial en jeringa esteril" i="JERINGA CON LIQ. ESTERIL"/>
+	<item id="14" n="ESTUDIOS DE EMBARAZO" p="0" c="LAB" o="1419"/>
+	<item id="12" n="ESTUDIOS GENERALES C/AC URICO" p="0" c="LAB" o="540"/>
+	<item id="13" n="ESTUDIOS GENERALES S/AC URICO" p="0" c="LAB" o="490"/>
+	<item id="256" n="ETHOSUXIMIDA (ZAROTIN)" p="0" c="LAB" o="1610" pr="Suero" i="ayuno de 8 hrs"/>
+	<item id="301" n="EXAMEN GENERAL DE ORINA" p="0" c="LAB" o="130" pr="Orina" i="1er orina mañana chorro medio"/>
+	<item id="693" n="EXUDADO URETRAL" p="0" c="LAB" o="150"/>
+	<item id="454" n="EXUDADO VAGINAL" p="0" c="LAB" o="150" pr="Exudado vaginal" i="sin aseo"/>
+	<item id="258" n="FACTOR REUMATOIDE" p="0" c="LAB" o="185" pr="Suero" i="ayuno minimo 6hrs"/>
+	<item id="463" n="FACTOR REUMATOIDE CUANTITATIVO" p="0" c="LAB" o="265" pr="Suero" i="Ayuno 6 hrs"/>
+	<item id="556" n="FACTOR WILLEBRAND" p="0" c="LAB" o="1700"/>
+	<item id="805" n="FECATEST" p="0" c="LAB" o="1635"/>
+	<item id="147" n="FEMUR A.P." p="0" c="RX" o="460"/>
+	<item id="27" n="FEMUR AP Y LATERAL" p="0" c="RX" o="615"/>
+	<item id="259" n="FENOBARBITAL" p="0" c="LAB" o="870" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="260" n="FENOL URINARIO" p="0" c="LAB" o="2290" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="762" n="FENTANILO ( NORFENTANILO)" p="0" c="LAB" o="550"/>
+	<item id="261" n="FERRITINA" p="0" c="LAB" o="600" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="262" n="FIBRINOGENO" p="0" c="LAB" o="344" pr="Plasma" i="ayuno de 8hrs"/>
+	<item id="263" n="FILTRADO GLOMERULAR" p="0" c="LAB" o="320" pr="Orina y Suero" i="ORINA 24hr peso y estatura ayuno 8 hrs"/>
+	<item id="434" n="FISTULOGRAFIA" p="0" c="RX" o="2500"/>
+	<item id="360" n="FISTULOGRAFIA PIE" p="0" c="RX" o="1940"/>
+	<item id="315" n="FISTULOGRAFIA PIERNA" p="0" c="RX" o="1940"/>
+	<item id="264" n="FORMULA BLANCA" p="0" c="LAB" o="80" pr="Sangre EDTA" i="ayuno  2hr"/>
+	<item id="265" n="FORMULA ROJA" p="0" c="LAB" o="80" pr="Sangre EDTA" i="ayuno 2hrs"/>
+	<item id="572" n="FOSFATASA ACIDA FRACCIÓN PROSTÁTICA" p="0" c="LAB" o="170"/>
+	<item id="267" n="FOSFATASA ACIDA TOTAL" p="0" c="LAB" o="105" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="266" n="FOSFATASA ACIDA TOTAL" p="0" c="LAB" o="105" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="268" n="FOSFATASA ALCALINA (ALP)" p="0" c="LAB" o="112" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="269" n="FOSFATASA ALCALINA FRACCION OSEA" p="0" c="LAB" o="685" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="270" n="FOSFOLIPIDOS" p="0" c="LAB" o="245" pr="Suero" i="Ayuno 12hr cena libre de grasas"/>
+	<item id="271" n="FOSFORO SERICO" p="0" c="LAB" o="91" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="272" n="FOSFORO URINARIO DE 24 HRS" p="0" c="LAB" o="170" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="273" n="FRACCION PROSTATICA" p="0" c="LAB" o="170" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="474" n="FRACCIÓN PROSTÁTICA" p="0" c="LAB" o="170"/>
+	<item id="956" n="FROTIS EN TINTA CHINA" p="0" c="LAB" o="348"/>
+	<item id="274" n="FRUCTOSA EN SEMEN" p="0" c="LAB" o="510" pr="Semen" i="semen obtenr por masturbacion"/>
+	<item id="275" n="FRUCTOSAMINA" p="0" c="LAB" o="1050" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="558" n="GALACTOMANANO" p="0" c="LAB" o="2823" pr="SUERO"/>
+	<item id="470" n="GAMMAGLUTAMIL TRANSPEPTIDASA (GGT)" p="0" c="LAB" o="150"/>
+	<item id="579" n="GASOMETRIA" p="0" c="LAB" o="400"/>
+	<item id="276" n="GASTRINA" p="0" c="LAB" o="380" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="505" n="GIARDIA LAMBLIA EN HECES" p="0" c="LAB" o="1259"/>
+	<item id="460" n="GLOBULINA" p="0" c="LAB" o="0.1" pr="suero" i="Ayuno 6 horas cobrar proteinas y albumina"/>
+	<item id="782" n="GLOBULINA FIJADORA DE HORMONA SEXUAL (SHBG)" p="0" c="LAB" o="1139" pr="SUERO"/>
+	<item id="277" n="GLUCAGON" p="0" c="LAB" o="700" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
+	<item id="278" n="GLUCOSA 6 FOSFATO DESHIDROGENASA" p="0" c="LAB" o="305" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
+	<item id="520" n="GLUCOSA POST CARGA 50 G 1 HR" p="0" c="LAB" o="160"/>
+	<item id="901" n="GLUCOSA POST CARGA 75 G" p="0" c="LAB" o="300"/>
+	<item id="901" n="GLUCOSA POST CARGA 75 G 2 HRS" p="0" c="LAB" o="160"/>
+	<item id="279" n="GLUCOSA POSTPRANDIAL" p="0" c="LAB" o="96" pr="Suero" i="ayuno minimo 5hrs precentarse a las 8:00 am"/>
+	<item id="280" n="GLUCOSA SERICA" p="0" c="LAB" o="98" pr="Suero" i="ayuno 5 hrs minimo"/>
+	<item id="281" n="GLUCOSA URINARIA" p="0" c="LAB" o="98" pr="Orina" i="ORINA 2hr congelar"/>
+	<item id="282" n="GOTA GRUESA (PLASMODIUM SP)" p="0" c="LAB" o="125" pr="Sangre EDTA" i="ayuno"/>
+	<item id="284" n="GRUPO SANGUINEO Y FACTOR RH" p="0" c="LAB" o="130" pr="Sangre EDTA" i="ayuno no necesario"/>
+	<item id="285" n="HAPTOGLOBINAS" p="0" c="LAB" o="535" pr="Suero" i="ayuno 8hrs"/>
+	<item id="863" n="HELICOBACTER PYLORI EN HECES" p="0" c="LAB" o="2714" i="MUESTRA RECIENTE"/>
+	<item id="286" n="HEMOGLOBINA GLUCOSILADA" p="0" c="LAB" o="460" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
+	<item id="998" n="HEMOGLOBINA GLUCOSILADA (U)" p="0" c="LAB" o="500"/>
+	<item id="287" n="HEMOGLOBINA LIBRE EN PLASMA" p="0" c="LAB" o="380" pr="Sangre heparina" i="ayuno de 8hrs"/>
+	<item id="288" n="HEMOLISIS ACIDA (PRUEBA DE HAM)" p="0" c="LAB" o="890" pr="Tubo rojo s/centrifugar" i="ayuno de 8hrs"/>
+	<item id="289" n="HEMOSIDERINA EN ORINA" p="0" c="LAB" o="500" pr="Orina" i="ORINA casual"/>
+	<item id="290" n="HEPATITIS A IGG" p="0" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="291" n="HEPATITIS A IGM" p="0" c="LAB" o="710" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="292" n="HEPATITIS A Y B MARCADORES IGM IGG" p="0" c="LAB" o="3480" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="25" n="HEPATITIS A,B,C, IGM IGG" p="0" c="LAB" o="2750"/>
+	<item id="293" n="HEPATITIS A,B,C, MARCADORES IGM  IGG" p="0" c="LAB" o="4610" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="294" n="HEPATITIS A,B,C,D, MARCADORES COMPLETOS" p="0" c="LAB" o="4150" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="297" n="HEPATITIS B (HBE AC)" p="0" c="LAB" o="680" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="298" n="HEPATITIS B (HBE AG)" p="0" c="LAB" o="550" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="299" n="HEPATITIS B (HBS AG) AUSTRALIA" p="0" c="LAB" o="665" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="300" n="HEPATITIS B AC (HBS AC)" p="0" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="295" n="HEPATITIS B CORE  (HBC AC IGG)" p="0" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="296" n="HEPATITIS B CORE (HBC AC IGM)" p="0" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="302" n="HEPATITIS B IGG E IGM" p="0" c="LAB" o="4347" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="303" n="HEPATITIS B IGM (HBS AC_M)" p="0" c="LAB" o="740" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="304" n="HEPATITIS C (HCVAC)" p="0" c="LAB" o="633" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="305" n="HEPATITIS D ( AC.)" p="0" c="LAB" o="640" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="306" n="HIDROSTESTOSTERONA" p="0" c="LAB" o="360" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="307" n="HIDROXIPROLINA" p="0" c="LAB" o="1525" pr="Orina 24hr 20ml" i="ORINA 24hr peso y estatura"/>
+	<item id="308" n="HIDROXITRIPTAMINA" p="0" c="LAB" o="370" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="468" n="HIERRO" p="0" c="LAB" o="140"/>
+	<item id="309" n="HIERRO SERICO" p="0" c="LAB" o="140" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="310" n="HISTAMINA" p="0" c="LAB" o="3080" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="62" n="HISTEROSALPINGOGRAFIA" p="0" c="RX" o="5000"/>
+	<item id="162" n="HISTEROSONOGRAFIA" p="0" c="RX" o="4000"/>
+	<item id="249" n="HISTEROSONOGRAFIA" p="0" c="RX" o="4000"/>
+	<item id="250" n="HOMBRO 2 PROYECCIONES(UNILATERAL)" p="0" c="RX" o="615"/>
+	<item id="28" n="HOMBRO A.P" p="0" c="RX" o="460"/>
+	<item id="97" n="HOMBRO C/ABDUCCION" p="0" c="RX" o="460"/>
+	<item id="223" n="HOMBRO ROTACION INT. Y EXT." p="0" c="TAC" o="615"/>
+	<item id="102" n="HOMBROS A.P" p="0" c="RX" o="615"/>
+	<item id="237" n="HOMBROS AP COMPARATIVOS" p="0" c="RX" o="615"/>
+	<item id="29" n="HOMBROS AP Y OBLICUA" p="0" c="RX" o="1225"/>
+	<item id="311" n="HOMOCISTEINA" p="0" c="LAB" o="1080" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="312" n="HONGOS EN FRESCO" p="0" c="LAB" o="150" pr="Escamas" i="sin aseo"/>
+	<item id="313" n="HORMONA ADRENOCORTICOTROFICA (ACTH)" p="0" c="LAB" o="920" pr="Sangre EDTA" i="ayuno 2 hrs minimo"/>
+	<item id="530" n="HORMONA ANTI MULERIANA (MRH/AMH)" p="0" c="LAB" o="3250"/>
+	<item id="315" n="HORMONA DE CRECIMIENTO" p="0" c="LAB" o="630" pr="Suero" i="ayuno 2 hrs minimo"/>
+	<item id="316" n="HORMONA DE CRECIMIENTO BASAL Y POST ESTIMULO" p="0" c="LAB" o="835" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="314" n="HORMONA DE CRECIMIENTO POST ESTIMULO" p="0" c="LAB" o="430" pr="Suero" i="ayuno 2 hrs minimo"/>
+	<item id="317" n="HORMONA ESTIM TIROIDES (TSH)" p="0" c="LAB" o="336" pr="Suero" i="ayuno 2hr minimo"/>
+	<item id="318" n="HORMONA FOLICULO ESTIMULANTE (FSH)" p="0" c="LAB" o="336" pr="Suero" i="ayuno 2 hrs minimo"/>
+	<item id="319" n="HORMONA LUTEINIZANTE (HL)" p="0" c="LAB" o="336" pr="Suero" i="ayuno 2 hrs minimo"/>
+	<item id="31" n="HUECO PELVICO" p="0" c="RX" o="460"/>
+	<item id="30" n="HUESOS PROPIOS DE LA NARIZ" p="0" c="RX" o="460"/>
+	<item id="213" n="HUMERO AP" p="0" c="RX" o="450"/>
+	<item id="320" n="INDICE ATEROGENICO" p="0" c="LAB" o="242" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="321" n="INDICE DE TIROXINA LIBRE (ITL)" p="0" c="LAB" o="200" pr="Suero" i="ayuno 2 hrs minimo"/>
+	<item id="570" n="INDICE HOMA" p="0" c="LAB" o="340"/>
+	<item id="714" n="INFLUENZA TIPO A Y B (PRUEBA RAPIDA)" p="0" c="LAB" o="1218" pr="Exudado faringeo o nasal"/>
+	<item id="865" n="INHIBINA A" p="0" c="LAB" o="1244"/>
+	<item id="322" n="INMUNOGLOBULINA &quot;A&quot;" p="0" c="LAB" o="378" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="323" n="INMUNOGLOBULINA &quot;D&quot;" p="0" c="LAB" o="895" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="324" n="INMUNOGLOBULINA &quot;E&quot;" p="0" c="LAB" o="425" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="325" n="INMUNOGLOBULINA &quot;G&quot;" p="0" c="LAB" o="378" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="326" n="INMUNOGLOBULINA &quot;M&quot;" p="0" c="LAB" o="378" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="327" n="INMUNOGLOBULINAS G SUBCLASES IGG 1,2,3,4" p="0" c="LAB" o="2552" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="797" n="INSULINA 120MIN" p="0" c="LAB" o="260"/>
+	<item id="795" n="INSULINA 60MIN" p="0" c="LAB" o="260"/>
+	<item id="796" n="INSULINA 90MIN" p="0" c="LAB" o="260"/>
+	<item id="329" n="INSULINA BASAL" p="0" c="LAB" o="260" pr="Suero" i="ayuno 8 hrs"/>
+	<item id="330" n="INSULINA BASAL Y POST PRANDIAL" p="0" c="LAB" o="460" pr="Suero" i="ayuno de suero"/>
+	<item id="328" n="INSULINA POSPRANDIAL" p="0" c="LAB" o="255" pr="Suero" i="ayuno 8 hrs"/>
+	<item id="480" n="INSUMO ANESTESIA RESO" p="0" c="OTRO" o="6600"/>
+	<item id="465" n="INSUMO COVID RX TORAX" p="0" c="OTRO" o="100"/>
+	<item id="464" n="INSUMOS COVID" p="0" c="OTRO" o="800"/>
+	<item id="331" n="ISOAGLUTININAS" p="0" c="LAB" o="215" pr="Suero" i="ayuno de 8 hrs"/>
+	<item id="332" n="ISOENZIMAS DE DESHIDROGENASA LACTICA" p="0" c="LAB" o="550" pr="Suero" i="ayuno de 8 hrs"/>
+	<item id="550" n="KOH" p="0" c="LAB" o="70"/>
+	<item id="333" n="LACTOSA TOLERANCIA" p="0" c="LAB" o="240" pr="Suero" i="ayuno de 8 hrs"/>
+	<item id="334" n="LAMOTRIGINA" p="0" c="LAB" o="1670" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="105" n="LATERAL AMBOS PIES" p="0" c="RX" o="460"/>
+	<item id="289" n="LATERAL DE COLUMNA CERVICAL" p="0" c="RX" o="460"/>
+	<item id="18" n="LATERAL DE CUELLO (PARTES BLANDAS )" p="0" c="RX" o="460"/>
+	<item id="157" n="LATERAL DE ESPOLON" p="0" c="RX" o="450"/>
+	<item id="132" n="LATERAL DE MANDIBULA" p="0" c="RX" o="450"/>
+	<item id="402" n="LATERAL DE PIE" p="0" c="RX" o="460"/>
+	<item id="95" n="LATERAL DE TORAX (IZQ.-DER.)" p="0" c="RX" o="460"/>
+	<item id="335" n="LIPASA SERICA" p="0" c="LAB" o="240" pr="Suero" i="ayuno minimo 6hrs"/>
+	<item id="336" n="LIPIDOS TOTALES" p="0" c="LAB" o="80" pr="Suero" i="ayuno de12hrs cena libre de grasas"/>
+	<item id="337" n="LISIS DE EUGLOBULINAS" p="0" c="LAB" o="615" pr="Plasma citratado" i="ayuno 6hrs"/>
+	<item id="338" n="LITIO SERICO" p="0" c="LAB" o="563" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="339" n="MAGNESIO EN ORINA DE 24 HRS" p="0" c="LAB" o="245" pr="orina de 24 hrs" i="Recolectar la orna de 24hrs"/>
+	<item id="340" n="MAGNESIO SERICO" p="0" c="LAB" o="230" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="473" n="MAMOGRAFIA" p="0" c="RX" o="700"/>
+	<item id="108" n="MAMOGRAFIA + ULTRASONIDO MAMARIO" p="0" c="US" o="950"/>
+	<item id="217" n="MAMOGRAFIA 1 PLACA DE AMPLIACION" p="0" c="RX" o="185"/>
+	<item id="222" n="MAMOGRAFIA UNILATERAL" p="0" c="RX" o="305"/>
+	<item id="34" n="MANDIBULA" p="0" c="RX" o="450"/>
+	<item id="103" n="MANDIBULA  AP. LAT" p="0" c="RX" o="765"/>
+	<item id="341" n="MANGANESO" p="0" c="LAB" o="815" pr="Sangre heparina" i="ayuno minimo 5hrs"/>
+	<item id="216" n="MANO AP" p="0" c="RX" o="460"/>
+	<item id="32" n="MANO AP Y OBLICUA" p="0" c="RX" o="460"/>
+	<item id="312" n="MANO TOMOGRAFIA SIMPLE" p="0" c="RX" o="2040"/>
+	<item id="101" n="MANOS A.P" p="0" c="RX" o="460"/>
+	<item id="33" n="MANOS AP Y OBLICUAS" p="0" c="RX" o="615"/>
+	<item id="464" n="MARIHUANA" p="0" c="LAB" o="320" pr="ORINA" i="Orina casual"/>
+	<item id="342" n="MERCURIO" p="0" c="LAB" o="815" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="343" n="METABOLITOS DE COCAINA (CONFIRMATORIO)" p="0" c="LAB" o="5700" pr="ORINA" i="ORINA casual"/>
+	<item id="344" n="METAHEMOGLOBINA (METHB)" p="0" c="LAB" o="380" pr="Tubo rojo s/centrifugar" i="ayuno de 8hrs"/>
+	<item id="345" n="METANEFRINAS" p="0" c="LAB" o="1790" pr="PLASMA" i="ayuno de 8hrs"/>
+	<item id="502" n="METANEFRINAS URINARIAS" p="0" c="LAB" o="880"/>
+	<item id="346" n="MICROALBUMINA" p="0" c="LAB" o="255" pr="Orina" i="ORINA"/>
+	<item id="77" n="MIELOGRAFIA  LUMBAR  ESTUDIO ESPECIAL" p="0" c="RX" o="3060"/>
+	<item id="75" n="MIELOGRAFIA CERVICAL     ESTUDIO ESPECIAL" p="0" c="RX" o="3060"/>
+	<item id="76" n="MIELOGRAFIA DORSAL   ESTUDIO ESPECIAL" p="0" c="RX" o="3060"/>
+	<item id="259" n="MIELOTAC." p="0" c="TAC" o="5000"/>
+	<item id="215" n="MIEMBROS INFERIORES COMPARATIVAS AP Y LATERAL NINO" p="0" c="RX" o="750"/>
+	<item id="577" n="MIOGLOBINA" p="0" c="LAB" o="550"/>
+	<item id="347" n="MORFINA" p="0" c="LAB" o="105" pr="Orina" i="ORINA"/>
+	<item id="35" n="MUÑECA  AP.   Y  LAT." p="0" c="RX" o="460"/>
+	<item id="112" n="MUÑECA A.P, OBLICUA,  LATERAL" p="0" c="RX" o="460"/>
+	<item id="470" n="MUÑECA AP Y LATERAL FUERA DE HORARIO" p="0" c="RX" o="1000"/>
+	<item id="36" n="MUÑECAS AP.  Y   LAT.   COMPARATIVAS" p="0" c="RX" o="615"/>
+	<item id="348" n="MYCOBACTERIUM TUBERCULOSIS (PCR)" p="0" c="LAB" o="4070" pr="Orina" i="ORINA"/>
+	<item id="356" n="N TELOPEPTIDOS" p="0" c="LAB" o="2180" pr="Orina 2hr" i="orina"/>
+	<item id="349" n="NICOTINA (COTININA) ORINA" p="0" c="LAB" o="430" pr="Orina" i="ORINA"/>
+	<item id="350" n="NICOTINA (COTININA) SUERO" p="0" c="LAB" o="430" pr="Suero" i="ayuno de 8hrs"/>
+	<item id="501" n="NINGUNO" p="0" c="LAB" o="0.01"/>
+	<item id="351" n="NITROGENO EN HECES" p="0" c="LAB" o="320" pr="Heces" i="HECES"/>
+	<item id="352" n="NITROGENO UREICO (BUN)" p="0" c="LAB" o="55" pr="Suero" i="ayuno"/>
+	<item id="353" n="NITROGENO UREICO URINARIO" p="0" c="LAB" o="55" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="861" n="NIVELES DE TACROLIMUS" p="0" c="LAB" o="1790"/>
+	<item id="354" n="NORADRENALINA" p="0" c="LAB" o="930" pr="PLASMA" i="ayuno minimo 8hrs"/>
+	<item id="355" n="NORADRENALINA EN ORINA" p="0" c="LAB" o="930" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="697" n="NORADRENALINA EN PLASMA" p="0" c="LAB" o="930" pr="plasma" i="en ayuno totalmente"/>
+	<item id="357" n="OPIACEOS" p="0" c="LAB" o="440" pr="Orina" i="ORINA"/>
+	<item id="358" n="OSMOLARIDAD SERICA" p="0" c="LAB" o="255" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="359" n="OSMOLÀRIDAD URINARIA" p="0" c="LAB" o="255" pr="Orina" i="ORINA"/>
+	<item id="360" n="OSTEOCALCINA" p="0" c="LAB" o="580" pr="Plasma heparina" i="ayuno minimo de 8hrs"/>
+	<item id="955" n="OXALATO EN ORINA DE 24 HRS." p="0" c="LAB" o="1865"/>
+	<item id="361" n="OXCARBACEPINA" p="0" c="LAB" o="2429" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="362" n="OXIUROS PRUEBA DE GRAHAM" p="0" c="LAB" o="100" pr="Frotis" i="FROTIS"/>
+	<item id="462" n="P.F.H. (PUEBAS DE FUNCIONAMIENTO HEPATICO)" p="0" c="LAB" o="550" pr="suero" i="ayuno 6 hrs"/>
+	<item id="37" n="P.S.A DECUBITO" p="0" c="RX" o="460"/>
+	<item id="128" n="P.S.A. TANGENCIAL" p="0" c="RX" o="450"/>
+	<item id="153" n="PAC ENTUBADO" p="0" c="RX" o="6000"/>
+	<item id="19" n="PAKETE INTERMEDIO" p="0" c="LAB" o="1141"/>
+	<item id="20" n="PAKETE PLUSS" p="0" c="LAB" o="1691"/>
+	<item id="904" n="PANEL VIRAL RESPIRATORIO" p="0" c="LAB" o="4605"/>
+	<item id="321" n="PARACENTESIS" p="0" c="RX" o="1800"/>
+	<item id="363" n="PARATOHORMONA (PTH, INTACTA)" p="0" c="LAB" o="1020" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="364" n="PATERNIDAD RESPONSABILIDAD" p="0" c="LAB" o="7500" pr="Sangre EDTA + Persona Adiccional $1500" i="ayuno, Previa cita, 2 fotografias de frente y perfil, original y copia de Ac. nacimiento e IFE,"/>
+	<item id="365" n="PAUL BUNELL (AC HETERÒFILOS)" p="0" c="LAB" o="330" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="892" n="PCR CARGA VIRAL DE CITOMEGALOVIRUS" p="0" c="LAB" o="3837" pr="PLASMA/EDTA"/>
+	<item id="906" n="PCR DETECCIÓN DE BRUCELLA" p="0" c="LAB" o="6265"/>
+	<item id="367" n="PCR PARA TUBERCULOSIS" p="0" c="LAB" o="0.01" pr="Orina" i="ORINA"/>
+	<item id="368" n="PCR PARA VIH (DNA) CUANTITATIVO" p="0" c="LAB" o="5950" pr="Sangre EDTA" i="ayuno minimo de 8hrs"/>
+	<item id="958" n="PCR TUBERCULOSIS" p="0" c="LAB" o="3110"/>
+	<item id="366" n="PCR VIH (RNA) CUANTIFICADA" p="0" c="LAB" o="4210" pr="Plasma EDTA" i="ayuno minimo de 8hrs"/>
+	<item id="41" n="PELVIS ADULTO" p="0" c="RX" o="460"/>
+	<item id="127" n="PELVIS AP" p="0" c="RX" o="460"/>
+	<item id="125" n="PELVIS AP Y LATERAL" p="0" c="RX" o="765"/>
+	<item id="211" n="PELVIS LOWENSTEIN" p="0" c="RX" o="460"/>
+	<item id="42" n="PELVIS NIÑO" p="0" c="RX" o="460"/>
+	<item id="231" n="PELVIS OBLICUAS(2 PLACAS)." p="0" c="RX" o="765"/>
+	<item id="203" n="PELVIS OBTURATRIZ" p="0" c="RX" o="460"/>
+	<item id="369" n="PEPTIDO &quot;C&quot;" p="0" c="LAB" o="560" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="516" n="PEPTIDO INTESTINAL VASO ACTIVO" p="0" c="LAB" o="2538"/>
+	<item id="512" n="PEPTIDO NATRIUREICO CEREBRAL (BNP)" p="0" c="LAB" o="1410"/>
+	<item id="370" n="PERFIL ALERGIA ALIMENTICIO MEXICANO" p="0" c="LAB" o="4300" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="371" n="PERFIL ALERGIA INHALATORIO MEXICANO" p="0" c="LAB" o="4300" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="23" n="PERFIL DE CATECOLAMINAS TOTALES (PLASMA)" p="0" c="LAB" o="500"/>
+	<item id="765" n="PERFIL DE HIERRO" p="0" c="LAB" o="625"/>
+	<item id="574" n="PERFIL DE INMUNOGLOBULINAS IGG, IGA, GM, IGE." p="0" c="LAB" o="975"/>
+	<item id="504" n="PERFIL DE LIPIDOS" p="0" c="LAB" o="390"/>
+	<item id="523" n="PERFIL DE METALES PESADOS" p="0" c="LAB" o="2500"/>
+	<item id="507" n="PERFIL FOSFOLIPIDOS" p="0" c="LAB" o="2565"/>
+	<item id="799" n="PERFIL HEPATITIS  III" p="0" c="LAB" o="2668"/>
+	<item id="760" n="PERFIL HEPATITIS B" p="0" c="LAB" o="1260"/>
+	<item id="18" n="PERFIL HEPATITIS IGG E IGM" p="0" c="LAB" o="4115"/>
+	<item id="9" n="PERFIL HORMONAL FEMENINO" p="0" c="LAB" o="1020"/>
+	<item id="21" n="PERFIL HORMONAL HIPOFISIARIO" p="0" c="LAB" o="1100"/>
+	<item id="862" n="PERFIL INFECCIOSO GENITAL MASCULINO II" p="0" c="LAB" o="4300"/>
+	<item id="7" n="PERFIL TIROIDEO PARCIAL" p="0" c="LAB" o="1010"/>
+	<item id="22" n="PERFIL TIROIDEO PARCIAL 2" p="0" c="LAB" o="990"/>
+	<item id="510" n="PERFIL TIROIDEO PARCIAL 3" p="0" c="LAB" o="1010"/>
+	<item id="24" n="PERFIL TIROIDEO PARCIAL 3" p="0" c="LAB" o="990"/>
+	<item id="26" n="PERFIL TIROIDEO PARCIAL 3" p="0" c="LAB" o="990"/>
+	<item id="8" n="PERFIL TIROIDEO TOTAL" p="0" c="LAB" o="1340"/>
+	<item id="800" n="PERFIL TIROIDEO TOTAL" p="0" c="LAB" o="1336"/>
+	<item id="10" n="PERFIL TORCH IGG" p="0" c="LAB" o="1680"/>
+	<item id="11" n="PERFIL TORCH IGM" p="0" c="LAB" o="1580"/>
+	<item id="23" n="PERFILOGRAMA" p="0" c="RX" o="450"/>
+	<item id="230" n="PERFILOGRAMA AP Y LATERAL" p="0" c="RX" o="750"/>
+	<item id="708" n="PFH (PRUEBAS DE FUNCION HEPATICO)" p="0" c="LAB" o="540" i="AYUNO TOTALMENTE"/>
+	<item id="55" n="PIE    AP  Y  LATERAL" p="0" c="RX" o="460"/>
+	<item id="121" n="PIE AP Y OBLICUA" p="0" c="RX" o="460"/>
+	<item id="43" n="PIE CON APOYO" p="0" c="RX" o="460"/>
+	<item id="482" n="PIERNA AP Y LATERAL" p="0" c="OTRO" o="460"/>
+	<item id="48" n="PIERNA AP Y LATERAL NIÑO" p="0" c="RX" o="460"/>
+	<item id="332" n="PIERNAS AP Y LAT" p="0" c="RX" o="765"/>
+	<item id="45" n="PIES    COMPARATIVOS  AP. Y  LAT." p="0" c="RX" o="765"/>
+	<item id="46" n="PIES CON APOYO" p="0" c="RX" o="460"/>
+	<item id="183" n="PIES LATERAL COMPARATIVOS" p="0" c="RX" o="460"/>
+	<item id="372" n="PIRILINKS-D" p="0" c="LAB" o="1220" pr="Orina 3hr" i="preguntar a laboratorio"/>
+	<item id="272" n="PLACA SIMPLE DE ABDOMEN AP Y LATERAL" p="0" c="RX" o="765"/>
+	<item id="104" n="PLACA SIMPLE DE ABDOMEN DE PIE" p="0" c="RX" o="460"/>
+	<item id="455" n="PLAQUETAS" p="0" c="LAB" o="60" pr="Sangre total EDTA" i="Ayuno minimo de 2 hrs"/>
+	<item id="373" n="PLASMA RECALCIFICADO" p="0" c="LAB" o="100" pr="Plasma citrato" i="ayuno minimo de 8hrs"/>
+	<item id="374" n="PLOMO EN ORINA" p="0" c="LAB" o="815" pr="Orina" i="preguntar a laboratorio"/>
+	<item id="375" n="PLOMO EN SANGRE" p="0" c="LAB" o="1030" pr="Sangre total edta" i="ayuno minimo 5hrs"/>
+	<item id="603" n="PORFILIBINOGENO EN ORINA DE 24 HRS" p="0" c="LAB" o="380" pr="orina de 24 hrs." i="Recolectar orina de 24 hrs"/>
+	<item id="376" n="PORFIRINAS" p="0" c="LAB" o="260" pr="Orina" i="ORINA casual"/>
+	<item id="377" n="POTASIO SERICO" p="0" c="LAB" o="125" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="378" n="POTASIO URINARIO" p="0" c="LAB" o="125" pr="Orina" i="Recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
+	<item id="515" n="PRE-ALBUMINA" p="0" c="LAB" o="1090" pr="Suero"/>
+	<item id="380" n="PREGNADIOL SERICO" p="0" c="LAB" o="1500" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="379" n="PREGNADIOL URINARIO EN 24 HRS" p="0" c="LAB" o="1500" pr="Orina" i="recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
+	<item id="381" n="PREGNANTRIOL EN ORINA" p="0" c="LAB" o="1500" pr="Orina" i="recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
+	<item id="15" n="PRENUPCIALES" p="0" c="LAB" o="335"/>
+	<item id="16" n="PREOPERATORIOS" p="0" c="LAB" o="595"/>
+	<item id="382" n="PRIMIDONA" p="0" c="LAB" o="910" pr="Suero" i="ayuno minimo de 8hrs"/>
+	<item id="755" n="PRO-CALCITONINA" p="0" c="LAB" o="1060"/>
+	<item id="383" n="PROGESTERONA" p="0" c="LAB" o="330" pr="Suero" i="ayuno 2hrs minimo"/>
+	<item id="384" n="PROLACTINA" p="0" c="LAB" o="340" pr="Suero" i="ayuno 2hrs minimo"/>
+	<item id="388" n="PROTEINA &quot;C&quot;  REACTIVA ULTRASENSIBLE" p="0" c="LAB" o="582" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="385" n="PROTEINA &quot;C&quot; DE LA COAGULACION" p="0" c="LAB" o="1211" pr="Plasma citrato" i="ayuno minimo de 8hrs"/>
+	<item id="387" n="PROTEINA &quot;S&quot; DE LA COAGULACION" p="0" c="LAB" o="1584" pr="Plasma citrato" i="ayuno minimo de 8hrs"/>
+	<item id="386" n="PROTEINA C REACTIVA" p="0" c="LAB" o="330" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="389" n="PROTEINA DE BENCE JONES" p="0" c="LAB" o="350" pr="Orina" i="Orina casual"/>
+	<item id="521" n="PROTEINA EN ORINA OCASIONAL" p="0" c="LAB" o="120"/>
+	<item id="524" n="PROTEÍNAS EN ORINA DE MICCIÓN ÚNICA" p="0" c="LAB" o="120" pr="Orina Ocasional"/>
+	<item id="391" n="PROTEINAS TOTALES SERICAS" p="0" c="LAB" o="100" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="390" n="PROTEINURIA EN ORINA DE 24HRS" p="0" c="LAB" o="120" pr="Orina" i="recolectar toda la orina de 24 hrs y tomar peso y estatura"/>
+	<item id="392" n="PROTOMBINA CONSUMO" p="0" c="LAB" o="270" pr="Plasma citrato" i="ayuno minimo 8hrs"/>
+	<item id="915" n="PRUEBA  DE CHRISTENSEN (AREASA)" p="0" c="LAB" o="100"/>
+	<item id="599" n="PRUEBA DE ALIENTO HELICOBACTER PYLORI" p="0" c="LAB" o="2800"/>
+	<item id="393" n="PRUEBA DE CHAGAS" p="0" c="LAB" o="730" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="756" n="PRUEBA DE PATERNIDAD" p="0" c="LAB" o="6750"/>
+	<item id="394" n="PRUEBA INMUNOLOGIA DE EMBARAZO" p="0" c="LAB" o="180" pr="Suero" i="Ayuno minimo 2 hrs"/>
+	<item id="503" n="PRUEBA REAGINA PLASMATICA RAPIDA (R.P.R.)" p="0" c="LAB" o="60"/>
+	<item id="957" n="PRUEBA ZIEL NIELSSE" p="0" c="LAB" o="116"/>
+	<item id="39" n="PSA DECUBITO Y DE PIE ADULTO" p="0" c="RX" o="765"/>
+	<item id="44" n="PSA. NIÑO" p="0" c="RX" o="450"/>
+	<item id="950" n="QUIMICA SANGUINEA (45)" p="0" c="LAB" o="1470"/>
+	<item id="2" n="QUIMICA SANGUINEA 3" p="0" c="LAB" o="295"/>
+	<item id="3" n="QUIMICA SANGUINEA 4" p="0" c="LAB" o="395"/>
+	<item id="5" n="QUIMICA SANGUINEA 5" p="0" c="LAB" o="390"/>
+	<item id="4" n="QUIMICA SANGUINEA 6" p="0" c="LAB" o="490"/>
+	<item id="990" n="QUIMICA SANGUINEZ (36)" p="0" c="LAB" o="810"/>
+	<item id="439" n="RADIOGRAFIAS PIERNAS AP Y LAT" p="0" c="RX" o="765"/>
+	<item id="313" n="RADIOMETRIA MS PELVICOS" p="0" c="RX" o="1530"/>
+	<item id="396" n="REACCIONES FEBRILES" p="0" c="LAB" o="260" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="900" n="RELACION ALB/CREATININA (RAC)" p="0" c="LAB" o="810"/>
+	<item id="900" n="RELACION ALB/CREATININA (RAC)" p="0" c="LAB" o="205" pr="ORINA AL AZAR"/>
+	<item id="461" n="RELACION ALB/GLOB" p="0" c="LAB" o="0.1" pr="suero" i="ayuno 6 hrs cobrar proteinas y albumina"/>
+	<item id="398" n="RENINA" p="0" c="LAB" o="1085" pr="Sangre EDTA" i="ayuno minimo 8hrs"/>
+	<item id="446" n="RESONANCIA MAGNETICA DE OIDO C/CONTRASTE" p="0" c="RM" o="6940"/>
+	<item id="399" n="RETICULOCITOS" p="0" c="LAB" o="92" pr="Sangre EDTA" i="ayuno minimo 5hrs"/>
+	<item id="400" n="RICKETTSIAS ANTICUERPOS IGG IGM" p="0" c="LAB" o="2800" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="417" n="RM ABDOMEN SIMPLE Y CONTRASTADA FUERA DE HORARIO" p="0" c="RM" o="7500"/>
+	<item id="405" n="RM AMBAS RODILLAS URGENCIAS" p="0" c="RM" o="13000"/>
+	<item id="475" n="RM AMBOS TOBILLOS SIMPLE" p="0" c="RM" o="11020"/>
+	<item id="407" n="RM BRAZO SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="406" n="RM BRAZO SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="444" n="RM CADERA CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="497" n="RM CADERA SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="506" n="RM COLUMNA CERVICAL S/C + FUERA DE HORARIO" p="0" c="OTRO" o="7500"/>
+	<item id="493" n="RM COLUMNA CERVICAL S/C ISSSTE" p="0" c="OTRO" o="2850"/>
+	<item id="505" n="RM COLUMNA CERVICAL SIMPLE + SEDACION" p="0" c="OTRO" o="12000"/>
+	<item id="491" n="RM COLUMNA CERVICAL SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="356" n="RM COLUMNA CERVICAL SIMPLE URGENCIA" p="0" c="RM" o="8000"/>
+	<item id="494" n="RM COLUMNA DORSAL S/C ISSSTE" p="0" c="OTRO" o="2850"/>
+	<item id="435" n="RM COLUMNA DORSAL SIMPLE DE UREGENCIA" p="0" c="RM" o="8000"/>
+	<item id="492" n="RM COLUMNA DORSAL SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="495" n="RM COLUMNA LUMBAR S/C ISSSTE" p="0" c="OTRO" o="2850"/>
+	<item id="420" n="RM COLUMNA LUMBAR S+C FUERA DE HORARIO" p="0" c="RM" o="7500"/>
+	<item id="481" n="RM COLUMNA LUMBAR SIMPLE + ANESTESIA" p="0" c="OTRO" o="12240"/>
+	<item id="378" n="RM COLUMNA LUMBAR SIMPLE FUERA DE HORARIO" p="0" c="RM" o="6500"/>
+	<item id="488" n="RM COLUMNA LUMBAR SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="114" n="RM CRANEO CONTRASTADA + SEDACION" p="0" c="RM" o="14000"/>
+	<item id="486" n="RM CRANEO S/C ISSSTE" p="0" c="OTRO" o="2850"/>
+	<item id="99" n="RM CRANEO SIMPLE + SEDACION" p="0" c="RM" o="12000"/>
+	<item id="485" n="RM CRANEO SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="399" n="RM CRANEO SIMPLE URGENCIA" p="0" c="RM" o="6500"/>
+	<item id="357" n="RM CRANEO SIMPLE Y CONTRASTADA URGENCIA" p="0" c="RM" o="8500"/>
+	<item id="503" n="RM CUELLO S/C ISSSTE" p="0" c="OTRO" o="2850"/>
+	<item id="504" n="RM CUELLO SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="438" n="RM CUELLO SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="382" n="RM DE ABDOMEN S-C" p="0" c="RM" o="8160"/>
+	<item id="358" n="RM DE ABDOMEN SIMPLE" p="0" c="RM" o="7140"/>
+	<item id="422" n="RM DE AMBAS MUÑECAS SIMPLE" p="0" c="RM" o="11020"/>
+	<item id="474" n="RM DE AMBAS PIERNAS SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="341" n="RM DE AMBAS RODILLAS SIMPLE" p="0" c="RM" o="11020"/>
+	<item id="424" n="RM DE AMBOS HOMBROS SIMPLE" p="0" c="RM" o="11020"/>
+	<item id="366" n="RM DE CADERAS SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="374" n="RM DE CODO SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="335" n="RM DE COLUMNA CERVICAL" p="0" c="RM" o="5510"/>
+	<item id="349" n="RM DE COLUMNA CERVICAL SIMPLE Y CONTRASTADA" p="0" c="OTRO" o="6940"/>
+	<item id="334" n="RM DE COLUMNA DORSAL" p="0" c="RM" o="5510"/>
+	<item id="364" n="RM DE COLUMNA DORSAL CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="455" n="RM DE COLUMNA DORSAL CONTRASTADA FUERA DE HORARIO" p="0" c="RM" o="8000"/>
+	<item id="333" n="RM DE COLUMNA LUMBAR" p="0" c="RM" o="5510"/>
+	<item id="355" n="RM DE COLUMNA LUMBAR S-C" p="0" c="RM" o="6940"/>
+	<item id="443" n="RM DE CORAZON SIMPLE MORFOLOGIA" p="0" c="RM" o="7000"/>
+	<item id="337" n="RM DE CRANEO S/C" p="0" c="RM" o="6940"/>
+	<item id="336" n="RM DE CRANEO SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="359" n="RM DE CUELLO SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="343" n="RM DE HOMBRO" p="0" c="RM" o="5510"/>
+	<item id="345" n="RM DE MAMA S-C" p="0" c="RM" o="8160"/>
+	<item id="344" n="RM DE MAMA SIMPLE" p="0" c="RM" o="6120"/>
+	<item id="423" n="RM DE MANO SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="363" n="RM DE MUÑECA" p="0" c="RM" o="5510"/>
+	<item id="391" n="RM DE MUSLO SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="380" n="RM DE OIDOS SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="389" n="RM DE PELVIS S-C" p="0" c="RM" o="6940"/>
+	<item id="410" n="RM DE PELVIS SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="339" n="RM DE PIE" p="0" c="RM" o="5510"/>
+	<item id="346" n="RM DE PIE SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="388" n="RM DE PIERNA SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="342" n="RM DE PROSTATA SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="340" n="RM DE RODILLA" p="0" c="RM" o="5510"/>
+	<item id="393" n="RM DE RODILLA CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="412" n="RM DE RODILLA FUERA DE HORARIO" p="0" c="OTRO" o="7438"/>
+	<item id="350" n="RM DE RODILLA SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="404" n="RM DE RODILLA URGENCIA CON 50 % ADICIONAL" p="0" c="RM" o="7500"/>
+	<item id="372" n="RM DE SILLA TURCA SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="338" n="RM DE TOBILLO" p="0" c="RM" o="5510"/>
+	<item id="353" n="RM DE TORAX S-C" p="0" c="RM" o="6940"/>
+	<item id="354" n="RM DE TORAX SIMPLE" p="0" c="RM" o="5510"/>
+	<item id="437" n="RM FUERA DE HORARIO SIMPLE GNP. QUALITIAS," p="0" c="RM" o="5500"/>
+	<item id="426" n="RM HOMBRO CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="362" n="RM HOMBRO DE URGENCIAS" p="0" c="RM" o="6500"/>
+	<item id="498" n="RM HOMBRO SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="403" n="RM MUSLO SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="394" n="RM PELVIS CONTRASTADA DE URGENCIA" p="0" c="RM" o="7500"/>
+	<item id="487" n="RM PELVIS S/C ISSSTE" p="0" c="OTRO" o="2850"/>
+	<item id="441" n="RM PROSTATA SIMPLE Y CONTRASTADA" p="0" c="RM" o="6940"/>
+	<item id="489" n="RM RODILLA SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="375" n="RM SIMPLE DE MANO" p="0" c="RM" o="5510"/>
+	<item id="401" n="RM TOBILLO SIMPLE FUERA DE HORARIO" p="0" c="RM" o="6500"/>
+	<item id="507" n="RM TOBILLO SIMPLE ISSSTE" p="0" c="OTRO" o="2100"/>
+	<item id="483" n="RM TOBILLO SIMPLE Y CONTRASTADO" p="0" c="OTRO" o="6940"/>
+	<item id="347" n="RM URO RESONANCIA SIMPLE Y CONTRASTADA" p="0" c="RM" o="6800"/>
+	<item id="49" n="RODILLA AP Y LATERAL" p="0" c="RX" o="460"/>
+	<item id="50" n="RODILLAS  60/90    AXIAL" p="0" c="RX" o="460"/>
+	<item id="117" n="RODILLAS (COMPARATIVA) 2 POSICIONES" p="0" c="RX" o="615"/>
+	<item id="96" n="RODILLAS COMPARATIVAS AP  Y LATERAL" p="0" c="RX" o="615"/>
+	<item id="260" n="RODILLAS COMPARATIVAS AP, LAT" p="0" c="RX" o="615"/>
+	<item id="367" n="RODILLAS COMPARATIVAS LATERAL" p="0" c="RX" o="460"/>
+	<item id="411" n="RODILLAS LATERALES COMPARATIVAS" p="0" c="RX" o="460"/>
+	<item id="232" n="RODILLAS(AMBAS) AP." p="0" c="RX" o="460"/>
+	<item id="401" n="ROSA DE BENGALA (BRUCELLA ABORTUS)" p="0" c="LAB" o="60" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="402" n="ROTAVIRUS EN HECES" p="0" c="LAB" o="490" pr="Heces" i="HECES"/>
+	<item id="526" n="RPR" p="0" c="LAB" o="70"/>
+	<item id="245" n="RX AP DE PELVIS  Y POSICION DE RANA ( 2 PROYECCIONES)" p="0" c="RX" o="765"/>
+	<item id="242" n="RX OBLICUA DE CRANEO" p="0" c="RX" o="460"/>
+	<item id="280" n="RX TANGENCIAL DE ROTULA" p="0" c="RX" o="450"/>
+	<item id="286" n="RX.LATERAL DE MENTON" p="0" c="RX" o="450"/>
+	<item id="51" n="SACROXIS" p="0" c="RX" o="450"/>
+	<item id="403" n="SALICILATOS ( ACIDO ACETILISALICILICO )" p="0" c="LAB" o="750" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="404" n="SANGRE OCULTA EN HECES" p="0" c="LAB" o="125" pr="Heces" i="Recolectar una pequeña muestra de escremento del tamaño de una canica NOTA.Sin conservador el frasco"/>
+	<item id="754" n="SARS-COV-2 AG." p="0" c="LAB" o="715"/>
+	<item id="757" n="SARS-COV-2 IGG CUANTIFICADO" p="0" c="LAB" o="1100"/>
+	<item id="764" n="SARS-COV-2 IGG E IGM CUANTIFICADO" p="0" c="LAB" o="1100"/>
+	<item id="864" n="SARS-COV-2 IGG II QUANT" p="0" c="LAB" o="464"/>
+	<item id="753" n="SARS-COV-2 IGG/IGM" p="0" c="LAB" o="1100"/>
+	<item id="477" n="SEDACION DE RM CONTRASTADA" p="0" c="RM" o="7200"/>
+	<item id="476" n="SEDACION DE RM SIMPLE" p="0" c="RM" o="6600"/>
+	<item id="53" n="SENOS PARANASALES" p="0" c="RX" o="715"/>
+	<item id="151" n="SERIE CARDIACA CON TRAGO DE BARIO ADULTO" p="0" c="RX" o="2600"/>
+	<item id="122" n="SERIE ESOFAGO GASTRODUODENAL" p="0" c="RX" o="2650"/>
+	<item id="65" n="SERIE ESOFAGO GASTRODUODENAL" p="0" c="RX" o="2650"/>
+	<item id="330" n="SERIE OSEA" p="0" c="RX" o="2345"/>
+	<item id="405" n="SEROTONINA" p="0" c="LAB" o="1050" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="310" n="SIALOGRAFIA BILATERAL" p="0" c="RX" o="3000"/>
+	<item id="309" n="SIALOGRAFIA UN SOLO LADO" p="0" c="RX" o="2000"/>
+	<item id="52" n="SILLA TURCA AP Y LATERAL" p="0" c="RX" o="615"/>
+	<item id="406" n="SODIO SERICO" p="0" c="LAB" o="105" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="407" n="SODIO URINARIO" p="0" c="LAB" o="105" pr="Orina" i="ORINA 24hr peso y estatura"/>
+	<item id="408" n="SOMATOMEDINA C" p="0" c="LAB" o="910" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="409" n="SOMATOMEDINA IGF BP 3" p="0" c="LAB" o="1000" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="410" n="SUBPOBLACION DE LINFOCITOS" p="0" c="LAB" o="2300" pr="Sangre EDTA" i="ayuno minimo de 5 hrs"/>
+	<item id="420" n="T.P.T." p="0" c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
+	<item id="411" n="T4 YODO" p="0" c="LAB" o="200" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="300" n="TAC  ARTICULACION DE LA CADERA" p="0" c="TAC" o="3060"/>
+	<item id="174" n="TAC ABDOMEN INFERIOR SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="178" n="TAC CODO" p="0" c="TAC" o="3060"/>
+	<item id="190" n="TAC COLUMNA CERVICAL" p="0" c="TAC" o="3060"/>
+	<item id="400" n="TAC COLUMNA CERVICAL CONTRASTADA" p="0" c="TAC" o="4590"/>
+	<item id="265" n="TAC COLUMNA DORSAL SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="379" n="TAC COLUMNA DORSAL SIMPLE Y CONTASTADA" p="0" c="TAC" o="4590"/>
+	<item id="180" n="TAC COLUMNA LUMBAR" p="0" c="TAC" o="3060"/>
+	<item id="266" n="TAC COMPLEMENTARIO.POLIGONO WILLYS" p="0" c="TAC" o="1500"/>
+	<item id="234" n="TAC CONTRASTADA TALLO CEREBRAL (CORTES FINOS)" p="0" c="TAC" o="3000"/>
+	<item id="301" n="TAC CONTRASTADO DE MAXILAR INFERIOR" p="0" c="TAC" o="4500"/>
+	<item id="365" n="TAC CRANEO CONTRASTADA" p="0" c="TAC" o="3060"/>
+	<item id="164" n="TAC CRANEO CONTRASTADO" p="0" c="TAC" o="3060"/>
+	<item id="163" n="TAC CRANEO SIMPLE" p="0" c="TAC" o="2040"/>
+	<item id="192" n="TAC CUELLO CONTRASTADA" p="0" c="TAC" o="4590"/>
+	<item id="171" n="TAC CUELLO SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="293" n="TAC DE  TOBILLO" p="0" c="TAC" o="3060"/>
+	<item id="448" n="TAC DE ABDOMEN + COLOTAC" p="0" c="OTRO" o="5390"/>
+	<item id="195" n="TAC DE ABDOMEN CONTRASTADO" p="0" c="TAC" o="4590"/>
+	<item id="351" n="TAC DE ABDOMEN S-C DE URGENCIA" p="0" c="TAC" o="6000"/>
+	<item id="253" n="TAC DE ABDOMEN SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="369" n="TAC DE ABDOMEN SIMPLE URGENCIAS" p="0" c="TAC" o="4000"/>
+	<item id="329" n="TAC DE AMBOS PIES" p="0" c="TAC" o="3060"/>
+	<item id="295" n="TAC DE ANTEBRAZO CONTRASTADA" p="0" c="TAC" o="4590"/>
+	<item id="296" n="TAC DE ANTEBRAZO SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="243" n="TAC DE BASE DE CRANEO CONTRASTATADA CON REC.3D" p="0" c="TAC" o="3060"/>
+	<item id="478" n="TAC DE CODO CONTRASTADA" p="0" c="TAC" o="4590"/>
+	<item id="307" n="TAC DE COLON (C OLOTAC)" p="0" c="TAC" o="4590"/>
+	<item id="463" n="TAC DE COLUMNA CERVICAL SIMPLE URGENCIAS" p="0" c="TAC" o="7000"/>
+	<item id="385" n="TAC DE COLUMNA LUMBAR URGENCIA" p="0" c="TAC" o="5000"/>
+	<item id="325" n="TAC DE CRANEO 3D CONTRSATADA" p="0" c="TAC" o="3060"/>
+	<item id="199" n="TAC DE CRANEO CONTRASTADO" p="0" c="TAC" o="3060"/>
+	<item id="198" n="TAC DE CRANEO SIMPLE" p="0" c="TAC" o="2040"/>
+	<item id="371" n="TAC DE CRANEO SIMPLE URGENCIAS" p="0" c="TAC" o="5000"/>
+	<item id="373" n="TAC DE CRANEO SIMPLE Y CONTRASTADA DE URGENCIA" p="0" c="TAC" o="5000"/>
+	<item id="173" n="TAC DE CUELLO S/CONTRASTADA" p="0" c="TAC" o="4590"/>
+	<item id="387" n="TAC DE CUELLO SIMPLE URGENCIA" p="0" c="TAC" o="3060"/>
+	<item id="409" n="TAC DE FEMURES SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="291" n="TAC DE HOMBRO CONTRASTADO" p="0" c="TAC" o="4590"/>
+	<item id="322" n="TAC DE HOMBRO SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="447" n="TAC DE MACIZO FACIAL CONTRASTADA" p="0" c="TAC" o="4500"/>
+	<item id="436" n="TAC DE MACIZO FACIAL SIMPLE" p="0" c="TAC" o="3000"/>
+	<item id="469" n="TAC DE MUÑECA SIMPLE FUERA DE HORARIO" p="0" c="TAC" o="3700"/>
+	<item id="323" n="TAC DE MUSLO CONTRASTADA" p="0" c="US" o="4590"/>
+	<item id="269" n="TAC DE OIDO SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="235" n="TAC DE OIDO SIMPLE Y CONTRASTADO" p="0" c="TAC" o="4590"/>
+	<item id="228" n="TAC DE OIDOS SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="194" n="TAC DE PIE" p="0" c="TAC" o="3060"/>
+	<item id="421" n="TAC DE RODILLA S-C" p="0" c="TAC" o="4590"/>
+	<item id="244" n="TAC DE RODILLAS SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="320" n="TAC DE SENOS PARANASALES CONTRASTADA" p="0" c="TAC" o="3060"/>
+	<item id="381" n="TAC DE SPN DE URGENCIA" p="0" c="TAC" o="2550"/>
+	<item id="468" n="TAC DE TIBIA SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="327" n="TAC DE TOBILLOS SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="456" n="TAC DE TORAX S/C URGENCIA" p="0" c="TAC" o="5100"/>
+	<item id="370" n="TAC DE TORAX SIMPLE URGENCIAS" p="0" c="TAC" o="3150"/>
+	<item id="442" n="TAC GLUTEO CONTRASTADA" p="0" c="TAC" o="4500"/>
+	<item id="185" n="TAC HOMBRO SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="221" n="TAC MAXILOFACIAL CONTRASTADA" p="0" c="TAC" o="4500"/>
+	<item id="179" n="TAC MUÑECA" p="0" c="TAC" o="3060"/>
+	<item id="285" n="TAC MUÑECA Y H DEL CARPO REC 3D." p="0" c="TAC" o="3060"/>
+	<item id="263" n="TAC ORBITAS CONTRASTADO." p="0" c="TAC" o="4590"/>
+	<item id="229" n="TAC ORBITAS SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="256" n="TAC PELVIS CONTRATADA" p="0" c="TAC" o="4590"/>
+	<item id="175" n="TAC RIÑONES SIMPLE" p="0" c="TAC" o="3000"/>
+	<item id="177" n="TAC RODILLA" p="0" c="TAC" o="3060"/>
+	<item id="304" n="TAC RODILLAS" p="0" c="TAC" o="3060"/>
+	<item id="169" n="TAC SENOS PARANASALES" p="0" c="TAC" o="2140"/>
+	<item id="168" n="TAC SENOS PARANASALES" p="0" c="TAC" o="2140"/>
+	<item id="224" n="TAC SENOS PÁRANASALES" p="0" c="TAC" o="1940"/>
+	<item id="225" n="TAC SENOS PARANASALES CONTRASTADA" p="0" c="TAC" o="3060"/>
+	<item id="186" n="TAC SILLA TURCA SIMPLE/CONTRASTADO" p="0" c="TAC" o="3570"/>
+	<item id="274" n="TAC SIMPLE Y CONTRASTADO DE BRAZO" p="0" c="TAC" o="4590"/>
+	<item id="210" n="TAC TARSO" p="0" c="TAC" o="3000"/>
+	<item id="166" n="TAC TORAX CONTRASTADO" p="0" c="TAC" o="4590"/>
+	<item id="165" n="TAC TORAX SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="268" n="TAC TORAX SIMPLE VENTANA PULMONAR ALTA RESOLUCION" p="0" c="RM" o="3060"/>
+	<item id="212" n="TAC. COLUMNA LUMBAR CONTRASTADA" p="0" c="TAC" o="4590"/>
+	<item id="209" n="TAC. CRANEO CONTRASTADO,CON ANETESIOLOGO." p="0" c="TAC" o="5500"/>
+	<item id="207" n="TAC. PELVIS" p="0" c="TAC" o="3060"/>
+	<item id="201" n="TALON AP. LAT" p="0" c="RX" o="450"/>
+	<item id="308" n="TALONES AP Y LATERAL DE AMBOS" p="0" c="RX" o="600"/>
+	<item id="412" n="TAMIZ METABOLICO NEONATAL" p="0" c="LAB" o="2950" pr="HACER CITA" i="ayuno"/>
+	<item id="413" n="TEOFILINA" p="0" c="LAB" o="560" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="415" n="TESTOSTERONA LIBRE" p="0" c="LAB" o="500" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="414" n="TESTOSTERONA TOTAL" p="0" c="LAB" o="285" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="563" n="TESTOSTERONA TOTAL Y LIBRE" p="0" c="LAB" o="625"/>
+	<item id="395" n="TIBIAS AP" p="0" c="RX" o="460"/>
+	<item id="416" n="TIEMPO DE COAGULACION (TC)" p="0" c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
+	<item id="418" n="TIEMPO DE PROTROMBINA (TP)" p="0" c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
+	<item id="417" n="TIEMPO DE SANGRADO (TS)" p="0" c="LAB" o="95" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
+	<item id="419" n="TIEMPO DE TROMBINA (TT)" p="0" c="LAB" o="140" pr="Plasma citrato" i="ayuno minimo 2hrs"/>
+	<item id="283" n="TINCION DE GRAM" p="0" c="LAB" o="100" pr="Frotis" i="sin aseo"/>
+	<item id="421" n="TIROGLOBULINA" p="0" c="LAB" o="555" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="422" n="TIROXINA LIBRE (T\4\L\I\B\R\E)" p="0" c="LAB" o="336" pr="Suero" i="ayuno 2 hr minimo"/>
+	<item id="423" n="TIROXINA NEONATAL (T4 NEONATAL)" p="0" c="LAB" o="336" pr="Papel tamiz gto" i="ayuno minimo de 2 hrs"/>
+	<item id="424" n="TIROXINA TOTAL (T\4\T\O\T\A\L)" p="0" c="LAB" o="336" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="110" n="TOBILLO AP LATERAL OBLICUA" p="0" c="RX" o="460"/>
+	<item id="100" n="TOBILLO AP. Y LAT" p="0" c="RX" o="460"/>
+	<item id="54" n="TOBILLOS AP" p="0" c="RX" o="460"/>
+	<item id="262" n="TOBILLOS COMPARATIVA.RX." p="0" c="RX" o="765"/>
+	<item id="761" n="TOMA A DOMICILIO" p="0" c="LAB" o="1000"/>
+	<item id="766" n="TOMA A DOMICILIO (COSTO ESPECIAL)" p="0" c="LAB" o="400"/>
+	<item id="763" n="TOMA DOMICILIO" p="0" c="LAB" o="300"/>
+	<item id="57" n="TORAX OSEO AP" p="0" c="RX" o="460"/>
+	<item id="56" n="TORAX P.A" p="0" c="RX" o="460"/>
+	<item id="68" n="TORAX PA . Y LATERAL" p="0" c="RX" o="765"/>
+	<item id="59" n="TORAX PA NIÑO" p="0" c="RX" o="460"/>
+	<item id="60" n="TORAX PA Y LATERAL NIÑO" p="0" c="RX" o="612"/>
+	<item id="58" n="TOWNE" p="0" c="RX" o="450"/>
+	<item id="426" n="TRANS GLUT OXALACETICA (TGO)" p="0" c="LAB" o="115" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="427" n="TRANS GLUT PIRUVICA (TGP)" p="0" c="LAB" o="115" pr="Suero" i="ayuno minimo 5 hrs"/>
+	<item id="425" n="TRANSFERRINA" p="0" c="LAB" o="260" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="71" n="TRANSITO INTESTINAL" p="0" c="RX" o="3060"/>
+	<item id="428" n="TRIGLICERIDOS" p="0" c="LAB" o="98" pr="Suero" i="ayuno de 12hrs cena libre de grasas"/>
+	<item id="509" n="TRIPTASA" p="0" c="LAB" o="4269"/>
+	<item id="429" n="TRIYODOTIRONINA LIBRE (T\3\L\I\B\R\E)" p="0" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="430" n="TRIYODOTIRONINA TOTAL  (T\3\T\O\T\A\L)" p="0" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hr"/>
+	<item id="691" n="TROPONINA I" p="0" c="LAB" o="2204" pr="SUERO" i="AYUNO DE 6 HRS"/>
+	<item id="431" n="T-UPTAKE (TU)" p="0" c="LAB" o="335" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="319" n="U. S MUSCULOESQUELETICO" p="0" c="US" o="805"/>
+	<item id="111" n="U.S    DOPPLER ARTERIAL (UNA EXTREMIDAD)." p="0" c="US" o="1840"/>
+	<item id="238" n="U.S ABDOMEN CON PRUEBA BOYDEN." p="0" c="US" o="805"/>
+	<item id="78" n="U.S ABDOMINAL" p="0" c="US" o="805"/>
+	<item id="445" n="U.S AMBOS TOBILLOS" p="0" c="US" o="1610"/>
+	<item id="188" n="U.S DOPPLER ARTERIAL" p="0" c="US" o="1840"/>
+	<item id="137" n="U.S DOPPLER CAROTIDEO BILATERAL" p="0" c="US" o="1840"/>
+	<item id="116" n="U.S DOPPLER CAROTIDEO." p="0" c="US" o="1840"/>
+	<item id="115" n="U.S DOPPLER RENAL" p="0" c="US" o="1840"/>
+	<item id="94" n="U.S ENDOVAGINAL" p="0" c="US" o="805"/>
+	<item id="226" n="U.S ESCROTAL DOPPLER" p="0" c="US" o="920"/>
+	<item id="297" n="U.S INGUINAL" p="0" c="US" o="805"/>
+	<item id="84" n="U.S MAMARIO" p="0" c="US" o="805"/>
+	<item id="106" n="U.S MAMARIO" p="0" c="US" o="805"/>
+	<item id="298" n="U.S MUSCULOESQUELÉTICO DE AMBOS HOMBROS" p="0" c="US" o="1610"/>
+	<item id="89" n="U.S MUSCULOESQUELETICO DE HOMBRO" p="0" c="US" o="805"/>
+	<item id="187" n="U.S MUSCULOESQUELETICO DE MUÑECA" p="0" c="US" o="805"/>
+	<item id="109" n="U.S MUSCULOESQUELETICO DE RODILLA" p="0" c="US" o="805"/>
+	<item id="135" n="U.S MUSCULOESQUELETICO DE TOBILLO" p="0" c="US" o="805"/>
+	<item id="81" n="U.S OBSTETRICO" p="0" c="US" o="805"/>
+	<item id="120" n="U.S OBSTETRICO" p="0" c="US" o="805"/>
+	<item id="318" n="U.S OCULAR" p="0" c="US" o="805"/>
+	<item id="86" n="U.S PARTES  PEQUEÑAS" p="0" c="US" o="805"/>
+	<item id="85" n="U.S PARTES BLANDAS" p="0" c="US" o="805"/>
+	<item id="136" n="U.S PELVICO ENDOVAGINAL" p="0" c="US" o="805"/>
+	<item id="133" n="U.S PELVICO GINECOLOGICO" p="0" c="US" o="805"/>
+	<item id="92" n="U.S PROSTATICO" p="0" c="US" o="805"/>
+	<item id="220" n="U.S PROSTATICO TRANSRECTAL" p="0" c="US" o="805"/>
+	<item id="314" n="U.S RENAL" p="0" c="US" o="805"/>
+	<item id="87" n="U.S TESTICULAR" p="0" c="US" o="805"/>
+	<item id="90" n="U.S TIROIDES" p="0" c="US" o="805"/>
+	<item id="324" n="U.S.  OJO ( 1 OJO )" p="0" c="US" o="805"/>
+	<item id="429" n="U.S. CODO" p="0" c="US" o="805"/>
+	<item id="131" n="U.S. VESICAL" p="0" c="US" o="805"/>
+	<item id="144" n="U.S.PELVICO" p="0" c="US" o="805"/>
+	<item id="398" n="ULTRASONIDO DE OJO" p="0" c="US" o="790"/>
+	<item id="284" n="ULTRASONIDO DOPPLER DE PENE" p="0" c="US" o="1680"/>
+	<item id="277" n="ULTRASONIDO-BIOPSIA TRUCUT." p="0" c="US" o="4080"/>
+	<item id="432" n="UREA EN ORINA DE 24 HRS" p="0" c="LAB" o="81" pr="Orina" i="Recolectar toda la Orina de  24hrs y tomar peso y estatura"/>
+	<item id="433" n="UREA SERICA" p="0" c="LAB" o="98" pr="Suero" i="ayuno 5 hrs minimo"/>
+	<item id="72" n="URETROGRAFIA RETOGRADA  ADULTO" p="0" c="RX" o="2400"/>
+	<item id="73" n="URETROGRAFIA RETOGRADA  NIÑO  ESTUDIO ESPECIAL" p="0" c="RX" o="2400"/>
+	<item id="143" n="UROGRAFIA EXCRETORA" p="0" c="RX" o="2345"/>
+	<item id="283" n="UROGRAFIA EXCRETORA NIÑO" p="0" c="RX" o="2345"/>
+	<item id="384" n="UROTAC CONTRASTADA URGENCIAS" p="0" c="TAC" o="5100"/>
+	<item id="176" n="UROTAC CONTRASTADO" p="0" c="TAC" o="4590"/>
+	<item id="251" n="UROTAC SIMPLE" p="0" c="TAC" o="3060"/>
+	<item id="376" n="UROTAC SIMPLE DE URGENCIAS" p="0" c="TAC" o="6000"/>
+	<item id="450" n="US AMBOS PIES" p="0" c="US" o="1610"/>
+	<item id="392" n="US CADERA BEBE" p="0" c="US" o="805"/>
+	<item id="451" n="US DE AMBOS CODOS" p="0" c="US" o="1610"/>
+	<item id="408" n="US DE CADERA" p="0" c="US" o="805"/>
+	<item id="415" n="US DOPPLER ARTERIAL 1 MIEMBRO" p="0" c="US" o="1840"/>
+	<item id="479" n="US DOPPLER ARTERIAL DE AMBOS MIEMBROS INF" p="0" c="OTRO" o="3680"/>
+	<item id="316" n="US DOPPLER HEPATICO" p="0" c="US" o="1840"/>
+	<item id="257" n="US DOPPLER VENOSO AMBOS MS.IS." p="0" c="US" o="3680"/>
+	<item id="264" n="US DOPPLER VENOSO DE 1 MIEMBRO." p="0" c="US" o="1840"/>
+	<item id="416" n="US DOPPLER VENOSO MIEMBRO SUPERIOR" p="0" c="US" o="1840"/>
+	<item id="328" n="US ENDOANAL" p="0" c="US" o="805"/>
+	<item id="247" n="US MAMARIO UNILATERAL" p="0" c="US" o="805"/>
+	<item id="290" n="US MUSCULOESQUELETICO AMBAS CADERAS." p="0" c="US" o="1610"/>
+	<item id="240" n="US MUSCULOESQUELETICO AMBAS MUÑECAS" p="0" c="US" o="1610"/>
+	<item id="252" n="US MUSCULOESQUELETICO AMBAS RODILLAS" p="0" c="US" o="1610"/>
+	<item id="118" n="US PROSTATICO" p="0" c="US" o="805"/>
+	<item id="233" n="US TESTICULAR DOPPLER" p="0" c="US" o="920"/>
+	<item id="273" n="US TRANSFONTANELAR" p="0" c="US" o="805"/>
+	<item id="435" n="VANCOMICINA" p="0" c="LAB" o="1820" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="436" n="VASOPRESINA (HORMONA ANTIDIURÈTICA)" p="0" c="LAB" o="3422" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="434" n="VDRL" p="0" c="LAB" o="205" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="437" n="VELOCIDAD DE SEDIMENTACION (VSG)" p="0" c="LAB" o="95" pr="Sangre EDTA" i="ayuno no requerido"/>
+	<item id="438" n="VIRUS DE LA INFLUENZA DETECCION DE" p="0" c="LAB" o="7000" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="439" n="VITAMINA A" p="0" c="LAB" o="3178" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="440" n="VITAMINA B1 TIAMINA" p="0" c="LAB" o="2160" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="441" n="VITAMINA B12" p="0" c="LAB" o="972" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="508" n="VITAMINA B-6" p="0" c="LAB" o="2384"/>
+	<item id="995" n="VITAMINA C" p="0" c="LAB" o="3254" pr="Suero" i="Suspender vitaminicos 24 hrs antes y alcohol"/>
+	<item id="780" n="VITAMINA D (25 OH CALCITROL)" p="0" c="LAB" o="6017"/>
+	<item id="442" n="VITAMINA D (25DIHIDROXI-COLECALCIFEROL)" p="0" c="LAB" o="1585" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="4" n="VPH" p="0" c="ZSERV" o="550"/>
+	<item id="443" n="WALLER ROSE" p="0" c="LAB" o="300" pr="Suero" i="ayuno minimo de 5 hrs"/>
+	<item id="61" n="WATERS" p="0" c="RX" o="460"/>
+	<item id="444" n="WESTERN BLOT HIV 1" p="0" c="LAB" o="4282" pr="Suero" i="ayuno minimo 8hrs"/>
+	<item id="445" n="YODO BUTANOLICO (IB)" p="0" c="LAB" o="140" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="446" n="YODO PROTEICO (IP)" p="0" c="LAB" o="200" pr="Suero" i="ayuno minimo 2hrs"/>
+	<item id="446" n="YODO PROTEICO (IP)" p="0" c="LAB" o="200" pr="suero" i="en ayuno de 8 hrs"/>
+	<item id="447" n="ZINC" p="0" c="LAB" o="1025" pr="Suero" i="ayuno minimo 5hrs"/>
+	<item id="448" n="ZINC EN ORINA" p="0" c="LAB" o="830" pr="Orina" i="Recolectar toda la Orina de 24hrs y tomar peso y estatura"/>
 </estudios>
