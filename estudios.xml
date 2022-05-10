@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <estudios>
-	<item id="6" p="0.1" c="LAB" o="390"/>
+	<item id="6" c="LAB" o="390"/>
 	<item id="119" n="." c="RX" o="690"/>
 	<item id="155" n="." c="RX" o="390"/>
 	<item id="138" n="." c="RX" o="1200"/>
@@ -295,8 +295,8 @@
 	<item id="175" n="CICLOSPORINA" c="LAB" o="1400" pr="SANGRE EDTA" i="AYUNO 5hrs"/>
 	<item id="501" n="CINETICA DE HIERRO" c="LAB" o="735"/>
 	<item id="688" n="CISTATINA C" c="LAB" o="1088"/>
+	<item id="74" n="CISTOGRAFIA" c="OTRO" o="2550"/>
 	<item id="64" n="CISTOGRAFIA  ADULTO" c="RX" o="2550"/>
-	<item id="74" n="CISTOGRAFIA  NIÑO  ESTUDIO ESPECIAL" c="RX" o="2550"/>
 	<item id="699" n="CITOLOGIA EN MOCO NASAL" c="LAB" o="105" pr="Isopado nasal" i="Sin aseo nasal (Sin tomar antibioticos 5 dias antes)"/>
 	<item id="176" n="CITOLOGIA MOCO FECAL" c="LAB" o="105" pr="HECES" i="HECES EN SECO"/>
 	<item id="1" n="CITOLOGIA TOMADA AQUI" c="ZSERV" o="450"/>
@@ -306,9 +306,9 @@
 	<item id="518" n="CITOQUIMICO DE LIQUIDO SINOVIAL" c="LAB" o="730"/>
 	<item id="750" n="CITRATOS EN ORINA DE 24 HRS." c="LAB" o="870" pr="Orina de 24 Hrs."/>
 	<item id="177" n="CLONAZEPAN EN SUERO" c="LAB" o="1170" pr="Suero" i="AYUNO 5HRS"/>
-	<item id="178" n="CLORO EN ORINA" c="LAB" o="150" pr="Orina" i="recolectar la ORINA de 24hr"/>
+	<item id="178" n="CLORO EN ORINA" c="LAB" o="150" d="Descripción" pr="Orina" k="especial otros" i="recolectar la ORINA de 24hr"/>
 	<item id="179" n="CLORO SÉRICO" c="LAB" o="150" pr="Suero" i="Ayuno minimo 5hrs"/>
-	<item id="593" n="CLOSTRIDIUM DIFFICILE TOXINA A Y B" c="LAB" o="2125" d="Descripción" k="especial otros"/>
+	<item id="593" n="CLOSTRIDIUM DIFFICILE TOXINA A Y B" c="LAB" o="2125"/>
 	<item id="180" n="CO2 TOTAL" c="LAB" o="125" pr="Suero" i="AYUNO minimo 5hrs"/>
 	<item id="181" n="COBRE EN ORINA" c="LAB" o="915" pr="ORINA" i="recolectar la ORINA de 24hr"/>
 	<item id="182" n="COBRE SERICO" c="LAB" o="1020" pr="Suero" i="Ayuno minimo 5hrs"/>
