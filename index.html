@@ -85,41 +85,36 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                            <!--<ul class="navbar-nav mb-2 mb-lg-0 ms-md-auto">-->
-                                <!--<li class="nav-item disabled" style="cursor: not-allowed;">
-                                    <a class="nav-link disabled" href="#">COVID 19</a>
-                                </li>-->
-                                <!--<li class="nav-item disabled" style="cursor: not-allowed;">
-                                    <a class="nav-link disabled" href="#">Resultados</a>
-                                </li>
-                                <li class="nav-item disabled" style="cursor: not-allowed;">
-                                    <a class="nav-link disabled" href="#">Facturación</a>
-                                </li>
-                                <li class="nav-item disabled" style="cursor: not-allowed;">
-                                    <a class="nav-link disabled" href="#">Sucursales</a>
-                                </li>
-                                <li class="nav-item disabled" style="cursor: not-allowed;">
-                                    <a class="nav-link disabled" href="#">
-                                        Estudios
-                                    </a>
-                                </li>
-                                <li class="nav-item disabled" style="cursor: not-allowed;">
-                                    <a class="nav-link disabled" href="#">Promociones</a>
-                                </li>
-                            </ul>
-                            <div class="col-md-3 text-end ms-4">
-                                <form class="d-flex" id="estudios_buscador">
-                                    <input class="form-control me-2" readonly="" type="search" placeholder="Buscar estudio..." aria-label="Buscar estudio..." style="cursor: not-allowed;">
-                                    <button class="btn btn-primary d-flex disabled" type="submit" style="cursor: not-allowed;">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search mt-1" viewBox="0 0 16 16">
-                                            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
-                                        </svg>
-                                        <span class="ms-2">
-                                            Buscar
-                                        </span>
-                                    </button>
-                                </form>
-                            </div>-->
+                             <ul class="navbar-nav mb-2 mb-lg-0 ms-md-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://centrodiagnosticoslp.xystems.com.mx">Resultados Laboratorio</a>
+                            </li>
+                            <li id="estudios_dropdown" class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Estudios
+                                </a>
+                                <ul id="estudios_dropdown" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <li>
+                                        <a class="dropdown-item" href="estudios.html">Ver todos los estudios</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Promociones</a>
+                            </li>
+                        </ul>
+                        <div class="col-md-3 text-end ms-4">
+                            <form class="d-flex" id="estudios_buscador">
+                                <input class="form-control me-2" type="search" placeholder="Buscar estudio..." aria-label="Buscar estudio..." oninput="xo.stores['#estudios'].documentElement.set('state:search',this.value)">
+                                <button class="btn btn-primary d-flex" type="submit">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search mt-1" viewBox="0 0 16 16">
+                                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                                    </svg>
+                                    <span class="ms-2">
+                                        Buscar
+                                    </span>
+                                </button>
+                            </form>
                         </div>
                     </div>
                 </div>
