@@ -10,6 +10,7 @@ exclude-result-prefixes="#default"
 	   indent="yes"/>
 
 	<xsl:key name="active" match="estudios/item[@xo:id=/*/@state:active]" use="'*'"/>
+	<xsl:key name="active" match="estudios[not(@state:active)]" use="'*'"/>
 
 	<xsl:template match="text()"/>
 
@@ -21,9 +22,11 @@ exclude-result-prefixes="#default"
 		</div>
 	</xsl:template>
 
-	<xsl:template match="estudios/item"/>
+	<xsl:template match="estudios">
+		<a href="#estudios">Regresar a estudios</a>
+	</xsl:template>
 
-	<xsl:template match="key('active','*')">
+	<xsl:template match="estudios/item">
 		<xsl:variable name="original_price" select="@o"/>
 		<xsl:variable name="final_price" select="@o * (1-@p)"/>
 		<section id="features" class="product-item-details">
@@ -51,9 +54,11 @@ exclude-result-prefixes="#default"
 					</div>
 					<div class="col-lg-6">
 						<div class="price mb-4">
+							<xsl:if test="$original_price!=$final_price">
 							<del class="text-danger" style="display: inline-flex; margin-left: auto">
 								<xsl:value-of select="format-number($original_price,'$,###.00')"/>
 							</del>
+							</xsl:if>
 							<span class="value-price fw-bold">
 								<xsl:value-of select="format-number($final_price,'$,###.00')"/>
 							</span>
