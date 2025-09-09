@@ -9,7 +9,7 @@ exclude-result-prefixes="#default"
 	   omit-xml-declaration="yes"
 	   indent="yes"/>
 
-	<xsl:key name="active" match="estudios/item[@xo:id=/*/@state:active]" use="'*'"/>
+	<xsl:key name="active" match="estudios/item[@state:active]" use="'*'"/>
 	<xsl:key name="active" match="estudios[not(@state:active)]" use="'*'"/>
 
 	<xsl:template match="text()"/>
@@ -55,9 +55,9 @@ exclude-result-prefixes="#default"
 					<div class="col-lg-6">
 						<div class="price mb-4">
 							<xsl:if test="$original_price!=$final_price">
-							<del class="text-danger" style="display: inline-flex; margin-left: auto">
-								<xsl:value-of select="format-number($original_price,'$,###.00')"/>
-							</del>
+								<del class="text-danger" style="display: inline-flex; margin-left: auto">
+									<xsl:value-of select="format-number($original_price,'$,###.00')"/>
+								</del>
 							</xsl:if>
 							<span class="value-price fw-bold">
 								<xsl:value-of select="format-number($final_price,'$,###.00')"/>

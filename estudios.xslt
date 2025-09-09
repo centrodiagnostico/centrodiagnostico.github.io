@@ -217,7 +217,7 @@ exclude-result-prefixes="#default"
 	<xsl:template match="estudios/item[key('search',@xo:id)]">
 		<xsl:variable name="original_price" select="@o"/>
 		<xsl:variable name="final_price" select="@o * (1-@p)"/>
-		<div class="col-sm-6 col-md-4 mb-5" xo-scope="{../@xo:id}">
+		<div class="col-sm-6 col-md-4 mb-5">
 			<!--<div class="card">
 				<div class="content">
 					<div class="details">
@@ -280,7 +280,7 @@ exclude-result-prefixes="#default"
 						<xsl:value-of select="format-number($final_price,'$,###.00')"/>
 					</span>
 				</div>
-				<div class="card-more" onclick="scope.set('{@xo:id}')" xo-attribute="state:active">
+				<div class="card-more" onclick="scope.set('{@xo:id}')" xo-slot="state:active">
 					<a href="#mostrar_estudio" class="btn btn-primary w-75" style="border-radius: 12px;">Ver estudio</a>
 				</div>
 			</div>

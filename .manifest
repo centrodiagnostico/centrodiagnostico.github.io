@@ -5,8 +5,19 @@
   "sources": {
     "#": "#estudios",
     "#estudios": "estudios.xml",
-    "#mostrar_estudio": "#estudios"
+    "#mostrar_estudio": "#estudios",
+    "#ws": {
+      "xover.socket.connect": [
+        "ws://localhost:8003",
+        {
+          "message": "#messages",
+          "hotreload": "event:hotreload",
+          "databaseChange": "event:databaseChange"
+        }
+      ]
+    }
   },
+  "start": ["#ws"],
   "settings": {
     "#shell": {
       "hash": ""
@@ -16,18 +27,16 @@
       "stylesheets": [
         {
           "href": "estudios.xslt",
-          "target": "#features",
+          "target": "main",
           "action": "replace"
         },
         {
           "href": "estudios_buscador.xslt",
-          "target": "#estudios_buscador",
-          "action": "replace"
+          "target": "#estudios_buscador"
         },
         {
           "href": "estudios_dropdown.xslt",
-          "target": "#estudios_dropdown",
-          "action": "replace"
+          "target": "#estudios_dropdown"
         }
       ]
     },
@@ -36,7 +45,8 @@
       "stylesheets": [
         {
           "href": "mostrar_estudio.xslt",
-          "target": "main"
+          "target": "main",
+          "action": "replace"
         }
       ]
     }

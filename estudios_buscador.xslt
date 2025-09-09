@@ -14,7 +14,7 @@ exclude-result-prefixes="#default"
 	<xsl:template match="text()"/>
 
 	<xsl:template match="/*">
-		<form class="d-flex" id="buscador">
+		<form class="d-flex" id="estudios_buscador">
 			<input class="form-control me-2" type="search" placeholder="Buscar estudio..." aria-label="Buscar..." oninput="xo.stores['#estudios'].documentElement.set('state:search',this.value)" value="{@state:search}"/>
 			<button class="btn btn-primary d-flex" type="submit">
 				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search mt-1" viewBox="0 0 16 16">
