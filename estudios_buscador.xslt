@@ -15,7 +15,7 @@ exclude-result-prefixes="#default"
 	<xsl:template match="text()"/>
 	<xsl:param name="searchParams:search"></xsl:param>
 	<xsl:template match="/*">
-		<form class="d-flex" id="estudios_buscador" action="estudios.html?search={$searchParams:search}#estudios" target="_self" >
+		<form class="d-flex" id="estudios_buscador" action="estudios.html?search={$searchParams:search}#estudios" target="_self"  onsubmit="buscarEstudio">
 			<input class="form-control me-2" name="search" type="search" placeholder="Buscar estudio..." aria-label="Buscar..." oninput="xo.site.searchParams.set('search', this.value)" value="{$searchParams:search}"/>
 			<button class="btn btn-primary d-flex" type="submit">
 				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search mt-1" viewBox="0 0 16 16">
