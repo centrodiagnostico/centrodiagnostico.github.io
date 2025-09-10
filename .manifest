@@ -5,7 +5,7 @@
   "sources": {
     "#": "#estudios",
     "#estudios": "estudios.xml",
-    "#mostrar_estudio": "#estudios",
+    "#mostrar_estudio": "estudios.xml",
     "#ws": {
       "xover.socket.connect": [
         "ws://localhost:8003",
