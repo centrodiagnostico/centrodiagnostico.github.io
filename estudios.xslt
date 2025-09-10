@@ -3,6 +3,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 xmlns="http://www.w3.org/1999/xhtml"
 xmlns:state="http://panax.io/state"
 xmlns:search="http://panax.io/search"
+xmlns:searchParams="http://panax.io/site/searchParams"
 xmlns:xo="http://panax.io/xover"
 exclude-result-prefixes="#default"
 >
@@ -10,16 +11,16 @@ exclude-result-prefixes="#default"
 	   omit-xml-declaration="yes"
 	   indent="yes"/>
 
-	<xsl:key name="search" match="estudios[string(@state:search)!='']/item[contains(
+	<xsl:key name="search" match="estudios[string(@searchParams:search)!='']/item[contains(
 			  translate(@n
 			 ,'abcdefghijklmnopqrstuvwxyzáéíóúñABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑ ()-*/'
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
-			 ,translate(/*/@state:search
+			 ,translate(/*/@searchParams:search
 			 ,'abcdefghijklmnopqrstuvwxyzáéíóúñABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑ ()-*/'
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
 			 )]" use="@xo:id"/>
 
-	<xsl:key name="search" match="estudios[string(@state:search)!='']/item[contains(
+	<xsl:key name="search" match="estudios[string(@searchParams:search)!='']/item[contains(
 			  translate(@n
 			 ,'abcdefghijklmnopqrstuvwxyzáéíóúñABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑ'
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
@@ -28,7 +29,7 @@ exclude-result-prefixes="#default"
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
 			 )
 			 and contains(
-			  translate(/*/@state:search
+			  translate(/*/@searchParams:search
 			 ,'abcdefghijklmnopqrstuvwxyzáéíóúñABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑ'
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
 			 ,translate('rayos'
@@ -37,7 +38,7 @@ exclude-result-prefixes="#default"
 			 )
 			 ]" use="@xo:id"/>
 
-	<xsl:key name="search" match="estudios[string(@state:search)!='']/item[contains(
+	<xsl:key name="search" match="estudios[string(@searchParams:search)!='']/item[contains(
 			  translate(@n
 			 ,'abcdefghijklmnopqrstuvwxyzáéíóúñABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑ'
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
@@ -46,7 +47,7 @@ exclude-result-prefixes="#default"
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
 			 )
 			 and contains(
-			  translate(/*/@state:search
+			  translate(/*/@searchParams:search
 			 ,'abcdefghijklmnopqrstuvwxyzáéíóúñABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑ'
 			 ,'ABCDEFGHIJKLMNOPQRSTUVWXISAEIOUNABCDEFGHIJKLMNOPQRSTUVWXISAEIOUN')
 			 ,translate('rx'
@@ -55,9 +56,10 @@ exclude-result-prefixes="#default"
 			 )
 			 ]" use="@xo:id"/>
 
-	<xsl:key name="search" match="estudios[string(@state:search)='']/item[@c=../@search:categoria]" use="@xo:id"/>
-	<xsl:key name="search" match="estudios[string(@state:search)='' and string(@search:categoria)='']/item" use="@xo:id"/>
+	<xsl:key name="search" match="estudios[string(@searchParams:search)='']/item[@c=../@search:categoria]" use="@xo:id"/>
+	<xsl:key name="search" match="estudios[string(@searchParams:search)='' and string(@search:categoria)='']/item" use="@xo:id"/>
 
+	<xsl:param name="searchParams:search"></xsl:param>
 	<xsl:template match="text()"/>
 
 	<xsl:template match="/">
@@ -193,7 +195,8 @@ exclude-result-prefixes="#default"
 				<div class="row">
 					<div class="col" data-aos="fade-right">
 						<div class="mt-1">
-							<h4>Estudios de laboratorio</h4>
+							<h4>Estudios de laboratorio
+						</h4>
 							<p>El diagnóstico temprano aumenta la posibilidad de que el paciente viva con el virus de forma saludable por muchos años.</p>
 						</div>
 					</div>
